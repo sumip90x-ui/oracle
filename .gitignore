@@ -1,0 +1,9 @@
+cache/
+sims/
+voice/*.onnx
+portfolio_csv/
+*.pyc
+__pycache__/
+.env
+*.log
+*.tmp

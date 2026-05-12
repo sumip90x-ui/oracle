@@ -1,0 +1,2069 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ORACLE Dashboard</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:       #0d1117;
+    --bg2:      #161b22;
+    --bg3:      #1c2128;
+    --border:   #30363d;
+    --teal:     #00d4aa;
+    --teal2:    #00a884;
+    --blue:     #4488ff;
+    --red:      #ff4444;
+    --yellow:   #ffcc44;
+    --orange:   #ff8844;
+    --text:     #e6edf3;
+    --muted:    #8b949e;
+    --sidebar:  250px;
+    --rside:    300px;
+  }
+
+  html, body { height: 100%; overflow: hidden; background: var(--bg); color: var(--text);
+    font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', monospace; font-size: 13px; }
+
+  /* ── Layout ───────────────────────────────────────────────── */
+  #app { display: flex; height: 100vh; }
+
+  #left-sidebar {
+    width: var(--sidebar); min-width: var(--sidebar);
+    background: var(--bg2); border-right: 1px solid var(--border);
+    display: flex; flex-direction: column; overflow: hidden;
+  }
+
+  #center { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+
+  #right-sidebar {
+    width: var(--rside); min-width: var(--rside);
+    background: var(--bg2); border-left: 1px solid var(--border);
+    display: flex; flex-direction: column; overflow: hidden;
+  }
+
+  /* ── Graph area ───────────────────────────────────────────── */
+  #graph-container { flex: 6; position: relative; background: var(--bg); border-bottom: 1px solid var(--border); min-height: 0; }
+  #graph-canvas    { width: 100%; height: 100%; min-height: 420px; position: absolute; top: 0; left: 0; right: 0; bottom: 0; }
+  #graph-overlay   { position: absolute; top: 8px; right: 8px; display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+
+  /* ── Round viewer ─────────────────────────────────────────── */
+  #round-viewer { flex: 4; display: flex; flex-direction: column; overflow: hidden; }
+  #round-tabs   { display: flex; background: var(--bg2); border-bottom: 1px solid var(--border);
+    overflow-x: auto; flex-shrink: 0; }
+  #round-content { flex: 1; overflow-y: auto; padding: 12px; }
+
+  /* ── Live feed (replaces round-content during live sim) ───── */
+  #live-feed {
+    display: none; flex: 1; overflow-y: auto; padding: 8px 12px;
+    scroll-behavior: smooth;
+  }
+  #live-feed.active { display: block; }
+
+  .typing-card {
+    background: var(--bg2); border: 1px solid var(--border); border-radius: 4px;
+    margin-bottom: 8px; overflow: hidden;
+  }
+  .typing-card .agent-card-header {
+    display: flex; align-items: center; gap: 8px; padding: 7px 10px;
+    background: var(--bg3); border-bottom: 1px solid var(--border);
+  }
+  .typing-dots { display: inline-flex; gap: 3px; margin-left: 6px; }
+  .typing-dots span {
+    width: 5px; height: 5px; border-radius: 50%; background: var(--muted);
+    animation: typingPulse 1.2s infinite;
+  }
+  .typing-dots span:nth-child(2) { animation-delay: 0.2s; }
+  .typing-dots span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes typingPulse { 0%,80%,100% { opacity: 0.3; } 40% { opacity: 1; } }
+
+  .live-post-text { padding: 8px 10px; font-size: 11px; line-height: 1.55; color: var(--text);
+    white-space: pre-wrap; word-break: break-word; }
+
+  /* round header in feed */
+  .round-header-card {
+    background: rgba(0,212,170,.06); border: 1px solid rgba(0,212,170,.2);
+    border-radius: 4px; margin-bottom: 10px; padding: 6px 12px;
+    font-size: 11px; font-weight: 700; color: var(--teal); letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  /* ── Director overlay ─────────────────────────────────────── */
+  #director-overlay {
+    display: none; position: fixed; top: 0; left: 0; right: 0; z-index: 500;
+    background: rgba(13,17,23,.95); border-bottom: 2px solid var(--yellow);
+    padding: 14px 24px; animation: slideDown 0.3s ease-out;
+  }
+  #director-overlay.show { display: block; }
+  #director-overlay .dir-label {
+    font-size: 10px; color: var(--yellow); font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 6px;
+  }
+  #director-overlay .dir-text { font-size: 12px; color: var(--text); line-height: 1.5; }
+  @keyframes slideDown { from { transform: translateY(-100%); } to { transform: translateY(0); } }
+
+  /* screen flash */
+  body.screen-flash { animation: flashBorder 0.5s ease-out; }
+  @keyframes flashBorder {
+    0%  { outline: 2px solid var(--yellow); }
+    100%{ outline: 2px solid transparent; }
+  }
+
+  /* ── Live round tab states ────────────────────────────────── */
+  .round-tab.live-active { color: var(--yellow); border-bottom: 2px solid var(--yellow);
+    background: rgba(255,204,68,.08); animation: tabPulse 1.5s infinite; }
+  .round-tab.live-active::before { content: '●'; margin-right: 4px; color: var(--yellow);
+    display: inline-block; animation: tabPulse 1.5s infinite; }
+
+  /* ── Round status bar ─────────────────────────────────────── */
+  #round-status {
+    padding: 4px 12px 5px; font-size: 10px; color: var(--yellow);
+    background: rgba(255,204,68,.05); border-bottom: 1px solid var(--border);
+    letter-spacing: 0.04em; display: none; flex-shrink: 0;
+  }
+  .round-tab.live-done   { color: #238636; border-bottom: 2px solid #238636; }
+  @keyframes tabPulse { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+  /* node pulse on graph during posting */
+  @keyframes nodePulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+  .pulse { animation: pulse 1s infinite; }
+  @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
+
+  /* ── Sidebar panels ───────────────────────────────────────── */
+  .sidebar-header {
+    padding: 12px 14px; border-bottom: 1px solid var(--border);
+    font-weight: 700; font-size: 11px; letter-spacing: 0.08em;
+    color: var(--teal); text-transform: uppercase; flex-shrink: 0;
+  }
+
+  .sidebar-section { border-bottom: 1px solid var(--border); flex-shrink: 0; }
+  .sidebar-label   { padding: 8px 14px 4px; font-size: 10px; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.06em; }
+
+  /* ── Logo ─────────────────────────────────────────────────── */
+  #oracle-logo {
+    padding: 14px; border-bottom: 1px solid var(--border); flex-shrink: 0;
+    background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+  }
+  #oracle-logo h1 { font-size: 18px; font-weight: 900; color: var(--teal);
+    letter-spacing: 0.15em; text-shadow: 0 0 20px rgba(0,212,170,.4); }
+  #oracle-logo p  { font-size: 9px; color: var(--muted); margin-top: 2px; letter-spacing: 0.06em; }
+
+  /* ── Buttons ──────────────────────────────────────────────── */
+  .btn {
+    display: block; width: calc(100% - 28px); margin: 10px 14px;
+    padding: 8px 12px; border: 1px solid var(--teal); background: transparent;
+    color: var(--teal); font-family: inherit; font-size: 12px; font-weight: 700;
+    cursor: pointer; text-align: center; letter-spacing: 0.06em;
+    transition: all .15s;
+  }
+  .btn:hover { background: rgba(0,212,170,.1); }
+  .btn-run   { border-color: var(--teal); color: var(--teal); }
+
+  /* ── Sim list ─────────────────────────────────────────────── */
+  #sim-list { overflow-y: auto; flex: 1; }
+  .sim-item {
+    padding: 8px 14px; cursor: pointer; border-bottom: 1px solid var(--border);
+    transition: background .1s;
+  }
+  .sim-item:hover       { background: var(--bg3); }
+  .sim-item.active      { background: rgba(0,212,170,.08); border-left: 2px solid var(--teal); }
+  .sim-item .run-id     { font-size: 11px; color: var(--teal); font-weight: 600;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 222px; }
+  .sim-item .tickers    { font-size: 10px; color: var(--muted); margin-top: 2px; }
+
+  /* ── Status dot ───────────────────────────────────────────── */
+  #neo4j-status { padding: 8px 14px; display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .dot.green  { background: var(--teal); box-shadow: 0 0 6px var(--teal); }
+  .dot.red    { background: var(--red);  box-shadow: 0 0 6px var(--red); }
+
+  /* ── Query box ─────────────────────────────────────────────── */
+  #query-box {
+    width: calc(100% - 28px); margin: 8px 14px; padding: 6px 8px;
+    background: var(--bg3); border: 1px solid var(--border); color: var(--text);
+    font-family: inherit; font-size: 11px; resize: none;
+  }
+  #query-box:focus { outline: 1px solid var(--teal); }
+
+  /* ── Probability chart panel ──────────────────────────────── */
+  #prob-chart-container { flex: 5; padding: 10px; border-bottom: 1px solid var(--border);
+    position: relative; min-height: 0; }
+  #prob-chart-title { font-size: 10px; color: var(--muted); text-transform: uppercase;
+    letter-spacing: 0.06em; margin-bottom: 6px; }
+  #prob-chart-wrap  { position: relative; height: calc(100% - 20px); }
+
+  /* ── Rankings ─────────────────────────────────────────────── */
+  #rankings-panel { flex: 5; overflow-y: auto; }
+  #rankings-title { padding: 8px 12px 4px; font-size: 10px; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--border); }
+  .rank-row {
+    display: flex; align-items: center; padding: 6px 12px; gap: 8px;
+    border-bottom: 1px solid var(--border); font-size: 11px;
+  }
+  .rank-num  { color: var(--muted); width: 16px; text-align: right; flex-shrink: 0; }
+  .rank-ticker { font-weight: 700; width: 50px; }
+  .rank-score  { color: var(--muted); flex: 1; }
+  .signal-badge {
+    padding: 2px 6px; font-size: 9px; font-weight: 700; border-radius: 2px;
+    letter-spacing: 0.04em;
+  }
+  .sig-STRONG_BUY { background: rgba(0,212,170,.2); color: var(--teal); border: 1px solid var(--teal); }
+  .sig-BUY        { background: rgba(68,136,255,.2); color: var(--blue); border: 1px solid var(--blue); }
+  .sig-HOLD       { background: rgba(255,204,68,.15); color: var(--yellow); border: 1px solid var(--yellow); }
+  .sig-WATCH      { background: rgba(255,136,68,.15); color: var(--orange); border: 1px solid var(--orange); }
+  .sig-PASS       { background: rgba(255,68,68,.15);  color: var(--red); border: 1px solid var(--red); }
+
+  /* ── Round tabs ───────────────────────────────────────────── */
+  .round-tab {
+    padding: 7px 14px; cursor: pointer; font-size: 11px; white-space: nowrap;
+    border-right: 1px solid var(--border); color: var(--muted);
+    transition: all .1s; flex-shrink: 0; border-bottom: 2px solid transparent;
+  }
+  .round-tab:hover  { color: var(--text); background: var(--bg3); }
+  .round-tab.active { color: var(--teal); border-bottom-color: var(--teal); background: var(--bg); }
+
+  /* ── Round content ────────────────────────────────────────── */
+  .injection-banner {
+    background: rgba(255,204,68,.08); border: 1px solid rgba(255,204,68,.3);
+    border-radius: 4px; padding: 10px 12px; margin-bottom: 12px;
+    font-size: 11px; line-height: 1.5; color: var(--yellow);
+  }
+  .injection-title { font-weight: 700; font-size: 10px; text-transform: uppercase;
+    letter-spacing: 0.06em; color: var(--yellow); margin-bottom: 4px; }
+
+  .agent-card {
+    background: var(--bg2); border: 1px solid var(--border); border-radius: 4px;
+    margin-bottom: 8px; overflow: hidden;
+  }
+  .agent-card-header {
+    display: flex; align-items: center; gap: 8px; padding: 7px 10px;
+    background: var(--bg3); border-bottom: 1px solid var(--border);
+  }
+  .agent-name   { font-weight: 700; font-size: 11px; flex: 1; }
+  .conviction-badge {
+    padding: 2px 6px; font-size: 9px; font-weight: 700; border-radius: 2px;
+    background: rgba(0,212,170,.15); color: var(--teal); border: 1px solid rgba(0,212,170,.3);
+  }
+  .round-badge {
+    padding: 2px 5px; font-size: 9px; border-radius: 2px;
+    background: rgba(68,136,255,.15); color: var(--blue); border: 1px solid rgba(68,136,255,.3);
+  }
+  .agent-post  { padding: 8px 10px; font-size: 11px; line-height: 1.55; color: var(--text);
+    white-space: pre-wrap; word-break: break-word; max-height: 200px; overflow-y: auto; }
+  .stance-tags { padding: 4px 10px 7px; display: flex; gap: 5px; flex-wrap: wrap; }
+  .stance-tag  { font-size: 9px; padding: 1px 5px; border-radius: 2px; font-weight: 600; }
+  .stance-bull { background: rgba(0,212,170,.15); color: var(--teal); border: 1px solid rgba(0,212,170,.3); }
+  .stance-bear { background: rgba(255,68,68,.15);  color: var(--red);  border: 1px solid rgba(255,68,68,.3); }
+
+  /* ── Graph legend ─────────────────────────────────────────── */
+  .legend-item { display: flex; align-items: center; gap: 5px; font-size: 10px;
+    padding: 3px 8px; background: rgba(0,0,0,.5); border-radius: 3px; border: 1px solid var(--border); }
+  .legend-dot  { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+  /* ── Modal ────────────────────────────────────────────────── */
+  #modal-overlay {
+    display: none; position: fixed; inset: 0; background: rgba(0,0,0,.75);
+    z-index: 1000; align-items: center; justify-content: center;
+  }
+  #modal-overlay.open { display: flex; }
+  #modal {
+    background: var(--bg2); border: 1px solid var(--teal); border-radius: 6px;
+    width: 480px; max-height: 85vh; overflow-y: auto; padding: 24px;
+    box-shadow: 0 0 40px rgba(0,212,170,.2);
+  }
+  #modal h2 { color: var(--teal); font-size: 16px; margin-bottom: 18px;
+    letter-spacing: 0.08em; }
+  .form-row { margin-bottom: 14px; }
+  .form-row label { display: block; font-size: 10px; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 5px; }
+  .form-row input, .form-row select, .form-row textarea {
+    width: 100%; padding: 8px 10px; background: var(--bg3);
+    border: 1px solid var(--border); color: var(--text);
+    font-family: inherit; font-size: 12px;
+  }
+  .form-row input:focus, .form-row select:focus { outline: 1px solid var(--teal); }
+  .form-row .hint { font-size: 9px; color: var(--muted); margin-top: 4px; }
+  .modal-footer { display: flex; gap: 10px; margin-top: 18px; }
+  .modal-footer button { flex: 1; padding: 9px; font-family: inherit; font-size: 12px;
+    font-weight: 700; cursor: pointer; border: 1px solid; letter-spacing: 0.06em; }
+  #btn-run-sim  { border-color: var(--teal); background: rgba(0,212,170,.1); color: var(--teal); }
+  #btn-cancel   { border-color: var(--border); background: transparent; color: var(--muted); }
+  #modal-status { margin-top: 12px; font-size: 11px; color: var(--teal); display: none; }
+
+  /* ── Progress bar ─────────────────────────────────────────── */
+  #progress-bar { height: 2px; background: var(--border); margin-top: 8px; display: none; }
+  #progress-fill { height: 100%; background: var(--teal); width: 0%;
+    transition: width .4s; animation: pulse-teal 2s infinite; }
+  @keyframes pulse-teal { 0%,100% { opacity: 1; } 50% { opacity: .5; } }
+
+  /* ── Node info panel ──────────────────────────────────────── */
+  #node-info {
+    position: absolute; bottom: 8px; left: 8px; background: var(--bg2);
+    border: 1px solid var(--border); border-radius: 4px; padding: 8px 12px;
+    font-size: 11px; max-width: 260px; display: none; z-index: 10;
+  }
+  #node-info h4 { color: var(--teal); margin-bottom: 4px; }
+  #node-info .prop { display: flex; gap: 8px; margin: 2px 0; }
+  #node-info .prop-k { color: var(--muted); min-width: 80px; }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+
+  /* Range slider */
+  input[type=range] { accent-color: var(--teal); width: 100%; }
+  .slider-label { display: flex; justify-content: space-between; font-size: 10px;
+    color: var(--muted); margin-top: 2px; }
+  input[type=checkbox] { accent-color: var(--teal); }
+
+  .empty-state { padding: 24px; color: var(--muted); text-align: center;
+    font-size: 11px; line-height: 1.8; }
+
+  /* ── Activity Log ──────────────────────────────────────────── */
+  #activity-log {
+    height: 180px;
+    background: #080c10;
+    border-bottom: 1px solid var(--border);
+    overflow-y: auto;
+    padding: 6px 10px;
+    font-size: 11px;
+    flex-shrink: 0;
+    display: none;
+  }
+  #activity-log.active { display: block; }
+  .log-line { line-height: 1.7; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .log-info      { color: #6e7681; }
+  .log-success   { color: var(--teal); }
+  .log-active    { color: var(--yellow); }
+  .log-error     { color: var(--red); }
+  .log-heartbeat { color: #3d4450; font-style: italic; }
+</style>
+</head>
+<body>
+
+<!-- ── Director injection overlay ──────────────────────────────── -->
+<div id="director-overlay">
+  <div class="dir-label">⚡ Director Injection</div>
+  <div class="dir-text" id="director-text"></div>
+</div>
+
+<div id="app">
+
+  <!-- ── LEFT SIDEBAR ──────────────────────────────────────────── -->
+  <aside id="left-sidebar">
+    <div id="oracle-logo">
+      <h1>⬡ ORACLE</h1>
+      <p>Multi-Agent Simulation Dashboard</p>
+    </div>
+
+    <div class="sidebar-section">
+      <button class="btn btn-run" onclick="openModal()">+ New Simulation</button>
+    </div>
+
+    <div id="neo4j-status">
+      <span class="dot red" id="neo4j-dot"></span>
+      <span id="neo4j-text" style="font-size:10px;color:var(--muted)">Neo4j: checking…</span>
+    </div>
+
+    <div class="sidebar-label">Saved Simulations</div>
+    <div id="sim-list">
+      <div class="empty-state">Loading…</div>
+    </div>
+
+    <div class="sidebar-section" style="padding:0">
+      <div class="sidebar-label" style="padding-top:10px">Cypher Query</div>
+      <textarea id="query-box" rows="3"
+        placeholder="MATCH (n {run_id:'...'}) RETURN n LIMIT 50"></textarea>
+      <button class="btn" style="margin-top:0" onclick="runCypherQuery()">Run Query</button>
+      <div style="display:flex;gap:4px;padding:2px 14px 6px;flex-wrap:wrap">
+        <button onclick="setPresetQuery('stances')"
+          style="flex:1;padding:3px 6px;background:transparent;border:1px solid var(--border);color:var(--muted);font-family:inherit;font-size:9px;cursor:pointer;letter-spacing:.03em;white-space:nowrap">
+          Show Stances</button>
+        <button onclick="setPresetQuery('converts')"
+          style="flex:1;padding:3px 6px;background:transparent;border:1px solid var(--border);color:var(--muted);font-family:inherit;font-size:9px;cursor:pointer;letter-spacing:.03em;white-space:nowrap">
+          Show Converts</button>
+        <button onclick="setPresetQuery('stocks')"
+          style="flex:1;padding:3px 6px;background:transparent;border:1px solid var(--border);color:var(--muted);font-family:inherit;font-size:9px;cursor:pointer;letter-spacing:.03em;white-space:nowrap">
+          Show Stocks</button>
+      </div>
+      <div style="padding:6px 14px 10px;font-size:10px;line-height:2;color:var(--muted)">
+        <span style="color:#238636">●</span> STRONG_BUY &nbsp;
+        <span style="color:#1f6feb">●</span> BUY &nbsp;
+        <span style="color:#d29922">●</span> HOLD &nbsp;
+        <span style="color:#e3b341">●</span> WATCH &nbsp;
+        <span style="color:#da3633">●</span> PASS<br>
+        <span style="color:#888">◆</span> Agent &nbsp;
+        <span style="color:#d29922">◯</span> Biotech &nbsp;
+        <span style="color:#1f6feb">◯</span> SaaS &nbsp;
+        <span style="color:#238636">◯</span> Data/AI
+      </div>
+    </div>
+  </aside>
+
+  <!-- ── CENTER PANEL ───────────────────────────────────────────── -->
+  <main id="center">
+
+    <!-- Graph -->
+    <div id="graph-container">
+      <div id="graph-canvas"></div>
+      <div id="graph-overlay">
+        <button class="graph-filter-btn" data-filter="stocks" onclick="setGraphFilter('stocks')"
+          style="padding:3px 8px;background:transparent;border:1px solid var(--border);color:var(--muted);font-family:inherit;font-size:10px;cursor:pointer;letter-spacing:.04em">Stocks Only</button>
+        <button class="graph-filter-btn" data-filter="core" onclick="setGraphFilter('core')"
+          style="padding:3px 8px;background:transparent;border:1px solid var(--teal);color:var(--teal);font-family:inherit;font-size:10px;cursor:pointer;letter-spacing:.04em">Core</button>
+        <button class="graph-filter-btn" data-filter="all" onclick="setGraphFilter('all')"
+          style="padding:3px 8px;background:transparent;border:1px solid var(--border);color:var(--muted);font-family:inherit;font-size:10px;cursor:pointer;letter-spacing:.04em">All</button>
+        <span class="legend-item"><span class="legend-dot" style="background:#238636"></span>STRONG BUY</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#1f6feb"></span>BUY</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#d29922"></span>HOLD</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#e3b341"></span>WATCH</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#da3633"></span>PASS</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#888;border-radius:0;transform:rotate(45deg);display:inline-block;width:8px;height:8px"></span>Agent</span>
+        <span class="legend-item"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;border:2px solid #d29922;background:transparent"></span>Biotech</span>
+        <span class="legend-item"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;border:2px solid #1f6feb;background:transparent"></span>SaaS</span>
+        <span class="legend-item"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;border:2px solid #238636;background:transparent"></span>Data/AI</span>
+      </div>
+      <div id="node-info">
+        <h4 id="ni-title"></h4>
+        <div id="ni-props"></div>
+      </div>
+    </div>
+
+    <!-- Round viewer (static sims) / Live feed (streaming sims) -->
+    <div id="round-viewer">
+      <!-- Activity log: visible immediately on sim start, streams every step in real time -->
+      <div id="activity-log"></div>
+      <div id="round-tabs"></div>
+      <div id="round-content">
+        <div class="empty-state">Select a simulation to view rounds.</div>
+      </div>
+      <div id="round-status"></div>
+      <div id="live-feed"></div>
+    </div>
+
+  </main>
+
+  <!-- ── RIGHT SIDEBAR ──────────────────────────────────────────── -->
+  <aside id="right-sidebar">
+    <div id="prob-chart-container">
+      <div id="prob-chart-title">Probability History</div>
+      <div id="prob-chart-wrap">
+        <canvas id="prob-chart"></canvas>
+      </div>
+    </div>
+    <div id="rankings-panel">
+      <div id="rankings-title">Final Rankings</div>
+      <div id="rankings-body">
+        <div class="empty-state">Run or load a simulation.</div>
+      </div>
+    </div>
+  </aside>
+
+</div>
+
+<!-- ── NEW SIM MODAL ─────────────────────────────────────────────── -->
+<div id="modal-overlay">
+  <div id="modal">
+    <h2>New ORACLE Simulation</h2>
+
+    <div class="form-row">
+      <label>Stock Tickers</label>
+      <input type="text" id="input-stocks" placeholder="BBIO INSM ZETA SNOW PLTR PATH" value="BBIO INSM ZETA SNOW PLTR PATH">
+      <div class="hint">Space-separated. NYSE / NASDAQ only. Max 6.</div>
+    </div>
+
+    <div class="form-row">
+      <label>Rounds: <span id="rounds-val">8</span></label>
+      <input type="range" id="input-rounds" min="3" max="8" value="8"
+        oninput="document.getElementById('rounds-val').textContent=this.value">
+      <div class="slider-label"><span>3</span><span>8</span></div>
+    </div>
+
+    <div class="form-row" style="display:flex;align-items:center;gap:8px">
+      <input type="checkbox" id="input-fast" style="width:auto">
+      <label style="display:inline;margin:0">Fast mode (Haiku model — cheaper / quicker)</label>
+    </div>
+
+    <div class="form-row">
+      <label>Report (optional)</label>
+      <select id="input-report">
+        <option value="">— auto-detect latest report —</option>
+      </select>
+    </div>
+
+    <div id="modal-status"></div>
+    <div id="progress-bar"><div id="progress-fill"></div></div>
+
+    <div class="modal-footer">
+      <button id="btn-run-sim" onclick="startSim()">▶ Run Simulation</button>
+      <button onclick="oracleSpeak('Oracle voice test. If you can hear this, voice is working.')" style="margin-left:8px;padding:4px 10px;background:rgba(0,212,170,.1);border:1px solid var(--teal);color:var(--teal);border-radius:4px;cursor:pointer;font-size:11px;">🔊 Test Voice</button>
+      <button id="btn-cancel"  onclick="closeModal()">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── State ─────────────────────────────────────────────────────────
+const state = {
+  activeRunId:  null,
+  simData:      null,
+  graphData:    null,
+  rounds:       [],
+  activeRound:  1,
+  network:      null,
+  probChart:    null,
+  pollTimer:    null,
+  pollRunId:    null,
+  graphFilter:  'core',
+  currentRunId: null,
+  // SSE live sim
+  eventSource:      null,
+  liveRunId:        null,
+  liveNodes:        null,   // vis.DataSet
+  liveEdges:        null,   // vis.DataSet
+  liveEdgeMap:      {},     // "agentId_stockId" -> edgeId (for dedup / reversal)
+  liveNodeSizeMap:  {},     // nodeId -> original size
+  liveStocks:       [],
+  liveChartLabels:  [],
+  liveChartProbs:   {},     // {ticker: [values]}
+  livePostCount:    0,
+  liveTotalRounds:  0,
+  typingCardIds:    {},     // agentName -> DOM element id
+};
+
+const TICKER_COLORS = {
+  STRONG_BUY: '#238636',
+  BUY:        '#1f6feb',
+  HOLD:       '#d29922',
+  WATCH:      '#e3b341',
+  PASS:       '#da3633',
+  AGENT:      '#888888',
+  SECTOR:     '#334455',
+  DEFAULT:    '#30363d',
+};
+
+const STOCK_PALETTE = [
+  '#00d4aa','#4488ff','#ff8844','#ff44aa','#aa44ff','#44aaff','#ffcc44','#ff4444'
+];
+
+// Draws ticker label at the rightmost data point of each chart line (Bug 9)
+const END_LABEL_PLUGIN = {
+  id: 'endLabel',
+  afterDraw(chart) {
+    const ctx = chart.ctx;
+    chart.data.datasets.forEach((ds, i) => {
+      const meta = chart.getDatasetMeta(i);
+      if (!meta.visible) return;
+      const pts = meta.data;
+      if (!pts || !pts.length) return;
+      const last = pts[pts.length - 1];
+      if (!last) return;
+      ctx.save();
+      ctx.fillStyle = typeof ds.borderColor === 'string' ? ds.borderColor : '#8b949e';
+      ctx.font = 'bold 9px monospace';
+      ctx.textAlign = 'left';
+      ctx.fillText(ds.label, last.x + 4, last.y + 3);
+      ctx.restore();
+    });
+  },
+};
+
+// ── Init ──────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  refreshStatus();
+  loadSimList();
+  loadReports();
+  setInterval(refreshStatus, 15000);
+});
+
+// ── Status ────────────────────────────────────────────────────────
+async function refreshStatus() {
+  try {
+    const r = await fetch('/api/status');
+    const d = await r.json();
+    const dot  = document.getElementById('neo4j-dot');
+    const txt  = document.getElementById('neo4j-text');
+    if (d.neo4j) {
+      dot.className = 'dot green';
+      txt.textContent = 'Neo4j: connected';
+    } else {
+      dot.className = 'dot red';
+      txt.textContent = 'Neo4j: offline';
+    }
+  } catch(e) {}
+}
+
+// ── Sim list ──────────────────────────────────────────────────────
+async function loadSimList() {
+  const list = document.getElementById('sim-list');
+  try {
+    const r = await fetch('/api/sims');
+    const sims = await r.json();
+    if (!sims.length) {
+      list.innerHTML = '<div class="empty-state">No simulations found.<br>Run a new one.</div>';
+      return;
+    }
+    list.innerHTML = sims.map(s => `
+      <div class="sim-item" onclick="loadSim('${s.run_id}')" id="si-${s.run_id}">
+        <div class="run-id" title="${s.run_id}">${s.run_id}</div>
+        <div class="tickers">${(s.stocks || []).join(' · ')}</div>
+      </div>`).join('');
+  } catch(e) {
+    list.innerHTML = '<div class="empty-state">Error loading simulations.</div>';
+  }
+}
+
+// ── Load simulation (static/completed) ───────────────────────────
+async function loadSim(runId) {
+  document.querySelectorAll('.sim-item').forEach(el => el.classList.remove('active'));
+  const el = document.getElementById(`si-${runId}`);
+  if (el) el.classList.add('active');
+
+  state.activeRunId = runId;
+  document.getElementById('round-content').innerHTML =
+    '<div class="empty-state">Loading…</div>';
+
+  // Switch back from live feed to static view
+  document.getElementById('live-feed').classList.remove('active');
+  document.getElementById('live-feed').innerHTML = '';
+  document.getElementById('round-content').style.display = '';
+
+  const qbox = document.getElementById('query-box');
+  if (qbox) qbox.value = `MATCH (n {run_id: "${runId}"}) RETURN n LIMIT 50`;
+
+  const [simR, graphR, roundsR] = await Promise.allSettled([
+    fetch(`/api/sims/${runId}`).then(r => r.json()),
+    fetch(`/api/graph/${runId}`).then(r => r.json()),
+    fetch(`/api/rounds/${runId}`).then(r => r.json()),
+  ]);
+
+  if (simR.status === 'fulfilled') {
+    state.simData = simR.value;
+    renderRankings(state.simData.rankings || []);
+  }
+
+  if (graphR.status === 'fulfilled') {
+    state.graphData = graphR.value;
+    renderGraph(graphR.value, state.simData);
+  }
+
+  if (roundsR.status === 'fulfilled') {
+    state.rounds = roundsR.value;
+    renderRoundTabs(state.rounds);
+    if (state.rounds.length) {
+      renderRound(state.rounds[0]);
+    }
+    renderProbChart(state.rounds, state.simData);
+  }
+}
+
+// ── Agent names ───────────────────────────────────────────────────
+// Short inspiration names shown in live-feed cards and tooltips
+const AGENT_SHORT_NAMES = {
+  growth_compounder:           'Lynch',
+  probabilist:                 'Thorp',
+  tail_risk_skeptic:           'Taleb',
+  quality_compounder:          'Munger',
+  momentum_trader:             'Darvas',
+  biotech_specialist:          'BioMD',
+  saas_specialist:             'SaaS',
+  data_ai_specialist:          'DataAI',
+  short_seller:                'Chanos',
+  opportunity_cost_accountant: 'OpCost',
+  catalyst_skeptic:            'CatSkep',
+};
+
+// Abbreviated canonical names for graph node labels (fit inside diamond shape)
+const AGENT_ABBREV_NAMES = {
+  growth_compounder:           'growth_comp',
+  probabilist:                 'probabilist',
+  tail_risk_skeptic:           'tail_risk',
+  quality_compounder:          'quality_comp',
+  momentum_trader:             'momentum',
+  biotech_specialist:          'biotech_spec',
+  saas_specialist:             'saas_spec',
+  data_ai_specialist:          'data_ai_spec',
+  short_seller:                'short_sell',
+  opportunity_cost_accountant: 'opp_cost',
+  catalyst_skeptic:            'cat_skep',
+};
+
+// ── Graph ─────────────────────────────────────────────────────────
+function renderGraph(graphData, simData) {
+  const container = document.getElementById('graph-canvas');
+  const { nodes: rawNodes, edges: rawEdges } = graphData;
+
+  const rankMap = {};
+  (simData?.rankings || []).forEach(r => { rankMap[r.ticker] = r; });
+
+  // BUG 2: Sector nodes are always excluded from display; sector info encoded in stock border color
+  const CORE_TYPES = new Set(['Stock', 'Agent']);
+  const activeFilter = state.graphFilter || 'core';
+
+  const shownNodes = rawNodes.filter(n => {
+    if (n.type === 'Sector') return false;  // BUG 2: never render sector nodes
+    if (activeFilter === 'all')    return true;
+    if (activeFilter === 'stocks') return n.type === 'Stock';
+    return CORE_TYPES.has(n.type);
+  });
+  const shownNodeIds = new Set(shownNodes.map(n => n.id));
+
+  const CORE_EDGE_TYPES = new Set(['COMPETES_WITH', 'SAME_SECTOR', 'BULLISH_ON', 'BEARISH_ON', 'CHANGED_STANCE']);
+  const shownEdges = rawEdges.filter(e => {
+    if (!shownNodeIds.has(e.source) || !shownNodeIds.has(e.target)) return false;
+    if (activeFilter === 'core') return CORE_EDGE_TYPES.has(e.type);
+    return true;
+  });
+
+  const W  = container.offsetWidth  || 900;
+  const H  = container.offsetHeight || 550;
+  const cx = W / 2;
+  const cy = H / 2;
+  const dim = Math.min(W, H);
+  const R_STOCK = dim * 0.21;
+  const R_AGENT = dim * 0.44;
+
+  const stockNodes = shownNodes.filter(n => n.type === 'Stock');
+  const agentNodes = shownNodes.filter(n => n.type === 'Agent');
+  const otherNodes = shownNodes.filter(n => n.type !== 'Stock' && n.type !== 'Agent');
+
+  const posMap = {};
+  const placeInRing = (nodes, r, startAngle = -Math.PI / 2) => {
+    nodes.forEach((n, i) => {
+      const a = startAngle + 2 * Math.PI * i / Math.max(nodes.length, 1);
+      posMap[n.id] = { x: cx + r * Math.cos(a), y: cy + r * Math.sin(a) };
+    });
+  };
+  placeInRing(stockNodes, R_STOCK);
+  placeInRing(agentNodes, R_AGENT);
+  otherNodes.forEach((n, i) => {
+    posMap[n.id] = { x: cx - 150 + i * 70, y: cy - dim * 0.42 };
+  });
+
+  const visNodes = shownNodes.map(n => {
+    const color = getNodeColor(n, rankMap);
+    const shape = getNodeShape(n.type);
+    const size  = n.type === 'Stock' ? 40 : n.type === 'Agent' ? 20 : 14;
+    const rawLabel = n.label;
+    // BUG 1: graph node label = abbreviated canonical name; inspiration shown in tooltip only
+    const label = n.type === 'Agent'
+      ? (AGENT_ABBREV_NAMES[rawLabel] || rawLabel.slice(0, 10))
+      : rawLabel;
+    // BUG 2: stock border color encodes sector
+    const borderColor = n.type === 'Stock'
+      ? getStockBorderColor((n.properties || {}).sector)
+      : color;
+    const pos = posMap[n.id] || { x: cx, y: cy };
+    return {
+      id:    n.id,
+      label,
+      x:     pos.x,
+      y:     pos.y,
+      color: { background: color, border: borderColor, highlight: { background: color, border: '#ffffff' } },
+      shape, size,
+      font:  {
+        color: '#e6edf3',
+        size:  n.type === 'Stock' ? 14 : 9,
+        face:  'monospace',
+        bold:  n.type === 'Stock',
+      },
+      title: buildNodeTooltip(n, rankMap),
+    };
+  });
+
+  const visEdges = shownEdges.map((e, i) => {
+    const style = getEdgeStyle(e.type);
+    return {
+      id:     `e${i}`,
+      from:   e.source,
+      to:     e.target,
+      color:  { color: style.color, opacity: 0.7 },
+      dashes: style.dashes,
+      arrows: { to: { enabled: style.arrow !== false, scaleFactor: 0.6 } },
+      width:  style.width || 1,
+      label:  style.showLabel ? e.type : '',
+      font:   { color: '#8b949e', size: 8, align: 'middle' },
+      smooth: { type: 'curvedCW', roundness: 0.2 },
+    };
+  });
+
+  const data    = { nodes: new vis.DataSet(visNodes), edges: new vis.DataSet(visEdges) };
+  const options = {
+    layout:      { randomSeed: 42 },
+    physics:     { enabled: false },
+    interaction: { hover: true, tooltipDelay: 200, navigationButtons: true, zoomView: true },
+    nodes:       { borderWidth: 1.5, borderWidthSelected: 3 },
+    edges:       { selectionWidth: 2 },
+  };
+
+  if (state.network) state.network.destroy();
+  state.network = new vis.Network(container, data, options);
+
+  setTimeout(() => {
+    state.network.redraw();
+    state.network.fit({ animation: { duration: 600, easingFunction: 'easeInOutQuad' } });
+  }, 80);
+
+  state.network.on('click', params => {
+    if (!params.nodes.length) {
+      hideNodeInfo();
+      data.nodes.update(visNodes.map(n => ({ id: n.id, opacity: 1 })));
+      return;
+    }
+    const nid     = params.nodes[0];
+    const rawNode = rawNodes.find(n => n.id === nid);
+    if (rawNode) showNodeInfo(rawNode, rankMap);
+
+    const connected = new Set(params.nodes);
+    rawEdges.forEach(e => {
+      if (e.source === nid) connected.add(e.target);
+      if (e.target === nid) connected.add(e.source);
+    });
+    data.nodes.update(visNodes.map(n => ({
+      id: n.id,
+      opacity: connected.has(n.id) ? 1.0 : 0.2,
+    })));
+  });
+}
+
+// ── Live graph (SSE mode) ─────────────────────────────────────────
+function renderInitialGraph(nodes) {
+  const container = document.getElementById('graph-canvas');
+  const W  = container.offsetWidth  || 900;
+  const H  = container.offsetHeight || 550;
+  const cx = W / 2;
+  const cy = H / 2;
+  const dim = Math.min(W, H);
+  const R_STOCK = dim * 0.21;
+  const R_AGENT = dim * 0.40;
+
+  // Normalize type to lowercase for consistent comparison
+  const normalize = n => ({ ...n, type: (n.type || '').toLowerCase() });
+  const normNodes = nodes.map(normalize).filter(n => n.type !== 'sector'); // BUG 2: exclude sector nodes
+
+  const stockNodes = normNodes.filter(n => n.type === 'stock');
+  const agentNodes = normNodes.filter(n => n.type === 'agent');
+
+  const posMap = {};
+  const placeRing = (ns, r) => {
+    ns.forEach((n, i) => {
+      const a = -Math.PI / 2 + 2 * Math.PI * i / Math.max(ns.length, 1);
+      posMap[n.id] = { x: cx + r * Math.cos(a), y: cy + r * Math.sin(a) };
+    });
+  };
+  placeRing(stockNodes, R_STOCK);
+  placeRing(agentNodes, R_AGENT);
+
+  const visNodes = normNodes.map(n => {
+    const isStock = n.type === 'stock';
+    const pos = posMap[n.id] || { x: cx, y: cy };
+    // BUG 1: graph node label = abbreviated canonical name
+    const label = isStock ? n.label
+      : (AGENT_ABBREV_NAMES[n.label] || n.label.slice(0, 10));
+    // BUG 1: tooltip shows inspiration name for agents
+    const inspiration = !isStock ? AGENT_SHORT_NAMES[n.label] : null;
+    const title = isStock ? n.label
+      : (inspiration ? `${n.label}\nInspired by ${inspiration}` : n.label);
+    // BUG 2: stock border color encodes sector
+    const sector = (n.properties || {}).sector || '';
+    const borderColor = isStock ? getStockBorderColor(sector) : '#444e58';
+    return {
+      id:    n.id,
+      label,
+      title,
+      x:     pos.x,
+      y:     pos.y,
+      color: { background: '#30363d', border: borderColor,
+               highlight: { background: '#30363d', border: '#ffffff' } },
+      shape: isStock ? 'circle' : 'diamond',
+      size:  isStock ? 40 : 18,
+      font:  { color: '#e6edf3', size: isStock ? 14 : 9, face: 'monospace', bold: isStock },
+    };
+  });
+
+  state.liveNodes = new vis.DataSet(visNodes);
+  state.liveEdges = new vis.DataSet([]);
+  state.liveEdgeMap = {};
+  state.liveNodeSizeMap = {};
+  visNodes.forEach(n => { state.liveNodeSizeMap[n.id] = n.size; });
+
+  const data = { nodes: state.liveNodes, edges: state.liveEdges };
+  const options = {
+    layout:      { randomSeed: 42 },
+    physics:     { enabled: false },
+    interaction: { hover: true, tooltipDelay: 200, navigationButtons: true, zoomView: true },
+    nodes:       { borderWidth: 1.5, borderWidthSelected: 3 },
+    edges:       { selectionWidth: 2 },
+  };
+
+  if (state.network) state.network.destroy();
+  // Reset container to clean state before vis.Network appends its canvas.
+  container.style.cssText = '';
+  container.innerHTML = '';
+  state.network = new vis.Network(container, data, options);
+  setTimeout(() => {
+    state.network.redraw();
+    state.network.fit({ animation: { duration: 600, easingFunction: 'easeInOutQuad' } });
+  }, 80);
+
+  // click node → highlight its edges at 0.9, fade others to 0.1; click bg → reset
+  state.network.on('click', params => {
+    if (!state.liveEdges) return;
+    if (!params.nodes.length) {
+      const resets = [];
+      state.liveEdges.getIds().forEach(id => {
+        const e = state.liveEdges.get(id);
+        if (e) resets.push({ id, color: { color: e._baseColor || '#888888', opacity: 0.85 } });
+      });
+      if (resets.length) state.liveEdges.update(resets);
+      return;
+    }
+    const nid = params.nodes[0];
+    const connected = new Set();
+    state.liveEdges.getIds().forEach(id => {
+      const e = state.liveEdges.get(id);
+      if (e && (e.from === nid || e.to === nid)) connected.add(id);
+    });
+    const edgeUpdates = [];
+    state.liveEdges.getIds().forEach(id => {
+      const e = state.liveEdges.get(id);
+      if (!e) return;
+      edgeUpdates.push({
+        id,
+        color: { color: e._baseColor || '#888888', opacity: connected.has(id) ? 0.9 : 0.1 },
+      });
+    });
+    if (edgeUpdates.length) state.liveEdges.update(edgeUpdates);
+  });
+}
+
+function addEdgeToGraph(edge, roundNum) {
+  if (!state.liveEdges) return;
+  const mapKey = `${edge.source}_${edge.target}`;
+  const reverseKey = `${edge.target}_${edge.source}`;
+
+  // Remove existing edge for this pair (stance reversal or duplicate)
+  if (state.liveEdgeMap[mapKey] !== undefined) {
+    try { state.liveEdges.remove(state.liveEdgeMap[mapKey]); } catch(e) {}
+  }
+  // Remove reverse-direction old edge
+  if (state.liveEdgeMap[reverseKey] !== undefined) {
+    try { state.liveEdges.remove(state.liveEdgeMap[reverseKey]); } catch(e) {}
+    delete state.liveEdgeMap[reverseKey];
+  }
+
+  const isBull = edge.type === 'BULLISH_ON';
+  const _baseColor = isBull ? '#238636' : '#da3633';
+  const edgeId = `live_${Date.now()}_${Math.random().toString(36).slice(2)}`;
+
+  state.liveEdges.add({
+    id:         edgeId,
+    from:       edge.source,
+    to:         edge.target,
+    color:      { color: _baseColor, opacity: 0.85 },
+    arrows:     { to: { enabled: true, scaleFactor: 0.6 } },
+    width:      5,
+    smooth:     { type: 'curvedCW', roundness: 0.25 },
+    _round:     roundNum || 0,
+    _baseColor: _baseColor,
+  });
+  state.liveEdgeMap[mapKey] = edgeId;
+
+  // Flash: fade width back to 2 after 800ms
+  setTimeout(() => {
+    try {
+      state.liveEdges.update({ id: edgeId, width: 2 });
+    } catch(e) {}
+  }, 800);
+}
+
+function pulseAgentNode(agentName) {
+  if (!state.liveNodes) return;
+  const nodeId = `agent_${agentName}`;
+  const origSize = state.liveNodeSizeMap[nodeId] || 18;
+  try {
+    state.liveNodes.update({
+      id: nodeId,
+      size: origSize * 1.8,
+      color: { background: '#00d4aa', border: '#00d4aa',
+               highlight: { background: '#00d4aa', border: '#ffffff' } },
+    });
+    setTimeout(() => {
+      try {
+        state.liveNodes.update({
+          id: nodeId,
+          size: origSize,
+          color: { background: '#30363d', border: '#444e58',
+                   highlight: { background: '#30363d', border: '#ffffff' } },
+        });
+      } catch(e) {}
+    }, 900);
+  } catch(e) {}
+}
+
+function fadeOldEdges(currentRound) {
+  if (!state.liveEdges) return;
+  const updates = [];
+  state.liveEdges.getIds().forEach(id => {
+    const e = state.liveEdges.get(id);
+    if (!e) return;
+    const age = currentRound - (e._round || 1);
+    const opacity = age === 0 ? 0.9 : Math.max(0.15, 0.9 - age * 0.2);
+    const width   = age === 0 ? 2 : 1;
+    updates.push({ id: e.id, color: { color: e._baseColor || '#888888', opacity }, width });
+  });
+  if (updates.length) state.liveEdges.update(updates);
+}
+
+function colorNodesByVerdict(rankings) {
+  if (!state.liveNodes) return;
+  const sigColors = {
+    STRONG_BUY: '#238636', BUY: '#1f6feb', HOLD: '#d29922',
+    WATCH: '#e3b341', PASS: '#da3633',
+  };
+  rankings.forEach(r => {
+    const color = sigColors[r.signal] || '#30363d';
+    try {
+      state.liveNodes.update({
+        id: `stock_${r.ticker}`,
+        color: { background: color, border: color,
+                 highlight: { background: color, border: '#ffffff' } },
+      });
+    } catch(e) {}
+  });
+}
+
+function updateNodeColorByProb(ticker, prob) {
+  if (!state.liveNodes) return;
+  const color = prob > 0.65 ? '#238636' : prob < 0.35 ? '#da3633' : '#30363d';
+  try {
+    state.liveNodes.update({
+      id: `stock_${ticker}`,
+      color: { background: color, border: color,
+               highlight: { background: color, border: '#ffffff' } },
+    });
+  } catch(e) {}
+}
+
+// ── Live chart ────────────────────────────────────────────────────
+function initLiveChart(stocks) {
+  state.liveStocks = stocks;
+  state.liveChartLabels = ['0'];
+  state.liveChartProbs = {};
+  stocks.forEach(t => { state.liveChartProbs[t] = [0.50]; });  // 0-1 decimal scale
+
+  const canvas = document.getElementById('prob-chart');
+  if (!canvas) return;
+  if (state.probChart) { state.probChart.destroy(); state.probChart = null; }
+
+  const datasets = stocks.map((t, i) => ({
+    label:           t,
+    data:            [50],
+    borderColor:     STOCK_PALETTE[i % STOCK_PALETTE.length],
+    backgroundColor: 'transparent',
+    borderWidth:     2,
+    pointRadius:     1,
+    tension:         0.3,
+  }));
+
+  state.probChart = new Chart(canvas, {
+    type: 'line',
+    data: { labels: ['0'], datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      animation: { duration: 200 },
+      layout: { padding: { right: 38 } },
+      plugins: {
+        legend: {
+          labels: { color: '#8b949e', font: { family: 'monospace', size: 10 },
+            boxWidth: 12, padding: 8 },
+        },
+      },
+      scales: {
+        x: { ticks: { color: '#8b949e', font: { size: 9 }, maxTicksLimit: 12 },
+             grid:  { color: '#1c2128' } },
+        y: { min: 0, max: 100,
+             ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + '%' },
+             grid:  { color: '#1c2128' } },
+      },
+    },
+    plugins: [END_LABEL_PLUGIN],
+  });
+}
+
+function updateLiveChart(stances, conviction) {
+  if (!state.probChart) return;
+  state.livePostCount++;
+  state.liveChartLabels.push(String(state.livePostCount));
+
+  // conviction from SSE is 0-100 integer; convert to 0-1 for delta math
+  const convFrac = conviction / 100;
+
+  state.liveStocks.forEach((t, i) => {
+    const lastProb = state.liveChartProbs[t].length
+      ? state.liveChartProbs[t][state.liveChartProbs[t].length - 1]
+      : 0.50;
+    const stance = stances[t] || 'neutral';
+    const delta = stance === 'bullish' || stance === 'weak_bullish'
+      ?  convFrac * 0.03
+      : stance === 'bearish' ? -convFrac * 0.03 : 0;
+    // FLOOR=0.15, CEILING=0.85 — max delta per edge = convFrac * 0.03
+    const newProb = Math.max(0.15, Math.min(0.85, lastProb + delta));
+    state.liveChartProbs[t].push(newProb);
+    state.probChart.data.datasets[i].data.push(+(newProb * 100).toFixed(1));
+  });
+
+  state.probChart.data.labels = [...state.liveChartLabels];
+  state.probChart.update('none');
+}
+
+function snapLiveChart(roundNum, marketProbs) {
+  if (!state.probChart) return;
+  const label = `R${roundNum}`;
+  state.liveChartLabels.push(label);
+
+  state.liveStocks.forEach((t, i) => {
+    const prob = marketProbs[t] || 0.5;  // keep 0-1 in liveChartProbs
+    state.liveChartProbs[t].push(prob);
+    state.probChart.data.datasets[i].data.push(+(prob * 100).toFixed(1));
+  });
+
+  state.probChart.data.labels = [...state.liveChartLabels];
+  state.probChart.update({ duration: 400 });
+}
+
+function updateLiveRankings(marketProbs, roundNum, total) {
+  const title = document.getElementById('rankings-title');
+  const body  = document.getElementById('rankings-body');
+  if (!state.liveStocks || !state.liveStocks.length) return;
+  const sorted = [...state.liveStocks].sort(
+    (a, b) => (marketProbs[b] || 0.5) - (marketProbs[a] || 0.5)
+  );
+  title.textContent = `Live Rankings — Round ${roundNum}/${total}`;
+  title.style.color = 'var(--yellow)';
+  body.innerHTML = sorted.map((ticker, i) => {
+    const prob = ((marketProbs[ticker] || 0.5) * 100).toFixed(0);
+    return `<div class="rank-row">
+      <span class="rank-num">${i + 1}</span>
+      <span class="rank-ticker">${ticker}</span>
+      <span class="rank-score">${prob}%</span>
+    </div>`;
+  }).join('');
+}
+
+// ── Live feed helpers ─────────────────────────────────────────────
+function switchToLiveFeed() {
+  document.getElementById('round-content').style.display = 'none';
+  const feed = document.getElementById('live-feed');
+  feed.classList.add('active');
+  feed.innerHTML = '';
+  state.typingCardIds = {};
+}
+
+function showRoundBanner(text) {
+  const feed = document.getElementById('live-feed');
+  const div = document.createElement('div');
+  div.className = 'round-header-card';
+  div.textContent = text;
+  feed.appendChild(div);
+  feed.scrollTop = feed.scrollHeight;
+}
+
+function showDirectorInjection(text) {
+  const overlay = document.getElementById('director-overlay');
+  document.getElementById('director-text').textContent = text;
+  overlay.classList.add('show');
+  document.body.classList.add('screen-flash');
+
+  // Mark agent nodes with "?" briefly
+  if (state.liveNodes) {
+    state.liveNodes.getIds().forEach(id => {
+      if (String(id).startsWith('agent_')) {
+        try {
+          const orig = state.liveNodes.get(id);
+          state.liveNodes.update({ id, label: '?' });
+          setTimeout(() => {
+            try { state.liveNodes.update({ id, label: orig.label }); } catch(e) {}
+          }, 3000);
+        } catch(e) {}
+      }
+    });
+  }
+
+  setTimeout(() => {
+    overlay.classList.remove('show');
+    document.body.classList.remove('screen-flash');
+  }, 3000);
+}
+
+function showAgentTyping(agentName) {
+  const feed = document.getElementById('live-feed');
+  const cardId = `typing_${agentName.replace(/\W/g, '_')}`;
+  state.typingCardIds[agentName] = cardId;
+
+  const div = document.createElement('div');
+  div.className = 'typing-card';
+  div.id = cardId;
+  div.innerHTML = `<div class="agent-card-header">
+    <span class="agent-name">${escHtml(AGENT_SHORT_NAMES[agentName] || agentName)}</span>
+    <div class="typing-dots"><span></span><span></span><span></span></div>
+  </div>`;
+  feed.appendChild(div);
+  feed.scrollTop = feed.scrollHeight;
+
+  pulseAgentNode(agentName);
+}
+
+function appendAgentPost(agentName, post, conviction, stances, roundNum) {
+  const feed = document.getElementById('live-feed');
+  const cardId = state.typingCardIds[agentName];
+  const existing = cardId ? document.getElementById(cardId) : null;
+
+  const shortName = AGENT_SHORT_NAMES[agentName] || agentName;
+  const stanceTags = Object.entries(stances || {})
+    .filter(([, s]) => s === 'bullish' || s === 'bearish' || s === 'weak_bullish')
+    .map(([t, s]) => {
+      const bull = s === 'bullish' || s === 'weak_bullish';
+      return `<span class="stance-tag stance-${bull ? 'bull' : 'bear'}">${t} ${bull ? '▲' : '▼'}</span>`;
+    }).join('');
+
+  const card = document.createElement('div');
+  card.className = 'agent-card';
+  card.dataset.agent = agentName;
+  card.innerHTML = `
+    <div class="agent-card-header">
+      <span class="agent-name">${escHtml(shortName)}</span>
+      <span class="conviction-badge">CONVICTION: ${conviction}%</span>
+      <span class="round-badge">R${roundNum}</span>
+    </div>
+    <div class="live-post-text" id="pt_${cardId || Date.now()}"></div>
+    ${stanceTags ? `<div class="stance-tags">${stanceTags}</div>` : ''}
+  `;
+
+  if (existing) {
+    existing.replaceWith(card);
+  } else {
+    feed.appendChild(card);
+  }
+
+  // Word-by-word reveal
+  const textEl = card.querySelector('.live-post-text');
+  const words = post.split(' ');
+  let idx = 0;
+  const CHUNK = 4;
+  const reveal = setInterval(() => {
+    if (idx >= words.length) { clearInterval(reveal); return; }
+    textEl.textContent = words.slice(0, Math.min(idx + CHUNK, words.length)).join(' ');
+    idx += CHUNK;
+    feed.scrollTop = feed.scrollHeight;
+  }, 60);
+}
+
+function markRoundComplete(roundNum) {
+  const tab = document.getElementById(`tab-r${roundNum}`);
+  if (tab) {
+    tab.classList.remove('live-active');
+    tab.classList.add('live-done');
+    tab.textContent = `R${roundNum} ✓`;
+  }
+}
+
+function setLiveRoundTabActive(roundNum) {
+  document.querySelectorAll('.round-tab').forEach(t => {
+    t.classList.remove('live-active');
+  });
+  const tab = document.getElementById(`tab-r${roundNum}`);
+  if (tab) tab.classList.add('live-active');
+}
+
+function buildLiveRoundTabs(totalRounds) {
+  const tabs = document.getElementById('round-tabs');
+  tabs.innerHTML = Array.from({length: totalRounds}, (_, i) => i + 1).map(r =>
+    `<div class="round-tab" id="tab-r${r}">R${r}</div>`
+  ).join('');
+}
+
+// ── Activity Log ──────────────────────────────────────────────────
+let _logHeartbeatEl    = null;
+let _logHeartbeatTimer = null;
+
+// ── ORACLE Voice ─────────────────────────────────────────────────────────────
+const _oracleVoiceState = { enabled: true, unlocked: false, ctx: null, currentSrc: null, queue: [], playing: false };
+
+function unlockAudio() {
+  if (_oracleVoiceState.unlocked) return;
+  _oracleVoiceState.unlocked = true;
+  try {
+    const ctx = new (window.AudioContext || window.webkitAudioContext)();
+    const buf = ctx.createBuffer(1, 1, 22050);
+    const src = ctx.createBufferSource();
+    src.buffer = buf;
+    src.connect(ctx.destination);
+    src.start(0);
+    ctx.resume();
+    _oracleVoiceState.ctx = ctx;
+  } catch(e) {}
+}
+
+function _playNextInQueue() {
+  if (_oracleVoiceState.playing || _oracleVoiceState.queue.length === 0) return;
+  _oracleVoiceState.playing = true;
+  const { spokenText } = _oracleVoiceState.queue.shift();
+
+  fetch('/api/speak', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ text: spokenText })
+  })
+  .then(r => { if (!r.ok) throw new Error('TTS failed'); return r.arrayBuffer(); })
+  .then(buf => {
+    const ctx = _oracleVoiceState.ctx;
+    const _done = () => {
+      _oracleVoiceState.playing = false;
+      _oracleVoiceState.currentSrc = null;
+      setTimeout(_playNextInQueue, 300);  // 300ms gap between announcements
+    };
+    if (ctx) {
+      ctx.resume().then(() => {
+        ctx.decodeAudioData(buf.slice(0), decoded => {
+          const src = ctx.createBufferSource();
+          src.buffer = decoded;
+          src.playbackRate.value = 1.1;
+          src.connect(ctx.destination);
+          src.onended = _done;
+          src.start(0);
+          _oracleVoiceState.currentSrc = src;
+        }, () => _done());
+      });
+    } else {
+      const blob = new Blob([buf], { type: 'audio/wav' });
+      const url  = URL.createObjectURL(blob);
+      const audio = new Audio(url);
+      audio.playbackRate = 1.1;
+      audio.onended = () => { URL.revokeObjectURL(url); _done(); };
+      audio.play().catch(_done);
+    }
+  })
+  .catch(() => {
+    if (window.speechSynthesis) {
+      const utt = new SpeechSynthesisUtterance(spokenText);
+      utt.rate = 1.3;
+      utt.onend = () => { _oracleVoiceState.playing = false; setTimeout(_playNextInQueue, 300); };
+      window.speechSynthesis.speak(utt);
+    } else {
+      _oracleVoiceState.playing = false;
+      setTimeout(_playNextInQueue, 300);
+    }
+  });
+}
+
+function oracleSpeak(text) {
+  if (!_oracleVoiceState.enabled) return;
+
+  // Spell out ticker symbols letter by letter
+  const spokenText = text.replace(/\b([A-Z]{2,6})\b/g, (match) => {
+    const skip = new Set(['BUY','SELL','PASS','HOLD','WATCH','ROUND','SIGNAL','COMPLETE',
+                          'TOP','PICK','AT','IS','THE','AND','OR','OF','WITH','FROM','FOR',
+                          'ZETA','SNOW','AXON','HOOD','BROS','DUOL','RBLX','LULU','SHOP',
+                          'DECK','KTOS','BKNG','PATH','PLTR','SMCI','ARM']);
+    if (skip.has(match)) return match;
+    return match.split('').join('. ') + '.';
+  });
+
+  _oracleVoiceState.queue.push({ spokenText });
+  _playNextInQueue();
+}
+
+function addLog(msg, type = 'info') {
+  // Remove the idle "waiting" line whenever real activity arrives
+  if (_logHeartbeatEl) { _logHeartbeatEl.remove(); _logHeartbeatEl = null; }
+  const log = document.getElementById('activity-log');
+  if (!log) return null;
+  const ts = new Date().toLocaleTimeString('en-US', {hour12: false});
+  const div = document.createElement('div');
+  div.className = `log-line log-${type}`;
+  div.textContent = `[ ${ts} ] ${msg}`;
+  log.appendChild(div);
+  log.scrollTop = log.scrollHeight;
+  return div;
+}
+
+function _scheduleHeartbeat() {
+  if (_logHeartbeatTimer) clearInterval(_logHeartbeatTimer);
+  _logHeartbeatTimer = setInterval(() => {
+    if (!state.eventSource) { _stopHeartbeatTimer(); return; }
+    const log = document.getElementById('activity-log');
+    if (!log) return;
+    const ts  = new Date().toLocaleTimeString('en-US', {hour12: false});
+    const msg = `[ ${ts} ] ⟳ Waiting for agents...`;
+    if (_logHeartbeatEl && _logHeartbeatEl.parentNode === log) {
+      _logHeartbeatEl.textContent = msg;
+    } else {
+      const div = document.createElement('div');
+      div.className = 'log-line log-heartbeat';
+      div.textContent = msg;
+      log.appendChild(div);
+      _logHeartbeatEl = div;
+    }
+    log.scrollTop = log.scrollHeight;
+  }, 5000);
+}
+
+function _stopHeartbeatTimer() {
+  if (_logHeartbeatTimer) { clearInterval(_logHeartbeatTimer); _logHeartbeatTimer = null; }
+  _logHeartbeatEl = null;
+}
+
+// ── SSE Streaming ─────────────────────────────────────────────────
+
+function startStreaming(runId) {
+  if (state.eventSource) {
+    state.eventSource.close();
+    state.eventSource = null;
+  }
+  state.liveRunId  = runId;
+  state.livePostCount = 0;
+  state.liveEdgeMap   = {};
+
+  const es = new EventSource(`/api/run/${runId}/stream`);
+  state.eventSource = es;
+
+  es.onmessage = (e) => {
+    try {
+      const event = JSON.parse(e.data);
+      handleSimEvent(event);
+    } catch(err) {
+      console.error('SSE parse error:', err);
+    }
+  };
+
+  es.onerror = () => {
+    console.warn('SSE connection error for', runId);
+  };
+}
+
+function handleSimEvent(event) {
+  console.log('[SSE]', event.type);
+  switch (event.type) {
+
+    case 'sim_log':
+      addLog(event.msg, event.level || 'info');
+      break;
+
+    case 'heartbeat':
+      // heartbeat timer in _scheduleHeartbeat handles the "waiting" line — no addLog here
+      break;
+
+    case 'graph_built': {
+      console.log('[SSE graph_built] nodes:', event.nodes.length,
+                  'first 3:', JSON.stringify(event.nodes.slice(0, 3)));
+      addLog(`✓ Graph built — ${event.nodes.length} nodes, ${(event.edges||[]).length} edges`, 'success');
+      switchToLiveFeed();
+      renderInitialGraph(event.nodes);
+      const stocks = event.nodes.filter(n => (n.type||'').toLowerCase() === 'stock').map(n => n.label);
+      initLiveChart(stocks);
+      if (event.run_id) {
+        state.currentRunId = event.run_id;
+        const qbox = document.getElementById('query-box');
+        if (qbox) qbox.value = `MATCH (n {run_id: "${event.run_id}"}) RETURN n LIMIT 50`;
+      }
+      break;
+    }
+
+    case 'round_start': {
+      state.liveTotalRounds = event.total;
+      if (!document.getElementById('tab-r1')) {
+        buildLiveRoundTabs(event.total);
+      }
+      setLiveRoundTabActive(event.round_num);
+      showRoundBanner(`── Round ${event.round_num} / ${event.total} ──`);
+      addLog(`▶ Round ${event.round_num}/${event.total} starting...`, 'info');
+      const rsEl = document.getElementById('round-status');
+      if (rsEl) {
+        rsEl.style.display = 'block';
+        rsEl.textContent = `▶ Running Round ${event.round_num}/${event.total} — agents posting...`;
+      }
+      break;
+    }
+
+    case 'director_injection': {
+      const _dirShort = event.text.length > 60 ? event.text.slice(0, 60) + '...' : event.text;
+      addLog(`⚡ Director: ${_dirShort}`, 'active');
+      showDirectorInjection(event.text);
+      const feed = document.getElementById('live-feed');
+      const div = document.createElement('div');
+      div.className = 'injection-banner';
+      div.innerHTML = `<div class="injection-title">⚡ Director Injection — Round ${event.round_num}</div>${escHtml(event.text)}`;
+      feed.appendChild(div);
+      feed.scrollTop = feed.scrollHeight;
+      break;
+    }
+
+    case 'agent_posting': {
+      const _shortPosting = AGENT_SHORT_NAMES[event.agent] || event.agent;
+      addLog(`⌨ ${_shortPosting} (${event.agent}) is thinking...`, 'active');
+      showAgentTyping(event.agent);
+      break;
+    }
+
+    case 'agent_posted': {
+      const _shortPosted = AGENT_SHORT_NAMES[event.agent] || event.agent;
+      const _stanceParts = Object.entries(event.stances || {})
+        .filter(([, s]) => s !== 'neutral')
+        .map(([t, s]) => `${t} ${(s === 'bullish' || s === 'weak_bullish') ? 'bullish' : 'bearish'}`)
+        .join(', ');
+      const _stanceSummary = _stanceParts
+        ? `${_stanceParts} (${event.conviction}%)`
+        : `conviction ${event.conviction}%`;
+      addLog(`✓ ${_shortPosted} posted — ${_stanceSummary}`, 'success');
+      appendAgentPost(event.agent, event.post, event.conviction, event.stances, event.round_num);
+      for (const edge of (event.new_edges || [])) {
+        addEdgeToGraph(edge, event.round_num);
+      }
+      updateLiveChart(event.stances || {}, event.conviction);
+      state.liveStocks.forEach(t => {
+        const probs = state.liveChartProbs[t];
+        if (probs && probs.length) updateNodeColorByProb(t, probs[probs.length - 1]);
+      });
+      break;
+    }
+
+    case 'round_complete': {
+      markRoundComplete(event.round_num);
+      snapLiveChart(event.round_num, event.market_probs || {});
+      updateLiveRankings(event.market_probs || {}, event.round_num, state.liveTotalRounds);
+      fadeOldEdges(event.round_num);
+      const rcEl = document.getElementById('round-status');
+      if (rcEl) rcEl.textContent = `✓ Round ${event.round_num} complete`;
+      const _probStr = Object.entries(event.market_probs || {})
+        .map(([t, p]) => `${t}=${(p * 100).toFixed(0)}%`).join(' ');
+      addLog(`✓ Round ${event.round_num} complete — ${_probStr}`, 'success');
+      // Voice: announce round + leader
+      const _leader = Object.entries(event.market_probs || {}).sort((a,b)=>b[1]-a[1])[0];
+      if (_leader) {
+        oracleSpeak(`Round ${event.round_num} complete. ${_leader[0]} leads at ${Math.round(_leader[1]*100)} percent conviction.`);
+      } else {
+        oracleSpeak(`Round ${event.round_num} complete.`);
+      }
+      break;
+    }
+
+    case 'sim_complete': {
+      _stopHeartbeatTimer();
+      state.eventSource?.close();
+      state.eventSource = null;
+      const _topPick = event.rankings?.[0];
+      addLog(`🏁 Simulation complete! Top pick: ${_topPick?.ticker || '?'}`, 'success');
+      // Voice: announce final result
+      if (_topPick) {
+        const _sig = _topPick.signal || '';
+        const _comp = _topPick.composite ? Math.round(_topPick.composite * 100) : '';
+        oracleSpeak(`Simulation complete. Top pick is ${_topPick.ticker}. Signal: ${_sig}. Composite score ${_comp} percent.`);
+      } else {
+        oracleSpeak('Simulation complete.');
+      }
+      const rankTitle = document.getElementById('rankings-title');
+      if (rankTitle) { rankTitle.textContent = 'Final Rankings'; rankTitle.style.color = ''; }
+      if (event.rankings?.length) {
+        renderRankings(event.rankings);
+        colorNodesByVerdict(event.rankings);
+        // BUG 6: log resilient stocks
+        event.rankings.forEach(r => {
+          if (r.resilience_signal) {
+            addLog(`⚡ ${r.ticker} showed resilience through macro shock — conviction held during rate scare`, 'success');
+          }
+        });
+      }
+      // Reload sim list then load the completed sim for full static view
+      loadSimList().then(() => {
+        if (state.liveRunId) loadSim(state.liveRunId);
+      });
+      break;
+    }
+
+    case 'error': {
+      _stopHeartbeatTimer();
+      addLog(`✗ Error: ${event.msg}`, 'error');
+      console.error('Sim error:', event.msg);
+      const feed = document.getElementById('live-feed');
+      if (feed) {
+        const div = document.createElement('div');
+        div.style.cssText = 'color:var(--red);padding:12px;font-size:11px;';
+        div.textContent = `Error: ${event.msg}`;
+        feed.appendChild(div);
+      }
+      break;
+    }
+  }
+}
+
+// ── Static graph helpers ──────────────────────────────────────────
+function setGraphFilter(f) {
+  state.graphFilter = f;
+  document.querySelectorAll('.graph-filter-btn').forEach(b => {
+    const active = b.dataset.filter === f;
+    b.style.borderColor = active ? 'var(--teal)' : 'var(--border)';
+    b.style.color       = active ? 'var(--teal)' : 'var(--muted)';
+  });
+  if (state.graphData) renderGraph(state.graphData, state.simData);
+}
+
+function getNodeColor(n, rankMap) {
+  if (n.type === 'Stock') {
+    const ticker  = n.properties?.ticker || n.label;
+    const rank    = rankMap[ticker];
+    const signal  = rank?.signal || n.signal || n.properties?.signal || 'WATCH';
+    const sig     = signal.toUpperCase().replace(/ /g, '_');
+    return TICKER_COLORS[sig] || TICKER_COLORS.DEFAULT;
+  }
+  if (n.type === 'Agent')   return TICKER_COLORS.AGENT;
+  if (n.type === 'Sector')  return TICKER_COLORS.SECTOR;
+  if (n.type === 'Catalyst') return '#aa6644';
+  return '#555555';
+}
+
+function getNodeShape(type) {
+  switch (type) {
+    case 'Stock':    return 'circle';
+    case 'Agent':    return 'diamond';
+    case 'Sector':   return 'box';
+    case 'Catalyst': return 'triangle';
+    default:         return 'ellipse';
+  }
+}
+
+function getEdgeStyle(type) {
+  switch (type) {
+    case 'BULLISH_ON':     return { color: '#00d4aa', dashes: false, showLabel: false };
+    case 'BEARISH_ON':     return { color: '#ff4444', dashes: false, showLabel: false };
+    case 'COMPETES_WITH':  return { color: '#ff8844', dashes: [4,4], showLabel: false, width: 1, arrow: false };
+    case 'FOLLOWS':        return { color: '#444e58', dashes: false, showLabel: false, width: 1 };
+    case 'DEBATES_WITH':   return { color: '#aa44ff', dashes: [2,4], showLabel: false };
+    case 'BELONGS_TO':     return { color: '#334466', dashes: false, showLabel: false, width: 1 };
+    case 'HAS_CATALYST':   return { color: '#aa6644', dashes: [3,3], showLabel: false, width: 1 };
+    default:               return { color: '#555555', dashes: false, showLabel: false, width: 1 };
+  }
+}
+
+// BUG 2: Determine stock border color by sector
+function getStockBorderColor(sector) {
+  if (!sector) return '#444e58';
+  const s = sector.toLowerCase();
+  if (s.includes('biotech') || s.includes('pharma') || s.includes('healthcare') || s.includes('biopharm'))
+    return '#d29922';
+  if (s.includes('software') || s.includes('saas') || s.includes('internet'))
+    return '#1f6feb';
+  if (s.includes('data') || s.includes('artificial') || s.includes('technology') || s.includes('semi'))
+    return '#238636';
+  return '#444e58';
+}
+
+function buildNodeTooltip(n, rankMap) {
+  const props = n.properties || {};
+  if (n.type === 'Stock') {
+    const rank    = rankMap[props.ticker || n.label] || {};
+    const sector  = props.sector ? `<br>Sector: ${props.sector}` : '';
+    return `<b style="color:#00d4aa">${n.label}</b><br>
+      Signal: ${rank.signal || '–'}<br>
+      Score: ${(rank.score || rank.composite || 0).toFixed(3)}${sector}`;
+  }
+  if (n.type === 'Agent') {
+    // BUG 1: show inspiration name in tooltip, canonical name is the node label
+    const inspiration = AGENT_SHORT_NAMES[n.label];
+    const inspNote    = inspiration ? `<br><i>Inspired by ${inspiration}</i>` : '';
+    return `<b>${n.label}</b>${inspNote}<br>Layer ${props.layer || '?'}`;
+  }
+  return `<b>${n.label}</b>`;
+}
+
+function showNodeInfo(n, rankMap) {
+  const info  = document.getElementById('node-info');
+  const title = document.getElementById('ni-title');
+  const props = document.getElementById('ni-props');
+
+  title.textContent = n.label;
+  const p = n.properties || {};
+  const rank = (n.type === 'Stock') ? (rankMap[p.ticker || n.label] || {}) : {};
+
+  let html = '';
+  if (n.type === 'Stock') {
+    html += prop('Signal', badgify(rank.signal || p.signal || '–'));
+    html += prop('Score',  (rank.score || rank.composite || 0).toFixed(3));
+    if (p.price) html += prop('Price', `$${p.price}`);
+    if (p.sector) html += prop('Sector', p.sector);
+    if (p.conviction_score) html += prop('Conviction', `${(p.conviction_score*100).toFixed(0)}%`);
+  } else if (n.type === 'Agent') {
+    html += prop('Layer',  p.layer || '?');
+    if (p.lens) html += prop('Lens', p.lens);
+  } else {
+    Object.entries(p).slice(0, 5).forEach(([k, v]) => {
+      html += prop(k, String(v).slice(0, 60));
+    });
+  }
+  props.innerHTML = html;
+  info.style.display = 'block';
+}
+
+function hideNodeInfo() {
+  document.getElementById('node-info').style.display = 'none';
+}
+
+function prop(k, v) {
+  return `<div class="prop"><span class="prop-k">${k}</span><span>${v}</span></div>`;
+}
+
+function badgify(signal) {
+  if (!signal || signal === '–') return '–';
+  const cls = signal.toUpperCase().replace(/ /g, '_');
+  return `<span class="signal-badge sig-${cls}">${signal}</span>`;
+}
+
+// ── Probability Chart (static) ────────────────────────────────────
+function renderProbChart(rounds, simData) {
+  const canvas = document.getElementById('prob-chart');
+  if (!canvas) return;
+
+  const stocks = simData?.stocks || [];
+
+  let probHistory = {};
+  let labels      = [];
+
+  if (simData?.prob_history && Object.keys(simData.prob_history).length > 0) {
+    probHistory = simData.prob_history;
+    const maxLen = Math.max(...Object.values(probHistory).map(a => a.length), 0);
+    labels = Array.from({ length: maxLen }, (_, i) => `R${i + 1}`);
+  } else {
+    const markets = simData?.markets || [];
+    stocks.forEach(t => { probHistory[t] = []; });
+
+    const initProbs = {};
+    markets.forEach(m => {
+      if (m.type === 'binary' && !m.id?.includes('_vs_') && !m.id?.includes('forced')) {
+        stocks.forEach(t => { if (m.id?.includes(t)) initProbs[t] = m.initial_probability; });
+      }
+    });
+
+    const sortedRounds = [...rounds].sort((a, b) => a.round - b.round);
+    sortedRounds.forEach(r => {
+      const probs = r.probabilities || {};
+      stocks.forEach(t => {
+        probHistory[t].push(probs[t] !== undefined ? probs[t] : (initProbs[t] || 0.5));
+      });
+    });
+    labels = sortedRounds.map(r => `R${r.round}`);
+    if (!labels.length) {
+      labels.push('—');
+      stocks.forEach(t => probHistory[t].push(initProbs[t] || 0.5));
+    }
+  }
+
+  const datasets = stocks.map((t, i) => ({
+    label: t,
+    data:  probHistory[t].map(v => +(v * 100).toFixed(1)),
+    borderColor: STOCK_PALETTE[i % STOCK_PALETTE.length],
+    backgroundColor: 'transparent',
+    borderWidth: 2,
+    pointRadius: 3,
+    tension: 0.3,
+  }));
+
+  if (state.probChart) state.probChart.destroy();
+  state.probChart = new Chart(canvas, {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      animation: false,
+      layout: { padding: { right: 38 } },
+      plugins: {
+        legend: {
+          labels: { color: '#8b949e', font: { family: 'monospace', size: 10 },
+            boxWidth: 12, padding: 8 },
+        },
+      },
+      scales: {
+        x: { ticks: { color: '#8b949e', font: { size: 10 } },
+             grid:  { color: '#1c2128' } },
+        y: { min: 0, max: 100,
+             ticks: { color: '#8b949e', font: { size: 10 },
+               callback: v => v + '%' },
+             grid:  { color: '#1c2128' } },
+      },
+    },
+    plugins: [END_LABEL_PLUGIN],
+  });
+}
+
+// ── Rounds (static) ───────────────────────────────────────────────
+function renderRoundTabs(rounds) {
+  const tabs = document.getElementById('round-tabs');
+  if (!rounds.length) {
+    tabs.innerHTML = '';
+    return;
+  }
+  tabs.innerHTML = rounds.map(r => {
+    const postCount = r.posts?.length || 0;
+    const complete  = postCount >= 11 ? ' ✓' : (postCount > 0 ? ` (${postCount})` : '');
+    return `<div class="round-tab ${r.round === state.activeRound ? 'active' : ''}"
+      onclick="selectRound(${r.round})" id="tab-r${r.round}"
+      title="Round ${r.round}: ${postCount} agent posts${r.injection ? ' · injection active' : ''}">
+      R${r.round}${r.injection ? '⚡' : ''}${complete}
+    </div>`;
+  }).join('');
+}
+
+function selectRound(roundNum) {
+  state.activeRound = roundNum;
+  document.querySelectorAll('.round-tab').forEach(t => t.classList.remove('active'));
+  const tab = document.getElementById(`tab-r${roundNum}`);
+  if (tab) tab.classList.add('active');
+  const round = state.rounds.find(r => r.round === roundNum);
+  if (round) renderRound(round);
+}
+
+function renderRound(round) {
+  const content = document.getElementById('round-content');
+  let html = '';
+
+  if (round.injection) {
+    html += `<div class="injection-banner">
+      <div class="injection-title">⚡ Director Injection — Round ${round.round}</div>
+      ${escHtml(round.injection)}
+    </div>`;
+  }
+
+  if (!round.posts?.length) {
+    html += '<div class="empty-state">No agent posts for this round.</div>';
+  } else {
+    round.posts.forEach(p => {
+      const convPct = typeof p.conviction === 'number' ? p.conviction : Math.round(p.conviction * 100);
+      const stances = p.stances || {};
+      const stanceTags = Object.entries(stances).map(([t, s]) =>
+        `<span class="stance-tag stance-${s}">${t} ${s === 'bullish' ? '▲' : '▼'}</span>`
+      ).join('');
+
+      html += `<div class="agent-card">
+        <div class="agent-card-header">
+          <span class="agent-name">${escHtml(p.agent)}</span>
+          <span class="conviction-badge">CONVICTION: ${convPct}%</span>
+        </div>
+        <div class="agent-post">${escHtml(p.post)}</div>
+        ${stanceTags ? `<div class="stance-tags">${stanceTags}</div>` : ''}
+      </div>`;
+    });
+  }
+
+  content.innerHTML = html;
+}
+
+// ── Rankings ──────────────────────────────────────────────────────
+function renderRankings(rankings) {
+  const body = document.getElementById('rankings-body');
+  if (!rankings.length) {
+    body.innerHTML = '<div class="empty-state">Rankings not yet available.</div>';
+    return;
+  }
+  const getScore = r => r.score || r.composite || 0;
+  // Deduplicate by ticker — keep highest score if same ticker appears twice
+  const seen = {};
+  rankings.forEach(r => {
+    if (!seen[r.ticker] || getScore(r) > getScore(seen[r.ticker])) seen[r.ticker] = r;
+  });
+  const sorted = Object.values(seen).sort((a, b) => getScore(b) - getScore(a));
+  body.innerHTML = sorted.map((r, i) => {
+    const sig  = (r.signal || 'WATCH').toUpperCase().replace(/ /g, '_');
+    const prob = r.probability != null ? ` · ${(r.probability * 100).toFixed(0)}%` : '';
+    // BUG 5: flag when market probability is high but composite score maps to WATCH/PASS/HOLD
+    const highProbNote = (r.probability > 0.65 && ['WATCH', 'PASS', 'HOLD'].includes(r.signal || 'WATCH'))
+      ? ' <span style="color:var(--yellow);font-size:9px">(high mkt prob)</span>' : '';
+    // BUG 6: resilience badge
+    const resilientBadge = r.resilience_signal
+      ? ' <span style="color:var(--yellow);font-size:9px;font-weight:700">⚡ RESILIENT</span>' : '';
+    return `<div class="rank-row">
+      <span class="rank-num">${i + 1}</span>
+      <span class="rank-ticker">${r.ticker}</span>
+      <span class="rank-score">${getScore(r).toFixed(3)}${prob}</span>
+      <span class="signal-badge sig-${sig}">${r.signal || 'WATCH'}</span>${highProbNote}${resilientBadge}
+    </div>`;
+  }).join('');
+}
+
+// ── Cypher preset queries ─────────────────────────────────────────
+function setPresetQuery(type) {
+  const runId = state.currentRunId || state.activeRunId || 'RUN_ID';
+  const queries = {
+    stances:  `MATCH (a:Agent)-[r:BULLISH_ON|BEARISH_ON]->(s:Stock {run_id:"${runId}"}) RETURN a,r,s`,
+    converts: `MATCH (a:Agent)-[r:CHANGED_STANCE]->(s:Stock {run_id:"${runId}"}) RETURN a,r,s`,
+    stocks:   `MATCH (s:Stock {run_id:"${runId}"})-[r:COMPETES_WITH]->(p:Stock) RETURN s,r,p`,
+  };
+  const qbox = document.getElementById('query-box');
+  if (qbox) qbox.value = queries[type] || '';
+  runCypherQuery();
+}
+
+// ── Cypher query ──────────────────────────────────────────────────
+async function runCypherQuery() {
+  const query = document.getElementById('query-box').value.trim();
+  if (!query) return;
+  try {
+    const r = await fetch('/api/neo4j/query', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ query }),
+    });
+    const d = await r.json();
+    if (d.error) { alert('Query error: ' + d.error); return; }
+    const nodes = [], edges = [];
+    const seen  = new Set();
+    (d.results || []).forEach(row => {
+      Object.values(row).forEach(val => {
+        if (val && typeof val === 'object' && val.id !== undefined) {
+          const nid = String(val.id);
+          if (!seen.has(nid)) {
+            seen.add(nid);
+            nodes.push({
+              id: nid, label: val.label || val.ticker || val.name || nid,
+              type: 'Stock', signal: 'WATCH', properties: val,
+            });
+          }
+        }
+      });
+    });
+    if (nodes.length) renderGraph({ nodes, edges }, state.simData || {});
+    else alert(`Query returned ${(d.results || []).length} rows (no graph nodes found).`);
+  } catch(e) {
+    alert('Query failed: ' + e.message);
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('query-box').addEventListener('keydown', e => {
+    if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); runCypherQuery(); }
+  });
+});
+
+// ── Modal ─────────────────────────────────────────────────────────
+function openModal()  { document.getElementById('modal-overlay').classList.add('open'); }
+function closeModal() { document.getElementById('modal-overlay').classList.remove('open'); }
+
+async function loadReports() {
+  try {
+    const r = await fetch('/api/reports');
+    const reports = await r.json();
+    const sel = document.getElementById('input-report');
+    reports.slice(0, 30).forEach(rpt => {
+      const opt = document.createElement('option');
+      opt.value            = rpt.path;
+      opt.textContent      = rpt.name;
+      opt.dataset.tickers  = (rpt.tickers || []).join(',');
+      sel.appendChild(opt);
+    });
+    sel.addEventListener('change', () => {
+      if (!sel.value) return;
+      const opt = sel.options[sel.selectedIndex];
+      const tickers = opt.dataset.tickers ? opt.dataset.tickers.split(',').filter(Boolean) : [];
+      if (tickers.length) document.getElementById('input-stocks').value = tickers.join(' ');
+    });
+  } catch(e) {}
+}
+
+async function startSim() {
+  unlockAudio();  // unlock AudioContext on user click before any async work
+  const stocksRaw = document.getElementById('input-stocks').value.trim();
+  let stocks = stocksRaw.split(/\s+/).filter(Boolean).map(s => s.toUpperCase());
+  if (!stocks.length) {
+    const sel = document.getElementById('input-report');
+    const opt = sel.options[sel.selectedIndex];
+    const fromReport = opt && opt.dataset.tickers ? opt.dataset.tickers.split(',').filter(Boolean) : [];
+    if (!fromReport.length) { alert('Enter tickers or select a report.'); return; }
+    stocks = fromReport;
+    document.getElementById('input-stocks').value = stocks.join(' ');
+  }
+
+  // Show activity log immediately — before modal closes, before SSE connects
+  const actLog = document.getElementById('activity-log');
+  if (actLog) { actLog.innerHTML = ''; actLog.classList.add('active'); }
+  addLog(`▶ Simulation started — ${stocks.join(' ')}`, 'info');
+  _scheduleHeartbeat();
+
+  const rounds     = parseInt(document.getElementById('input-rounds').value);
+  const fast       = document.getElementById('input-fast').checked;
+  const reportPath = document.getElementById('input-report').value;
+
+  const btn      = document.getElementById('btn-run-sim');
+  const status   = document.getElementById('modal-status');
+  const progress = document.getElementById('progress-bar');
+  const fill     = document.getElementById('progress-fill');
+
+  btn.disabled = true;
+  btn.textContent = 'Starting…';
+  status.style.display = 'block';
+  status.textContent   = 'Launching simulation…';
+  progress.style.display = 'block';
+  fill.style.width = '5%';
+
+  try {
+    const r = await fetch('/api/run', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ stocks, rounds, fast, report_path: reportPath }),
+    });
+    const d = await r.json();
+    if (d.error) { alert('Error: ' + d.error); resetModal(); return; }
+
+    // BUG 7: show advisory warnings from pre-sim validation
+    if (d.warnings && d.warnings.length) {
+      d.warnings.forEach(w => addLog(`⚠ ${w}`, 'active'));
+    }
+
+    const runId = d.run_id;
+    status.textContent = `Streaming: ${runId}`;
+    fill.style.width   = '15%';
+
+    closeModal();
+    resetModal();
+
+    // Refresh sim list (run may not be in list yet, that's OK)
+    loadSimList();
+
+    // Start SSE stream — all updates come through handleSimEvent
+    startStreaming(runId);
+
+  } catch(e) {
+    alert('Failed to start: ' + e.message);
+    resetModal();
+  }
+}
+
+function resetModal() {
+  const btn = document.getElementById('btn-run-sim');
+  btn.disabled    = false;
+  btn.textContent = '▶ Run Simulation';
+  document.getElementById('modal-status').style.display   = 'none';
+  document.getElementById('progress-bar').style.display   = 'none';
+  document.getElementById('progress-fill').style.width    = '0%';
+  document.getElementById('progress-fill').style.background = 'var(--teal)';
+}
+
+// ── Utils ─────────────────────────────────────────────────────────
+function escHtml(str) {
+  return String(str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+document.getElementById('modal-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modal-overlay')) closeModal();
+});
+</script>
+</body>
+</html>
