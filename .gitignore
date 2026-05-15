@@ -7,3 +7,9 @@ __pycache__/
 .env
 *.log
 *.tmp
+reports/
+oracle_history.db
+run_history.json
+web_state.json
+watchlist/
+reports

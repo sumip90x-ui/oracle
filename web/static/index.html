@@ -30,7 +30,7 @@
     font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', monospace; font-size: 13px; }
 
   /* ── Layout ───────────────────────────────────────────────── */
-  #app { display: flex; height: 100vh; }
+  #app { display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
 
   #left-sidebar {
     width: var(--sidebar); min-width: var(--sidebar);
@@ -344,6 +344,144 @@
   .log-active    { color: var(--yellow); }
   .log-error     { color: var(--red); }
   .log-heartbeat { color: #3d4450; font-style: italic; }
+
+  /* ── View tabs ─────────────────────────────────────────────────────── */
+  #view-tabs {
+    display: flex;
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+    z-index: 10;
+  }
+  .view-tab {
+    padding: 8px 20px;
+    font-size: 11px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    user-select: none;
+  }
+  .view-tab:hover { color: var(--text); }
+  .view-tab.active { color: var(--teal); border-bottom-color: var(--teal); }
+
+  /* ── Screener panel ────────────────────────────────────────────────── */
+  #screener-view {
+    display: none;
+    flex: 1;
+    overflow: hidden;
+    padding: 20px 24px;
+    flex-direction: row;
+    gap: 20px;
+  }
+  #screener-view.visible { display: flex; }
+  #simulator-view { display: flex; flex: 1; overflow: hidden; }
+  #simulator-view.hidden { display: none !important; }
+
+  #screener-left {
+    width: 340px;
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  #screener-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    overflow: hidden;
+  }
+  #screener-controls {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  #screener-log {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-family: 'Courier New', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    flex: 1;
+    min-height: 180px;
+    max-height: 260px;
+    overflow-y: auto;
+    line-height: 1.7;
+  }
+  #screener-log .log-ok   { color: var(--teal); }
+  #screener-log .log-err  { color: #da3633; }
+  #screener-log .log-warn { color: var(--yellow); }
+
+  #screener-table-wrap {
+    flex: 1;
+    overflow-y: auto;
+  }
+  #screener-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 11px;
+  }
+  #screener-table th {
+    padding: 6px 10px;
+    text-align: left;
+    color: var(--muted);
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+    font-weight: 500;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    font-size: 10px;
+  }
+  #screener-table td {
+    padding: 7px 10px;
+    border-bottom: 1px solid var(--bg3);
+    vertical-align: middle;
+  }
+  #screener-table tr:hover td { background: var(--bg3); }
+  .score-badge {
+    display: inline-block;
+    padding: 2px 7px;
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: 600;
+    background: var(--bg3);
+    color: var(--text);
+  }
+  .triage-check {
+    width: 14px; height: 14px; cursor: pointer;
+  }
+  #screener-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding: 10px 0 0;
+    flex-shrink: 0;
+  }
+  #triage-summary {
+    font-size: 11px;
+    color: var(--muted);
+    flex: 1;
+  }
+  .btn-launch-sim {
+    background: var(--teal);
+    color: #000;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .05em;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+  .btn-launch-sim:disabled { opacity: 0.4; cursor: default; }
+
+  #report-modal-overlay.open { display: flex !important; }
 </style>
 </head>
 <body>
@@ -355,6 +493,115 @@
 </div>
 
 <div id="app">
+
+  <!-- ── VIEW TABS ─────────────────────────────────────────────────── -->
+  <div id="view-tabs">
+    <div class="view-tab active" onclick="switchView('screener')" id="tab-screener">⬡ Screener</div>
+    <div class="view-tab" onclick="switchView('simulator')" id="tab-simulator">⬡ Simulator</div>
+    <div class="view-tab" onclick="switchView('reports')" id="tab-reports">⬡ Reports</div>
+  </div>
+
+  <!-- ── SCREENER VIEW ──────────────────────────────────────────────── -->
+  <div id="screener-view" class="visible">
+    <div id="screener-left">
+      <div style="font-size:13px;font-weight:600;color:var(--text);letter-spacing:.04em">PORTFOLIO SCREENER</div>
+      <div style="font-size:10px;color:var(--muted);line-height:1.6">Scans your Fidelity portfolio for runner candidates using live fundamentals. Scores and ranks by multibagger DNA. Haiku triage picks the best 6 for simulation.</div>
+      <div id="screener-controls">
+        <label id="csv-upload-label" style="display:inline-flex;align-items:center;gap:6px;padding:6px 12px;background:transparent;border:1px solid var(--border);color:var(--muted);border-radius:4px;font-size:11px;cursor:pointer;font-family:inherit" title="Upload Fidelity portfolio CSV">
+          📁 Upload CSV
+          <input type="file" id="csv-file-input" accept=".csv" style="display:none" onchange="uploadCSV(this)">
+        </label>
+        <span id="csv-status" style="font-size:10px;color:var(--muted);max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap"></span>
+        <select id="portfolio-select" style="padding:5px 8px;background:var(--bg2);border:1px solid var(--border);color:var(--fg);border-radius:4px;font-size:11px;font-family:inherit;cursor:pointer;max-width:220px" title="Filter screener to a specific portfolio">
+          <option value="">All Portfolios</option>
+        </select>
+        <button class="btn btn-run" onclick="runScreener()" id="btn-run-screen">Run Screener</button>
+        <label style="font-size:10px;color:var(--muted);display:flex;align-items:center;gap:5px;cursor:pointer">
+          <input type="checkbox" id="screen-refresh"> Refresh Cache
+        </label>
+        <span id="screener-live-indicator" style="display:none;font-size:10px;color:var(--teal);animation:tabPulse 1.5s infinite">&#9679; Live</span>
+      </div>
+
+      <!-- ── Custom Ticker Research (bypass screener) ── -->
+      <div style="display:flex;align-items:center;gap:8px;padding:8px 0;border-top:1px solid var(--border);margin-top:2px">
+        <span style="font-size:10px;color:var(--muted);white-space:nowrap;letter-spacing:.04em;text-transform:uppercase">Research Specific Tickers:</span>
+        <input id="custom-tickers-input" type="text" placeholder="e.g. NVDA  or  AAPL MSFT TSLA"
+          style="flex:1;padding:5px 10px;background:var(--bg2);border:1px solid var(--border);color:var(--fg);border-radius:4px;font-size:11px;font-family:inherit;outline:none"
+          oninput="onCustomTickersInput()"
+          onkeydown="if(event.key==='Enter') launchCustomResearch()">
+        <button id="btn-custom-research" onclick="launchCustomResearch()"
+          style="padding:5px 14px;background:rgba(0,212,170,.15);border:1px solid var(--teal);color:var(--teal);border-radius:4px;font-size:11px;cursor:pointer;font-family:inherit;white-space:nowrap;opacity:0.4"
+          disabled>→ Research</button>
+        <span style="font-size:10px;color:var(--muted)">Skips screener — goes straight to Think Tank + Sim</span>
+      </div>
+
+      <div id="screener-log"><span style="color:var(--muted);font-size:10px">Click Run Screener to scan your portfolio...</span></div>
+      <div id="tt-section" style="display:none;flex-direction:column;gap:6px">
+        <div style="font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em">Think Tank Report</div>
+        <div id="tt-log" style="background:var(--bg2);border:1px solid var(--border);border-radius:6px;padding:10px 12px;font-family:'Courier New',monospace;font-size:11px;color:var(--muted);min-height:100px;max-height:180px;overflow-y:auto;line-height:1.7"></div>
+      </div>
+      <div id="screener-actions" style="display:none">
+        <div id="triage-summary">Select tickers above</div>
+        <label style="font-size:10px;color:var(--muted);display:flex;align-items:center;gap:4px;cursor:pointer;white-space:nowrap">
+          <input type="checkbox" id="tt-fast"> Fast (Haiku)
+        </label>
+        <button class="btn-launch-sim" onclick="generateReportAndLaunchSim()" id="btn-launch-sim" disabled>→ Generate TT Report</button>
+        <button id="btn-cancel-tt" style="display:none;padding:6px 14px;background:transparent;border:1px solid #da3633;color:#da3633;border-radius:4px;font-size:11px;cursor:pointer;font-family:inherit" onclick="">Cancel</button>
+      </div>
+    </div>
+    <div id="screener-right">
+      <div style="font-size:11px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase;padding:2px 0">Runner Candidates</div>
+      <div id="screener-table-wrap">
+        <table id="screener-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Ticker</th>
+              <th>Score</th>
+              <th>Sector</th>
+              <th>EPS</th>
+              <th>Rev Grw%</th>
+              <th>Dip%</th>
+              <th>Analyst↑%</th>
+              <th title="Include in simulation">Sim</th>
+            </tr>
+          </thead>
+          <tbody id="screener-tbody">
+            <tr><td colspan="9" style="color:var(--muted);text-align:center;padding:30px">Run screener to see results</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── REPORTS VIEW ──────────────────────────────────────────────── -->
+  <div id="reports-view" style="display:none;flex:1;overflow:hidden;flex-direction:row;gap:0">
+    <div id="reports-sidebar" style="width:280px;min-width:240px;background:var(--bg2);border-right:1px solid var(--border);display:flex;flex-direction:column;overflow:hidden">
+      <div style="padding:14px 16px;border-bottom:1px solid var(--border);flex-shrink:0">
+        <div style="font-size:12px;font-weight:600;color:var(--teal);letter-spacing:.05em">FINAL REPORTS</div>
+        <div style="font-size:10px;color:var(--muted);margin-top:3px">Combined Think Tank + Simulation analysis</div>
+      </div>
+
+      <div id="final-report-list" style="flex:1;overflow-y:auto;padding:8px 0">
+        <div style="padding:20px;text-align:center;color:var(--muted);font-size:11px">Loading...</div>
+      </div>
+    </div>
+    <div id="reports-content-area" style="flex:1;display:flex;flex-direction:column;overflow:hidden">
+      <div style="padding:10px 16px;border-bottom:1px solid var(--border);background:var(--bg2);flex-shrink:0">
+        <span id="report-content-title" style="font-size:11px;color:var(--muted)">Select a report from the list</span>
+      </div>
+      <div id="report-content-body" style="flex:1;overflow-y:auto;padding:24px 32px;font-family:'Courier New',monospace;font-size:11px;line-height:1.8;color:var(--text);white-space:pre-wrap;word-break:break-word">
+        <div style="color:var(--muted);text-align:center;padding:60px 20px">
+          <div style="font-size:32px;margin-bottom:16px">📊</div>
+          <div style="font-size:13px;margin-bottom:8px">No report loaded</div>
+          <div style="font-size:11px">Reports generate automatically after a simulation completes.<br>Select an existing report from the list.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── SIMULATOR VIEW ────────────────────────────────────────────── -->
+  <div id="simulator-view" class="hidden">
 
   <!-- ── LEFT SIDEBAR ──────────────────────────────────────────── -->
   <aside id="left-sidebar">
@@ -441,6 +688,13 @@
       <!-- Activity log: visible immediately on sim start, streams every step in real time -->
       <div id="activity-log"></div>
       <div id="round-tabs"></div>
+      <div id="sim-controls" style="display:none; padding:6px 14px; background:var(--bg2); border-bottom:1px solid var(--border); flex-direction:row; gap:8px; align-items:center; flex-shrink:0">
+        <span style="font-size:10px; color:var(--muted); letter-spacing:.05em">SIM CONTROLS</span>
+        <button id="btn-sim-stop" onclick="simStop()" style="padding:4px 12px; background:#da363322; border:1px solid #da3633; color:#da3633; border-radius:4px; font-size:11px; cursor:pointer; font-family:inherit">&#9632; Stop</button>
+        <button id="btn-sim-pause" onclick="simPause()" style="padding:4px 12px; background:#d2992222; border:1px solid #d29922; color:#d29922; border-radius:4px; font-size:11px; cursor:pointer; font-family:inherit">&#9646;&#9646; Pause</button>
+        <button id="btn-sim-resume" onclick="simResume()" style="display:none; padding:4px 12px; background:#23863622; border:1px solid #238636; color:#238636; border-radius:4px; font-size:11px; cursor:pointer; font-family:inherit">&#9654; Resume</button>
+        <span id="sim-control-status" style="font-size:10px; color:var(--muted)"></span>
+      </div>
       <div id="round-content">
         <div class="empty-state">Select a simulation to view rounds.</div>
       </div>
@@ -465,6 +719,8 @@
       </div>
     </div>
   </aside>
+
+  </div><!-- /#simulator-view -->
 
 </div>
 
@@ -506,6 +762,24 @@
       <button onclick="oracleSpeak('Oracle voice test. If you can hear this, voice is working.')" style="margin-left:8px;padding:4px 10px;background:rgba(0,212,170,.1);border:1px solid var(--teal);color:var(--teal);border-radius:4px;cursor:pointer;font-size:11px;">🔊 Test Voice</button>
       <button id="btn-cancel"  onclick="closeModal()">Cancel</button>
     </div>
+  </div>
+</div>
+
+<!-- ── Report Viewer Modal ─────────────────────────────────────── -->
+<div id="report-modal-overlay" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.8);z-index:200;align-items:center;justify-content:center;padding:20px">
+  <div id="report-modal" style="background:var(--bg2);border:1px solid var(--border);border-radius:8px;width:90%;max-width:900px;max-height:90vh;display:flex;flex-direction:column;overflow:hidden">
+    <div style="display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:1px solid var(--border);flex-shrink:0">
+      <div>
+        <span style="font-size:13px;font-weight:600;color:var(--teal)">Report Viewer</span>
+        <span id="report-modal-name" style="font-size:10px;color:var(--muted);margin-left:10px"></span>
+      </div>
+      <div style="display:flex;gap:8px;align-items:center">
+        <span id="report-trunc-badge" style="display:none;padding:2px 8px;background:#da363322;border:1px solid #da3633;color:#da3633;border-radius:10px;font-size:10px">⚠ Truncation detected</span>
+        <button onclick="closeReportModal()" style="background:transparent;border:1px solid var(--border);color:var(--muted);padding:4px 10px;border-radius:4px;cursor:pointer;font-size:11px;font-family:inherit">✕ Close</button>
+        <button id="report-proceed-btn" onclick="proceedFromReport()" style="background:var(--teal);color:#000;border:none;padding:5px 14px;border-radius:4px;cursor:pointer;font-size:11px;font-weight:700;font-family:inherit">▶ Proceed to Sim</button>
+      </div>
+    </div>
+    <div id="report-modal-content" style="flex:1;overflow-y:auto;padding:18px 22px;font-family:'Courier New',monospace;font-size:11px;line-height:1.8;color:var(--text);white-space:pre-wrap;word-break:break-word"></div>
   </div>
 </div>
 
@@ -614,10 +888,48 @@ async function loadSimList() {
       <div class="sim-item" onclick="loadSim('${s.run_id}')" id="si-${s.run_id}">
         <div class="run-id" title="${s.run_id}">${s.run_id}</div>
         <div class="tickers">${(s.stocks || []).join(' · ')}</div>
+        <div style="margin-top:4px">
+          <button onclick="event.stopPropagation(); rerunSim('${s.run_id}', ${JSON.stringify(s.stocks || [])})"
+            style="padding:2px 8px;background:transparent;border:1px solid var(--teal);color:var(--teal);border-radius:3px;font-size:9px;cursor:pointer;font-family:inherit;letter-spacing:.03em">
+            ↺ Re-run
+          </button>
+        </div>
       </div>`).join('');
   } catch(e) {
     list.innerHTML = '<div class="empty-state">Error loading simulations.</div>';
   }
+}
+
+function rerunSim(runId, stocks) {
+  if (!stocks || !stocks.length) return;
+  // Find the most recent TT report for these stocks
+  const rounds = stocks.length === 1 ? 5 : stocks.length <= 3 ? 6 : 8;
+  if (!confirm(`Re-run simulation for ${stocks.join(', ')}?\n${rounds} rounds — results will differ from original (different injection seeds).`)) return;
+
+  const actLog = document.getElementById('activity-log');
+  if (actLog) { actLog.innerHTML = ''; actLog.classList.add('active'); }
+  if (typeof addLog === 'function') addLog(`↺ Re-running — ${stocks.join(' ')} (${rounds} rounds)`, 'info');
+
+  switchView('simulator');
+
+  fetch('/api/run', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({
+      stocks,
+      rounds,
+      fast:        false,
+      report_path: '',   // will use latest TT report automatically
+      seed_path:   '',
+    })
+  })
+  .then(r => r.json())
+  .then(d => {
+    if (d.error) { if (typeof addLog === 'function') addLog('Re-run failed: ' + d.error, 'error'); return; }
+    loadSimList();
+    startStreaming(d.run_id);
+  })
+  .catch(e => { if (typeof addLog === 'function') addLog('Re-run error: ' + e, 'error'); });
 }
 
 // ── Load simulation (static/completed) ───────────────────────────
@@ -1421,6 +1733,68 @@ function _stopHeartbeatTimer() {
   _logHeartbeatEl = null;
 }
 
+// ── Sim Controls ──────────────────────────────────────────────────
+
+function showSimControls() {
+  const el = document.getElementById('sim-controls');
+  if (el) { el.style.display = 'flex'; }
+  const resume = document.getElementById('btn-sim-resume');
+  const pause  = document.getElementById('btn-sim-pause');
+  if (resume) resume.style.display = 'none';
+  if (pause)  pause.style.display  = 'inline-block';
+  const status = document.getElementById('sim-control-status');
+  if (status) status.textContent = '';
+}
+
+function hideSimControls() {
+  const el = document.getElementById('sim-controls');
+  if (el) { el.style.display = 'none'; }
+  const resume = document.getElementById('btn-sim-resume');
+  const pause  = document.getElementById('btn-sim-pause');
+  if (resume) resume.style.display = 'none';
+  if (pause)  pause.style.display  = 'inline-block';
+  const status = document.getElementById('sim-control-status');
+  if (status) status.textContent = '';
+}
+
+function simStop() {
+  if (!state.activeRunId) return;
+  fetch(`/api/run/${state.activeRunId}/stop`, { method: 'POST' })
+    .then(() => {
+      addLog('■ Stop requested — finishing current round...', 'warn');
+      const status = document.getElementById('sim-control-status');
+      if (status) status.textContent = 'Stopping...';
+    });
+}
+
+function simPause() {
+  if (!state.activeRunId) return;
+  fetch(`/api/run/${state.activeRunId}/pause`, { method: 'POST' })
+    .then(() => {
+      addLog('⏸ Simulation paused', 'active');
+      const pause  = document.getElementById('btn-sim-pause');
+      const resume = document.getElementById('btn-sim-resume');
+      if (pause)  pause.style.display  = 'none';
+      if (resume) resume.style.display = 'inline-block';
+      const status = document.getElementById('sim-control-status');
+      if (status) status.textContent = 'Paused';
+    });
+}
+
+function simResume() {
+  if (!state.activeRunId) return;
+  fetch(`/api/run/${state.activeRunId}/resume`, { method: 'POST' })
+    .then(() => {
+      addLog('▶ Simulation resumed', 'ok');
+      const pause  = document.getElementById('btn-sim-pause');
+      const resume = document.getElementById('btn-sim-resume');
+      if (pause)  pause.style.display  = 'inline-block';
+      if (resume) resume.style.display = 'none';
+      const status = document.getElementById('sim-control-status');
+      if (status) status.textContent = '';
+    });
+}
+
 // ── SSE Streaming ─────────────────────────────────────────────────
 
 function startStreaming(runId) {
@@ -1455,6 +1829,22 @@ function handleSimEvent(event) {
 
     case 'sim_log':
       addLog(event.msg, event.level || 'info');
+      // Auto-surface final report when investment memo is ready
+      if (event.msg && event.msg.includes('Investment memo generated')) {
+        const memoName = event.msg.split(': ').pop() || '';
+        addLog(`📄 Final report ready — switch to Reports tab to view`, 'success');
+        // Pre-load the reports list so it's ready when user switches
+        loadFinalReportList();
+        // Show a clickable banner
+        const actLog = document.getElementById('activity-log');
+        if (actLog) {
+          const banner = document.createElement('div');
+          banner.style.cssText = 'margin:6px 0;padding:8px 12px;background:rgba(0,212,170,.1);border:1px solid var(--teal);border-radius:4px;font-size:11px;cursor:pointer;color:var(--teal)';
+          banner.innerHTML = `📄 <strong>Investment Memo Ready</strong> — <span style="text-decoration:underline" onclick="switchView('reports')">View in Reports Tab →</span>`;
+          actLog.appendChild(banner);
+          actLog.scrollTop = actLog.scrollHeight;
+        }
+      }
       break;
 
     case 'heartbeat':
@@ -1465,6 +1855,7 @@ function handleSimEvent(event) {
       console.log('[SSE graph_built] nodes:', event.nodes.length,
                   'first 3:', JSON.stringify(event.nodes.slice(0, 3)));
       addLog(`✓ Graph built — ${event.nodes.length} nodes, ${(event.edges||[]).length} edges`, 'success');
+      showSimControls();
       switchToLiveFeed();
       renderInitialGraph(event.nodes);
       const stocks = event.nodes.filter(n => (n.type||'').toLowerCase() === 'stock').map(n => n.label);
@@ -1557,6 +1948,7 @@ function handleSimEvent(event) {
 
     case 'sim_complete': {
       _stopHeartbeatTimer();
+      hideSimControls();
       state.eventSource?.close();
       state.eventSource = null;
       const _topPick = event.rankings?.[0];
@@ -1585,6 +1977,8 @@ function handleSimEvent(event) {
       loadSimList().then(() => {
         if (state.liveRunId) loadSim(state.liveRunId);
       });
+      // Pre-load reports list so Reports tab is ready
+      loadFinalReportList();
       break;
     }
 
@@ -2064,6 +2458,756 @@ function escHtml(str) {
 document.getElementById('modal-overlay').addEventListener('click', e => {
   if (e.target === document.getElementById('modal-overlay')) closeModal();
 });
+
+// ── View tab switching ──────────────────────────────────────────────────────
+function switchView(view) {
+  document.querySelectorAll('.view-tab').forEach(t => t.classList.remove('active'));
+  ['screener-view','simulator-view','reports-view'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = 'none';
+  });
+  if (view === 'screener') {
+    document.getElementById('tab-screener').classList.add('active');
+    document.getElementById('screener-view').style.display = 'flex';
+    checkForActiveJobs();
+  } else if (view === 'simulator') {
+    document.getElementById('tab-simulator').classList.add('active');
+    const simEl = document.getElementById('simulator-view');
+    simEl.classList.remove('hidden');
+    simEl.style.display = 'flex';
+    loadSimList();
+  } else if (view === 'reports') {
+    document.getElementById('tab-reports').classList.add('active');
+    document.getElementById('reports-view').style.display = 'flex';
+    loadFinalReportList();
+  }
+}
+
+// ── Screener ────────────────────────────────────────────────────────────────
+let _screenerJobId = null;
+let _screenerResults = [];
+let _screenerTriage = [];
+
+function runScreener() {
+  const refresh  = document.getElementById('screen-refresh').checked;
+  const btn      = document.getElementById('btn-run-screen');
+  const logEl    = document.getElementById('screener-log');
+  const actionsEl = document.getElementById('screener-actions');
+  const liveInd  = document.getElementById('screener-live-indicator');
+
+  btn.disabled   = true;
+  btn.textContent = 'Running…';
+  logEl.innerHTML = '';
+  actionsEl.style.display = 'none';
+  if (liveInd) liveInd.style.display = 'inline';
+  document.getElementById('screener-tbody').innerHTML =
+    '<tr><td colspan="9" style="color:var(--muted);text-align:center;padding:30px">Scanning portfolio…</td></tr>';
+
+  function appendLog(msg, kind) {
+    const cls = kind === 'error' ? 'log-err' : kind === 'warn' ? 'log-warn' : kind === 'ok' ? 'log-ok' : '';
+    const ts  = new Date().toLocaleTimeString('en-US', {hour12: false});
+    const div = document.createElement('div');
+    div.innerHTML = `<span style="color:var(--muted);font-size:9px">${ts}</span> <span class="${cls}">${msg}</span>`;
+    logEl.appendChild(div);
+    logEl.scrollTop = logEl.scrollHeight;
+  }
+
+  const portfolio = document.getElementById('portfolio-select')?.value || '';
+
+  fetch('/api/screen', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({refresh, portfolio})
+  })
+  .then(r => r.json())
+  .then(data => {
+    _screenerJobId = data.job_id;
+    const es = new EventSource(`/api/screen/${_screenerJobId}/stream`);
+
+    es.onmessage = (e) => {
+      const ev = JSON.parse(e.data);
+      if (ev.type === 'heartbeat') return;
+
+      if (ev.type === 'log') {
+        const kind = ev.msg && ev.msg.startsWith('ERROR') ? 'error'
+                   : ev.msg && ev.msg.startsWith('Triage complete') ? 'ok'
+                   : '';
+        appendLog(ev.msg, kind);
+      }
+
+      if (ev.type === 'done') {
+        es.close();
+        btn.disabled   = false;
+        btn.textContent = 'Run Screener';
+        const liveIndDone = document.getElementById('screener-live-indicator');
+        if (liveIndDone) liveIndDone.style.display = 'none';
+
+        if (ev.error) {
+          appendLog('Screener failed: ' + ev.error, 'error');
+          return;
+        }
+
+        _screenerResults = ev.results || [];
+        _screenerTriage  = ev.triage  || [];
+        appendLog('Done — ' + _screenerResults.length + ' candidates, triage: ' + _screenerTriage.join(', '), 'ok');
+        renderScreenerTable(_screenerResults, _screenerTriage);
+        actionsEl.style.display = 'flex';
+        updateTriageSummary();
+      }
+    };
+
+    es.onerror = () => {
+      es.close();
+      btn.disabled = false;
+      btn.textContent = 'Run Screener';
+      const liveIndErr = document.getElementById('screener-live-indicator');
+      if (liveIndErr) liveIndErr.style.display = 'none';
+      appendLog('Stream error — check server logs', 'error');
+    };
+  })
+  .catch(err => {
+    btn.disabled = false;
+    btn.textContent = 'Run Screener';
+    appendLog('Failed to start screener: ' + err, 'error');
+  });
+}
+
+function renderScreenerTable(results, triage) {
+  const tbody = document.getElementById('screener-tbody');
+  if (!results || results.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="9" style="color:var(--muted);text-align:center;padding:30px">No candidates found</td></tr>';
+    return;
+  }
+
+  tbody.innerHTML = results.map((r, i) => {
+    const checked  = triage.includes(r.symbol) ? 'checked' : '';
+    const scoreColor = r.score >= 40 ? '#238636' : r.score >= 30 ? '#d29922' : 'var(--muted)';
+    const epsColor   = (r.eps_status || '').includes('✓') || (r.eps_status || '').toLowerCase().includes('turning')
+                       ? 'var(--teal)' : 'var(--muted)';
+    const revColor   = r.rev_growth > 20 ? 'var(--teal)' : r.rev_growth > 0 ? 'var(--text)' : '#da3633';
+    const dipColor   = r.dip_pct < -30 ? 'var(--teal)' : r.dip_pct < 0 ? 'var(--text)' : 'var(--muted)';
+    const anlColor   = r.analyst_upside > 50 ? 'var(--teal)' : r.analyst_upside > 20 ? 'var(--text)' : 'var(--muted)';
+    const sector     = (r.sector || '').split(' ')[0].substring(0, 12);
+    return `<tr>
+      <td style="color:var(--muted)">${i+1}</td>
+      <td style="font-weight:700;color:var(--text)">${r.symbol}</td>
+      <td><span class="score-badge" style="color:${scoreColor};background:${scoreColor}22">${r.score}</span></td>
+      <td style="color:var(--muted);font-size:10px">${sector}</td>
+      <td style="color:${epsColor};font-size:10px">${r.eps_status || '–'}</td>
+      <td style="color:${revColor}">${r.rev_growth > 0 ? '+' : ''}${(r.rev_growth||0).toFixed(0)}%</td>
+      <td style="color:${dipColor}">${(r.dip_pct||0).toFixed(0)}%</td>
+      <td style="color:${anlColor}">${r.analyst_upside > 0 ? '+' : ''}${(r.analyst_upside||0).toFixed(0)}%</td>
+      <td><input type="checkbox" class="triage-check" data-ticker="${r.symbol}" ${checked}
+          onchange="updateTriageSummary()"></td>
+    </tr>`;
+  }).join('');
+}
+
+function updateTriageSummary() {
+  const checked = [...document.querySelectorAll('.triage-check:checked')].map(c => c.dataset.ticker);
+  const btn = document.getElementById('btn-launch-sim');
+  const sumEl = document.getElementById('triage-summary');
+  if (checked.length === 0) {
+    sumEl.textContent = 'No tickers selected';
+    btn.disabled = true;
+  } else {
+    sumEl.textContent = checked.length + ' selected: ' + checked.join(', ');
+    btn.disabled = false;
+  }
+}
+
+function launchSimFromScreener() {
+  const tickers = [...document.querySelectorAll('.triage-check:checked')].map(c => c.dataset.ticker);
+  if (tickers.length === 0) return;
+
+  // Switch to simulator view and open the modal with tickers pre-filled
+  switchView('simulator');
+  openModal();
+
+  // Pre-fill the stock input in the modal
+  setTimeout(() => {
+    const stockInput = document.getElementById('input-stocks');
+    if (stockInput) {
+      stockInput.value = tickers.join(' ');
+      stockInput.dispatchEvent(new Event('input'));
+    }
+  }, 100);
+}
+
+let _ttJobId = null;
+
+function generateReportAndLaunchSim() {
+  const tickers = [...document.querySelectorAll('.triage-check:checked')].map(c => c.dataset.ticker);
+  if (tickers.length === 0) return;
+
+  const fast   = document.getElementById('tt-fast').checked;
+  const btn    = document.getElementById('btn-launch-sim');
+  const logEl  = document.getElementById('screener-log');
+  const ttSec  = document.getElementById('tt-section');
+  const ttLog  = document.getElementById('tt-log');
+  const cancelBtn = document.getElementById('btn-cancel-tt');
+
+  btn.disabled    = true;
+  btn.textContent = 'Running Think Tank…';
+  cancelBtn.style.display = 'inline-block';
+  cancelBtn.textContent   = 'Cancel';
+  cancelBtn.onclick = () => {
+    cancelBtn.style.display = 'none';
+    appendTTLog('Cancelled.', 'warn');
+    btn.disabled    = false;
+    btn.textContent = '→ Generate TT Report';
+  };
+  ttSec.style.display = 'flex';
+  ttLog.innerHTML = '';
+
+  function appendTTLog(msg, kind) {
+    const cls = kind === 'error' ? 'log-err' : kind === 'ok' ? 'log-ok' : kind === 'warn' ? 'log-warn' : '';
+    const ts  = new Date().toLocaleTimeString('en-US', {hour12: false});
+    const div = document.createElement('div');
+    div.innerHTML = `<span style="color:var(--muted);font-size:9px">${ts}</span> <span class="${cls}">${msg}</span>`;
+    ttLog.appendChild(div);
+    ttLog.scrollTop = ttLog.scrollHeight;
+  }
+
+  appendTTLog(`Starting Think Tank for: ${tickers.join(', ')}`);
+
+  fetch('/api/thinktank', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({tickers, fast})
+  })
+  .then(r => r.json())
+  .then(data => {
+    _ttJobId = data.job_id;
+    const es = new EventSource(`/api/thinktank/${_ttJobId}/stream`);
+
+    es.onmessage = (e) => {
+      const ev = JSON.parse(e.data);
+      if (ev.type === 'heartbeat') return;
+
+      if (ev.type === 'log') {
+        const pctMatch = ev.msg && ev.msg.match(/^\[(\d+)%\]/);
+        const pct = pctMatch ? parseInt(pctMatch[1]) : null;
+        // Use explicit kind from backend if present, otherwise infer from message content
+        const kind = ev.kind ? ev.kind
+                   : ev.msg && ev.msg.startsWith('Error') ? 'error'
+                   : ev.msg && ev.msg.includes('PRE-FLIGHT ERROR') ? 'error'
+                   : ev.msg && ev.msg.includes('PRE-FLIGHT HALT') ? 'error'
+                   : ev.msg && (ev.msg.includes('saved') || ev.msg.includes('✓')) ? 'ok'
+                   : ev.msg && ev.msg.includes('⚠') ? 'warn'
+                   : ev.msg && ev.msg.includes('PRE-FLIGHT WARN') ? 'warn'
+                   : '';
+        appendTTLog(ev.msg, kind);
+
+        // Update progress bar if we have a pct
+        if (pct !== null) {
+          let bar = document.getElementById('tt-progress-bar');
+          if (!bar) {
+            bar = document.createElement('div');
+            bar.id = 'tt-progress-bar';
+            bar.style.cssText = 'height:3px;background:var(--bg3);border-radius:2px;margin:4px 0;overflow:hidden';
+            bar.innerHTML = '<div id="tt-progress-fill" style="height:100%;background:var(--teal);width:0%;transition:width 0.5s ease"></div>';
+            ttLog.parentNode.insertBefore(bar, ttLog);
+          }
+          document.getElementById('tt-progress-fill').style.width = pct + '%';
+        }
+      }
+
+      if (ev.type === 'done') {
+        es.close();
+
+        if (ev.error) {
+          appendTTLog('Think Tank failed: ' + ev.error, 'error');
+          btn.disabled    = false;
+          btn.textContent = '→ Generate TT Report';
+          cancelBtn.style.display = 'none';
+          return;
+        }
+
+        appendTTLog('✓ Think Tank complete — <a href="#" onclick="openReportModal(\'' + ev.report_path.replace(/'/g, "\\'") + '\', null);return false;" style="color:var(--teal);font-weight:bold">📄 Review Report</a> before launching sim.', 'ok');
+
+        // Show prominent review button — NO auto-launch, NO countdown, NO skip button
+        const reviewBanner = document.createElement('div');
+        reviewBanner.style.cssText = 'margin:8px 0;display:flex;gap:8px;align-items:center';
+        reviewBanner.innerHTML = `
+          <button onclick="openReportModal('${ev.report_path.replace(/'/g, "\\'")}', { tickers: ${JSON.stringify(ev.tickers)}, report_path: '${ev.report_path.replace(/'/g, "\\'")}', fast: document.getElementById('tt-fast')?.checked, seed_path: '${(ev.seed_path||'').replace(/'/g, "\\'")}' })"
+            style="padding:6px 16px;background:var(--teal);border:none;color:#000;border-radius:4px;font-size:11px;font-weight:700;cursor:pointer;font-family:inherit">
+            📄 Review Report — then launch sim manually
+          </button>
+        `;
+        ttLog.parentNode.appendChild(reviewBanner);
+        cancelBtn.style.display = 'none';
+        btn.disabled = false;
+        btn.textContent = '→ Generate TT Report';
+      }
+    };
+
+    es.onerror = () => {
+      es.close();
+      appendTTLog('Stream error — check server logs', 'error');
+      btn.disabled    = false;
+      btn.textContent = '→ Generate TT Report';
+      cancelBtn.style.display = 'none';
+    };
+  })
+  .catch(err => {
+    appendTTLog('Failed to start Think Tank: ' + err, 'error');
+    btn.disabled    = false;
+    btn.textContent = '→ Generate TT Report';
+    cancelBtn.style.display = 'none';
+  });
+}
+
+// ── Report Viewer ───────────────────────────────────────────────────────────
+let _pendingSimAfterReport = null;  // { tickers, report_path, fast } set when auto-launch paused for review
+
+function openReportModal(reportPath, pendingSimConfig) {
+  _pendingSimAfterReport = pendingSimConfig || null;
+
+  const overlay   = document.getElementById('report-modal-overlay');
+  const nameEl    = document.getElementById('report-modal-name');
+  const contentEl = document.getElementById('report-modal-content');
+  const badgeEl   = document.getElementById('report-trunc-badge');
+  const proceedBtn = document.getElementById('report-proceed-btn');
+
+  nameEl.textContent    = reportPath.split('/').pop();
+  contentEl.textContent = 'Loading report...';
+  badgeEl.style.display = 'none';
+  proceedBtn.style.display = _pendingSimAfterReport ? 'inline-block' : 'none';
+
+  overlay.classList.add('open');
+  overlay.style.display = 'flex';
+
+  fetch(`/api/report_content?path=${encodeURIComponent(reportPath)}`)
+    .then(r => r.json())
+    .then(d => {
+      if (d.error) {
+        contentEl.textContent = 'Error loading report: ' + d.error;
+        return;
+      }
+      contentEl.textContent = d.content;
+      if (d.content.includes('TRUNCATED')) {
+        badgeEl.style.display = 'inline-block';
+      }
+    })
+    .catch(e => {
+      contentEl.textContent = 'Failed to load: ' + e;
+    });
+}
+
+function closeReportModal() {
+  const overlay = document.getElementById('report-modal-overlay');
+  overlay.classList.remove('open');
+  overlay.style.display = 'none';
+  _pendingSimAfterReport = null;
+}
+
+function proceedFromReport() {
+  closeReportModal();
+  if (!_pendingSimAfterReport) return;
+  _doLaunchSim({
+    tickers:     _pendingSimAfterReport.tickers,
+    report_path: _pendingSimAfterReport.report_path,
+    seed_path:   _pendingSimAfterReport.seed_path || '',
+  });
+}
+// ── Final Reports ────────────────────────────────────────────────────────────
+
+function loadFinalReportList() {
+  const el = document.getElementById('final-report-list');
+  fetch('/api/final_reports')
+    .then(r => r.json())
+    .then(reports => {
+      if (!Array.isArray(reports) || !reports.length) {
+        el.innerHTML = '<div style="padding:20px;text-align:center;color:var(--muted);font-size:11px">No reports yet.<br>Click + Generate Report.</div>';
+        return;
+      }
+      el.innerHTML = reports.map(r => `
+        <div onclick="loadFinalReport('${r.path.replace(/'/g,"\\'")}') "
+             style="padding:10px 14px;cursor:pointer;border-bottom:1px solid var(--border)"
+             onmouseenter="this.style.background='var(--bg3)'"
+             onmouseleave="this.style.background=''">
+          <div style="font-size:11px;font-weight:600;color:var(--text);word-break:break-all">${r.filename.replace('ORACLE_FINAL_','').replace('.md','')}</div>
+          <div style="font-size:10px;color:var(--muted);margin-top:3px">${r.modified} · ${Math.round(r.size/1000)}KB</div>
+        </div>
+      `).join('');
+    })
+    .catch(e => { el.innerHTML = `<div style="padding:20px;color:#da3633;font-size:11px">Error: ${e}</div>`; });
+}
+
+function loadFinalReport(path) {
+  const title = document.getElementById('report-content-title');
+  const body  = document.getElementById('report-content-body');
+  if (title) title.textContent = path.split('/').pop();
+  if (body)  body.textContent  = 'Loading...';
+  fetch(`/api/final_report/content?path=${encodeURIComponent(path)}`)
+    .then(r => r.json())
+    .then(d => {
+      if (d.error) { if (body) body.textContent = 'Error: ' + d.error; return; }
+      if (body) body.textContent = d.content;
+    })
+    .catch(e => { if (body) body.textContent = 'Failed: ' + e; });
+}
+
+function generateFinalReport() {
+  const btn    = document.getElementById('btn-gen-report');
+  const status = document.getElementById('report-gen-status');
+  btn.disabled    = true;
+  btn.textContent = 'Generating...';
+  if (status) { status.textContent = 'Building from latest sim + Think Tank...'; status.style.color = 'var(--teal)'; }
+
+  fetch('/api/final_report/generate', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({})
+  })
+  .then(r => r.json())
+  .then(d => {
+    btn.disabled    = false;
+    btn.textContent = '+ Generate Report';
+    if (d.error) {
+      if (status) { status.textContent = 'Error: ' + d.error.substring(0,80); status.style.color = '#da3633'; }
+      return;
+    }
+    if (status) { status.textContent = `✓ ${Math.round(d.size/1000)}KB saved`; status.style.color = 'var(--teal)'; }
+    loadFinalReportList();
+    loadFinalReport(d.path);
+  })
+  .catch(e => {
+    btn.disabled    = false;
+    btn.textContent = '+ Generate Report';
+    if (status) { status.textContent = 'Failed: ' + e; status.style.color = '#da3633'; }
+  });
+}
+
+function uploadCSV(input) {
+  const file = input.files[0];
+  if (!file) return;
+  const status = document.getElementById('csv-status');
+  status.textContent = 'Uploading...';
+  status.style.color = 'var(--muted)';
+  const fd = new FormData();
+  fd.append('file', file);
+  fetch('/api/screen/upload_csv', { method: 'POST', body: fd })
+    .then(r => r.json())
+    .then(d => {
+      if (d.error) {
+        status.textContent = '✗ ' + d.error;
+        status.style.color = '#da3633';
+      } else {
+        status.textContent = '✓ ' + file.name + ' (' + d.rows + ' rows)';
+        status.style.color = 'var(--teal)';
+        // reset file input so same file can be re-uploaded
+        input.value = '';
+      }
+    })
+    .catch(e => {
+      status.textContent = '✗ Upload failed';
+      status.style.color = '#da3633';
+    });
+}
+
+// ── Resume / Reconnect ───────────────────────────────────────────────────────
+
+function checkForActiveJobs() {
+  fetch('/api/state')
+    .then(r => r.json())
+    .then(state => {
+      // Reconnect to active screener
+      if (state.screen_job_id && state.screen_status === 'running') {
+        const logEl = document.getElementById('screener-log');
+        if (logEl) {
+          logEl.innerHTML = '<div style="color:var(--teal);font-size:10px">&#8631; Reconnecting to running screener...</div>';
+        }
+        const btn = document.getElementById('btn-run-screen');
+        if (btn) { btn.disabled = true; btn.textContent = 'Running\u2026'; }
+        const liveInd = document.getElementById('screener-live-indicator');
+        if (liveInd) liveInd.style.display = 'inline';
+        reconnectToScreener(state.screen_job_id);
+      }
+      // Show results if screener already done
+      else if (state.screen_job_id && state.screen_has_results) {
+        reconnectToScreener(state.screen_job_id);
+      }
+
+      // Reconnect to active think tank
+      if (state.tt_job_id && state.tt_status === 'running') {
+        const ttSec = document.getElementById('tt-section');
+        if (ttSec) ttSec.style.display = 'flex';
+        const ttLog = document.getElementById('tt-log');
+        if (ttLog) ttLog.innerHTML = '<div style="color:var(--teal);font-size:10px">&#8631; Reconnecting to running Think Tank...</div>';
+        const btn = document.getElementById('btn-launch-sim');
+        if (btn) { btn.disabled = true; btn.textContent = 'Think Tank Running\u2026'; }
+        reconnectToTT(state.tt_job_id);
+      }
+
+      // Reconnect to active sim — switch to simulator tab and stream
+      if (state.sim_run_id && state.sim_running) {
+        switchView('simulator');
+        const actLog = document.getElementById('activity-log');
+        if (actLog) {
+          actLog.innerHTML = '<div style="color:var(--teal);font-size:10px">&#8631; Reconnecting to running simulation...</div>';
+          actLog.classList.add('active');
+        }
+        startStreaming(state.sim_run_id);
+      }
+    })
+    .catch(() => {}); // silent fail — not critical
+}
+
+function reconnectToScreener(jobId) {
+  const logEl  = document.getElementById('screener-log');
+  const actionsEl = document.getElementById('screener-actions');
+  const btn = document.getElementById('btn-run-screen');
+  const liveInd = document.getElementById('screener-live-indicator');
+
+  function appendLog(msg, kind) {
+    const cls = kind === 'error' ? 'log-err' : kind === 'warn' ? 'log-warn' : kind === 'ok' ? 'log-ok' : '';
+    const ts  = new Date().toLocaleTimeString('en-US', {hour12: false});
+    const div = document.createElement('div');
+    div.innerHTML = `<span style="color:var(--muted);font-size:9px">${ts}</span> <span class="${cls}">${msg}</span>`;
+    if (logEl) { logEl.appendChild(div); logEl.scrollTop = logEl.scrollHeight; }
+  }
+
+  const es = new EventSource(`/api/screen/${jobId}/stream`);
+  es.onmessage = (e) => {
+    const ev = JSON.parse(e.data);
+    if (ev.type === 'heartbeat') return;
+    if (ev.type === 'log') appendLog(ev.msg, '');
+    if (ev.type === 'done') {
+      es.close();
+      if (btn) { btn.disabled = false; btn.textContent = 'Run Screener'; }
+      if (liveInd) liveInd.style.display = 'none';
+      if (ev.error) { appendLog('Error: ' + ev.error, 'error'); return; }
+      _screenerResults = ev.results || [];
+      _screenerTriage  = ev.triage  || [];
+      appendLog('Reconnected \u2713 \u2014 ' + _screenerResults.length + ' candidates, triage: ' + _screenerTriage.join(', '), 'ok');
+      renderScreenerTable(_screenerResults, _screenerTriage);
+      if (actionsEl) { actionsEl.style.display = 'flex'; }
+      updateTriageSummary();
+    }
+  };
+  es.onerror = () => {
+    es.close();
+    if (btn) { btn.disabled = false; btn.textContent = 'Run Screener'; }
+    if (liveInd) liveInd.style.display = 'none';
+  };
+}
+
+function reconnectToTT(jobId) {
+  _ttJobId = jobId;
+  const ttLog = document.getElementById('tt-log');
+  const btn   = document.getElementById('btn-launch-sim');
+  const cancelBtn = document.getElementById('btn-cancel-tt');
+
+  function appendTTLog(msg, kind) {
+    const cls = kind === 'error' ? 'log-err' : kind === 'ok' ? 'log-ok' : kind === 'warn' ? 'log-warn' : '';
+    const ts  = new Date().toLocaleTimeString('en-US', {hour12: false});
+    const div = document.createElement('div');
+    div.innerHTML = `<span style="color:var(--muted);font-size:9px">${ts}</span> <span class="${cls}">${msg}</span>`;
+    if (ttLog) { ttLog.appendChild(div); ttLog.scrollTop = ttLog.scrollHeight; }
+  }
+
+  const es = new EventSource(`/api/thinktank/${jobId}/stream`);
+  es.onmessage = (e) => {
+    const ev = JSON.parse(e.data);
+    if (ev.type === 'heartbeat') return;
+    if (ev.type === 'log') appendTTLog(ev.msg, '');
+    if (ev.type === 'done') {
+      es.close();
+      if (btn) { btn.disabled = false; btn.textContent = '\u2192 Generate TT Report'; }
+      if (cancelBtn) cancelBtn.style.display = 'none';
+      if (ev.error) { appendTTLog('Error: ' + ev.error, 'error'); return; }
+      // AUTO-LAUNCH DISABLED — manual review required before sim
+      appendTTLog('✓ TT report ready. Review the report before launching simulation.', 'ok');
+      // Show the report immediately for review
+      if (ev.report_path) {
+        openReportModal(ev.report_path, {
+          tickers:     ev.tickers,
+          report_path: ev.report_path,
+          fast:        document.getElementById('tt-fast')?.checked || false,
+          seed_path:   ev.seed_path || '',
+        });
+      }
+      // Store pending sim config so user can launch manually via "Proceed to Sim" button
+      _pendingSimAfterReport = {
+        tickers:     ev.tickers,
+        report_path: ev.report_path,
+        fast:        document.getElementById('tt-fast')?.checked || false,
+        seed_path:   ev.seed_path || '',
+      };
+    }
+  };
+  es.onerror = () => { es.close(); };
+}
+
+// Call on page load to auto-reconnect any in-progress jobs
+checkForActiveJobs();
+
+// ── _doLaunchSim — shared sim launch used by auto-launch, skip-review, and report modal ──
+function _doLaunchSim(ev) {
+  const simFast   = document.getElementById('tt-fast')?.checked || false;
+  const simStocks = (_screenerTriage && _screenerTriage.length > 0)
+    ? _screenerTriage
+    : (ev.tickers || []);
+  const rounds = simStocks.length <= 3 ? 7 : 8;
+
+  switchView('simulator');
+  const actLog = document.getElementById('activity-log');
+  if (actLog) { actLog.innerHTML = ''; actLog.classList.add('active'); }
+  if (typeof addLog === 'function') addLog(`▶ Launching — ${simStocks.join(' ')} (${rounds} rounds)`, 'info');
+  if (typeof _scheduleHeartbeat === 'function') _scheduleHeartbeat();
+
+  fetch('/api/run', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({
+      stocks:      simStocks,
+      rounds:      rounds,
+      fast:        simFast,
+      report_path: ev.report_path || '',
+      seed_path:   ev.seed_path   || '',
+    })
+  })
+  .then(r => r.json())
+  .then(d => {
+    if (d.error) { if (typeof addLog === 'function') addLog('Sim failed: ' + d.error, 'error'); return; }
+    if (d.warnings && d.warnings.length) {
+      d.warnings.forEach(w => { if (typeof addLog === 'function') addLog(`⚠ ${w}`, 'active'); });
+    }
+    loadSimList();
+    startStreaming(d.run_id);
+  })
+  .catch(err => { if (typeof addLog === 'function') addLog('Launch error: ' + err, 'error'); });
+}
+
+// Load portfolio list into screener dropdown
+function loadPortfolioList() {
+  fetch('/api/screen/portfolios')
+    .then(r => r.json())
+    .then(data => {
+      const sel = document.getElementById('portfolio-select');
+      if (!sel || !data.portfolios) return;
+      // Keep the "All Portfolios" option, add the rest
+      const current = sel.value;
+      sel.innerHTML = '<option value="">All Portfolios</option>';
+      data.portfolios.forEach(p => {
+        const opt = document.createElement('option');
+        opt.value = p;
+        opt.textContent = p.length > 35 ? p.substring(0, 33) + '…' : p;
+        opt.title = p;
+        sel.appendChild(opt);
+      });
+      if (current) sel.value = current;
+    })
+    .catch(() => {}); // silent fail
+}
+loadPortfolioList();
+
+// ── Custom Ticker Research ────────────────────────────────────────────────────
+
+function onCustomTickersInput() {
+  const val = (document.getElementById('custom-tickers-input').value || '').trim();
+  const tickers = val.split(/[\s,]+/).filter(t => t.length >= 1 && t.length <= 6);
+  const btn = document.getElementById('btn-custom-research');
+  if (tickers.length > 0) {
+    btn.disabled = false;
+    btn.style.opacity = '1';
+    btn.textContent = tickers.length <= 3
+      ? `→ Research ${tickers.length === 1 ? tickers[0].toUpperCase() : tickers.length + ' Stocks'} (7 rounds)`
+      : `→ Research ${tickers.length} Stocks (8 rounds)`;
+  } else {
+    btn.disabled = true;
+    btn.style.opacity = '0.4';
+    btn.textContent = '→ Research';
+  }
+}
+
+function launchCustomResearch() {
+  const val = (document.getElementById('custom-tickers-input').value || '').trim();
+  const tickers = val.split(/[\s,]+/)
+    .map(t => t.toUpperCase().trim())
+    .filter(t => t.length >= 1 && t.length <= 6);
+
+  if (tickers.length === 0) return;
+
+  // Wire them in as the triage selection so the full TT → Sim → Report pipeline fires
+  _screenerTriage = tickers;
+
+  // Show TT section and log
+  const ttSec = document.getElementById('tt-section');
+  const ttLog = document.getElementById('tt-log');
+  const btn   = document.getElementById('btn-custom-research');
+  const screenerLog = document.getElementById('screener-log');
+
+  if (ttSec) { ttSec.style.display = 'flex'; ttSec.scrollIntoView({behavior:'smooth', block:'start'}); }
+  if (ttLog) ttLog.innerHTML = '';
+  if (screenerLog) screenerLog.innerHTML =
+    `<div style="color:var(--teal);font-size:10px">&#9654; Custom research: ${tickers.join(', ')} — bypassing screener</div>`;
+  btn.disabled = true;
+  btn.textContent = 'Running…';
+
+  function appendTTLog(msg, kind) {
+    if (!ttLog) return;
+    const cls = kind === 'error' ? 'log-err' : kind === 'ok' ? 'log-ok' : kind === 'warn' ? 'log-warn' : '';
+    const ts  = new Date().toLocaleTimeString('en-US', {hour12: false});
+    const div = document.createElement('div');
+    div.innerHTML = `<span style="color:var(--muted);font-size:9px">${ts}</span> <span class="${cls}">${msg}</span>`;
+    ttLog.appendChild(div);
+    ttLog.scrollTop = ttLog.scrollHeight;
+  }
+
+  appendTTLog(`Starting Think Tank for: ${tickers.join(', ')}`);
+  const fast = document.getElementById('tt-fast')?.checked || false;
+  // Auto-set rounds based on stock count
+  // 1-3 stocks = 7 rounds (captures Round 6 adversarial + Round 7 free consolidation)
+  // 4+ stocks  = 8 rounds (needs reserve injection round for divergence control)
+  const rounds = tickers.length <= 3 ? 7 : 8;
+  appendTTLog(`Rounds: ${rounds} (auto-set for ${tickers.length} stock${tickers.length > 1 ? 's' : ''})`);
+
+  fetch('/api/thinktank', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({tickers, fast})
+  })
+  .then(r => r.json())
+  .then(data => {
+    _ttJobId = data.job_id;
+    const es = new EventSource(`/api/thinktank/${_ttJobId}/stream`);
+    es.onmessage = (e) => {
+      const ev = JSON.parse(e.data);
+      if (ev.type === 'heartbeat') return;
+      if (ev.type === 'log') { appendTTLog(ev.msg, ''); return; }
+      if (ev.type === 'done') {
+        es.close();
+        if (ev.error) {
+          appendTTLog('Think Tank failed: ' + ev.error, 'error');
+          btn.disabled = false;
+          btn.textContent = '→ Research';
+          return;
+        }
+        appendTTLog('✓ Think Tank complete.', 'ok');
+        btn.disabled = false;
+        btn.textContent = '→ Research';
+        // Open report for manual review — sim does NOT launch automatically
+        if (ev.report_path) {
+          openReportModal(ev.report_path, {
+            tickers:     tickers,
+            report_path: ev.report_path,
+            fast:        fast,
+            seed_path:   ev.seed_path || '',
+          });
+        }
+      }
+    };
+    es.onerror = () => es.close();
+  })
+  .catch(e => {
+    appendTTLog('Launch error: ' + e, 'error');
+    btn.disabled = false;
+    btn.textContent = '→ Research';
+  });
+}
 </script>
 </body>
 </html>

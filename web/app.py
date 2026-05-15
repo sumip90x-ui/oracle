@@ -21,6 +21,11 @@ _SIM_DIR = str(Path(os.path.expanduser("~/ORACLE/sim")))
 if _SIM_DIR not in sys.path:
     sys.path.insert(0, _SIM_DIR)
 
+# Make engine/ importable for screener
+_ENGINE_DIR = str(Path(os.path.expanduser("~/ORACLE/engine")))
+if _ENGINE_DIR not in sys.path:
+    sys.path.insert(0, _ENGINE_DIR)
+
 app = Flask(__name__, static_folder="static", static_url_path="/static")
 CORS(app)
 
@@ -36,6 +41,20 @@ NEO4J_AUTH  = ("neo4j", "miroshark2026")
 running_procs = {}   # run_id -> Popen (legacy, kept for /status endpoint)
 _sim_queues   = {}   # run_id -> queue.Queue  (SSE streaming)
 _sim_replays  = {}   # run_id -> list of all events (replay buffer)
+
+_screen_queues  = {}   # job_id -> queue.Queue
+_screen_results = {}   # job_id -> dict with keys: status, log_lines, results, triage
+
+_tt_queues  = {}   # job_id -> queue.Queue
+_tt_results = {}   # job_id -> dict: status, log_lines, report_path, tickers
+
+_screen_replays = {}   # job_id -> list of all screen events (replay buffer)
+_tt_replays     = {}   # job_id -> list of all TT events (replay buffer)
+
+_STATE_FILE = Path.home() / "ORACLE" / "web_state.json"
+
+_sim_stop_events  = {}  # run_id -> threading.Event  (set = stop requested)
+_sim_pause_events = {}  # run_id -> threading.Event  (set = paused)
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -303,6 +322,11 @@ def _run_sim_thread(run_id, stocks, rounds, fast, report_path):
         cb({"type": "sim_log", "msg": "⟳ Building knowledge graph in Neo4j...", "level": "active"})
         report_text  = _load_report(report_path if report_path else None)
 
+        stop_event  = threading.Event()
+        pause_event = threading.Event()
+        _sim_stop_events[run_id]  = stop_event
+        _sim_pause_events[run_id] = pause_event
+
         results = run_simulation(
             run_id       = run_id,
             stocks       = stocks,
@@ -312,16 +336,19 @@ def _run_sim_thread(run_id, stocks, rounds, fast, report_path):
             model        = model,
             api_key      = api_key,
             event_callback = cb,
+            stop_event   = stop_event,
+            pause_event  = pause_event,
         )
 
         driver = get_driver() if results.get("driver_active") else None
 
         rankings = score_simulation(
-            driver     = driver,
-            run_id     = run_id,
-            markets    = results["markets"],
-            all_rounds = results["rounds"],
-            stocks     = stocks,
+            driver          = driver,
+            run_id          = run_id,
+            markets         = results["markets"],
+            all_rounds      = results["rounds"],
+            stocks          = stocks,
+            intended_rounds = rounds,
         )
         if driver:
             driver.close()
@@ -367,6 +394,21 @@ def _run_sim_thread(run_id, stocks, rounds, fast, report_path):
 
         cb({"type": "sim_complete", "rankings": rankings, "prob_history": prob_history})
 
+        # Auto-generate final report (investment memo)
+        try:
+            if _ENGINE_DIR not in sys.path:
+                sys.path.insert(0, _ENGINE_DIR)
+            from oracle_final_report import generate_report as _gen_report, save_report as _save_report
+            # find latest composite report matching these stocks
+            _reports = sorted((Path.home() / "ORACLE" / "reports").glob("*_composite.md"),
+                              key=lambda x: x.stat().st_mtime, reverse=True)
+            _report_path = str(_reports[0]) if _reports else ""
+            _final_content = _gen_report(str(SIMS_DIR / f"{run_id}.json"), _report_path)
+            _final_path = _save_report(_final_content, run_id)
+            cb({"type": "sim_log", "msg": f"✓ Investment memo generated: {Path(_final_path).name}", "level": "success"})
+        except Exception as _fe:
+            cb({"type": "sim_log", "msg": f"⚠ Final report generation failed: {_fe}", "level": "warn"})
+
     except Exception as e:
         cb({"type": "error", "msg": str(e)})
         cb({"type": "sim_complete", "rankings": [], "prob_history": {}})
@@ -376,6 +418,28 @@ def _run_sim_thread(run_id, stocks, rounds, fast, report_path):
 
 
 # ── Routes ────────────────────────────────────────────────────────────────────
+
+def save_web_state(key: str, value: str):
+    """Persist active job IDs so browser can reconnect after refresh."""
+    try:
+        state = {}
+        if _STATE_FILE.exists():
+            state = json.loads(_STATE_FILE.read_text())
+        state[key] = value
+        state["updated"] = datetime.datetime.now().isoformat()
+        _STATE_FILE.write_text(json.dumps(state))
+    except Exception:
+        pass
+
+
+def load_web_state() -> dict:
+    try:
+        if _STATE_FILE.exists():
+            return json.loads(_STATE_FILE.read_text())
+    except Exception:
+        pass
+    return {}
+
 
 @app.route("/")
 def index():
@@ -392,6 +456,26 @@ def status():
     return jsonify({
         "neo4j":        neo4j_ok,
         "running_sims": list(running_procs.keys()),
+    })
+
+
+@app.route("/api/state")
+def get_web_state():
+    """Return persisted job IDs so frontend can reconnect after refresh."""
+    state = load_web_state()
+    # Enrich with current status from in-memory dicts
+    screen_id = state.get("screen_job_id", "")
+    tt_id     = state.get("tt_job_id", "")
+    sim_id    = state.get("sim_run_id", "")
+    return jsonify({
+        "screen_job_id":      screen_id,
+        "screen_status":      _screen_results.get(screen_id, {}).get("status", "unknown") if screen_id else "none",
+        "screen_has_results": bool(_screen_results.get(screen_id, {}).get("results")),
+        "tt_job_id":          tt_id,
+        "tt_status":          _tt_results.get(tt_id, {}).get("status", "unknown") if tt_id else "none",
+        "tt_report_path":     _tt_results.get(tt_id, {}).get("report_path", "") if tt_id else "",
+        "sim_run_id":         sim_id,
+        "sim_running":        sim_id in _sim_queues,
     })
 
 
@@ -619,14 +703,33 @@ def get_rounds(run_id):
 
 @app.route("/api/run", methods=["POST"])
 def run_sim():
-    body   = request.get_json(force=True) or {}
-    stocks = [s.upper() for s in body.get("stocks", [])]
-    rounds = int(body.get("rounds", 8))
-    fast   = bool(body.get("fast", False))
-    report = body.get("report_path", "")
+    body      = request.get_json(force=True) or {}
+    stocks    = [s.upper() for s in body.get("stocks", [])]
+    rounds    = int(body.get("rounds", 8))
+    fast      = bool(body.get("fast", False))
+    report    = body.get("report_path", "")
+    seed_path = body.get("seed_path", "")
 
     if not stocks:
         return jsonify({"error": "stocks required"}), 400
+
+    # Auto-find latest TT report if none provided (e.g. re-run button)
+    if not report:
+        reports_dir = Path.home() / "ORACLE" / "reports"
+        candidates = sorted(reports_dir.glob("*_composite.md"),
+                           key=lambda x: x.stat().st_mtime, reverse=True)
+        if candidates:
+            report = str(candidates[0])
+
+    # Merge seed into report context so sim agents see Debate Fodder in Round 1
+    if seed_path and os.path.exists(seed_path):
+        try:
+            seed_text = Path(seed_path).read_text(encoding="utf-8", errors="ignore")
+            # Prepend seed before TT report — agents see opening positions first
+            separator = "\n\n" + "=" * 60 + "\nORACLE SIMULATION SEED (Pre-seeded agent positions):\n" + "=" * 60 + "\n"
+            report = separator + seed_text + "\n\n" + "=" * 60 + "\nTHINK TANK REPORT:\n" + "=" * 60 + "\n" + (Path(report).read_text(encoding="utf-8", errors="ignore") if report and os.path.exists(report) else report)
+        except Exception as _merge_err:
+            pass  # fall through — sim runs with TT report only
 
     today  = datetime.date.today().strftime("%Y%m%d")
     abbrev = "_".join(s[:4] for s in stocks[:3])
@@ -637,6 +740,7 @@ def run_sim():
 
     _sim_queues[run_id]  = queue.Queue()
     _sim_replays[run_id] = []   # replay buffer for late-connecting browsers
+    save_web_state("sim_run_id", run_id)   # persist so browser can reconnect after refresh
 
     def delayed_start():
         # Give browser 2 seconds to connect to the SSE stream before sim starts emitting
@@ -678,6 +782,30 @@ def stream_sim(run_id):
         mimetype="text/event-stream",
         headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"},
     )
+
+
+@app.route("/api/run/<run_id>/stop", methods=["POST"])
+def run_stop(run_id):
+    ev = _sim_stop_events.get(run_id)
+    if ev:
+        ev.set()
+    return jsonify({"status": "stopping"})
+
+
+@app.route("/api/run/<run_id>/pause", methods=["POST"])
+def run_pause(run_id):
+    ev = _sim_pause_events.get(run_id)
+    if ev:
+        ev.set()
+    return jsonify({"status": "paused"})
+
+
+@app.route("/api/run/<run_id>/resume", methods=["POST"])
+def run_resume(run_id):
+    ev = _sim_pause_events.get(run_id)
+    if ev:
+        ev.clear()
+    return jsonify({"status": "resumed"})
 
 
 @app.route("/api/run/<run_id>/status")
@@ -763,6 +891,100 @@ def list_reports():
     return jsonify(reports[:50])
 
 
+@app.route("/api/report_content")
+def get_report_content():
+    """Return raw text of a report file for display in the UI."""
+    path = request.args.get("path", "")
+    if not path:
+        return jsonify({"error": "path required"}), 400
+    try:
+        p = Path(path).expanduser()
+        # Safety: must be under ORACLE_VAULT or ~/ORACLE/reports — do NOT resolve symlinks
+        allowed = [
+            str(Path.home() / "Documents" / "Trading Vault"),
+            str(Path.home() / "ORACLE"),
+        ]
+        if not any(str(p).startswith(a) for a in allowed):
+            return jsonify({"error": "path not allowed"}), 403
+        if not p.exists():
+            return jsonify({"error": "file not found"}), 404
+        content = p.read_text(encoding="utf-8", errors="ignore")
+        return jsonify({"content": content, "path": str(p), "size": len(content)})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+# ── Final Reports ─────────────────────────────────────────────────────────────
+
+_FINAL_REPORTS_DIR = Path.home() / "ORACLE" / "reports" / "final"
+_ENGINE_DIR_FINAL  = str(Path.home() / "ORACLE" / "engine")
+
+@app.route("/api/final_reports")
+def list_final_reports_api():
+    try:
+        if _ENGINE_DIR_FINAL not in sys.path:
+            sys.path.insert(0, _ENGINE_DIR_FINAL)
+        from oracle_final_report import list_final_reports as _list
+        return jsonify(_list())
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/api/final_report/generate", methods=["POST"])
+def generate_final_report_api():
+    body        = request.get_json(force=True) or {}
+    sim_path    = body.get("sim_path", "")
+    report_path = body.get("report_path", "")
+
+    if not sim_path:
+        sims = sorted((Path.home() / "ORACLE" / "sims").glob("sim_*.json"),
+                      key=lambda x: x.stat().st_mtime, reverse=True)
+        if not sims:
+            return jsonify({"error": "no sims found"}), 404
+        sim_path = str(sims[0])
+
+    if not report_path:
+        rpts = sorted((Path.home() / "ORACLE" / "reports").glob("*_composite.md"),
+                      key=lambda x: x.stat().st_mtime, reverse=True)
+        if rpts:
+            report_path = str(rpts[0])
+
+    try:
+        if _ENGINE_DIR_FINAL not in sys.path:
+            sys.path.insert(0, _ENGINE_DIR_FINAL)
+        from oracle_final_report import generate_report as _gen, save_report as _save
+        content     = _gen(sim_path, report_path)
+        run_id      = Path(sim_path).stem
+        output_path = _save(content, run_id)
+        return jsonify({"path": output_path, "size": len(content), "preview": content[:500]})
+    except Exception as e:
+        import traceback
+        return jsonify({"error": str(e), "traceback": traceback.format_exc()}), 500
+
+
+@app.route("/api/final_report/content")
+def get_final_report_content_api():
+    path = request.args.get("path", "")
+    if not path:
+        return jsonify({"error": "path required"}), 400
+    try:
+        # expanduser but do NOT resolve — preserves symlink paths
+        p = Path(path).expanduser()
+        # normalize without following symlinks
+        p_str = str(p)
+        allowed_roots = [
+            str(Path.home() / "ORACLE"),
+            str(Path.home() / "Documents"),
+        ]
+        if not any(p_str.startswith(a) for a in allowed_roots):
+            return jsonify({"error": "path not allowed"}), 403
+        if not p.exists():
+            return jsonify({"error": "not found"}), 404
+        return jsonify({"content": p.read_text(encoding="utf-8", errors="ignore"), "path": str(p)})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
 @app.route("/api/speak", methods=["POST"])
 def speak():
     """Generate speech via Piper TTS and return WAV audio."""
@@ -800,6 +1022,510 @@ def speak():
                          download_name="oracle_voice.wav")
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+
+# ── Screener ──────────────────────────────────────────────────────────────────
+
+def _run_screen_thread(job_id, refresh=False, portfolio=""):
+    q = _screen_queues[job_id]
+    def emit(msg, kind="log"):
+        event = {"type": kind, "msg": msg}
+        q.put(event)
+        _screen_results[job_id].setdefault("log_lines", []).append(msg)
+        if job_id in _screen_replays:
+            _screen_replays[job_id].append(event)
+
+    try:
+        from oracle_runner_screener import (
+            sync_latest_csv, parse_fidelity_csv, parse_fidelity_csv_filtered,
+            fetch_all_fundamentals,
+            run_screen, haiku_triage, CSV_PATH, CACHE_PATH, DESTINATION_HOLDS
+        )
+        import os
+
+        emit("Syncing latest Fidelity CSV...")
+        _, csv_updated = sync_latest_csv()
+
+        if csv_updated or refresh:
+            if os.path.exists(CACHE_PATH):
+                os.remove(CACHE_PATH)
+            emit("Cache cleared — fetching fresh data.")
+
+        if portfolio:
+            emit(f"Filtering to portfolio: {portfolio}")
+            holdings = parse_fidelity_csv_filtered(CSV_PATH, portfolio)
+        else:
+            emit(f"Parsing CSV: {CSV_PATH}")
+            holdings = parse_fidelity_csv(CSV_PATH)
+        if not holdings:
+            emit("ERROR: No holdings loaded from CSV.", "error")
+            _screen_results[job_id]["status"] = "error"
+            q.put({"type": "done", "error": "No holdings"})
+            return
+        emit(f"Loaded {len(holdings)} symbols.")
+
+        symbols = [s for s in holdings.keys() if s not in DESTINATION_HOLDS]
+        emit(f"Fetching live data for {len(symbols)} symbols (this takes ~30s)...")
+        live_data = fetch_all_fundamentals(symbols)
+        emit(f"Live data fetched for {len(live_data)} symbols.")
+
+        emit("Scoring and ranking...")
+        results = run_screen(holdings, live_data, top_n=15)
+        emit(f"Found {len(results)} runner candidates.")
+
+        if not results:
+            emit("No candidates found. Try with Refresh.", "warn")
+            _screen_results[job_id]["status"] = "done"
+            _screen_results[job_id]["results"] = []
+            _screen_results[job_id]["triage"] = []
+            q.put({"type": "done", "results": [], "triage": []})
+            return
+
+        emit("Running Haiku triage to pick best 6...")
+        triage = haiku_triage(results[:15], live_data)
+        emit(f"Triage complete: {', '.join(triage)}")
+
+        # Generate seed from triage results — feeds Debate Fodder into sim Round 1
+        seed_path = ""
+        try:
+            from oracle_runner_screener import generate_seed_and_prompt, save_outputs, OR_KEY
+            if OR_KEY:
+                sym_to_result = {r["symbol"]: r for r in results}
+                top_results   = [sym_to_result[s] for s in triage if s in sym_to_result]
+                if top_results:
+                    emit(f"Generating simulation seed for {[r['symbol'] for r in top_results]}...")
+                    seed, prompt = generate_seed_and_prompt(top_results, top_n=min(5, len(top_results)))
+                    seed_path, _ = save_outputs(seed, prompt)
+                    emit(f"Seed ready: {os.path.basename(seed_path)}", "ok")
+        except Exception as _se:
+            emit(f"Seed generation skipped: {_se}", "warn")
+
+        # Build structured results for the table
+        # NOTE: run_screen() returns keys: rev_growth, analyst_up, price, market_cap_b
+        # dip_pct and eps_status must be computed from live_data
+        table = []
+        for r in results:
+            sym   = r.get("symbol", "")
+            live  = live_data.get(sym, {})
+            price = r.get("price", 0) or live.get("price", 0) or 0
+            high  = live.get("52wk_high", 0) or 0
+            dip   = ((high - price) / high * 100) if high > 0 else 0
+            fwd   = live.get("forward_eps") or 0
+            trail = live.get("trailing_eps") or 0
+            if trail < 0 and fwd > 0:
+                eps_label = "turning ✓"
+            elif fwd > 0 and trail > 0:
+                eps_label = "profitable"
+            elif fwd > 0:
+                eps_label = "fwd+"
+            else:
+                eps_label = "negative"
+            table.append({
+                "symbol":         sym,
+                "score":          r.get("score", 0),
+                "sector":         r.get("sector", "") or live.get("sector", ""),
+                "eps_status":     eps_label,
+                "rev_growth":     r.get("rev_growth", 0),
+                "dip_pct":        round(-dip, 1),
+                "analyst_upside": r.get("analyst_up", 0),
+                "in_triage":      sym in triage,
+            })
+
+        _screen_results[job_id]["status"]    = "done"
+        _screen_results[job_id]["results"]   = table
+        _screen_results[job_id]["triage"]    = triage
+        _screen_results[job_id]["seed_path"] = seed_path
+        q.put({"type": "done", "results": table, "triage": triage, "seed_path": seed_path})
+
+    except Exception as e:
+        import traceback
+        err = traceback.format_exc()
+        emit(f"ERROR: {e}", "error")
+        _screen_results[job_id]["status"] = "error"
+        q.put({"type": "done", "error": str(e)})
+
+
+@app.route("/api/screen/portfolios", methods=["GET"])
+def list_portfolios():
+    """Return all account names from the current portfolio CSV."""
+    try:
+        from oracle_runner_screener import get_portfolio_accounts, CSV_PATH
+        accounts = get_portfolio_accounts(CSV_PATH)
+        return jsonify({"portfolios": accounts})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/api/screen", methods=["POST"])
+def start_screen():
+    body      = request.get_json(force=True) or {}
+    refresh   = bool(body.get("refresh", False))
+    portfolio = body.get("portfolio", "")   # optional account name filter
+    job_id  = f"screen_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}"
+    _screen_queues[job_id]  = queue.Queue()
+    _screen_results[job_id] = {"status": "running", "log_lines": [], "results": [], "triage": []}
+    _screen_replays[job_id] = []
+    t = threading.Thread(target=_run_screen_thread, args=(job_id, refresh, portfolio), daemon=True)
+    t.start()
+    save_web_state("screen_job_id", job_id)
+    return jsonify({"job_id": job_id, "portfolio": portfolio or "ALL"})
+
+
+@app.route("/api/screen/upload_csv", methods=["POST"])
+def upload_csv():
+    """Accept a Fidelity portfolio CSV upload and save to ~/portfolio.csv"""
+    if "file" not in request.files:
+        return jsonify({"error": "no file"}), 400
+    f = request.files["file"]
+    if not f.filename.endswith(".csv"):
+        return jsonify({"error": "must be a .csv file"}), 400
+    dest = Path.home() / "portfolio.csv"
+    f.save(str(dest))
+    # Also copy to ORACLE portfolio_csv folder for history
+    csv_folder = Path.home() / "ORACLE" / "portfolio_csv"
+    csv_folder.mkdir(parents=True, exist_ok=True)
+    import shutil, datetime
+    dated = csv_folder / f"portfolio_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+    shutil.copy2(str(dest), str(dated))
+    return jsonify({"status": "ok", "path": str(dest), "rows": sum(1 for _ in open(str(dest)))-1})
+
+
+@app.route("/api/screen/<job_id>/stream")
+def stream_screen(job_id):
+    if job_id not in _screen_queues and job_id not in _screen_results:
+        return jsonify({"error": "job not found"}), 404
+
+    def generate():
+        # Replay all events already emitted (handles page refresh / late connect)
+        replay = _screen_replays.get(job_id, [])
+        for event in replay:
+            yield f"data: {json.dumps(event)}\n\n"
+            if event.get("type") == "done":
+                return  # already complete, no need to wait
+
+        # Job still running — drain the queue
+        q = _screen_queues.get(job_id)
+        if q is None:
+            return  # job finished before we connected, replay was enough
+        while True:
+            try:
+                event = q.get(timeout=30)
+                yield f"data: {json.dumps(event)}\n\n"
+                if event.get("type") == "done":
+                    break
+            except Exception:
+                yield f"data: {json.dumps({'type': 'heartbeat'})}\n\n"
+
+    return Response(stream_with_context(generate()), mimetype="text/event-stream",
+                    headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
+
+
+# ── Think Tank ────────────────────────────────────────────────────────────────
+
+def _run_thinktank_thread(job_id, tickers, fast=False):
+    q = _tt_queues[job_id]
+
+    def emit(msg, kind="log"):
+        # Normalize: always send type="log" with a kind field so frontend handles it uniformly
+        event = {"type": "log", "kind": kind, "msg": msg}
+        q.put(event)
+        _tt_results[job_id].setdefault("log_lines", []).append(msg)
+        if job_id in _tt_replays:
+            _tt_replays[job_id].append(event)
+
+    try:
+        import sys, os
+        _ENGINE_DIR = os.path.expanduser("~/ORACLE/engine")
+        if _ENGINE_DIR not in sys.path:
+            sys.path.insert(0, _ENGINE_DIR)
+
+        from oracle_think_tank import run_composite, save_output, get_fundamentals
+        import datetime as _dt
+
+        emit(f"Think Tank starting for: {', '.join(tickers)}")
+
+        # ── Preflight data validation ─────────────────────────────────────────────
+        emit("Running pre-flight data validation...")
+        try:
+            import sys as _sys
+            _ENGINE_DIR2 = os.path.expanduser("~/ORACLE/engine")
+            if _ENGINE_DIR2 not in _sys.path:
+                _sys.path.insert(0, _ENGINE_DIR2)
+            from oracle_preflight import run_preflight as _run_preflight, build_preflight_header as _build_pf_header
+            pf_reports = _run_preflight(tickers, verbose=False)
+            halted_tickers = [t for t, r in pf_reports.items() if r.halted]
+            for t, r in pf_reports.items():
+                for err in r.errors:
+                    emit(f"  PRE-FLIGHT ERROR [{t}]: {err}", "error")
+                for warn in r.warnings:
+                    emit(f"  PRE-FLIGHT WARN [{t}]: {warn}")
+            if halted_tickers:
+                emit(f"PRE-FLIGHT HALT: {', '.join(halted_tickers)} — data quality too low to run panels.", "error")
+                emit("Fix the errors above. Use --preflight-override to force through (not recommended).", "error")
+                _tt_results[job_id]["status"] = "error"
+                q.put({"type": "done", "error": f"Pre-flight halted: {', '.join(halted_tickers)}"})
+                return
+            emit("Pre-flight passed. Starting Think Tank panels...")
+        except ImportError as _pf_e:
+            emit(f"Pre-flight module not available ({_pf_e}) — proceeding without validation.")
+
+        # ── Fact sheet validation (data quality gate) ─────────────────────────
+        emit("Running fact sheet validation...")
+        try:
+            import sys as _sys_fv
+            _sys_fv.path.insert(0, os.path.expanduser("~/ORACLE/engine"))
+            from oracle_factsheet import build_fact_sheet, CACHE_DIR as _FS_CACHE_DIR
+            import datetime as _dt_fv, pathlib as _pl_fv
+
+            _fs_failures = []
+            _fs_warnings = []
+
+            for _sym in tickers:
+                try:
+                    # Clear stale cache to force fresh fetch
+                    for _cf in _pl_fv.Path(_FS_CACHE_DIR).glob(f"factsheet_{_sym}_*.json"):
+                        _cf.unlink(missing_ok=True)
+
+                    _fs = build_fact_sheet(_sym)
+                    _pr = _fs.get("press_release", {})
+                    _legal = _fs.get("legal_proceedings", {})
+                    _metrics = _fs.get("metrics", {})
+
+                    # Check 1: 8-K date freshness
+                    _filing_date = _pr.get("filing_date", "")
+                    if _filing_date:
+                        _fd = _dt_fv.date.fromisoformat(_filing_date)
+                        _age = (_dt_fv.date.today() - _fd).days
+                        if _age > 90:
+                            _fs_failures.append(f"{_sym}: 8-K is {_age} days old (>90) — may be missing recent earnings")
+                        elif _age > 45:
+                            _fs_warnings.append(f"{_sym}: 8-K is {_age} days old — verify earnings are current")
+                    elif not _pr.get("parse_success"):
+                        _fs_warnings.append(f"{_sym}: No earnings 8-K found — panels will use XBRL data only")
+
+                    # Check 2: Gross margin range (0-100%)
+                    _gm = (_pr.get("gross_margin_gaap", {}) or {}).get("value")
+                    if _gm is not None and (_gm > 1.0 or _gm < 0):
+                        _fs_failures.append(f"{_sym}: GAAP gross margin {_gm*100:.1f}% is outside 0-100% — wrong field extracted. HALTING.")
+
+                    # Check 3: Going concern — must not be inferred, only from auditor opinion text
+                    if _legal.get("going_concern"):
+                        # Verify it's from actual auditor language, not false positive
+                        _lpt = _legal.get("legal_proceedings_text", "").lower()
+                        _gc_confirmed = any(p in _lpt for p in [
+                            "substantial doubt", "going concern", "ability to continue"
+                        ])
+                        if not _gc_confirmed:
+                            # False positive — clear it
+                            _legal["going_concern"] = False
+                            _fs_warnings.append(f"{_sym}: Going concern flag cleared — not found in actual auditor text")
+                        else:
+                            _fs_warnings.append(f"{_sym}: Going concern warning CONFIRMED in filing — Skeptic must address")
+
+                    # Check 4: XBRL revenue period freshness
+                    _rev_period = (_metrics.get("revenue_ttm") or {}).get("period", "")
+                    if _rev_period and len(_rev_period) >= 4:
+                        try:
+                            _rev_year = int(_rev_period[:4])
+                            if _dt_fv.date.today().year - _rev_year > 2:
+                                _fs_failures.append(f"{_sym}: XBRL revenue period {_rev_period} is >2 years old — stale data. HALTING.")
+                        except (ValueError, TypeError):
+                            pass
+
+                    # Check 5: Revenue plausibility (P/S sanity)
+                    _rev_q = (_pr.get("revenue_quarter") or {}).get("value")
+                    _price = _fs.get("price") or 0
+                    _shares = _fs.get("shares_outstanding") or 0
+                    if _rev_q and _price and _shares:
+                        _mktcap = _price * _shares
+                        _ann_rev = _rev_q * 4
+                        if _ann_rev > 0:
+                            _ps = _mktcap / _ann_rev
+                            if _ps > 500 or _ps < 0.01:
+                                _fs_failures.append(f"{_sym}: P/S ratio {_ps:.0f}x is implausible — revenue figure wrong")
+
+                except Exception as _fve:
+                    _fs_warnings.append(f"{_sym}: Fact sheet validation error: {str(_fve)[:80]}")
+
+            # Emit results
+            for _fw in _fs_warnings:
+                emit(f"  \u26a0 VALIDATION WARN: {_fw}")
+            for _ff in _fs_failures:
+                emit(f"  \u2717 VALIDATION FAIL: {_ff}", "error")
+
+            if _fs_failures:
+                emit(f"FACT SHEET VALIDATION FAILED: {len(_fs_failures)} check(s). Run aborted — fix data before proceeding.", "error")
+                _tt_results[job_id]["status"] = "error"
+                q.put({"type": "done", "error": f"Fact sheet validation failed: {'; '.join(_fs_failures[:2])}"})
+                return
+            else:
+                emit(f"\u2713 Fact sheet validation passed. Proceeding to Think Tank panels.")
+
+        except Exception as _fv_outer:
+            emit(f"  Fact sheet validation skipped: {_fv_outer}", "")
+            # Non-fatal — proceed even if validation module errors
+
+        emit("Fetching fundamentals (from cache if available)...")
+
+        fundamentals = get_fundamentals(tickers)
+        emit(f"Fundamentals loaded ({len(fundamentals)} chars)")
+
+        model = "anthropic/claude-3.5-haiku" if fast else "anthropic/claude-sonnet-4.5"
+        emit(f"Running composite analysis — model: {'Haiku (fast)' if fast else 'Sonnet'}")
+        emit("Layer 1: Scout (Fisher + Lynch + Li Lu + Thiel)...")
+
+        import io
+        import threading
+
+        result_box = {}
+        error_box  = {}
+
+        def do_run():
+            try:
+                date = _dt.date.today().strftime("%Y%m%d")
+                results = run_composite(
+                    stocks=tickers,
+                    fundamentals=fundamentals,
+                    model=model,
+                    screener_context="",
+                    date=date,
+                    mode="composite",
+                )
+                result_box["results"] = results
+                result_box["date"]    = date
+            except Exception as e:
+                import traceback
+                error_box["error"] = str(e)
+                error_box["tb"]    = traceback.format_exc()
+
+        # Capture stdout to get real [N/TOTAL] batch progress lines
+        import io, re as _re
+
+        original_stdout = sys.stdout
+
+        class _StdoutCapture(io.TextIOBase):
+            def __init__(self, original):
+                self._orig = original
+                self._buf  = ""
+            def write(self, s):
+                self._orig.write(s)
+                self._orig.flush()
+                self._buf += s
+                while "\n" in self._buf:
+                    line, self._buf = self._buf.split("\n", 1)
+                    m = _re.search(r'\[(\d+)/(\d+)\]', line)
+                    if m:
+                        n, total = int(m.group(1)), int(m.group(2))
+                        pct = min(97, int(n / total * 95))
+                        label_m = _re.search(r'\]\s*(.+?)(?:\.\.\.)?$', line.strip())
+                        label   = label_m.group(1).strip() if label_m else line.strip()
+                        emit(f"[{pct}%] Batch {n}/{total} — {label}")
+                return len(s)
+            def flush(self):
+                self._orig.flush()
+
+        sys.stdout = _StdoutCapture(original_stdout)
+
+        run_thread = threading.Thread(target=do_run, daemon=True)
+        run_thread.start()
+        run_thread.join()   # block — stdout capture handles all progress
+
+        sys.stdout = original_stdout
+        emit("[99%] Wrapping up...")
+
+        if error_box:
+            emit(f"Think Tank error: {error_box['error']}", "error")
+            _tt_results[job_id]["status"] = "error"
+            q.put({"type": "done", "error": error_box["error"]})
+            return
+
+        results = result_box["results"]
+        date    = result_box["date"]
+
+        emit("Saving report...")
+        report_path = save_output(results, tickers, date, "composite")
+        emit(f"Report saved: {os.path.basename(report_path)}", "ok")
+
+        # Check report for truncation markers
+        try:
+            report_text = Path(report_path).read_text(encoding="utf-8", errors="ignore")
+            trunc_count = report_text.count("TRUNCATED")
+            if trunc_count > 0:
+                emit(f"⚠ WARNING: {trunc_count} truncation(s) detected in report — some analysis may be cut off", "warn")
+            else:
+                emit("✓ No truncations detected — report looks complete", "ok")
+            # Also emit word count as a quality indicator
+            words = len(report_text.split())
+            emit(f"Report: {words:,} words, {len(report_text):,} chars")
+        except Exception:
+            pass
+
+        _tt_results[job_id]["status"]      = "done"
+        _tt_results[job_id]["report_path"] = report_path
+        _tt_results[job_id]["tickers"]     = tickers
+        # Pass seed_path from screener state so sim auto-launch can load it
+        screen_seed = ""
+        try:
+            screen_state = load_web_state()
+            sid = screen_state.get("screen_job_id", "")
+            screen_seed = _screen_results.get(sid, {}).get("seed_path", "")
+        except Exception:
+            pass
+        q.put({"type": "done", "report_path": report_path, "tickers": tickers, "seed_path": screen_seed})
+
+    except Exception as e:
+        import traceback
+        emit(f"Error: {e}", "error")
+        emit(traceback.format_exc(), "error")
+        _tt_results[job_id]["status"] = "error"
+        q.put({"type": "done", "error": str(e)})
+
+
+@app.route("/api/thinktank", methods=["POST"])
+def start_thinktank():
+    body    = request.get_json(force=True) or {}
+    tickers = [t.upper() for t in body.get("tickers", [])]
+    fast    = bool(body.get("fast", False))
+    if not tickers:
+        return jsonify({"error": "tickers required"}), 400
+    job_id = f"tt_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}"
+    _tt_queues[job_id]  = queue.Queue()
+    _tt_results[job_id] = {"status": "running", "log_lines": [], "report_path": None, "tickers": tickers}
+    _tt_replays[job_id] = []
+    t = threading.Thread(target=_run_thinktank_thread, args=(job_id, tickers, fast), daemon=True)
+    t.start()
+    save_web_state("tt_job_id", job_id)
+    return jsonify({"job_id": job_id})
+
+
+@app.route("/api/thinktank/<job_id>/stream")
+def stream_thinktank(job_id):
+    if job_id not in _tt_queues and job_id not in _tt_results:
+        return jsonify({"error": "job not found"}), 404
+
+    def generate():
+        # Replay all events already emitted (handles page refresh / late connect)
+        replay = _tt_replays.get(job_id, [])
+        for event in replay:
+            yield f"data: {json.dumps(event)}\n\n"
+            if event.get("type") == "done":
+                return  # already complete, no need to wait
+
+        # Job still running — drain the queue
+        q = _tt_queues.get(job_id)
+        if q is None:
+            return  # job finished before we connected, replay was enough
+        while True:
+            try:
+                event = q.get(timeout=60)
+                yield f"data: {json.dumps(event)}\n\n"
+                if event.get("type") == "done":
+                    break
+            except Exception:
+                yield f"data: {json.dumps({'type': 'heartbeat'})}\n\n"
+
+    return Response(stream_with_context(generate()), mimetype="text/event-stream",
+                    headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
 
 
 if __name__ == "__main__":

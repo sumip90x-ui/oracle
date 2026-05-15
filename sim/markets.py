@@ -7,7 +7,7 @@ Prediction markets that track agent conviction across rounds.
 
 class PredictionMarket:
     FLOOR   = 0.15
-    CEILING = 0.85
+    CEILING = 0.95
 
     def __init__(self, market_id, question, market_type, tickers):
         self.market_id   = market_id

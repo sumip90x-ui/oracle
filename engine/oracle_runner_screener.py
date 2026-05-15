@@ -281,6 +281,65 @@ def parse_fidelity_csv(path: str) -> dict:
         return {}
 
 
+def get_portfolio_accounts(path: str) -> list:
+    """Return sorted list of all account names in the CSV."""
+    import csv as _csv
+    accounts = set()
+    try:
+        with open(path, encoding="utf-8-sig") as f:
+            reader = _csv.DictReader(f)
+            for row in reader:
+                name = (row.get("Account Name") or "").strip()
+                if name:
+                    accounts.add(name)
+    except Exception:
+        pass
+    return sorted(accounts)
+
+
+def parse_fidelity_csv_filtered(path: str, account_name: str) -> dict:
+    """Parse CSV filtered to a specific account name. Returns same dict format as parse_fidelity_csv."""
+    import csv as _csv
+    result = {}
+    try:
+        with open(path, encoding="utf-8-sig") as f:
+            reader = _csv.DictReader(f)
+            for row in reader:
+                acct = (row.get("Account Name") or "").strip()
+                if acct != account_name:
+                    continue
+                sym = (row.get("Symbol") or "").strip()
+                if not sym or sym.startswith("FZFXX") or sym.startswith("**") or sym.startswith("USD") or len(sym) > 6:
+                    continue
+                try:
+                    val  = float((row.get("Current Value") or "0").replace("$","").replace(",","").strip() or 0)
+                    cost = float((row.get("Cost Basis Total") or "0").replace("$","").replace(",","").strip() or 0)
+                    gl   = float((row.get("Total Gain/Loss Dollar") or "0").replace("$","").replace(",","").strip() or 0)
+                except (ValueError, AttributeError):
+                    val = cost = gl = 0
+                if val <= 0:
+                    continue
+                if cost <= 0:
+                    cost = val
+                pnl_pct = (gl / cost * 100) if cost > 0 else 0
+                if sym in result:
+                    # Merge if same symbol appears multiple times
+                    result[sym]["total_value"] += val
+                    result[sym]["total_cost"]  += cost
+                    result[sym]["accounts"]    += 1
+                else:
+                    result[sym] = {
+                        "accounts":    1,
+                        "total_value": val,
+                        "total_cost":  cost,
+                        "pnl_pct":     pnl_pct,
+                        "name":        sym,
+                    }
+    except Exception as e:
+        print(f"  ERROR parsing filtered CSV: {e}")
+    return result
+
+
 # ── Scoring helpers ──────────────────────────────────────────────────────────
 
 def get_price_flag(symbol: str, live_data: dict) -> str:
@@ -332,6 +391,16 @@ def dip_depth_score(live_data: dict) -> int:
     return 0
 
 
+def continuation_score(symbol: str, csv_data: dict, live_data: dict) -> int:
+    """Rewards stocks already working in Fidelity — continuation plays not pre-run setups."""
+    pnl_pct = csv_data.get('pnl_pct', 0)
+    if pnl_pct > 50: return 5
+    if pnl_pct > 25: return 4
+    if pnl_pct > 10: return 3
+    if pnl_pct > 0:  return 2
+    return 0  # use beaten_down scoring if red
+
+
 def short_fuel_score(live_data: dict) -> int:
     """Short squeeze fuel — AMD had 34% short at bottom. Only score in hot sectors."""
     if sector_score(live_data) < 2:
@@ -344,6 +413,15 @@ def short_fuel_score(live_data: dict) -> int:
     if pct >= 0.10: return 3
     if pct >= 0.05: return 2
     if pct  > 0.00: return 1
+    return 0
+
+
+def short_squeeze_bonus(live_data: dict) -> int:
+    """High short + hot sector = squeeze fuel bonus."""
+    short = live_data.get('short_pct', 0) or 0
+    pct = short if short <= 1.0 else short / 100
+    if pct >= 0.25 and sector_score(live_data) >= 2: return 2
+    if pct >= 0.20 and sector_score(live_data) >= 2: return 1
     return 0
 
 
@@ -387,11 +465,14 @@ def score_runner(symbol: str, csv_data: dict, live_data: dict) -> tuple:
            1 if accounts >= 1 else 0)
     score += pts; breakdown["conviction"] = pts
 
-    # 2. Beaten down = entry point (0-5): position P&L
-    pts = (5 if pnl_pct <= -30 else 4 if pnl_pct <= -20 else
-           3 if pnl_pct <= -10 else 2 if pnl_pct <= 0 else
-           1 if pnl_pct <= 10 else 0)
-    score += pts; breakdown["beaten_down"] = pts
+    # 2. Use continuation score if green in Fidelity, beaten_down if red
+    if pnl_pct > 0:
+        pts = continuation_score(symbol, csv_data, live_data)
+        score += pts; breakdown['continuation'] = pts
+    else:
+        pts = (5 if pnl_pct <= -30 else 4 if pnl_pct <= -20 else
+               3 if pnl_pct <= -10 else 2 if pnl_pct <= 0 else 0)
+        score += pts; breakdown['beaten_down'] = pts
 
     # 3. Market cap sweet spot (0-5): small enough to 10x
     pts = (5 if 0 < cap_b <= 1 else 4 if cap_b <= 3 else
@@ -430,6 +511,10 @@ def score_runner(symbol: str, csv_data: dict, live_data: dict) -> tuple:
     # 10. Earnings trajectory (0-5)
     pts = earnings_trajectory_score(live_data)
     score += pts; breakdown["earn_trajectory"] = pts
+
+    # 11. Short squeeze bonus (0-2) — high short + hot sector
+    pts = short_squeeze_bonus(live_data)
+    score += pts; breakdown['squeeze_bonus'] = pts
 
     return score, breakdown, price_flag
 
@@ -533,7 +618,7 @@ def print_table(results: list, live_data_map: dict = None):
     print()
     total = len(results)
     print(f"  All {total} candidates have live yfinance fundamentals")
-    print(f"  Score (max 50): accounts(5) + portfolio_pnl(5) + small_cap(5) + rev_growth(5) + analyst_up(5) + hot_sector(5) + eps_inflection(5) + dip_depth(5) + short_fuel(5) + earn_trajectory(5)")
+    print(f"  Score (max 52): accounts(5) + continuation_or_beaten_down(5) + small_cap(5) + rev_growth(5) + analyst_up(5) + hot_sector(5) + eps_inflection(5) + dip_depth(5) + short_fuel(5) + earn_trajectory(5) + squeeze_bonus(2)")
     print()
 
 
@@ -567,7 +652,8 @@ def haiku_triage(top_candidates: list, live_data_map: dict) -> list:
         trail_ep = live.get("trailing_eps") or 0
         sector_text = (live.get("sector", "") + " " + live.get("industry", "")).lower()
 
-        eps_ok     = (fwd_eps > 0) or (trail_ep < 0 and fwd_eps > trail_ep)
+        rev_growth_pct = live.get('rev_growth_pct', 0) or 0
+        eps_ok     = (fwd_eps > 0) or (trail_ep < 0 and fwd_eps > trail_ep) or (rev_growth_pct > 100)
         sector_ok  = any(s in sector_text for s in HOT_SECTORS)
         checks     = [cap >= 2.0, rev >= 20.0, anlst_up >= 50.0, eps_ok, sector_ok]
         passed     = sum(checks)
@@ -605,7 +691,7 @@ def haiku_triage(top_candidates: list, live_data_map: dict) -> list:
         price = r.get("price", 0) or 0
         dip   = f"{(high-price)/high*100:.0f}%" if high > 0 else "n/a"
         rows.append(
-            f"{sym}: score={r['score']}/50 | cap=${r.get('market_cap_b',0):.1f}B | "
+            f"{sym}: score={r['score']}/52 | cap=${r.get('market_cap_b',0):.1f}B | "
             f"rev={r.get('rev_growth',0):+.0f}% | earn_growth={egrow} | "
             f"trail_eps={trail} fwd_eps={fwd} | short%={short} | "
             f"off_52wk_high={dip} | margin={margin} | "
@@ -718,8 +804,17 @@ RUNNER DNA REFERENCE:
 - INTC: +559% MISSED. Beaten down + AI foundry pivot + CHIPS Act. Pattern was visible.
 PATTERN: beaten down + revenue inflecting + EPS improving + catalyst not yet priced.
 
-Build a complete 8-part seed (ACTORS, ENVIRONMENT, EVIDENCE, CANDIDATES, RUNNER DNA comparison, 
-FAILURE SCENARIOS, KENJI MANDATE for undiscovered stocks, DEBATE FODDER).
+Build a complete 8-part seed. Follow these STRICT LENGTH RULES per section — do not exceed them:
+
+PART I   ACTORS:          2 sentences per agent MAX. Format: [Name] — [Specialty]. Blind spot: [one phrase]. No backstory. No career history.
+PART II  ENVIRONMENT:     3 bullet points ONLY. SPY direction, sector rotation signal, interest rate stance. No narrative.
+PART III EVIDENCE:        FULL DETAIL. Do not compress. Include CATALYST:, BULL:, BEAR: tags. This section is parsed by code.
+PART IV  CANDIDATES:      Leave compact. Pre-debate ranking table only.
+PART V   RUNNER DNA:      Comparison TABLE ONLY — 5 rows. Columns: Ticker | Peak Gain | Catalyst Type | Reversal Trigger | Relevance to {top_n} candidates. No paragraph writeups.
+PART VI  FAILURE SCENARIOS: FULL DETAIL. Do not compress. Include historical precedents. Agents cite these directly.
+PART VII KENJI MANDATE:   3 bullet points per candidate ONLY. No duplicate table from Part IV.
+PART VIII DEBATE FODDER:  Write ALL {top_n} agents' opening statements IN FULL. Each agent ranks all {top_n} candidates with 1-sentence reasoning per pick. THIS SECTION MUST COMPLETE — it is the highest priority. Do not run out of tokens here.
+
 Agents should specifically debate the ranking: which of the {top_n} is most likely to 10x first?
 Include a Devil's Advocate agent who attacks each thesis hard."""
 
@@ -732,8 +827,10 @@ Include a Devil's Advocate agent who attacks each thesis hard."""
             "model": MODEL,
             "messages": [
                 {"role": "system", "content": """You are an expert ORACLE simulation seed builder.
-Build detailed, data-grounded seeds that produce specific agent personas and debates.
-Always include: named agents with backstories, hard numbers, failure scenarios, explicit conflicts.
+Build concise, data-grounded seeds that produce specific agent personas and debates.
+Agents need only name, specialty, and blind spot — no backstory, no career history.
+Always include: hard numbers, failure scenarios with historical precedents, explicit conflicts.
+Write Parts I, II, V, and VII in compact format first to preserve token budget for Parts III, VI, and VIII which require full detail.
 Structure: PART I ACTORS, PART II ENVIRONMENT, PART III EVIDENCE, PART IV CANDIDATES,
 PART V RUNNER DNA, PART VI FAILURE SCENARIOS, PART VII KENJI MANDATE, PART VIII DEBATE FODDER.
 Start with: # ORACLE SIMULATION SEED — RUNNER SCREEN"""},

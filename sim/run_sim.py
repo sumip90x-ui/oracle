@@ -7,23 +7,28 @@ Usage:
   python3 run_sim.py --stocks INSM BBIO ZETA SNOW PLTR PATH
   python3 run_sim.py --stocks INSM BBIO ZETA SNOW PLTR PATH --rounds 8
   python3 run_sim.py --stocks INSM BBIO --fast --report /path/to/report.md
+  python3 run_sim.py --stocks INSM BBIO --tracks 3 --seed 42
 """
 
 import os
 import sys
 import json
+import random
 import argparse
 import datetime
+from collections import Counter
 from pathlib import Path
+from statistics import mean, stdev
 
 # Allow imports from same sim/ directory
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 # Allow imports from ~/ORACLE
 sys.path.insert(0, os.path.expanduser("~/ORACLE"))
 
-from round_loop import run_simulation
-from scorer     import score_simulation, format_rankings
+from round_loop    import run_simulation
+from scorer        import score_simulation, format_rankings
 from graph_builder import get_driver
+from oracle_history import record_run as _record_run
 
 HAIKU  = "anthropic/claude-3.5-haiku"
 SONNET = "anthropic/claude-sonnet-4.5"
@@ -178,6 +183,14 @@ def main():
         "--report", type=str, default=None,
         help="Path to Think Tank .md report file"
     )
+    parser.add_argument(
+        "--tracks", type=int, default=2,
+        help="Number of parallel sim tracks with different injection seeds (default: 2)"
+    )
+    parser.add_argument(
+        "--seed", type=int, default=None,
+        help="Base injection seed. Random if not set"
+    )
     args = parser.parse_args()
 
     stocks = [t.upper() for t in args.stocks]
@@ -214,45 +227,132 @@ def main():
 
     # Build run_id
     run_id = _make_run_id(stocks)
-    print(f"  Run ID:  {run_id}\n")
 
-    # ── Run simulation ─────────────────────────────────────────────────────
-    results = run_simulation(
-        run_id      = run_id,
-        stocks      = stocks,
-        fundamentals= fundamentals,
-        report_text = report_text,
-        num_rounds  = args.rounds,
-        model       = model,
-        api_key     = api_key,
-    )
+    # Determine base seed
+    base_seed = args.seed if args.seed is not None else random.randint(0, 99999)
 
-    # ── Score ──────────────────────────────────────────────────────────────
-    driver = None
-    if results.get("driver_active"):
-        driver = get_driver()
+    print(f"  Run ID:  {run_id}")
+    print(f"  Tracks:  {args.tracks} | Base seed: {base_seed}\n")
 
-    rankings = score_simulation(
-        driver     = driver,
-        run_id     = run_id,
-        markets    = results["markets"],
-        all_rounds = results["rounds"],
-        stocks     = stocks,
-    )
+    # ── Multi-track simulation loop ────────────────────────────────────────
+    track_results   = []   # list of {ticker: result_dict} per track
+    first_track_sim = None  # sim results from track 0 for JSON output
 
-    if driver:
-        driver.close()
+    for track in range(args.tracks):
+        seed         = base_seed + track
+        # Use a track-specific run_id in Neo4j to avoid graph compounding
+        track_run_id = f"{run_id}_t{track}" if args.tracks > 1 else run_id
+
+        print(f"  Track {track + 1}/{args.tracks} (seed={seed})...")
+
+        sim_results = run_simulation(
+            run_id       = track_run_id,
+            stocks       = stocks,
+            fundamentals = fundamentals,
+            report_text  = report_text,
+            num_rounds   = args.rounds,
+            model        = model,
+            api_key      = api_key,
+            seed         = seed,
+        )
+
+        driver = None
+        if sim_results.get("driver_active"):
+            driver = get_driver()
+
+        rankings = score_simulation(
+            driver          = driver,
+            run_id          = track_run_id,
+            markets         = sim_results["markets"],
+            all_rounds      = sim_results["rounds"],
+            stocks          = stocks,
+            intended_rounds = args.rounds,
+        )
+
+        if driver:
+            driver.close()
+
+        # Record this track to oracle_history using the canonical run_id
+        _record_run(run_id, rankings, injection_seed=seed)
+
+        track_results.append({r["ticker"]: r for r in rankings})
+
+        # v4_6 — print injection log for this track
+        inj_log = sim_results.get("injection_log", [])
+        if inj_log:
+            print(f"\n  Injection Log (Track {track + 1}/{args.tracks}):")
+            for entry in inj_log:
+                print(f"    R{entry['round']} [{entry['category']:>12}] {entry['direction']:>8} | {entry['text']}")
+
+        if first_track_sim is None:
+            first_track_sim = sim_results
+
+    # ── Compute stability + confidence interval ────────────────────────────
+    final_rankings = []
+    for ticker in stocks:
+        signals    = [tr[ticker]["signal"]    for tr in track_results if ticker in tr]
+        composites = [tr[ticker]["composite"] for tr in track_results if ticker in tr]
+
+        if not signals:
+            continue
+
+        # Stability classification
+        if len(set(signals)) == 1:
+            stability = "STABLE"
+        else:
+            counts            = Counter(signals)
+            most_common_count = counts.most_common(1)[0][1]
+            stability         = "CONTESTED" if most_common_count / len(signals) > 0.5 else "FRAGILE"
+
+        mean_composite = mean(composites)
+        std_composite  = stdev(composites) if len(composites) > 1 else 0.0
+
+        base           = dict(track_results[0][ticker])
+        base["composite"] = round(mean_composite, 4)
+        # Majority signal across tracks
+        base["signal"]    = Counter(signals).most_common(1)[0][0]
+
+        if args.tracks > 1:
+            base["stability"]      = stability
+            base["composite_mean"] = round(mean_composite, 4)
+            base["composite_std"]  = round(std_composite, 4)
+
+        # v4_9 — Consensus signal: PROVISIONAL until 3+ runs, then CONFIRMED/LEANING/CONTESTED
+        try:
+            from sim.oracle_history import get_ticker_history
+            history = get_ticker_history(ticker)
+            distinct_runs = len(set(h["run_id"].split("_t")[0] for h in history))
+            if distinct_runs < 3:
+                base["consensus"] = "PROVISIONAL"
+            else:
+                last3_signals = [h["signal"] for h in history[:3]]
+                counts = Counter(last3_signals)
+                top_sig, top_cnt = counts.most_common(1)[0]
+                if top_cnt == 3:
+                    base["consensus"] = f"CONFIRMED:{top_sig}"
+                elif top_cnt == 2:
+                    base["consensus"] = f"LEANING:{top_sig}"
+                else:
+                    base["consensus"] = "CONTESTED"
+        except Exception:
+            base["consensus"] = "PROVISIONAL"
+
+        final_rankings.append(base)
+
+    final_rankings.sort(key=lambda x: x["composite"], reverse=True)
+    for i, r in enumerate(final_rankings, 1):
+        r["rank"] = i
 
     # ── Print rankings ─────────────────────────────────────────────────────
-    format_rankings(rankings)
+    format_rankings(final_rankings)
 
     # Add 'score' alias for composite so the frontend can read either field
-    for r in rankings:
+    for r in final_rankings:
         r["score"] = r["composite"]
 
-    # Build prob_history for chart: {TICKER: [prob_r1, prob_r2, ...]}
+    # Build prob_history for chart from first track: {TICKER: [prob_r1, prob_r2, ...]}
     prob_history = {t: [] for t in stocks}
-    for rd in results["rounds"]:
+    for rd in first_track_sim["rounds"]:
         mprobs = rd.get("market_probs", {})
         for t in stocks:
             prob_history[t].append(round(mprobs.get(t, 0.5), 4))
@@ -260,14 +360,16 @@ def main():
     # ── Save JSON ──────────────────────────────────────────────────────────
     SIMS_DIR.mkdir(parents=True, exist_ok=True)
     output = {
-        "run_id":      run_id,
-        "stocks":      stocks,
-        "model":       model,
-        "rounds":      args.rounds,
-        "rankings":    rankings,
+        "run_id":       run_id,
+        "stocks":       stocks,
+        "model":        model,
+        "rounds":       args.rounds,
+        "tracks":       args.tracks,
+        "base_seed":    base_seed,
+        "rankings":     final_rankings,
         "prob_history": prob_history,
-        "markets":     [_serialisable(m) for m in results["markets"]],
-        "rounds_data": [
+        "markets":      [_serialisable(m) for m in first_track_sim["markets"]],
+        "rounds_data":  [
             {
                 "round":        r["round"],
                 "injection":    r["injection"],
@@ -282,7 +384,7 @@ def main():
                     for p in r["posts"]
                 ],
             }
-            for r in results["rounds"]
+            for r in first_track_sim["rounds"]
         ],
         "timestamp": datetime.datetime.now().isoformat(),
     }
@@ -296,7 +398,7 @@ def main():
     ))
     print(f"\n  Obsidian rounds: {obsidian_path}")
     print(f"  JSON output:     {out_path}")
-    print(f"\n  Top pick: {rankings[0]['ticker']} ({rankings[0]['signal']})\n")
+    print(f"\n  Top pick: {final_rankings[0]['ticker']} ({final_rankings[0]['signal']})\n")
 
 
 if __name__ == "__main__":

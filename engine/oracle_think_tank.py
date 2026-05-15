@@ -57,6 +57,16 @@ except Exception as _brain_err:
     def parse_run_for_brain(*a, **k): return []  # noqa: E301
     def append_to_brain(*a, **k): pass           # noqa: E301
 
+# ── Pre-flight data validation (graceful fallback if module missing) ────────
+try:
+    from engine.oracle_preflight import run_preflight, build_preflight_header, load_preflight_cache
+    HAS_PREFLIGHT = True
+except ImportError:
+    HAS_PREFLIGHT = False
+    def run_preflight(t, verbose=True): return {}       # noqa: E301
+    def build_preflight_header(t): return ""            # noqa: E301
+    def load_preflight_cache(t): return {}              # noqa: E301
+
 SONNET  = "anthropic/claude-sonnet-4.5"
 HAIKU   = "anthropic/claude-3.5-haiku"
 SEARCH  = "anthropic/claude-3.5-haiku:online"
@@ -124,6 +134,10 @@ YOUR JOB IN THIS ANALYSIS:
 5. Give a SCOUT VERDICT per stock: INVESTIGATE FURTHER / PASS
 6. In your Discovery section: name ONE stock NOT on the candidate list that better fits
    the AMD/MU/SNDK runner DNA pattern. This is the most valuable output.
+7. SPINOFF CHECK: If the stock has a pending or recently announced spinoff, flag it immediately.
+   State: "SPINOFF ALERT: [company] is splitting into [RemainCo] and [SpinCo]. A sum-of-parts
+   valuation is required. Single forward EPS is unreliable. Flag for SOP mode."
+   Do NOT use single-entity forward EPS to calculate PEG if a spinoff is in progress.
 
 STRICT RULES - NON-NEGOTIABLE:
 - US markets ONLY: NYSE, NASDAQ, AMEX. No TSX, OTC, pink sheets, foreign exchanges.
@@ -131,7 +145,31 @@ STRICT RULES - NON-NEGOTIABLE:
 - If a Discovery stock is under $10, flag it as [CAUTION <$10] and explain why it still qualifies.
 - Any stock under $1 or on OTC/pink sheets = automatic disqualify, do not mention.
 
-DISCOVERY REQUIREMENT: Each Scout persona MUST name exactly one off-list stock fitting AMD/MU/SNDK runner DNA. Constraints: NYSE/NASDAQ only, price >$10, market cap $500M-$15B. Format: DISCOVERY: TICKER — one sentence reason. If none fits: DISCOVERY: NONE.
+DISCOVERY REQUIREMENT: Each Scout persona MUST name exactly one off-list stock fitting AMD/MU/SNDK runner DNA. Constraints: NYSE/NASDAQ only, price >$10, market cap $500M-$15B.
+Format: DISCOVERY: TICKER — one sentence reason.
+HARD RULE: Discovery tickers receive NO conviction rating, NO Kelly sizing, NO position recommendation. The ONLY permissible output is: 'DISCOVERY: TICKER — [reason] [QUEUED FOR STANDALONE RUN — no position sizing until full analysis complete]'. Any conviction rating above 3/10 or Kelly size above 2% on a discovery ticker is PROHIBITED — it has not been stress-tested by the Skeptic or Valuation Anchor.
+
+DISCOVERY PRICE RULE: Do NOT state or imply any specific price for a discovery ticker. You do not have reliable current price data. Write the discovery rationale purely based on business quality, DNA fit, and thesis — zero price references. The system will validate current price separately. Any price you state will be wrong.
+
+RUNNER DNA CHECKLIST — PRICE RULES:
+- 'Beaten down' must be evaluated at the CURRENT price vs the trailing 6-month average, NOT vs the 52-week low. A stock that was $57 a year ago and is now $189 is NOT beaten down.
+- Use the current price and 52-week high/low from the LIVE HEADER DATA provided. Do not evaluate dip from training data.
+- If current price is within 15% of 52-week high: mark 'Beaten down? NO — near 52wk high'
+- If current price is >30% below 52-week high: mark 'Beaten down? YES — N% off high'
+- All panels must use the same reference: current price vs 52-week high (NOT vs 52-week low)
+
+CATALYST PRICING NUANCE: When marking 'catalyst not yet priced', distinguish between: (a) market is unaware of the catalyst, vs (b) market is aware but discounting it due to risk. For option (b), state the specific discount mechanism: 'AI demand is consensus but governance discount is X% — resolving governance IS the unpriced catalyst.'
+
+PEER COMPARISON REQUIREMENT: If the primary risk on a stock is governance/accounting/legal (not competitive or market), identify the cleanest peer alternative in the same sector with equivalent exposure but lower risk. State it early in the analysis: 'CLEANER ALTERNATIVE: [TICKER] — [why it has same exposure with less risk]'. This gives simulation agents a concrete comparison point throughout the debate.
+
+PRICE VALIDATION RULE: Before writing any thesis on a discovery ticker, you must state its current price using the data you have been given. If the discovery ticker's current price is not in your fundamental data block, flag it as: 'DISCOVERY: [TICKER] — [reason] [PRICE UNVERIFIED — requires live price check before any position sizing]'. Never write a full investment thesis on a discovery ticker whose current price you cannot confirm from the provided data.
+
+SCUTTLEBUTT FRAMEWORK: Imagined scuttlebutt is a HYPOTHESIS GENERATION TOOL ONLY. Hard rules:
+1. Label every imagined interview: 'HYPOTHESIS (unverified): [what this person might say]'
+2. NEVER draw a final analytical verdict from imagined testimony. Any statement after 'therefore' or 'this confirms' that follows imagined content is PROHIBITED.
+3. End each scuttlebutt section with EXACTLY: 'RESEARCH QUESTIONS this raises: [3 specific questions real research would answer]'
+4. The validator will strip any verdict derived from imagined content. Write your verdicts from the verified data block only.
+Any claim about a competitor's revenue, market share, or product roadmap that is not in the provided data block must be labeled [UNVERIFIED CLAIM] or [ESTIMATE].
 
 Be specific. Use the data. No hedging."""
 
@@ -172,7 +210,15 @@ YOUR JOB:
    ELIMINATE if: business model incoherent, accounting suspicious, or narrative too clean
 5. For any ELIMINATED stock: state the specific evidence
 
-Be adversarial. Assume guilt until proven innocent. Quote specific data."""
+Be adversarial. Assume guilt until proven innocent. Quote specific data.
+
+SCANDAL SEVERITY CLASSIFICATION: Not all corporate scandals are equal weight.
+TIER 1 (Existential — lead with these): Active criminal indictment, active DOJ investigation, active SEC enforcement action, auditor resignation with 'unwilling to associate' language, active securities fraud class action. These must appear in your opening paragraph, not buried in a list.
+TIER 2 (Serious — surface prominently): Accounting restatements, revenue recognition issues, related party transactions, channel stuffing signals.
+TIER 3 (Monitor — note but don't lead with): Executive departures, regulatory inquiries without formal charges, whisper-number gaming.
+If ANY Tier 1 events exist: your FORENSIC VERDICT must be ELIMINATE unless there is specific evidence the event is fully resolved. 'Undergoing investigation' is NOT resolved.
+
+CASH FLOW FORENSIC RULE: If operating cash flow is significantly negative while net income is positive (or if operating cash outflow exceeds net income by >2x), this is a major red flag. Explicitly calculate: 'Net income = $X, Operating CF = $Y, gap = $Z.' Explain WHERE the cash went (working capital buildup, inventory, receivables). This is the Burry forensic check — lead with it if the gap is material."""
 
 
 FUNDAMENTAL_SYSTEM = """You are a composite fundamental analyst combining 8 of history's greatest value and conviction investors:
@@ -228,19 +274,40 @@ DAVID EINHORN (Catalyst Discipline):
 YOUR JOB - FUNDAMENTAL PANEL:
 For each stock deliver:
 
-FLOOR VALUE: [liquidation/asset value if growth stops - Klarman]
-ROIC vs COST OF CAPITAL: [above/below/at parity - Greenblatt]
-EARNINGS YIELD: [EBIT/EV % - cheap or expensive]
-COMPETITIVE ADVANTAGE PERIOD: [how many years of excess returns - Greenwald]
-BASE RATE: [what happens to companies in this reference class - Mauboussin]
+VALUATION MODE CLASSIFICATION (do this first — it determines which framework to use):
+
+  INFLECTION-STAGE: Use when revenue_growth > 100% OR (eps_ttm < 0 AND eps_fwd > 0) OR company is pre-profitability with accelerating revenue.
+    → Do NOT use static EPV (it will always produce SELL on a name that isn't profitable yet — that's the wrong tool).
+    → Use: forward EV/revenue multiple, PEG ratio on forward earnings, cash runway analysis.
+    → Question: "At what forward revenue multiple does this trade, and what growth rate justifies it?"
+
+  BINARY-EVENT: Use when phase3_pending OR binary_catalyst_within_6mo OR company is pre-revenue clinical stage.
+    → Do NOT use EPV or EV/revenue — neither is meaningful.
+    → Use: probability-weighted scenario analysis. YOU must input your own p_success estimate (not market-implied).
+    → Formula: EV = (your_p_success × upside_pct) - (your_p_failure × downside_pct)
+    → Example: if you think success probability is 45%, not 30% implied by price: EV = (0.45 × +75%) - (0.55 × -65%) = +33.75% - 35.75% = -2% EV. That is a very different number than if you blindly use market-implied probability.
+    → Output your p_success estimate explicitly and show the EV tree.
+
+  MATURE/STALWART: Use for profitable companies with stable revenue growth < 30%.
+    → Use: EPV, earnings yield (EBIT/EV), margin of safety vs current price.
+    → This is the Klarman/Greenblatt framework. Correct for mature businesses. Wrong for inflection names.
+
+FLOOR VALUE: [liquidation/asset value if growth stops — Klarman]
+ROIC vs COST OF CAPITAL: [above/below/at parity — Greenblatt]
+EARNINGS YIELD: [EBIT/EV % — cheap or expensive]
+COMPETITIVE ADVANTAGE PERIOD: [how many years of excess returns — Greenwald]
+BASE RATE: [what happens to companies in this reference class — Mauboussin]
 MARKET-IMPLIED GROWTH: [what growth rate is baked into the current price]
-MACRO ALIGNMENT: [does the current macro environment support the thesis - Druckenmiller]
-EXPECTED VALUE TREE: [3 scenarios with probabilities - bull/base/bear - Miller]
-CATALYST: [specific event + estimated date that forces repricing - Einhorn]
-ASYMMETRY CHECK: [heads I win how much / tails I lose how much - Pabrai]
+MACRO ALIGNMENT: [does the current macro environment support the thesis — Druckenmiller]
+EXPECTED VALUE TREE: [3 scenarios with probabilities — bull/base/bear — Miller]
+CATALYST: [specific event + estimated date that forces repricing — Einhorn]
+ASYMMETRY CHECK: [heads I win how much / tails I lose how much — Pabrai]
 FUNDAMENTAL VERDICT: STRONG BUY / BUY / HOLD / PASS - conviction 1-10
 
-Be quantitative. Build the actual numbers. No vague commentary."""
+Be quantitative. Build the actual numbers. No vague commentary.
+State your VALUATION MODE at the top of each stock analysis.
+
+GAAP P/E RULE: When a GAAP/NON-GAAP WARNING appears in the validated data block, you MUST calculate and surface BOTH the GAAP forward P/E AND the non-GAAP forward P/E explicitly. Format: 'GAAP forward P/E: Xz (using $X.XX GAAP EPS) | Non-GAAP forward P/E: Xz (using $X.XX non-GAAP EPS)'. Do not use only the non-GAAP figure for your primary valuation anchor when GAAP profitability is the stated thesis."""
 
 
 MACRO_TECH_SYSTEM = """You are a composite technology disruption and macro cycle analyst combining 7 legendary investors:
@@ -305,7 +372,11 @@ CAPITAL FLOW THESIS: [what structural force is pushing capital here - Rogers]
 TECHNOLOGY VERDICT: ACCELERATING / STABLE / AT RISK - conviction 1-10
 MACRO VERDICT: TAILWIND / NEUTRAL / HEADWIND for this stock right now
 
-Surface the non-obvious. The consensus is already priced in."""
+Surface the non-obvious. The consensus is already priced in.
+
+RUNNER DNA PRICE RULE: 'Beaten down' = current price >30% below 52-week HIGH. Do NOT evaluate vs 52-week low or vs price from 12+ months ago.
+
+COMPETITOR DATA RULE: Any claim about a named competitor's revenue, segment performance, or market position must either: (a) reference the specific earnings report it came from, or (b) be labeled [UNVERIFIED — hypothesis only]. Do NOT present synthesized competitor narratives as facts."""
 
 
 VERDICT_SYSTEM = """You are the synthesis layer - a council of five legendary thinkers delivering final verdicts:
@@ -361,7 +432,9 @@ STRICT OUTPUT RULES - NON-NEGOTIABLE:
 - Every stock must be priced above $1.00. Preferred $10.00+.
 - Mark any stock $1-$10 as [CAUTION <$10] with a one-line explanation.
     - Zero OTC, pink sheet, TSX, foreign-listed, or sub-$1 stocks in any output.
-    - If a candidate stock is OTC/foreign/sub-$1, exclude it from verdicts entirely."""
+    - If a candidate stock is OTC/foreign/sub-$1, exclude it from verdicts entirely.
+
+DISCOVERY TICKERS: If any ticker appears in the report ONLY as a discovery candidate (not as a primary research subject), output ONLY: '[TICKER]: QUEUED FOR FULL RUN — conviction rating and position sizing withheld pending complete analysis.' Do NOT assign a conviction score or Kelly size to any discovery ticker."""
 
 
 SUMMARY_SYSTEM = """You are a synthesis compiler. Your job is to read analysis from 4 analyst panels and produce ONE compact structured summary table per stock. No narrative. Pure structured data.
@@ -457,30 +530,57 @@ def call_claude(system: str, user: str, model: str = None, max_tokens: int = 350
                 user = user[:budget_chars] + "\n[CONTEXT TRUNCATED FOR TOKEN BUDGET]"
 
     m = model or SONNET
-    resp = requests.post(
-        "https://openrouter.ai/api/v1/chat/completions",
-        headers={
-            "Authorization": f"Bearer {OR_KEY}",
-            "Content-Type": "application/json",
-            "HTTP-Referer": "https://oracle.local",
-            "X-Title": "ORACLE Think Tank"
-        },
-        json={
-            "model": m,
-            "messages": [
-                {"role": "system", "content": system},
-                {"role": "user",   "content": user}
-            ],
-            "max_tokens": max_tokens
-        },
-        timeout=120
-    )
-    resp.raise_for_status()
-    return resp.json()["choices"][0]["message"]["content"].strip()
+
+    # Network retry — up to 3 attempts with backoff for connection errors / 5xx
+    import time as _time
+    last_err = None
+    for _attempt in range(3):
+        try:
+            resp = requests.post(
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {OR_KEY}",
+                    "Content-Type": "application/json",
+                    "HTTP-Referer": "https://oracle.local",
+                    "X-Title": "ORACLE Think Tank"
+                },
+                json={
+                    "model": m,
+                    "messages": [
+                        {"role": "system", "content": system},
+                        {"role": "user",   "content": user}
+                    ],
+                    "temperature": 0.3,
+                    "max_tokens": max_tokens
+                },
+                timeout=120
+            )
+            # Retry on 5xx server errors but NOT on 4xx (402 credit, 400 bad request)
+            if resp.status_code >= 500:
+                raise requests.exceptions.ConnectionError(f"Server error {resp.status_code}")
+            resp.raise_for_status()
+            return resp.json()["choices"][0]["message"]["content"].strip()
+        except requests.exceptions.HTTPError as e:
+            # 4xx errors are not retryable — re-raise immediately
+            raise
+        except Exception as e:
+            last_err = e
+            if _attempt < 2:
+                wait = 10 * (2 ** _attempt)  # 10s, 20s
+                print(f"\n  WARNING: call_claude attempt {_attempt+1} failed ({e}) — retrying in {wait}s...", flush=True)
+                _time.sleep(wait)
+            else:
+                print(f"\n  ERROR: call_claude failed after 3 attempts: {e}", flush=True)
+                raise
 
 
 def get_fundamentals(stocks: list, fresh: bool = False) -> str:
-    """Fetch live fundamentals via yfinance with 24hr disk cache (keyed by today's date)."""
+    """Fetch live market data via yfinance with 24hr disk cache (keyed by today's date).
+
+    MARKET DATA ONLY — price, 52w range, short interest, beta, volume, market cap.
+    EPS, revenue, gross margin, analyst targets, and forward estimates come from
+    oracle_factsheet.py (EDGAR) — not from this function.
+    """
     import yfinance as yf
 
     today_str  = datetime.date.today().strftime("%Y%m%d")
@@ -504,69 +604,45 @@ def get_fundamentals(stocks: list, fresh: bool = False) -> str:
                 cached_data = json.load(fh)
             hits = [s for s in stocks if s in cached_data]
             if hits:
-                print(f"  Fundamentals: {len(hits)} ticker(s) from cache ({today_str}).")
+                print(f"  Market data: {len(hits)} ticker(s) from cache ({today_str}).")
         except Exception:
             cached_data = {}
 
     to_fetch = [s for s in stocks if s not in cached_data]
     if to_fetch:
-        print(f"  Pulling live fundamentals for {to_fetch}...", end="", flush=True)
+        print(f"  Pulling live market data for {to_fetch}...", end="", flush=True)
         for sym in to_fetch:
             try:
                 tkr  = yf.Ticker(sym)
-                info = tkr.info
-                price = info.get("currentPrice") or info.get("regularMarketPrice") or 0
-                if not price:
+                # Use fast_info for price (the one permitted yfinance price use)
+                fast = tkr.fast_info
+                price_val = getattr(fast, 'last_price', None) or getattr(fast, 'regular_market_price', None)
+                if not price_val:
                     print(f"\n  yfinance unavailable for {sym} — using limited data")
                     cached_data[sym] = {"error": True, "ticker": sym}
                     continue
 
-                # YoY quarterly revenue growth: most-recent quarter vs same quarter prior year
-                rev_growth = None
-                rev_ttm = None
-                try:
-                    q_fin = tkr.quarterly_income_stmt
-                    if q_fin is not None and not q_fin.empty:
-                        for label in ("Total Revenue", "Revenue"):
-                            if label in q_fin.index:
-                                rev_row = q_fin.loc[label].dropna().sort_index(ascending=False)
-                                n = min(4, len(rev_row))
-                                if n >= 1:
-                                    rev_ttm = sum(float(rev_row.iloc[i]) for i in range(n))
-                                if len(rev_row) >= 5:
-                                    r0 = float(rev_row.iloc[0])
-                                    r4 = float(rev_row.iloc[4])
-                                    if r4 and abs(r4) > 0:
-                                        rev_growth = (r0 - r4) / abs(r4) * 100
-                                break
-                except Exception:
-                    pass
-                if rev_growth is None:
-                    rg = info.get("revenueGrowth")
-                    rev_growth = rg * 100 if rg is not None else None
+                price_val = float(price_val)
 
-                price_val   = float(price)
-                target      = info.get("targetMeanPrice")
-                upside      = ((target - price_val) / price_val * 100) if target and price_val else None
-                mkt_cap     = info.get("marketCap")
+                # Market data fields only — no financial statement data
+                info = tkr.info
+                mkt_cap   = info.get("marketCap")
                 mkt_cap_str = f"${mkt_cap/1e9:.1f}B" if mkt_cap else "N/A"
-                short_raw   = info.get("shortPercentOfFloat")
-                short_str   = (f"{short_raw*100:.1f}%" if short_raw and short_raw <= 1.0
-                               else f"{short_raw:.1f}%" if short_raw else "N/A")
+                short_raw = info.get("shortPercentOfFloat")
+                short_str = (f"{short_raw*100:.1f}%" if short_raw and short_raw <= 1.0
+                             else f"{short_raw:.1f}%" if short_raw else "N/A")
+                beta      = info.get("beta")
+                avg_vol   = info.get("averageVolume")
 
                 cached_data[sym] = {
-                    "ticker":         sym,
-                    "price":          price_val,
-                    "mkt_cap_str":    mkt_cap_str,
-                    "rev_ttm":        rev_ttm,
-                    "rev_growth":     rev_growth,
-                    "forward_eps":    info.get("forwardEps"),
-                    "trailing_eps":   info.get("trailingEps"),
-                    "week52_high":    info.get("fiftyTwoWeekHigh"),
-                    "week52_low":     info.get("fiftyTwoWeekLow"),
-                    "analyst_target": target,
-                    "analyst_upside": upside,
-                    "short_str":      short_str,
+                    "ticker":      sym,
+                    "price":       price_val,
+                    "mkt_cap_str": mkt_cap_str,
+                    "week52_high": info.get("fiftyTwoWeekHigh"),
+                    "week52_low":  info.get("fiftyTwoWeekLow"),
+                    "short_str":   short_str,
+                    "beta":        beta,
+                    "avg_volume":  avg_vol,
                 }
             except Exception as e:
                 print(f"\n  yfinance unavailable for {sym} — using limited data ({e})")
@@ -580,35 +656,29 @@ def get_fundamentals(stocks: list, fresh: bool = False) -> str:
             pass
         print(" done.")
 
-    # Format one text block per stock — this is what the panels consume
+    # Format one text block per stock — market data only
     blocks = []
     for sym in stocks:
         d = cached_data.get(sym, {})
         if not d or d.get("error"):
-            blocks.append(f"{sym} - yfinance unavailable for {sym} — using limited data")
+            blocks.append(f"{sym} — market data unavailable")
             continue
 
-        price   = d.get("price", 0)
-        rev_g   = d.get("rev_growth")
-        rev_str = f"{rev_g:+.1f}%" if rev_g is not None else "N/A"
-        trail   = d.get("trailing_eps")
-        fwd     = d.get("forward_eps")
-        eps_str = f"${trail:.2f}" if trail is not None else "N/A"
-        fwd_str = f"${fwd:.2f}"   if fwd   is not None else "N/A"
-        hi      = d.get("week52_high")
-        lo      = d.get("week52_low")
-        rng_str = f"${lo:.2f} - ${hi:.2f}" if hi and lo else "N/A"
-        tgt     = d.get("analyst_target")
-        up      = d.get("analyst_upside")
-        tgt_str = f"${tgt:.2f} ({up:+.0f}% upside)" if tgt and up is not None else "N/A"
+        price = d.get("price", 0)
+        hi    = d.get("week52_high")
+        lo    = d.get("week52_low")
+        short = d.get("short_str", "N/A")
+        beta  = d.get("beta")
+        vol   = d.get("avg_volume")
+
+        hi_str    = f"${hi:.2f}" if hi else "N/A"
+        lo_str    = f"${lo:.2f}" if lo else "N/A"
+        beta_str  = f"{beta:.2f}" if beta is not None else "N/A"
+        vol_str   = f"{vol/1e6:.1f}M" if vol else "N/A"
 
         blocks.append(
-            f"{sym} - ${price:.2f} ({d.get('mkt_cap_str','N/A')})\n"
-            f"Revenue Growth (YoY MRQ): {rev_str}\n"
-            f"EPS TTM: {eps_str} | Forward EPS: {fwd_str}\n"
-            f"52-week range: {rng_str}\n"
-            f"Analyst target: {tgt_str}\n"
-            f"Short interest: {d.get('short_str','N/A')}"
+            f"{sym} — Price: ${price:.2f} | 52w: {lo_str}–{hi_str} | "
+            f"Short: {short} | Beta: {beta_str} | Vol: {vol_str}"
         )
 
     return "\n\n".join(blocks)
@@ -711,40 +781,79 @@ def write_ticker_notes(ticker: str, fund_dict: dict, date: str,
 
 
 def build_live_header(batch: list, date: str) -> str:
-    """Build the LIVE DATA header string for a batch of tickers (injected first in every panel prompt)."""
+    """Build the LIVE DATA header string for a batch of tickers (injected first in every panel prompt).
+
+    Primary source: oracle_factsheet.build_fact_sheet() (EDGAR verified data).
+    Fallback: fund_cache for market data only (52w range, short interest, beta, volume).
+    Never reads EPS, revenue, or gross margin from fund_cache — those come from EDGAR only.
+    """
     fund_cache = _load_fund_cache(date)
-    if not fund_cache:
-        return ""
+    # Use session-isolated price from oracle_factsheet — keeps all panel calls consistent
+    try:
+        from oracle_factsheet import get_session_price as _gsp
+        for sym in batch:
+            _live_p = _gsp(sym)
+            if _live_p:
+                d = fund_cache.get(sym, {})
+                if d:
+                    stored_p = d.get("price") or 0
+                    if stored_p and abs(_live_p - stored_p) / _live_p > 0.03:
+                        print(f"  [PRICE] {sym}: cache=${stored_p:.2f} updated to session=${_live_p:.2f}")
+                    d["price"] = _live_p
+    except Exception:
+        pass
+
     lines = [f"LIVE DATA AS OF {date} — DO NOT USE TRAINING KNOWLEDGE FOR THESE FIELDS:"]
-    found_any = False
+
+    # Primary: EDGAR fact sheets for each ticker (verified financials)
+    fact_sheet_blocks = []
+    for sym in batch:
+        try:
+            from oracle_factsheet import build_fact_sheet, format_fact_sheet_for_panels as _fmt_fs
+            _fs = build_fact_sheet(sym)
+            _fs_text = _fmt_fs(_fs)
+            if _fs_text:
+                fact_sheet_blocks.append(_fs_text)
+        except Exception:
+            pass  # fact sheet is optional — graceful degradation
+
+    if fact_sheet_blocks:
+        lines = fact_sheet_blocks + lines  # prepend fact sheets before market data
+
+    # Fallback: market data only from fund_cache (52w, short interest, beta, volume)
+    found_any = bool(fact_sheet_blocks)
     for ticker in batch:
         d = fund_cache.get(ticker, {})
         if not d or d.get("error"):
             continue
         found_any = True
-        price      = d.get("price", 0)
-        rev_ttm    = d.get("rev_ttm")
-        rev_g      = d.get("rev_growth")
-        eps_ttm    = d.get("trailing_eps")
-        eps_fwd    = d.get("forward_eps")
-        mkt_cap    = d.get("mkt_cap_str", "N/A")
-        short_str  = d.get("short_str", "N/A")
-        analyst_up = d.get("analyst_upside")
+        price     = d.get("price", 0)
+        hi        = d.get("week52_high")
+        lo        = d.get("week52_low")
+        short_str = d.get("short_str", "N/A")
+        beta      = d.get("beta")
+        avg_vol   = d.get("avg_volume")
 
-        price_s   = f"${price:.2f}"          if isinstance(price,      (int, float)) else "N/A"
-        rev_ttm_s = f"${rev_ttm/1e9:.2f}B"  if isinstance(rev_ttm,    (int, float)) and rev_ttm else "N/A"
-        rev_g_s   = f"{rev_g:.1f}"           if isinstance(rev_g,      (int, float)) else "N/A"
-        eps_ttm_s = f"${eps_ttm:.2f}"        if isinstance(eps_ttm,    (int, float)) else "N/A"
-        eps_fwd_s = f"${eps_fwd:.2f}"        if isinstance(eps_fwd,    (int, float)) else "N/A"
-        analyst_s = f"{analyst_up:.1f}"      if isinstance(analyst_up, (int, float)) else "N/A"
+        price_s   = f"${price:.2f}"        if isinstance(price,   (int, float)) else "N/A"
+        hi_s      = f"${hi:.2f}"           if hi else "N/A"
+        lo_s      = f"${lo:.2f}"           if lo else "N/A"
+        beta_s    = f"{beta:.2f}"          if isinstance(beta,    (int, float)) else "N/A"
+        vol_s     = f"{avg_vol/1e6:.1f}M"  if isinstance(avg_vol, (int, float)) and avg_vol else "N/A"
 
         lines.append(
-            f"{ticker} | Price: {price_s} | Revenue TTM: {rev_ttm_s} | "
-            f"Revenue Growth YoY: {rev_g_s}% | EPS TTM: {eps_ttm_s} | "
-            f"Forward EPS: {eps_fwd_s} | Market Cap: {mkt_cap} | "
-            f"Short Interest: {short_str} | Analyst Upside: {analyst_s}%"
+            f"{ticker} | Price: {price_s} | 52w: {lo_s}–{hi_s} | "
+            f"Short: {short_str} | Beta: {beta_s} | AvgVol: {vol_s}"
         )
-    return "\n".join(lines) if found_any else ""
+
+    if not found_any:
+        return ""
+    # Inject preflight validated data block if available
+    if HAS_PREFLIGHT:
+        for sym in batch:
+            pf_header = build_preflight_header(sym)
+            if pf_header:
+                lines.append(pf_header)
+    return "\n".join(lines)
 
 
 # ══════════════════════════════════════════════════════════════════
@@ -1027,6 +1136,39 @@ def validate_catalyst_dates(stocks: list, synthesis_text: str, date: str) -> str
     )
 
 
+def _compute_reverse_dcf(price_per_share, fcf_per_share, discount_rate=0.10, terminal_multiple=20, years=10):
+    """
+    Solve for the implied annual FCF growth rate that makes NPV(FCF stream) = current price.
+    Uses binary search between -20% and +200% growth.
+    Returns implied_growth_pct (float) or None if FCF <= 0.
+    """
+    if not fcf_per_share or fcf_per_share <= 0 or not price_per_share or price_per_share <= 0:
+        return None
+
+    def npv_at_growth(g):
+        pv = 0.0
+        fcf = fcf_per_share
+        for yr in range(1, years + 1):
+            fcf = fcf * (1 + g)
+            pv += fcf / (1 + discount_rate) ** yr
+        terminal_val = fcf * terminal_multiple / (1 + discount_rate) ** years
+        return pv + terminal_val
+
+    # Binary search
+    lo, hi = -0.20, 2.00
+    for _ in range(60):
+        mid = (lo + hi) / 2
+        if npv_at_growth(mid) > price_per_share:
+            hi = mid
+        else:
+            lo = mid
+        if abs(hi - lo) < 0.0001:
+            break
+
+    implied = round((lo + hi) / 2 * 100, 1)
+    return implied
+
+
 def run_composite(stocks: list, fundamentals: str, model: str,
                   screener_context: str = "", date: str = None, mode: str = "composite") -> dict:
     """Run 7 composite analyst calls (v3 - call 3 split into fundamentals + tech/macro, plus summary compiler)."""
@@ -1040,7 +1182,10 @@ def run_composite(stocks: list, fundamentals: str, model: str,
     # Create a run directory for batch files (readable in Obsidian, useful for debugging)
     if date is None:
         date = datetime.date.today().strftime("%Y%m%d")
-    run_dir = os.path.join(OUT_DIR, "_runs", f"_run_{date}_{mode}")
+    # Include stock list fingerprint in run_dir to prevent checkpoint collision
+    # between runs with different stocks on the same date/mode
+    stocks_key = "_".join(sorted(s[:4].upper() for s in stocks[:6]))
+    run_dir = os.path.join(OUT_DIR, "_runs", f"_run_{date}_{mode}_{stocks_key}")
     os.makedirs(run_dir, exist_ok=True)
 
     # Load raw fundamentals dict for live header injection and ticker note writing
@@ -1056,7 +1201,7 @@ def run_composite(stocks: list, fundamentals: str, model: str,
     # Price is a plain dollar amount (e.g. $64.68), market cap ends in B (e.g. $12.7B).
     # Regex: match $NUMBER that is NOT followed by B (to exclude market cap).
     if screener_context and fundamentals:
-        import yfinance as _yf
+        from oracle_factsheet import get_session_price as _gsp_pv
         for sym in stocks:
             sc_m = re.search(rf'\b{re.escape(sym)}\b[^\n]{{0,200}}\$(\d+\.\d+)(?!B)', screener_context)
             fd_m = re.search(rf'\b{re.escape(sym)}\b[^\n]{{0,150}}\$(\d+\.?\d*)', fundamentals)
@@ -1066,11 +1211,10 @@ def run_composite(stocks: list, fundamentals: str, model: str,
                 if sc_price > 0 and fd_price > 0 and abs(sc_price - fd_price) / sc_price > 0.10:
                     print(f"  PRICE MISMATCH: {sym} screener=${sc_price:.2f} vs cache=${fd_price:.2f} — forcing fresh fetch")
                     try:
-                        info = _yf.Ticker(sym).info
-                        new_price = info.get("currentPrice") or info.get("regularMarketPrice")
+                        new_price = _gsp_pv(sym)
                         if new_price:
                             fundamentals = fundamentals.replace(
-                                f"{sym} - ${fd_price:.2f}", f"{sym} - ${new_price:.2f}", 1
+                                f"{sym} — Price: ${fd_price:.2f}", f"{sym} — Price: ${new_price:.2f}", 1
                             )
                     except Exception as _pve:
                         print(f"  PRICE MISMATCH re-fetch failed for {sym}: {_pve}")
@@ -1100,10 +1244,26 @@ def run_composite(stocks: list, fundamentals: str, model: str,
         except Exception as _ne:
             print(f"  [Data layer] News check warning: {_ne}")
 
+    # Build canonical fact sheets for all stocks (EDGAR-verified, single source of truth)
+    canonical_facts = {}
+    canonical_text_parts = []
+    for sym in stocks:
+        try:
+            from oracle_factsheet import build_fact_sheet as _bfs, format_fact_sheet_for_panels as _ffs
+            _fs = _bfs(sym)
+            _fs_text = _ffs(_fs)
+            canonical_facts[sym] = _fs
+            canonical_text_parts.append(_fs_text)
+        except Exception as _e:
+            canonical_text_parts.append(f"{sym}: fact sheet unavailable — {_e}")
+
+    canonical_data = "\n\n".join(canonical_text_parts) if canonical_text_parts else fundamentals
+
     context = (
         f"CANDIDATE STOCKS: {stocks_str}\n"
         f"{screener_block}\n"
-        f"FUNDAMENTAL DATA:\n{fundamentals}\n\n"
+        f"VERIFIED FINANCIAL DATA (SEC EDGAR — authoritative source for all calculations):\n{canonical_data}\n\n"
+        f"MARKET DATA (live — 52-week range, short interest, beta, volume):\n{fundamentals}\n\n"
         f"{news_block}"
         f"{brain_block}"
         f"{RUNNER_DNA}"
@@ -1112,7 +1272,7 @@ def run_composite(stocks: list, fundamentals: str, model: str,
     # Split stocks into batches of 2 — dynamic, handles any stock count
     batches     = make_batches(stocks)
     n_batches   = len(batches)
-    total_calls = n_batches * 4 + 2
+    total_calls = n_batches * 4 + 3   # +1 for Valuation Anchor
 
     # ── Scout Panel (batched 2 stocks each) ──────────────────────────
     scout_results = []
@@ -1120,7 +1280,16 @@ def run_composite(stocks: list, fundamentals: str, model: str,
         if not sbatch:
             continue
         sbatch_str = ", ".join(sbatch)
+        scout_file = os.path.join(run_dir, f"scout_{idx}.md")
         print(f"\n  [{idx}/{total_calls}] Scout Panel Batch {idx} ({sbatch_str})...", end="", flush=True)
+
+        # ── CHECKPOINT RESUME: skip API call if file already exists ──
+        if os.path.exists(scout_file):
+            result = open(scout_file).read()
+            print(f" (cached)", flush=True)
+            scout_results.append(result)
+            continue
+
         _scout_hdr = build_live_header(sbatch, date)
         _scout_hdr_block = _scout_hdr + "\n\n" if _scout_hdr else ""
         scout_user = (
@@ -1146,18 +1315,66 @@ def run_composite(stocks: list, fundamentals: str, model: str,
             )
             if len(_retry) > len(result):
                 result = _retry
+
+        # Run validators FIRST — before disk write or append
+        try:
+            from oracle_validators import run_all_validators
+            # Build live prices dict for discovery price check
+            _live_px = {s: _load_fund_cache(date).get(s, {}).get("price") for s in stocks}
+            # Get fact sheet text if available (reuse canonical_facts built above)
+            _fs_text = ""
+            try:
+                _canonical_sym = sbatch[0] if sbatch else (stocks[0] if stocks else "")
+                if _canonical_sym in canonical_facts:
+                    from oracle_factsheet import format_fact_sheet_for_panels as _ffs
+                    _fs_text = _ffs(canonical_facts[_canonical_sym])
+                else:
+                    from oracle_factsheet import build_fact_sheet, format_fact_sheet_for_panels as _ffs
+                    _fs_text = _ffs(build_fact_sheet(_canonical_sym))
+            except Exception:
+                pass
+            result, validator_flags = run_all_validators("scout", result, _fs_text, str(sbatch), _live_px)
+            if validator_flags:
+                result += f"\n\n[VALIDATOR FLAGS: {'; '.join(validator_flags[:3])}]"
+                print(f" [+{len(validator_flags)} validator flag(s)]", end="", flush=True)
+        except Exception:
+            pass  # validators are optional
+
+        # S2: Discovery price validation — flag any discovery ticker whose price was cached vs live
+        try:
+            import re as _re2
+            _disc_tickers = _re2.findall(r'DISCOVERY:\s*([A-Z]{1,5})\s*[—\-]', result)
+            _disc_lines = []
+            for _dt in _disc_tickers:
+                if _dt in [s.upper() for s in stocks]:
+                    continue  # already in run, skip
+                try:
+                    from oracle_factsheet import get_session_price as _gsp
+                    _live_p = _gsp(_dt)
+                    if _live_p:
+                        _disc_lines.append(f"  {_dt} live price = ${_live_p:.2f} — verify thesis was written at this price")
+                    else:
+                        _disc_lines.append(f"  {_dt} — price unavailable")
+                except Exception as _de:
+                    _disc_lines.append(f"  {_dt} — price fetch failed ({_de})")
+            if _disc_lines:
+                result += "\n\nDISCOVERY PRICE CHECK:\n" + "\n".join(_disc_lines)
+        except Exception:
+            pass
+
+        # Now append validated result and write to disk
         scout_results.append(result)
         write_layer_note(sbatch, "layer1_scout", result, date)
         # Write to disk
-        with open(os.path.join(run_dir, f"scout_{idx}.md"), "w") as f:
+        with open(scout_file, "w") as f:
             f.write(result)
+
         print(" done.")
 
     results["scout"] = "\n\n---BATCH BREAK---\n\n".join(scout_results)
 
     # ── BUG 3: Discovery price check — fetch live prices for discovery stocks ──
     try:
-        import yfinance as _yf2
         # Reserved words that are NOT tickers — filter these out
         _NOT_TICKERS = {"STOCK", "TICKER", "SYM", "ETF", "NYSE", "NASDAQ", "SEC",
                         "FDA", "CEO", "CFO", "TTM", "MRQ", "EPS", "YOY", "AI",
@@ -1171,24 +1388,24 @@ def run_composite(stocks: list, fundamentals: str, model: str,
             if t.upper() not in stocks and t.upper() not in _NOT_TICKERS
         })
         if disc_tickers:
-            disc_lines = ["\nDISCOVERY PRICE CHECK (live yfinance):"]
+            from oracle_factsheet import get_session_price as _gsp
+            disc_lines = ["\nDISCOVERY PRICE CHECK (live):"]
             for dt in disc_tickers:
                 try:
-                    dinfo = _yf2.Ticker(dt).info
-                    live_p = dinfo.get("currentPrice") or dinfo.get("regularMarketPrice")
-                    if live_p:
+                    _live_p = _gsp(dt)
+                    if _live_p:
                         assumed_m = re.search(rf'\b{dt}\b[^\n]{{0,200}}\$(\d+\.?\d*)', results["scout"])
                         assumed   = float(assumed_m.group(1)) if assumed_m else None
-                        if assumed and abs(live_p - assumed) / live_p > 0.20:
+                        if assumed and abs(_live_p - assumed) / _live_p > 0.20:
                             disc_lines.append(
-                                f"  {dt} live price = ${live_p:.2f} (analysis used ${assumed:.2f}) "
-                                f"— WARNING: Panel thesis built on stale price — re-evaluate at current ${live_p:.2f}"
+                                f"  {dt} live price = ${_live_p:.2f} (analysis used ${assumed:.2f}) "
+                                f"— WARNING: Panel thesis built on stale price — re-evaluate at current ${_live_p:.2f}"
                             )
                         else:
                             note = f" (analysis used ${assumed:.2f} — VALID)" if assumed else ""
-                            disc_lines.append(f"  {dt} live price = ${live_p:.2f}{note}")
+                            disc_lines.append(f"  {dt} live price = ${_live_p:.2f}{note}")
                     else:
-                        disc_lines.append(f"  {dt} — yfinance returned no price data")
+                        disc_lines.append(f"  {dt} — price unavailable")
                 except Exception as _de:
                     disc_lines.append(f"  {dt} — price fetch failed ({_de})")
             results["scout"] += "\n" + "\n".join(disc_lines)
@@ -1202,24 +1419,58 @@ def run_composite(stocks: list, fundamentals: str, model: str,
             continue
         sbatch_str = ", ".join(sbatch)
         call_num = n_batches + idx
+        skeptic_file = os.path.join(run_dir, f"skeptic_{idx}.md")
         print(f"  [{call_num}/{total_calls}] Skeptic Panel Batch {idx} ({sbatch_str})...", end="", flush=True)
+
+        # ── CHECKPOINT RESUME ──
+        if os.path.exists(skeptic_file):
+            result = open(skeptic_file).read()
+            print(f" (cached)", flush=True)
+            skeptic_results.append(result)
+            continue
 
         # Read the corresponding scout batch file
         scout_file = os.path.join(run_dir, f"scout_{idx}.md")
         scout_excerpt = open(scout_file).read()[:1200] if os.path.exists(scout_file) else ""
 
+        # Insider transaction data — Form 4 data from oracle_factsheet.py is authoritative.
+        # yfinance insider feed has been removed. Fact sheet EDGAR data is passed
+        # via build_live_header() — no second insider feed needed here.
+        insider_block = ""
+
         _skept_hdr = build_live_header(sbatch, date)
         _skept_hdr_block = _skept_hdr + "\n\n" if _skept_hdr else ""
+
+        # Short seller context from preflight
+        short_seller_block = ""
+        try:
+            from oracle_preflight import load_preflight_cache as _lpc
+            _pf = _lpc(_sym if len(sbatch) == 1 else sbatch[0])
+            _ss = _pf.get("short_seller_reports", [])
+            if _ss:
+                short_seller_block = (
+                    f"\nSHORT SELLER REPORTS (must address these specific allegations):\n"
+                    + "\n".join(f"  - {r}" for r in _ss[:3])
+                    + "\nYour forensic analysis MUST start by evaluating each allegation above with specific evidence. "
+                    + "Do not generate generic concerns when specific published allegations exist.\n"
+                )
+        except Exception:
+            pass
+
         skeptic_user = (
             f"{_skept_hdr_block}"
             f"CANDIDATE STOCKS FOR THIS BATCH: {sbatch_str}\n\n"
             f"FUNDAMENTAL DATA:\n{fundamentals}\n\n"
             f"{RUNNER_DNA}\n\n"
             f"SCOUT FINDINGS FOR THIS BATCH:\n{scout_excerpt}\n\n"
-            f"Apply forensic scrutiny to ONLY these stocks: {sbatch_str}\n"
+            + (f"INSIDER ACTIVITY (12-month window — surface as evidence if significant):{insider_block}\n\n" if insider_block else "")
+            + (short_seller_block if short_seller_block else "")
+            + f"Apply forensic scrutiny to ONLY these stocks: {sbatch_str}\n"
             "For each stock: specific red flags, accounting concerns, narrative stress test.\n"
+            "If insider SELLING is heavy (>$1M or zero buys with active selling), flag it explicitly.\n"
             "FORENSIC VERDICT: PASS / WARN / ELIMINATE with specific evidence.\n"
-            "Be adversarial. Assume guilt until proven innocent."
+            "Be adversarial. Assume guilt until proven innocent.\n"
+            "IMPORTANT: State your floor price (liquidation value) and a SPECIFIC base-case downside % separately from a stress-case downside %."
         )
         result = call_claude(SKEPTIC_SYSTEM, skeptic_user, model=model, max_tokens=4000)
         # GAP 3: Auto-retry on truncation
@@ -1235,7 +1486,7 @@ def run_composite(stocks: list, fundamentals: str, model: str,
                 result = _retry
         skeptic_results.append(result)
         write_layer_note(sbatch, "layer2_skeptic", result, date)
-        with open(os.path.join(run_dir, f"skeptic_{idx}.md"), "w") as f:
+        with open(skeptic_file, "w") as f:
             f.write(result)
         print(" done.")
 
@@ -1246,7 +1497,16 @@ def run_composite(stocks: list, fundamentals: str, model: str,
     for bi, sbatch in enumerate(batches, 1):
         call_num = 2 * n_batches + bi
         sb_str   = ", ".join(sbatch)
+        fund_file = os.path.join(run_dir, f"fundamental_{bi}.md")
         print(f"  [{call_num}/{total_calls}] Fundamental Panel Batch {bi} ({sb_str})...", end="", flush=True)
+
+        # ── CHECKPOINT RESUME ──
+        if os.path.exists(fund_file):
+            fund_result = open(fund_file).read()
+            print(f" (cached)", flush=True)
+            fund_results_list.append(fund_result)
+            results[f"fundamental_{bi}"] = fund_result
+            continue
 
         scout_f_bi   = os.path.join(run_dir, f"scout_{bi}.md")
         skeptic_f_bi = os.path.join(run_dir, f"skeptic_{bi}.md")
@@ -1284,7 +1544,7 @@ Use the structured output format specified."""
         fund_results_list.append(fund_result)
         results[f"fundamental_{bi}"] = fund_result
         write_layer_note(sbatch, "layer3a_fundamentals", fund_result, date)
-        with open(os.path.join(run_dir, f"fundamental_{bi}.md"), "w") as f:
+        with open(fund_file, "w") as f:
             f.write(fund_result)
         print(" done.")
 
@@ -1295,7 +1555,16 @@ Use the structured output format specified."""
     for bi, sbatch in enumerate(batches, 1):
         call_num = 3 * n_batches + bi
         sb_str   = ", ".join(sbatch)
+        mt_file  = os.path.join(run_dir, f"macro_tech_{bi}.md")
         print(f"  [{call_num}/{total_calls}] Tech + Macro Panel Batch {bi} ({sb_str})...", end="", flush=True)
+
+        # ── CHECKPOINT RESUME ──
+        if os.path.exists(mt_file):
+            mt_result = open(mt_file).read()
+            print(f" (cached)", flush=True)
+            macro_tech_list.append(mt_result)
+            results[f"macro_tech_{bi}"] = mt_result
+            continue
 
         _scout_mt   = (open(os.path.join(run_dir, f"scout_{bi}.md")).read()[:800]
                        if os.path.exists(os.path.join(run_dir, f"scout_{bi}.md"))
@@ -1316,7 +1585,11 @@ Use the structured output format specified."""
             "\n\nFUNDAMENTAL FINDINGS:\n" + _fund_mt +
             "\n\nApply technology and macro lenses to the stocks listed above ONLY.\n"
             "S-curve, Wrights Law, disruption direction, cycle, reflexivity, macro regime.\n"
-            "Use the structured output format specified."
+            "Use the structured output format specified.\n"
+            "MANDATORY: Each verdict (FAVORABLE / AT RISK / AVOID / NEUTRAL) MUST include at least "
+            "one sentence of specific supporting rationale. A verdict without rationale is invalid. "
+            "For AT RISK specifically: name the exact macro headwind — rate environment, tariff exposure, "
+            "FX risk, capex cycle reversal, or demand destruction. Generic 'macro headwind' is not acceptable."
         )
         mt_result = call_claude(MACRO_TECH_SYSTEM, mt_user, model=model, max_tokens=4000)
         # GAP 3: Auto-retry on truncation
@@ -1333,14 +1606,149 @@ Use the structured output format specified."""
         macro_tech_list.append(mt_result)
         results[f"macro_tech_{bi}"] = mt_result
         write_layer_note(sbatch, "layer3b_techmacro", mt_result, date)
-        with open(os.path.join(run_dir, f"macro_tech_{bi}.md"), "w") as f:
+        with open(mt_file, "w") as f:
             f.write(mt_result)
         print(" done.")
 
     results["macro_tech"] = "\n\n".join(macro_tech_list)
 
+    # ── Valuation Anchor Panel v4_14 (one call per stock) ────────────────
+    va_call_num = 4 * n_batches + 1
+    print(f"  [{va_call_num}/{total_calls}] Valuation Anchor (Reverse DCF / EPV)...", end="", flush=True)
+    va_results = {}
+    VA_SYSTEM = (
+        "You are a cold, numbers-only Valuation Anchor analyst. "
+        "You detect the appropriate valuation framework based on company stage:\n"
+        "- GROWTH (rev growth >30%, FCF negative or thin): use REVERSE DCF — solve for what growth rate "
+        "the current price implies, then assess achievability. "
+        "Output: implied_growth_rate (%), achievable (yes/no), fair_value_bear ($), fair_value_bull ($).\n"
+        "- INFLECTION (profitable, growing 15-30%): use forward P/E + PEG. "
+        "Output: fair_value_base ($), peg_ratio, mos_pct (%).\n"
+        "- MATURE (stable, FCF positive, <15% growth): use EPV (normalized EBIT / WACC). "
+        "Output: epv ($), mos_pct (%), earnings_yield (%).\n"
+        "You output ONLY valid JSON — no prose, no markdown. "
+        'Format: {"TICKER": {"mode": "REVERSE_DCF|INFLECTION|MATURE", "signal": "BUY|PASS|AVOID", '
+        '"epv": X.XX, "dcf": X.XX, "mos_pct": X, "implied_growth_pct": X, "achievable": "yes|no|unclear", '
+        '"fair_value_bear": X.XX, "fair_value_bull": X.XX, "rationale": "one line"}}'
+    )
+    for stock in stocks:
+        fd_s = fund_cache.get(stock, {})
+        price        = fd_s.get("price") or 0
+        trailing_eps = fd_s.get("trailing_eps") or fd_s.get("eps") or 0
+        forward_eps  = fd_s.get("forward_eps") or 0
+        rev_growth   = fd_s.get("rev_growth") or fd_s.get("revenue_growth") or 0
+        mkt_cap      = fd_s.get("mkt_cap_str") or "unknown"
+        rev_ttm      = fd_s.get("rev_ttm") or 0
+
+        # Determine mode hint for the model
+        if rev_growth and rev_growth > 30 or (trailing_eps <= 0 and forward_eps > 0):
+            mode_hint = "GROWTH stage — use REVERSE DCF. Solve: what revenue/margin trajectory does the current price imply? Is it achievable?"
+        elif rev_growth and 0 < rev_growth <= 30 and trailing_eps > 0:
+            mode_hint = "INFLECTION stage — use forward P/E + PEG."
+        else:
+            mode_hint = "MATURE stage — use EPV (normalized EBIT / WACC)."
+
+        # Build preflight header if available
+        try:
+            from oracle_preflight import build_preflight_header as _bph
+            pf_block = _bph(stock)
+        except Exception:
+            pf_block = ""
+
+        gm = fd_s.get("gross_margin")
+        gm_str = f"{gm*100:.1f}%" if gm and isinstance(gm, float) else "unknown"
+        fcf_margin_val = fd_s.get("fcf_margin")
+        fcf_margin_str = f"{fcf_margin_val*100:.1f}%" if fcf_margin_val is not None else "unknown"
+
+        # Compute Python reverse DCF — hard number for panel
+        fcf_ps = fd_s.get("fcf_per_share") or 0
+        rdcf_implied = _compute_reverse_dcf(price, fcf_ps) if fcf_ps > 0 else None
+        rdcf_line = (
+            f"PYTHON-COMPUTED REVERSE DCF: At current price ${price:.2f} with FCF/share ${fcf_ps:.2f}, "
+            f"the market implies {rdcf_implied:.1f}% annual FCF growth for 10 years (10% discount, 20x terminal). "
+            f"Assess whether this is achievable.\n"
+            if rdcf_implied is not None else
+            "PYTHON-COMPUTED REVERSE DCF: FCF/share unavailable — Claude must estimate from margins.\n"
+        )
+
+        va_user = (
+            rdcf_line
+            + f"Stock: {stock}\n"
+            f"Price: ${price:.2f}\n"
+            f"EPS TTM: {trailing_eps if trailing_eps else 'negative/unknown'}\n"
+            f"Forward EPS (analyst consensus): {forward_eps if forward_eps else 'unknown'}\n"
+            f"FCF per share: {fd_s.get('fcf_per_share', 'unknown')}\n"
+            f"FCF Margin: {fcf_margin_str}\n"
+            f"Revenue TTM: ${rev_ttm/1e9:.2f}B\n"
+            f"Revenue Growth YoY: {rev_growth:.1f}%\n"
+            f"Market Cap: {mkt_cap}\n"
+            f"Gross Margin: {gm_str}\n\n"
+            + (pf_block + "\n\n" if pf_block else "")
+            + f"VALUATION MODE: {mode_hint}\n\n"
+            "Rules:\n"
+            "- If forward EPS is flagged UNVERIFIED in the data block above, use TTM EPS for all calculations.\n"
+            "- Do NOT use EPV on a negative-EPS company — it will always return zero or negative.\n"
+            "- If mode is REVERSE_DCF: state the implied revenue in year 5, implied net margin, and resulting EPS. "
+            "Then state whether that growth trajectory is achievable given the competitive landscape.\n"
+            "- Output ONLY valid JSON in the required format. No prose."
+        )
+        try:
+            va_raw = call_claude(VA_SYSTEM, va_user, model=model, max_tokens=800)
+            import json as _json
+            _json_match = re.search(r'\{.*\}', va_raw, re.DOTALL)
+            if _json_match:
+                va_parsed = _json.loads(_json_match.group())
+                if stock in va_parsed:
+                    va_results[stock] = va_parsed[stock]
+                else:
+                    va_results[stock] = va_parsed
+                # Validate — if epv and dcf are both 0.0 and mode is not REVERSE_DCF, flag as broken
+                va_r = va_results[stock]
+                if va_r.get("epv") == 0.0 and va_r.get("dcf") == 0.0 and va_r.get("mode") != "REVERSE_DCF":
+                    va_r["rationale"] = f"[VA WARNING: zero outputs — inputs may be missing] {va_r.get('rationale','')}"
+                # MoS=0% with BUY verdict is contradictory — override
+                va_r = va_results[stock]
+                mos = va_r.get("mos_pct")
+                dcf = va_r.get("dcf")
+                price_now = fund_cache.get(stock, {}).get("price", 0)
+                if mos is not None and abs(mos) < 1 and va_r.get("signal") == "BUY":
+                    va_r["signal"] = "HOLD"
+                    va_r["rationale"] = f"[VA OVERRIDE: MoS={mos}% insufficient for BUY — changed to HOLD] {va_r.get('rationale','')}"
+                # DCF anchoring detection: if DCF within 1% of current price, flag it
+                if dcf and price_now and abs(dcf - price_now) / price_now < 0.01:
+                    va_r["rationale"] = f"[VA WARNING: DCF=${dcf} matches current price exactly — possible anchoring] {va_r.get('rationale','')}"
+                # None guard: if EPV and DCF both None on a profitable company, force simple calculation
+                va_r = va_results[stock]
+                if va_r.get("epv") is None and va_r.get("dcf") is None:
+                    trailing_eps_val = fd_s.get("trailing_eps") or 0
+                    fcf_val = fd_s.get("fcf_per_share") or 0
+                    if trailing_eps_val > 0:
+                        # Simple EPV: normalized earnings / WACC (8%)
+                        simple_epv = round(trailing_eps_val / 0.08, 2)
+                        va_r["epv"] = simple_epv
+                        va_r["rationale"] = f"[AUTO-COMPUTED: EPV=TTM_EPS/WACC=${trailing_eps_val:.2f}/0.08=${simple_epv:.2f}] {va_r.get('rationale','')}"
+                    elif fcf_val > 0:
+                        # FCF positive but GAAP negative (SBC-heavy): use FCF-based EPV
+                        simple_epv = round(fcf_val / 0.08, 2)
+                        va_r["epv"] = simple_epv
+                        va_r["rationale"] = f"[AUTO-COMPUTED: EPV=FCF/WACC=${fcf_val:.2f}/0.08=${simple_epv:.2f} — GAAP neg but FCF positive] {va_r.get('rationale','')}"
+                    if va_r.get("dcf") is None and fcf_val > 0:
+                        # Simple DCF: FCF * 15x
+                        simple_dcf = round(fcf_val * 15, 2)
+                        va_r["dcf"] = simple_dcf
+                        va_r["rationale"] = (va_r.get("rationale", "") + f" [DCF=FCF×15=${fcf_val:.2f}×15=${simple_dcf:.2f}]").strip()
+            else:
+                va_results[stock] = {"signal": "PASS", "epv": None, "dcf": None, "mos_pct": None,
+                                      "mode": "UNKNOWN", "rationale": "JSON parse failed"}
+        except Exception as e:
+            va_results[stock] = {"signal": "PASS", "epv": None, "dcf": None, "mos_pct": None,
+                                  "mode": "ERROR", "rationale": f"error: {e}"}
+        print(".", end="", flush=True)
+    results["valuation_anchor"] = va_results
+    print(" done.")
+
     # ── Summary Compiler (per stock, reads from disk) ──────────────────
-    summary_call = 4 * n_batches + 1
+    summary_call = 4 * n_batches + 2
     print(f"  [{summary_call}/{total_calls}] Compiling structured summary (per stock)...", end="", flush=True)
 
     stock_summaries = []
@@ -1356,8 +1764,12 @@ Use the structured output format specified."""
 
         fund_file = os.path.join(run_dir, f"fundamental_{bn}.md")
         mt_file   = os.path.join(run_dir, f"macro_tech_{bn}.md")
-        fund_text = open(fund_file).read() if os.path.exists(fund_file) else ""
-        mt_text   = open(mt_file).read()   if os.path.exists(mt_file)   else ""
+        fund_text_raw = open(fund_file).read() if os.path.exists(fund_file) else ""
+        mt_text_raw   = open(mt_file).read()   if os.path.exists(mt_file)   else ""
+        # Fix 1: verdict lines are at the BOTTOM of each panel file — keep last 2000 chars
+        # Truncating from the front would discard exactly the structured verdicts we need
+        fund_text = fund_text_raw[-2000:] if len(fund_text_raw) > 2000 else fund_text_raw
+        mt_text   = mt_text_raw[-2000:]   if len(mt_text_raw)   > 2000 else mt_text_raw
 
         scout_batch_file   = os.path.join(run_dir, f"scout_{bn}.md")
         skeptic_batch_file = os.path.join(run_dir, f"skeptic_{bn}.md")
@@ -1366,30 +1778,78 @@ Use the structured output format specified."""
 
         _sum_hdr = build_live_header([stock], date)
         _sum_hdr_block = _sum_hdr + "\n\n" if _sum_hdr else ""
+        _va_data = results.get("valuation_anchor", {}).get(stock, {})
+        _va_str  = ""
+        if _va_data:
+            # S1 fix: if VA returned null outputs, set signal to ABSTAIN and exclude from vote
+            _va_null = (_va_data.get("epv") is None and _va_data.get("fair_value_bear") is None)
+            _va_signal = "ABSTAIN" if _va_null else _va_data.get("signal", "?")
+            _va_mode   = _va_data.get("mode", "")
+            _va_str = (
+                f"\n\nVALUATION ANCHOR ({_va_mode}): signal={_va_signal} | "
+                f"EPV=${_va_data.get('epv','?')} | DCF=${_va_data.get('dcf','?')} | "
+                f"MoS={_va_data.get('mos_pct','?')}% | "
+                f"Implied Growth={_va_data.get('implied_growth_pct','?')}% | "
+                f"Bear=${_va_data.get('fair_value_bear','?')} | Bull=${_va_data.get('fair_value_bull','?')} | "
+                f"{_va_data.get('rationale','')}"
+                + (" [ABSTAIN — null output, excluded from panel vote count]" if _va_null else "")
+            )
         per_stock_user = (
             f"{_sum_hdr_block}"
             f"STOCK TO SUMMARIZE: {stock}\n\n"
+            f"TODAY'S DATE: {date} — All catalyst dates MUST be after this date. "
+            f"Do NOT reference events from {int(date[:4])-1} or earlier as future catalysts. "
+            f"If a catalyst already occurred, reference it as context and identify the NEXT upcoming catalyst.\n\n"
             f"SCOUT FINDINGS (excerpt):\n{scout_excerpt}\n\n"
             f"SKEPTIC FINDINGS (excerpt):\n{skeptic_excerpt}\n\n"
             f"FUNDAMENTAL PANEL (full batch containing {stock}):\n{fund_text}\n\n"
-            f"TECH+MACRO PANEL (full batch containing {stock}):\n{mt_text}\n\n"
+            f"TECH+MACRO PANEL (full batch containing {stock}):\n{mt_text}"
+            f"{_va_str}\n\n"
             f"Produce ONE structured summary block for {stock} ONLY using the exact format:\n"
             f"---STOCK: {stock}---\n"
             f"SCOUT: [verdict] | Category: [category] | Secret: [one line]\n"
             f"SKEPTIC: [verdict] | Key risk: [one line]\n"
             f"FUNDAMENTALS: [verdict] | Conviction: [X/10] | EV: [+/-X%]\n"
             f"TECH+MACRO: [verdict] | Macro: [TAILWIND/NEUTRAL/HEADWIND]\n"
-            f"PANEL_CONSENSUS: X/4 bullish — [HIGH CONSENSUS if 3-4 bullish / SPLIT if 2 / PANEL CONFLICT if Scout=BUY and Skeptic=ELIMINATE]\n"
+            f"VALUATION_ANCHOR: [BUY/PASS/AVOID] | EPV: $X | DCF: $X | MoS: X%\n"
+            f"PANEL_CONSENSUS: X/5 bullish — [HIGH CONSENSUS if 4-5 bullish / SPLIT if 2-3 / PANEL CONFLICT if Scout=BUY and Skeptic=ELIMINATE]\n"
             f"OVERALL: [BUY/WATCH/PASS] | Score: [X/10]\n"
-            f"CATALYST: [specific event + date]\n"
+            f"CATALYST: [specific future event after {date} + estimated date]\n"
             f"KILL CONDITION: [what sends it to zero]\n"
             f"---END---\n\n"
-            f"PANEL_CONSENSUS rules: count how many of the 4 panels (Scout, Skeptic, Fundamentals, Tech+Macro) gave a bullish verdict "
-            f"(INVESTIGATE/BUY/STRONG BUY/ACCELERATING = bullish; PASS/WARN/ELIMINATE/AT RISK = bearish). "
-            f"3-4 bullish = HIGH CONSENSUS. 2 bullish = SPLIT. Scout BUY + Skeptic ELIMINATE = PANEL CONFLICT."
+            f"PANEL_CONSENSUS rules: count how many of the 5 panels gave a bullish verdict. "
+            f"INVESTIGATE/BUY/STRONG BUY/ACCELERATING = bullish (1 point). "
+            f"HOLD/WATCH/NEUTRAL = partial (0.5 points, round down). "
+            f"PASS/WARN/ELIMINATE/AT RISK/AVOID = bearish (0 points). "
+            f"ABSTAIN (VA with null output) = excluded from vote count — do not count as bullish or bearish. "
+            f"4-5 bullish = HIGH CONSENSUS. 2-3 = SPLIT. Scout BUY + Skeptic ELIMINATE = PANEL CONFLICT. "
+            f"CATALYST must be a FUTURE event — if the obvious catalyst already occurred before {date}, identify the next one.\n"
+            f"SCORING: The OVERALL Score X/10 must be explained. State which panels voted bullish and which voted bearish. "
+            f"Example: 'Score 6/10: Scout=bullish, Fundamentals=partial, Skeptic=bearish, Tech=bullish, VA=pass — net 2.5/5 rounded to 6/10'.\n"
+            f"CONFLICT RECONCILIATION: If any two panels produce directionally opposed verdicts (one BUY/INVESTIGATE, one PASS/ELIMINATE/AVOID), you MUST output a CONFLICT_RESOLUTION block answering:\n"
+            f"1. Which framework is more appropriate for this company's current stage (growth/inflection/mature)?\n"
+            f"2. CONVERGENCE_PRICE: At what price would both frameworks agree? (e.g., 'Tech+Macro bull thesis and Fundamentals converge at approximately $X-$Y where forward P/E compresses to Z')\n"
+            f"3. RESOLUTION_TRIGGER: What single observable datapoint would resolve the disagreement?\n"
+            f"Do NOT numerically average conflicting verdicts. A 9/10 BUY and a negative-EV PASS cannot both be correct — identify which one applies at the current price.\n"
+            f"POSITION SIZING RECONCILIATION: If multiple panels suggest different position sizes, you MUST reconcile them explicitly. Rules: (1) Thorp's Kelly calculation is the ONLY quantitative framework — it dominates over qualitative estimates. (2) State the Kelly fraction used and why. (3) Qualitative inputs (Munger's 5%, Taleb's 5%) are risk overlays that REDUCE Kelly, not independent sizes. (4) Final output: one position size with formula shown: 'Kelly=X%, risk overlays applied: -Y%, final=Z%'. Do not average multiple sizes silently.\n"
+            f"CATALYST THRESHOLD RULE: Set the positive re-rate trigger ABOVE existing management guidance, not at it. If management has guided X, the positive catalyst trigger must be 'guidance of X+10-15% or higher.' Meeting existing guidance does not re-rate the stock — beating it does. Similarly, set the negative re-rate trigger below the growth rate already embedded in the stock price.\n"
+            f"CROSS-TICKER DISCOVERIES: If the Scout or any panel flagged a DIFFERENT ticker as a better opportunity, "
+            f"do NOT include it in this summary block. Add it as: WATCHLIST_FLAG: [TICKER] — [one-line reason] after the ---END--- marker."
         )
 
-        stock_result = call_claude(SUMMARY_SYSTEM, per_stock_user, model=model, max_tokens=700)
+        stock_result = call_claude(SUMMARY_SYSTEM, per_stock_user, model=model, max_tokens=1200)
+
+        # Bug 6 — Route WATCHLIST_FLAG entries to a queue file, strip from summary
+        watchlist_flags = re.findall(r'WATCHLIST_FLAG:\s*([A-Z]+)\s*[—\-]+\s*(.+)', stock_result)
+        if watchlist_flags:
+            wl_path = os.path.join(os.path.dirname(run_dir), "watchlist_queue.md")
+            with open(wl_path, "a") as wf:
+                for wl_ticker, wl_reason in watchlist_flags:
+                    wf.write(f"- {date} | {stock} run | {wl_ticker} — {wl_reason.strip()}\n")
+            # Strip WATCHLIST_FLAG lines from active summary
+            stock_result = re.sub(r'WATCHLIST_FLAG:.*\n?', '', stock_result)
+            print(f" [+{len(watchlist_flags)} watchlist flag(s) routed to queue]", end="", flush=True)
+
         stock_summaries.append(stock_result)
         if is_truncated(stock_result):
             print(f"\n  WARNING: Summary for {stock} may be truncated", flush=True)
@@ -1675,6 +2135,10 @@ def main():
         "--screener-context", type=str, default="",
         help="Screener table text to inject as context (from oracle_runner_screener)"
     )
+    parser.add_argument("--preflight-override", action="store_true",
+                        help="Bypass pre-flight halt (not recommended)")
+    parser.add_argument("--skip-validation", action="store_true",
+                        help="Skip fact sheet validation (not recommended)")
     args = parser.parse_args()
 
     if not OR_KEY:
@@ -1697,6 +2161,70 @@ def main():
     if screener_context:
         print(f"  Source:  Screener pipeline (DNA scores included in context)")
     print(f"{'='*58}\n")
+
+    # ── Phase 0-A: Pre-flight data validation ─────────────────────────────
+    preflight_reports = {}
+    if HAS_PREFLIGHT and not args.no_search:
+        preflight_reports = run_preflight(stocks, verbose=True)
+        halted = [t for t, r in preflight_reports.items() if r.halted]
+        if halted and not getattr(args, 'preflight_override', False):
+            print(f"\nPRE-FLIGHT HALT: {', '.join(halted)}")
+            print("Run with --preflight-override to bypass (not recommended).")
+            sys.exit(1)
+
+    # ── Phase 0-B: Fact sheet validation ──────────────────────────────────
+    if not args.skip_validation and not args.no_search:
+        print("  Running fact sheet data validation...")
+        try:
+            from oracle_factsheet import build_fact_sheet, CACHE_DIR as _FS_CACHE
+            import pathlib as _pl_cli
+            import datetime as _dt_cli
+
+            _cli_failures = []
+            for _sym in stocks:
+                # Clear cache for fresh fetch
+                for _cf in _pl_cli.Path(_FS_CACHE).glob(f"factsheet_{_sym}_*.json"):
+                    _cf.unlink(missing_ok=True)
+
+                _fs = build_fact_sheet(_sym)
+                _pr = _fs.get("press_release", {})
+                _legal = _fs.get("legal_proceedings", {})
+                _metrics = _fs.get("metrics", {})
+
+                # Gross margin check
+                _gm = (_pr.get("gross_margin_gaap") or {}).get("value")
+                if _gm is not None and (_gm > 1.0 or _gm < 0):
+                    _cli_failures.append(f"{_sym}: Gross margin {_gm*100:.1f}% impossible — wrong field extracted")
+
+                # XBRL staleness
+                _rp = (_metrics.get("revenue_ttm") or {}).get("period", "")
+                if _rp and len(_rp) >= 4:
+                    try:
+                        if _dt_cli.date.today().year - int(_rp[:4]) > 2:
+                            _cli_failures.append(f"{_sym}: XBRL revenue period {_rp} is stale (>2yr old)")
+                    except (ValueError, TypeError):
+                        pass
+
+                # 8-K age
+                _fd_str = _pr.get("filing_date", "")
+                if _fd_str:
+                    _fd_dt = _dt_cli.date.fromisoformat(_fd_str)
+                    _age = (_dt_cli.date.today() - _fd_dt).days
+                    if _age > 90:
+                        print(f"  WARNING: {_sym} 8-K is {_age} days old — may be missing recent earnings")
+
+            if _cli_failures:
+                print(f"\n  FACT SHEET VALIDATION FAILED:")
+                for f in _cli_failures:
+                    print(f"    \u2717 {f}")
+                print(f"\n  Run aborted. Use --skip-validation to override (not recommended).")
+                print(f"  Run oracle_validate.py {' '.join(stocks)} to diagnose.\n")
+                sys.exit(1)
+            else:
+                print(f"  \u2713 Fact sheet validation passed.")
+
+        except Exception as _fv_cli_e:
+            print(f"  Fact sheet validation skipped: {_fv_cli_e}")
 
     # Pull fundamentals via data layer (Phase 0), fallback to legacy function
     if args.no_search:

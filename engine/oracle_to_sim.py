@@ -547,7 +547,13 @@ def fmt_analyst_upside(entry: dict) -> str:
 
 
 def fmt_catalyst(entry: dict) -> str:
-    """Return short catalyst description (first sentence of catalyst field)."""
+    """Return short catalyst description (first sentence of catalyst field).
+    FISCAL YEAR RULE: When labeling an earnings catalyst, always check the company's
+    fiscal year end. If the company's fiscal year ends in March (like FLEX), the fiscal
+    year that ended March 2026 is FY2026 — already complete. The NEXT quarter is Q1 FY2027.
+    Never label a future earnings event as part of a completed fiscal year. Use the format
+    'Q[N] FY[YEAR] (expected [Month YYYY])' where the FY year is the year the fiscal year ENDS.
+    """
     cat = entry.get("catalyst", "")
     if cat and len(cat) > 10:
         return re.split(r"[.;(]", cat)[0].strip()[:120]
@@ -896,7 +902,17 @@ def build_agents(tickers: list, clusters: dict) -> list:
     ticker_list = ", ".join(tickers)
     universal = (
         f"UNIVERSAL RULE: Every post MUST reference at least one other stock in the universe "
-        f"by ticker symbol ({ticker_list}). Single-stock monologues are not permitted."
+        f"by ticker symbol ({ticker_list}). Single-stock monologues are not permitted. "
+        f"STALE ASSET RULE: Do NOT reference corporate assets, subsidiaries, or stakes that have been divested. "
+        f"If you are unsure whether a company still holds an asset, omit it. Do NOT reference spinoffs that are "
+        f">12 months old as if they are current holdings. "
+        f"SEGMENT NAME RULE: Only reference segment names that appear in the most recent earnings release. "
+        f"Do NOT invent, abbreviate, or use legacy segment names. If the company has CPI and RMS segments, "
+        f"use those exact names. Do NOT use 'CEC', 'INA', or any other segment name not explicitly verified. "
+        f"QUANTIFIED CLAIMS RULE: If you state a specific percentage, dollar figure, or numeric estimate that "
+        f"is NOT derived from the provided fundamental data block, you MUST append [ESTIMATE] to flag it as "
+        f"agent-generated. Example: 'Export controls could affect 15-20% of revenue [ESTIMATE]'. "
+        f"Never present an agent-generated number as a sourced fact."
     )
 
     biotech = clusters.get("biotech", tickers[:2])
@@ -972,7 +988,9 @@ def build_agents(tickers: list, clusters: dict) -> list:
             f"(1) name the single most fragile stock in the universe, "
             f"(2) assign a specific failure probability (e.g., '40% chance of -70%+ drawdown'), "
             f"(3) describe the specific black swan / tail event. "
-            f"Vague warnings ('this is risky') are INVALID. You must quantify. {universal}"
+            f"Vague warnings ('this is risky') are INVALID. You must quantify. "
+            f"MANDATORY FORMAT: End every post with exactly: FLOOR: $[price] ([N]% downside from current) | CEILING: $[price] ([N]% upside). If you are unable to calculate a specific floor, state FLOOR: [book value or liquidation estimate]. Never leave floor/ceiling unspecified. "
+            f"{universal}"
         ),
     })
 
@@ -1108,7 +1126,9 @@ def build_agents(tickers: list, clusters: dict) -> list:
             f"Example: 'INSM: 45% probability of -70%+ drawdown because FDA filing depends on "
             f"trial data not yet published, and channel-stuffing risk makes the 229% YoY "
             f"revenue growth suspect.' "
-            f"Vague statements like 'this is risky' are INVALID. Quantify and specify. {universal}"
+            f"Vague statements like 'this is risky' are INVALID. Quantify and specify. "
+            f"MANDATORY FORMAT: End every post with exactly: FLOOR: $[price] ([N]% downside from current) | CEILING: $[price] ([N]% upside). If you are unable to calculate a specific floor, state FLOOR: [book value or liquidation estimate]. Never leave floor/ceiling unspecified. "
+            f"{universal}"
         ),
     })
 

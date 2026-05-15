@@ -7,6 +7,7 @@ Main simulation loop: 8 rounds, 11 agents, Neo4j graph, prediction markets.
 import os
 import sys
 import json
+import time
 from datetime import date
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -130,7 +131,8 @@ def _neo4j_node_count(driver, run_id):
 
 def run_simulation(run_id, stocks, fundamentals, report_text,
                    num_rounds=8, model=None, api_key=None, base_url=None,
-                   event_callback=None):
+                   event_callback=None, stop_event=None, pause_event=None,
+                   seed=None):
     """
     Run the full ORACLE Phase 2 simulation.
 
@@ -178,13 +180,19 @@ def run_simulation(run_id, stocks, fundamentals, report_text,
 
     # ── 4. Build markets + Director ────────────────────────────────────────
     markets  = build_markets(stocks, fundamentals)
-    director = Director(stocks)
+    director = Director(stocks, seed=seed, fundamentals=fundamentals)
     print(f"  Markets: {len(markets)} prediction markets initialized")
 
     all_rounds = []
 
     # ── 5. Round loop ──────────────────────────────────────────────────────
     for round_num in range(1, num_rounds + 1):
+        if stop_event and stop_event.is_set():
+            emit("sim_log", msg="Simulation stopped by user.", level="warn")
+            break
+        while pause_event and pause_event.is_set():
+            time.sleep(0.5)
+
         print(f"\n{'─'*60}")
         print(f"  ROUND {round_num}/{num_rounds}")
         print(f"{'─'*60}")
@@ -354,7 +362,9 @@ def run_simulation(run_id, stocks, fundamentals, report_text,
             "market_probs": end_market_probs,
         })
 
-    # ── 6. Close driver ────────────────────────────────────────────────────
+    # ── 6. Injection coverage audit + close driver ────────────────────────
+    director.category_coverage_check()
+
     if driver:
         driver.close()
 
@@ -368,4 +378,5 @@ def run_simulation(run_id, stocks, fundamentals, report_text,
         "rounds":        all_rounds,
         "markets":       markets,
         "driver_active": driver is not None,
+        "injection_log": director.injection_log,   # v4_6
     }
