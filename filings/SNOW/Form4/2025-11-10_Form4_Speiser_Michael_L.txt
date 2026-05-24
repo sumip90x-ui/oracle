@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-10
+Transaction Date: 2025-11-07
+Person: Speiser Michael L — Director
+Type: SELL
+Shares: 50741 at $261.494
+Shares After: 33596
+=== TICKER: SNOW ===
+===

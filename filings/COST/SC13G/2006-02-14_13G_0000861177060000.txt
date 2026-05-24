@@ -1,0 +1,267 @@
+=== FILING DATE: 2006-02-14 ===
+=== PERIOD COVERED: 2006-02-14 ===
+=== SOURCE: SC13G filed 2006-02-14 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: COST ===
+
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>costco.txt
+<TEXT>
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+SCHEDULE 13G
+
+Under the Securities Exchange Act of 1934
+
+(Amendment No. )
+
+COSTCO CO. INC.
+ (Name of Issuer)
+-----------------------------------------------------------
+Common Stock
+(Title of Class of Securities)
+-----------------------------------------------------------
+22160K105
+(CUSIP Number)
+-----------------------------------------------------------
+December 31, 2005
+Date of Event Which Requires Filing of this Statement)
+-----------------------------------------------------------
+Check the appropriate box to designate the rule pursuant to
+which this Schedule is filed:
+
+/x/ Rule 13d-1(b)
+/ / Rule 13d-1(c)
+/ / Rule 13d-1(d)
+
+* The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect
+to the subject class of securities, and for any subsequent
+amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover
+page shall not be deemed to be "filed" for the purpose of
+Section 18 of the Securities Exchange Act of 1934 ("Act")
+or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions
+of the Act (however, see the Notes).
+
+Potential persons who are to respond to the collection of
+information contained in this form are not required to
+respond unless the form displays a currently valid OMB
+control number.
+
+Page 1 of 5 pages
+
+<page>
+
+1. Names of Reporting Persons and I.R.S. Identification No.
+
+UBS AG (for the benefit and on behalf of the Traditional
+Investments division of the UBS Global Asset Management
+business group of UBS AG (see Item 7))
+-----------------------------------------------------------
+2. Check the Appropriate Box if a Member of a Group
+
+a   / /
+b   / /  See Item 8 of attached schedule
+-----------------------------------------------------------
+3. SEC USE ONLY
+
+-----------------------------------------------------------
+4. Citizenship or Place of Organization
+
+Switzerland
+-----------------------------------------------------------
+
+Number of       5.  Sole Voting Power 	    14,244,511
+Shares Bene-    6.  Shared Voting Power       0
+ficially        7.  Sole Dispositive Power    0
+Owned by Each   8.  Shared Dispositive Power  25,573,299
+
+Reporting
+Person With:
+-----------------------------------------------------------
+
+9. Aggregate Amount Beneficially Owned by Each Reporting
+Person:
+
+25,573,299 Shares*
+-----------------------------------------------------------
+10. Check if the Aggregate Amount in Row 9 Excludes Certain
+Shares  / /
+-----------------------------------------------------------
+11. Percent of Class Represented by Amount in Row 9
+
+5.3%
+-----------------------------------------------------------
+12. Type of Reporting Person
+
+BK, HC
+-----------------------------------------------------------
+UBS AG disclaims beneficial ownership of such securities
+pursuant To Rule 13d-4 under the Securities Exchange Act
+of 1934.  In accordance with SEC Release No. 34-395-538
+(January 12, 1998), this filing reflects the securities
+beneficially owned by the Traditional Investments division
+of the UBS Global Asset Management business group of UBS AG
+and its subsidiaries and affiliates (collectively, UBS).
+This filing does not reflect securities, if any,
+beneficially owned by any other division or business
+group of UBS.
+
+Page 2 of 5 pages
+<page>
+
+-----------------------------------------------------------
+
+Cusip 22160K105
+-----------------------------------------------------------
+
+Item 1(a).  Name of Issuer:
+COSTCO CO. INC.
+
+Item 1(b).  Address of Issuer's Principal Executive Offices:
+
+10809 120TH Avenue N E
+Kirkland, WA  98033
+
+-----------------------------------------------------------
+
+Item 2(a) Name of Persons Filing:
+UBS AG
+
+Item 2(b) Address of Principal Business Office or, if none,
+Residence:
+
+UBS AG's principal business office is:
+Bahnhofstrasse 45
+PO Box CH-8021
+Zurich, Switzerland
+
+Item 2(c) Citizenship:
+Incorporated by reference to Item 4 of the cover pages.
+
+Item 2(d) Title of Class of Securities:
+Common Stock (the "Common Stock")
+
+Item 2(e) CUSIP Number:
+22160K105
+-----------------------------------------------------------
+
+Item 3.  Type of Person Filing:
+
+UBS AG is classified as a Bank as defined in section 3(a)(6)
+of the Act pursuant to no action relief granted by the staff
+of the Securities and Exchange Commission.
+-----------------------------------------------------------
+Item 4 (a)-(c)(iv).  Ownership:
+Incorporated by reference to Items 5-11 of the cover pages.
+
+Page 3 of 5 pages
+<page>
+
+-----------------------------------------------------------
+Cusip 22160K105
+-----------------------------------------------------------
+
+Item 5.  Ownership of Five Percent or Less of a Class:
+
+If this statement is being filed to report the fact that as
+of the date hereof the reporting person has ceased to be the
+beneficial owner of more than five percent of the class of
+securities, check the following / /.
+-----------------------------------------------------------
+Item 6.  Ownership of More than Five Percent on Behalf of
+Another Person:
+
+Accounts managed on a discretionary basis by the UBS Global
+Asset Management business group of UBS AG have the right to
+receive or the power to direct the receipt of dividends from,
+or the proceeds from the sale of, the Common Stock.  To the
+best of our knowledge, no account holds more than 5 percent
+of the outstanding Common Stock.
+-----------------------------------------------------------
+
+Item 7.  Identification and Classification of the Subsidiary
+Which Acquired the Security Being Reported on By the Parent
+Holding Company:
+
+Identification:  UBS Global Asset Management (Americas) Inc.
+(UBS Global AM)
+Classification:  IA
+
+In addition to UBS Global AM, the following UBS affiliates
+and subsidiaries are part of the Traditional Investments
+division of the UBS Global Asset Management business group:
+UBS Global Asset Management (US) Inc., UBS Global Asset
+Management Trust Company, UBS Global Asset Management
+International Limited, UBS Global Asset Management (Canada)
+Co., UBS International, Inc., UBS Global Asset Management
+(Australia) Ltd., UBS Global Asset Management (Hong Kong)
+Limited, UBS (Trust & Banking) Limited, UBS Global Asset
+Management (Japan) Ltd., UBS Global Asset Management
+(Singapore) Ltd., UBS Global Asset Management (Taiwan) Ltd.,
+UBS Global Asset Management (France) SA, UBS Global Asset
+Management (Deutschland) GmbH, UBS Global Asset Management
+(Italia) Sim Spa, UBS Fund Services (Luxembourg) S.A., UBS
+Espana S.A., UBS (Cayman Islands) Ltd., UBS Fund Management
+(Switzerland) AG, UBS Global Asset Management (UK) Ltd.
+
+-----------------------------------------------------------------------
+Item 8 Identification and Classification of Members of the
+Group:
+
+UBS AG is reporting direct and indirect beneficial ownership of
+holdings.  None of the reporting persons affirm the existence of a
+group within the meaning of Rule 13d-5(b)(1).
+-----------------------------------------------------------------------
+Page 4 of 5 pages
+<page>
+
+-----------------------------------------------------------
+Cusip 22160K105
+-----------------------------------------------------------
+Item 9 Notice of Dissolution of Group:
+
+Not Applicable
+-----------------------------------------------------------
+Item 10 Certification:
+
+By signing below I certify that, to the best of my knowledge
+and belief, the securities referred to above were acquired
+and are held in the ordinary course of business and were not
+acquired and are not held for the purpose of or with the
+effect of changing or influencing the control of the issuer
+of the securities and were not acquired and are not held in
+connection with or as a participant in any transaction having
+that purpose or effect.
+
+SIGNATURE
+
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this
+statement is true, complete and correct.
+
+Date:  February 14, 2006
+
+
+                              UBS AG
+
+
+                              By:   /s/ Per Dyrvik
+                              Per Dyrvik, Managing Director
+
+                              By:   /s/ Teresa Ressel
+                              Teresa Ressel, Managing Director
+
+
+Page 5 of 5 pages
+
+<page>
+</TEXT>
+</DOCUMENT>

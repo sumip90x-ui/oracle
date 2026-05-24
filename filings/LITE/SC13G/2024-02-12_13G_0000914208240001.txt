@@ -1,0 +1,739 @@
+=== FILING DATE: 2024-02-12 ===
+=== PERIOD COVERED: 2024-02-12 ===
+=== SOURCE: SC13G filed 2024-02-12 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: LITE ===
+
+
+
+SC 13G
+
+1
+
+SEC13G_Filing.htm
+
+SEC SCHEDULE 13G
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C.  20549
+
+
+
+SCHEDULE 13G
+
+
+Under the Securities Exchange Act of 1934
+
+
+
+(Amendment No.
+	_
+)
+*
+
+
+
+
+
+	Lumentum Holdings Inc
+
+
+(Name of Issuer)
+
+
+
+
+	Common Stock
+
+
+(Title of Class of Securities)
+
+
+
+
+	55024U109
+
+
+(CUSIP Number)
+
+
+
+
+    December 29, 2023
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+
+
+
+Check the appropriate box to designate the rule
+pursuant to which this Schedule is filed:
+
+
+[X]
+
+
+
+Rule 13d-1(b)
+
+
+
+[ ]
+
+
+
+Rule 13d-1(c)
+
+
+
+[ ]
+
+
+
+Rule 13d-1(d)
+
+
+
+*
+
+The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+
+
+The information required in the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 (the "Act") or otherwise subject to the liabilities of that section
+of the Act, but shall be subject to all other provisions of the Act (however,
+see the Notes.)
+
+
+
+CUSIP No.
+
+
+
+	55024U109
+
+
+
+
+1.
+
+
+
+NAMES OF REPORTING PERSONS
+
+I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+
+Invesco Ltd.
+
+
+	98-0557567
+
+
+2.
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+
+(a)  [ ]
+
+(b)  [ ]
+
+
+3.
+
+
+
+SEC USE ONLY
+
+
+
+4.
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+	Bermuda
+
+
+
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+
+
+
+5. SOLE VOTING POWER
+
+
+
+4,420,838
+
+
+
+
+
+6.  SHARED VOTING POWER
+
+
+
+0
+
+
+
+
+
+7.  SOLE DISPOSITIVE POWER
+
+
+4,463,790
+
+
+
+
+
+8.  SHARED DISPOSITIVE POWER
+
+
+
+0
+
+
+
+
+
+9.
+
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+    4,463,790
+
+
+
+
+
+10.
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+
+  [ ]
+
+
+11.
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+    6.7%
+
+
+
+
+12.
+
+
+
+TYPE OF REPORTING PERSON
+
+
+        HC, IA
+
+
+
+
+
+Item 1.
+
+
+(a)
+
+
+Name of Issuer
+
+Lumentum Holdings Inc
+
+
+
+(b)
+
+
+Address of Issuer's Principal Executive Offices
+
+
+1001 Ridder Park Drive, San Jose, CA  95131
+
+
+
+
+Item 2.
+
+
+(a)
+
+
+Name of Person Filing
+
+
+Invesco Ltd.
+
+("Invesco Ltd.")
+
+
+
+
+
+(b)
+
+
+Address of Principal Business Office or, if None, Residence
+
+
+    1331 Spring Street NW, Suite 2500, Atlanta, GA  30309
+
+
+
+
+
+(c)
+
+
+Citizenship
+
+
+	Bermuda
+
+
+
+
+
+(d)
+
+
+Title of Class of Securities
+
+
+	Common Stock
+
+
+
+
+(e)
+
+
+CUSIP Number
+
+
+	55024U109
+
+
+
+
+Item 3.
+
+
+If This Statement is Filed Pursuant to
+Rule 13d-1(b), or 13d-2(b) or (c),
+Check Whether the Person Filing is a:
+
+
+(a)
+
+
+
+[ ]
+
+
+
+Broker or dealer registered under Section 15 of the Act (15 U.S.C. 78o).
+
+
+
+(b)
+
+
+
+[ ]
+
+
+
+Bank as defined in Section 3(a)(6) of the Act (15 U.S.C. 78c).
+
+
+
+(c)
+
+
+
+[ ]
+
+
+
+Insurance Company as defined in Section 3(a)(19) of the Act (15 U.S.C. 78c).
+
+
+
+(d)
+
+
+
+[ ]
+
+
+
+Investment Company registered under
+Section 8 of the Investment Company Act of 1940
+(15 U.S.C. 80a-8).
+
+
+
+(e)
+
+
+
+[X]
+
+
+
+An investment adviser in accordance with
+Rule 240.13d-1(b)(1)(ii)(E);
+
+
+
+(f)
+
+
+
+[ ]
+
+
+
+An employee benefit plan or endowment fund in accordance with
+Rule 240.13d-1(b)(1)(ii)(F);
+
+
+
+(g)
+
+
+
+[X]
+
+
+
+A parent holding company or control person in accordance with
+Rule 240.13d-1(b)(1)(ii)(G);
+
+
+
+(h)
+
+
+
+[ ]
+
+
+
+A savings association as defined in
+Section 3(b) of the Federal Deposit Insurance Act
+(12 U.S.C. 1813);
+
+
+
+(i)
+
+
+
+[ ]
+
+
+
+A church plan that is excluded from the
+definition of an investment company under
+Section 3(c)(14) of the Investment Company Act
+of 1940 (15 U.S.C. 80a-3);
+
+
+
+(j)
+
+
+
+[ ]
+
+
+
+Group, in accordance with Rule 240.13d-1(b)(1)(ii)(J).
+
+
+
+Item 4.
+
+
+Ownership.
+
+
+Provide the following information regarding the aggregate number and
+percentage of the class of securities of the issuer identified in Item 1.
+
+
+
+(a)
+
+
+
+Amount Beneficially Owned:
+
+
+
+Invesco Ltd.
+, in its capacity as a parent holding company to its investment advisers, may be deemed to beneficially own
+
+    4,463,790
+ shares of the Issuer which are held of record by clients of
+
+Invesco Ltd.
+.
+
+
+
+
+
+(b)
+
+
+
+Percent of Class:
+
+
+
+    6.7%
+
+
+
+
+(c)
+
+
+
+Number of shares as to which such person has:
+
+
+
+(i)
+
+
+
+sole power to vote or to direct the vote
+
+
+
+4,420,838
+
+
+
+
+
+(ii)
+
+
+
+shared power to vote or to direct the vote
+
+
+
+0
+
+
+
+
+
+(iii)
+
+
+
+sole power to dispose or to direct the disposition of
+
+
+
+4,463,790
+
+
+
+
+
+(iv)
+
+
+
+shared power to dispose or to direct the disposition of
+
+
+
+0
+
+
+
+
+
+Item 5.
+
+
+Ownership of Five Percent or Less of Class.
+
+
+If this statement is being filed to report the fact that
+as of the date hereof the reporting person has ceased to
+be the beneficial owner of more than five percent of the
+class of securities, check the following:
+[
+
+]
+
+
+
+Item 6.
+
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+
+However, no one individual has greater than 5% economic ownership.
+The shareholders of the Fund have the right to receive or the power
+to direct the receipt of dividends and proceeds from the sale of
+securities listed above.
+
+
+Item 7.
+
+
+Identification and Classification of the Subsidiary Which Acquired
+the Security Being Reported on by the Parent Holding Company.
+
+
+Invesco Advisers, Inc.
+
+
+Invesco Investment Advisers LLC
+
+
+Invesco Capital Management LLC
+
+
+Item 8.
+
+
+Identification and Classification of Members of the Group.
+
+
+Not Applicable.  This schedule is not being filed pursuant to
+Rule 13d-1(b)(1)(ii)(J) or Rule 13d-1(d).
+
+
+Item 9.
+
+
+Notice of Dissolution of Group.
+
+
+Not Applicable
+
+
+Item 10.
+
+
+Certification.
+
+
+By signing below, I certify that, to the best
+of my knowledge and belief, the securities
+referred to above
+
+were acquired and are held
+in the ordinary course of business and
+
+were not acquired and are not held for the purpose
+of or with the effect of changing or
+influencing the control of the issuer of the
+securities and were not acquired and are not held
+in connection with or as a participant in any
+transaction having that purpose or effect.
+
+
+
+SIGNATURE
+
+
+
+
+
+After reasonable inquiry and to the best of my knowledge and belief,
+I certify that the information set forth in this statement is true,
+complete and correct.
+
+
+
+
+
+
+
+
+
+Invesco Ltd.
+
+
+
+
+
+By:
+/s/ Robert R. Leveille
+
+
+
+
+
+Date:
+
+
+    February 12, 2024
+
+
+
+
+
+Name: Robert R. Leveille
+
+
+
+
+
+Title:   Global Head of Compliance
+
+
+
+
+
+
+
+

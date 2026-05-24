@@ -1,0 +1,24 @@
+=== FILING DATE: 2026-02-05 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-02-05 ===
+=== SECTION: Item 9A — Controls and Procedures ===
+=== TICKER: GOOGL ===
+
+ITEM 9A
+.
+CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our chief executive officer and chief financial officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 under the Exchange Act, as of the end of the period covered by this Annual Report on Form 10-K.
+Based on this evaluation, our chief executive officer and chief financial officer concluded that, as of
+December 31, 2025
+, our disclosure controls and procedures are designed at a reasonable assurance level and are effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+Changes in Internal Control over Financial Reporting
+There have been no changes in our internal control over financial reporting that occurred during the quarter ended December 31, 2025 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Management’s Report on Internal Control over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rule 13a-15(f) of the Exchange Act. Our management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in
+Internal Control—Integrated Framework
+ issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on this evaluation, management concluded that our internal control over financial reporting was effective as of December 31, 2025. Management reviewed the results of its assessment with our Audit Committee. The effectiveness of our internal control over financial reporting as of
+December 31, 2025
+ has been audited by
+Ernst & Young LLP
+, an independent registered public accounting firm, as stated in its report which is included in

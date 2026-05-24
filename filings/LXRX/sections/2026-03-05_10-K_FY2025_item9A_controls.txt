@@ -1,0 +1,26 @@
+=== FILING DATE: 2026-03-05 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-03-05 ===
+=== SECTION: Item 9A — Controls and Procedures ===
+=== TICKER: LXRX ===
+
+Item 9A
+.  
+Controls and Procedures
+ 
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our principal executive officer and principal financial officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) as of the end of the period covered by this report. Based on that evaluation, our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures were effective as of December 31, 2025 to ensure that the information required to be disclosed by us in the reports we file under the Securities Exchange Act is gathered, analyzed and disclosed with adequate timeliness, accuracy and completeness.
+Management’s Report on Internal Control over Financial Reporting
+ 
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act).
+ 
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.  Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+ 
+Our management assessed the effectiveness of our internal control over financial reporting as of December 31, 2025.  In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in
+Internal Control-Integrated Framework
+(2013 Framework)
+.
+ 
+Based on such assessment using those criteria, management concluded that, as of December 31, 2025, our internal control over financial reporting was effective.
+Changes in Internal Control Over Financial Reporting
+There have been no changes in our internal control over financial reporting during the quarter ended December 31, 2025, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-10-29
+Transaction Date: 2025-10-27
+Person: Cheng Chi Fung — Chief Technology Officer
+Type: SELL
+Shares: 55000 at $154.8134
+Shares After: 111970
+=== TICKER: CRDO ===
+===

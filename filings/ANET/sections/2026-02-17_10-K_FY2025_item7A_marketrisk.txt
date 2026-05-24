@@ -1,0 +1,9 @@
+=== FILING DATE: 2026-02-17 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-02-17 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: ANET ===
+
+Item 7A
+. Quantitative and Qualitative Disclosures About Market Risk
+We are exposed to market risk in the ordinary course of our business. Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and rates. Our market risk exposure is primarily a result of fluctuations in foreign currency exchange rates, interest rates, and strategic equity investments. Global economic and business activities continue to face widespread macroeconomic uncertainties, including the effects of, among other things, inflation, monetary policy shifts, recession risks, potential supply chain disruptions, geopolitical pressures, and escalating international trade measures, which may increase our foreign currency exchange risk and interest rate risk. For further discussion of the potential impacts on our business, operating results, and financial condition, see Risk Factors included in Part I,

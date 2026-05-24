@@ -1,0 +1,5142 @@
+=== FILING DATE: 2026-05-13 ===
+=== PERIOD COVERED: 2026-03-29 ===
+=== SOURCE: 10-Q filed 2026-05-13 ===
+=== SECTION: Full 10-Q ===
+=== TICKER: HAS ===
+
+
+
+has-20260329
+0000046080
+12-27
+2026
+Q1
+FALSE
+9
+1
+1
+1
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccountsPayableCurrent
+http://fasb.org/us-gaap/2025#AccountsPayableCurrent
+http://fasb.org/us-gaap/2025#AccountsPayableCurrent
+http://fasb.org/us-gaap/2025#PrepaidExpenseAndOtherAssetsCurrent
+http://fasb.org/us-gaap/2025#PrepaidExpenseAndOtherAssetsCurrent
+http://fasb.org/us-gaap/2025#PrepaidExpenseAndOtherAssetsCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+P6M
+http://fasb.org/us-gaap/2025#SellingGeneralAndAdministrativeExpense
+http://fasb.org/us-gaap/2025#SellingGeneralAndAdministrativeExpense
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+has:brand_category
+xbrli:pure
+has:lease
+has:segment
+0000046080
+2025-12-29
+2026-03-29
+0000046080
+2026-05-01
+0000046080
+2026-03-29
+0000046080
+2025-03-30
+0000046080
+2025-12-28
+0000046080
+2024-12-30
+2025-03-30
+0000046080
+2024-12-29
+0000046080
+us-gaap:CommonStockMember
+2025-12-28
+0000046080
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-28
+0000046080
+us-gaap:RetainedEarningsMember
+2025-12-28
+0000046080
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-28
+0000046080
+us-gaap:TreasuryStockCommonMember
+2025-12-28
+0000046080
+us-gaap:NoncontrollingInterestMember
+2025-12-28
+0000046080
+us-gaap:RetainedEarningsMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:TreasuryStockCommonMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:NoncontrollingInterestMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:CommonStockMember
+2026-03-29
+0000046080
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-29
+0000046080
+us-gaap:RetainedEarningsMember
+2026-03-29
+0000046080
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-29
+0000046080
+us-gaap:TreasuryStockCommonMember
+2026-03-29
+0000046080
+us-gaap:NoncontrollingInterestMember
+2026-03-29
+0000046080
+us-gaap:CommonStockMember
+2024-12-29
+0000046080
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-29
+0000046080
+us-gaap:RetainedEarningsMember
+2024-12-29
+0000046080
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-29
+0000046080
+us-gaap:TreasuryStockCommonMember
+2024-12-29
+0000046080
+us-gaap:NoncontrollingInterestMember
+2024-12-29
+0000046080
+us-gaap:RetainedEarningsMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:NoncontrollingInterestMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:TreasuryStockCommonMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:CommonStockMember
+2025-03-30
+0000046080
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-30
+0000046080
+us-gaap:RetainedEarningsMember
+2025-03-30
+0000046080
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-30
+0000046080
+us-gaap:TreasuryStockCommonMember
+2025-03-30
+0000046080
+us-gaap:NoncontrollingInterestMember
+2025-03-30
+0000046080
+2026-03-30
+2026-03-29
+0000046080
+2027-01-01
+2026-03-29
+0000046080
+2028-01-01
+2026-03-29
+0000046080
+2029-01-01
+2026-03-29
+0000046080
+has:TabletopGamingMember
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+has:TabletopGamingMember
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+has:DigitalAndLicensingGamingMember
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+has:DigitalAndLicensingGamingMember
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:OperatingSegmentsMember
+srt:NorthAmericaMember
+has:ConsumerProductsSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:OperatingSegmentsMember
+srt:NorthAmericaMember
+has:ConsumerProductsSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:OperatingSegmentsMember
+srt:EuropeMember
+has:ConsumerProductsSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:OperatingSegmentsMember
+srt:EuropeMember
+has:ConsumerProductsSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:OperatingSegmentsMember
+srt:AsiaPacificMember
+has:ConsumerProductsSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:OperatingSegmentsMember
+srt:AsiaPacificMember
+has:ConsumerProductsSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:OperatingSegmentsMember
+srt:LatinAmericaMember
+has:ConsumerProductsSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:OperatingSegmentsMember
+srt:LatinAmericaMember
+has:ConsumerProductsSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:OperatingSegmentsMember
+has:ConsumerProductsSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:OperatingSegmentsMember
+has:ConsumerProductsSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+has:ClassOfPrincipalProductFamilyBrandsMember
+has:EntertainmentSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+has:ClassOfPrincipalProductFamilyBrandsMember
+has:EntertainmentSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+has:FilmandTVMember
+has:EntertainmentSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+has:FilmandTVMember
+has:EntertainmentSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+has:EntertainmentSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+has:EntertainmentSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+has:GrowBrandsMember
+2025-12-29
+2026-03-29
+0000046080
+has:GrowBrandsMember
+2024-12-30
+2025-03-30
+0000046080
+has:OptimizeBrandsMember
+2025-12-29
+2026-03-29
+0000046080
+has:OptimizeBrandsMember
+2024-12-30
+2025-03-30
+0000046080
+has:ReinventBrandsMember
+2025-12-29
+2026-03-29
+0000046080
+has:ReinventBrandsMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+has:EOneFilmAndTVBusinessMember
+2023-12-27
+0000046080
+has:EmployeeStockOptionAndOtherShareBasedAwardsMember
+2025-12-29
+2026-03-29
+0000046080
+has:EmployeeStockOptionAndOtherShareBasedAwardsMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-12-28
+0000046080
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-12-28
+0000046080
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-12-28
+0000046080
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-12-28
+0000046080
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2026-03-29
+0000046080
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-03-29
+0000046080
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2026-03-29
+0000046080
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-03-29
+0000046080
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-29
+0000046080
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-29
+0000046080
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-12-29
+0000046080
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-29
+0000046080
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-03-30
+0000046080
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-03-30
+0000046080
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-03-30
+0000046080
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-03-30
+0000046080
+us-gaap:ForeignExchangeForwardMember
+2026-03-29
+0000046080
+has:Notes510Due2044Member
+2026-03-29
+0000046080
+us-gaap:InterestRateContractMember
+2026-03-29
+0000046080
+us-gaap:InterestRateContractMember
+us-gaap:InterestExpenseMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:InterestRateContractMember
+us-gaap:InterestExpenseMember
+2025-12-29
+2026-03-29
+0000046080
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2025-12-28
+0000046080
+has:ConsumerProductsSegmentMember
+2025-12-28
+0000046080
+has:EntertainmentSegmentMember
+2025-12-28
+0000046080
+has:ConsumerProductsSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2026-03-29
+0000046080
+has:ConsumerProductsSegmentMember
+2026-03-29
+0000046080
+has:EntertainmentSegmentMember
+2026-03-29
+0000046080
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2024-12-29
+0000046080
+has:ConsumerProductsSegmentMember
+2024-12-29
+0000046080
+has:EntertainmentSegmentMember
+2024-12-29
+0000046080
+has:ConsumerProductsSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2025-03-30
+0000046080
+has:ConsumerProductsSegmentMember
+2025-03-30
+0000046080
+has:EntertainmentSegmentMember
+2025-03-30
+0000046080
+has:ConsumerProductsSegmentMember
+2025-03-31
+2025-06-29
+0000046080
+has:IndividualMonetizationMember
+2025-12-29
+2026-03-29
+0000046080
+has:IndividualMonetizationMember
+2024-12-30
+2025-03-30
+0000046080
+has:FilmTVGroupMonetizationMember
+2025-12-29
+2026-03-29
+0000046080
+has:FilmTVGroupMonetizationMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:OtherNoncurrentAssetsMember
+2026-03-29
+0000046080
+us-gaap:OtherNoncurrentAssetsMember
+2025-03-30
+0000046080
+us-gaap:OtherNoncurrentAssetsMember
+2025-12-28
+0000046080
+has:Notes3.90Due2029Member
+2026-03-29
+0000046080
+has:Notes3.90Due2029Member
+2025-03-30
+0000046080
+has:Notes3.90Due2029Member
+2025-12-28
+0000046080
+has:Notes6.05Due2034Member
+2026-03-29
+0000046080
+has:Notes6.05Due2034Member
+2025-03-30
+0000046080
+has:Notes6.05Due2034Member
+2025-12-28
+0000046080
+has:Notes6.35Due2040Member
+2026-03-29
+0000046080
+has:Notes6.35Due2040Member
+2025-03-30
+0000046080
+has:Notes6.35Due2040Member
+2025-12-28
+0000046080
+has:Notes3.55Due2026Member
+2026-03-29
+0000046080
+has:Notes3.55Due2026Member
+2025-03-30
+0000046080
+has:Notes3.55Due2026Member
+2025-12-28
+0000046080
+has:Notes3.50Due2027Member
+2026-03-29
+0000046080
+has:Notes3.50Due2027Member
+2025-03-30
+0000046080
+has:Notes3.50Due2027Member
+2025-12-28
+0000046080
+has:Notes4.65Due2031Member
+2026-03-29
+0000046080
+has:Notes4.65Due2031Member
+2025-03-30
+0000046080
+has:Notes4.65Due2031Member
+2025-12-28
+0000046080
+has:Notes510Due2044Member
+2025-03-30
+0000046080
+has:Notes510Due2044Member
+2025-12-28
+0000046080
+has:Debentures6.60Due2028Member
+2026-03-29
+0000046080
+has:Debentures6.60Due2028Member
+2025-03-30
+0000046080
+has:Debentures6.60Due2028Member
+2025-12-28
+0000046080
+has:Notes510Due2044Member
+us-gaap:SeniorNotesMember
+2026-03-29
+0000046080
+has:Notes3.50Due2027Member
+us-gaap:SeniorNotesMember
+2026-03-29
+0000046080
+has:Notes3.50Due2027Member
+us-gaap:SeniorNotesMember
+2025-12-29
+2026-03-29
+0000046080
+has:Notes510Due2044Member
+us-gaap:SeniorNotesMember
+2025-12-29
+2026-03-29
+0000046080
+has:Notes3.55Due2026Member
+us-gaap:SeniorNotesMember
+2025-03-30
+0000046080
+has:Notes3.50Due2027Member
+us-gaap:SeniorNotesMember
+2025-03-30
+0000046080
+has:Notes3.55Due2026Member
+us-gaap:SeniorNotesMember
+2024-12-30
+2025-03-30
+0000046080
+has:Notes3.50Due2027Member
+us-gaap:SeniorNotesMember
+2024-12-30
+2025-03-30
+0000046080
+has:Notes4.65Due2031Member
+us-gaap:UnsecuredDebtMember
+2026-03-29
+0000046080
+has:Notes4.65Due2031Member
+us-gaap:SeniorNotesMember
+2026-03-29
+0000046080
+us-gaap:RevolvingCreditFacilityMember
+has:AmendedRevolvingCreditAgreementMember
+2026-02-20
+0000046080
+us-gaap:RevolvingCreditFacilityMember
+has:AmendedRevolvingCreditAgreementMember
+us-gaap:LetterOfCreditMember
+2026-02-20
+0000046080
+us-gaap:RevolvingCreditFacilityMember
+has:AmendedRevolvingCreditAgreementMember
+has:SwingLineLoansMember
+2026-02-20
+0000046080
+us-gaap:RevolvingCreditFacilityMember
+has:DebtInstrumentCovenantPeriodOneMember
+has:AmendedRevolvingCreditAgreementMember
+2026-02-20
+0000046080
+us-gaap:RevolvingCreditFacilityMember
+has:DebtInstrumentCovenantPeriodTwoMember
+has:AmendedRevolvingCreditAgreementMember
+2026-02-20
+0000046080
+us-gaap:RevolvingCreditFacilityMember
+has:DebtInstrumentCovenantPeriodFourMember
+has:AmendedRevolvingCreditAgreementMember
+2026-02-20
+0000046080
+us-gaap:RevolvingCreditFacilityMember
+has:DebtInstrumentCovenantPeriodThreeMember
+has:AmendedRevolvingCreditAgreementMember
+2026-02-20
+0000046080
+us-gaap:RevolvingCreditFacilityMember
+has:AmendedRevolvingCreditAgreementMember
+2026-03-29
+0000046080
+us-gaap:FairValueInputsLevel1Member
+2026-03-29
+0000046080
+us-gaap:FairValueInputsLevel2Member
+2026-03-29
+0000046080
+us-gaap:FairValueInputsLevel3Member
+2026-03-29
+0000046080
+us-gaap:FairValueInputsLevel1Member
+2025-03-30
+0000046080
+us-gaap:FairValueInputsLevel2Member
+2025-03-30
+0000046080
+us-gaap:FairValueInputsLevel3Member
+2025-03-30
+0000046080
+us-gaap:FairValueInputsLevel1Member
+2025-12-28
+0000046080
+us-gaap:FairValueInputsLevel2Member
+2025-12-28
+0000046080
+us-gaap:FairValueInputsLevel3Member
+2025-12-28
+0000046080
+us-gaap:USTreasurySecuritiesMember
+2026-03-29
+0000046080
+srt:MinimumMember
+2026-03-29
+0000046080
+srt:MaximumMember
+2026-03-29
+0000046080
+has:ForeignCurrencyForwardContractInventoryPurchasesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-03-29
+0000046080
+has:ForeignCurrencyForwardContractInventoryPurchasesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-03-30
+0000046080
+has:ForeignCurrencyForwardContractInventoryPurchasesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-28
+0000046080
+us-gaap:SalesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-03-29
+0000046080
+us-gaap:SalesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-03-30
+0000046080
+us-gaap:SalesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-28
+0000046080
+us-gaap:OtherContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-03-29
+0000046080
+us-gaap:OtherContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-03-30
+0000046080
+us-gaap:OtherContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-28
+0000046080
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2026-03-29
+0000046080
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-30
+0000046080
+us-gaap:CashFlowHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-12-28
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueHedgingMember
+2026-03-29
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueHedgingMember
+2025-03-30
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+us-gaap:FairValueHedgingMember
+2025-12-28
+0000046080
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-12-28
+0000046080
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2026-03-29
+0000046080
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-30
+0000046080
+us-gaap:OtherAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2026-03-29
+0000046080
+us-gaap:OtherAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-30
+0000046080
+us-gaap:OtherAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-12-28
+0000046080
+us-gaap:AccruedLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-30
+0000046080
+us-gaap:AccruedLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2026-03-29
+0000046080
+us-gaap:AccruedLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-12-28
+0000046080
+us-gaap:OtherLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2026-03-29
+0000046080
+us-gaap:OtherLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-03-30
+0000046080
+us-gaap:OtherLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-12-28
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:NondesignatedMember
+2026-03-29
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:NondesignatedMember
+2025-03-30
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:NondesignatedMember
+2025-12-28
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:AccruedLiabilitiesMember
+us-gaap:NondesignatedMember
+2026-03-29
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:AccruedLiabilitiesMember
+us-gaap:NondesignatedMember
+2025-03-30
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:AccruedLiabilitiesMember
+us-gaap:NondesignatedMember
+2025-12-28
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:CostOfSalesMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:CostOfSalesMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:SalesMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:SalesMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:OtherNonoperatingIncomeExpenseMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+us-gaap:OtherNonoperatingIncomeExpenseMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:ForeignExchangeForwardMember
+us-gaap:CashFlowHedgingMember
+2024-12-30
+2025-03-30
+0000046080
+has:UndesignatedMember
+us-gaap:FairValueHedgingMember
+2025-12-29
+2026-03-29
+0000046080
+has:UndesignatedMember
+us-gaap:FairValueHedgingMember
+2024-12-30
+2025-03-30
+0000046080
+srt:MinimumMember
+has:OperationalExcellenceProgramMember
+2025-12-29
+2026-03-29
+0000046080
+srt:MaximumMember
+has:OperationalExcellenceProgramMember
+2025-12-29
+2026-03-29
+0000046080
+has:OperationalExcellenceProgramMember
+2024-12-30
+2025-03-30
+0000046080
+has:OperationalExcellenceProgramMember
+2025-12-29
+2026-03-29
+0000046080
+has:OperationalExcellenceProgramMember
+2025-12-28
+0000046080
+has:OperationalExcellenceProgramMember
+2024-12-29
+0000046080
+has:OperationalExcellenceProgramMember
+2026-03-29
+0000046080
+has:OperationalExcellenceProgramMember
+2025-03-30
+0000046080
+srt:RevisionOfPriorPeriodErrorCorrectionAdjustmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:OperatingSegmentsMember
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:OperatingSegmentsMember
+has:EntertainmentSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:CorporateNonSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:IntersegmentEliminationMember
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:IntersegmentEliminationMember
+has:ConsumerProductsSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:IntersegmentEliminationMember
+has:EntertainmentSegmentMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:IntersegmentEliminationMember
+2025-12-29
+2026-03-29
+0000046080
+us-gaap:OperatingSegmentsMember
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:OperatingSegmentsMember
+has:EntertainmentSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:CorporateNonSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:IntersegmentEliminationMember
+has:WizardsOfTheCoastAndDigitalGamingSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:IntersegmentEliminationMember
+has:ConsumerProductsSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:IntersegmentEliminationMember
+has:EntertainmentSegmentMember
+2024-12-30
+2025-03-30
+0000046080
+us-gaap:IntersegmentEliminationMember
+2024-12-30
+2025-03-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+__________________
+FORM
+10-Q
+
+__________________
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 29, 2026
+
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File Number
+1-6682
+
+__________________
+HASBRO, INC.
+
+(Exact name of registrant as specified in its charter)
+Rhode Island
+05-0155090
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+1027 Newport Avenue
+Pawtucket,
+Rhode Island
+02861
+(Address of Principal Executive Offices)
+(Zip Code)
+(
+401
+)
+431-8697
+
+Registrant's telephone number, including area code
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.50 par value per share
+HAS
+The NASDAQ Global Select Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+ [x]  No  [ ]
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+Yes
+ [x]  No  [ ]
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer  
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+ No  [x]
+The number of shares of Common Stock, par value $.50 per share, outstanding as of May 1, 2026 was
+141,490,692
+.
+Hasbro, Inc.
+Form 10-Q
+For the Quarter Ended March 29, 2026
+
+Part I
+Financial Information
+5
+Item 1.
+Financial Statements
+5
+Consolidated Balance Sheets
+5
+Consolidated Statements of Operations
+6
+Consolidated Statements of Comprehensive Earnings
+7
+Consolidated Statements of Cash Flows
+8
+Consolidated Statements of Shareholders' Equity
+9
+Condensed Notes to Consolidated Financial Statements
+10
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+26
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+35
+Item 4.
+Controls and Procedures
+35
+Part II
+Other Information
+36
+Item 1.
+Legal Proceedings
+36
+Item 1A.
+Risk Factors
+36
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+37
+Item 3.
+Defaults Upon Senior Securities
+37
+Item 4.
+Mine Safety Disclosures
+37
+Item 5.
+Other Information
+37
+Item 6.
+Exhibits
+38
+Signatures
+39
+2
+Special Note Regarding Forward-Looking Statements
+Certain statements in this Quarterly Report on Form 10-Q (“Quarterly Report”) contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These statements, which may be identified by the use of forward-looking words or phrases, include statements relating to: our business strategies and plans; products, gaming and entertainment; anticipated cost savings; expected debt repayments; expected impact of tariffs; anticipated benefits and potential impact of moving our Rhode Island operations to Boston, Massachusetts; expectations or beliefs relating to the impact, and our investigation, of containment and remediation efforts related to unauthorized access to the Company's network, including its impact on the Company's financial condition and results of operation; expected impact of newly issued accounting pronouncements and tax legislation; financial targets; and expectations for our future performance. Our actual actions or results may differ materially from those expected or anticipated in the forward-looking statements due to both known and unknown risks and uncertainties.
+Factors that might cause such a difference include, but are not limited to:
+•
+our ability to successfully implement and execute on our
+Playing to Win
+ business strategy;
+•
+our ability to successfully compete in the play industry and further develop our digital gaming, licensing and consumer products businesses and partnerships;
+•
+our ability to continually introduce new and innovative products that are accepted by consumers, particularly for brands such as MAGIC: THE GATHERING in which we have seen an increasing concentration of our sales and profits;
+•
+risks associated with the imposition, threat, or uncertainty of tariffs, including any possible refunds of tariffs, in markets in which we operate; imposition of tariffs could increase our product costs and other costs of doing business, result in higher prices of our products, impact consumer spending, lower our revenues, result in delays or reductions in purchases from our customers, result in goodwill impairments, reduce earnings and otherwise have an adverse impact on our business;
+•
+risks associated with international operations, such as: conflict in territories in which we operate or which affect areas in which operate such as the current activities in Iran, which could impact, among other things, shipping timing, product costs and consumer spending; currency conversion; currency fluctuations; quotas; shipping delays or difficulties; border adjustment taxes or other protectionist measures; and other challenges in the territories in which we operate;
+•
+risk or disruption to our business or ability to protect our assets and intellectual property, including as a result of infringement, theft, misappropriation, cyber-attacks or other acts compromising the integrity of our assets or intellectual property or systems;
+•
+risks associated with unauthorized access to our network we recently experienced, including the duration and magnitude of operational disruption; the effectiveness of our response to such unauthorized access and the business continuity plans and the ongoing assessment of the impact of such unauthorized access on our business, operations, financial results, and financial reporting; and any further business disruptions from such unauthorized access and increased costs relating to such unauthorized access, including from any legal proceedings;
+•
+risks related to political, economic and public health conditions or regulatory changes in the markets in which we and our customers, partners, licensees, suppliers and manufacturers operate, such as inflation, fluctuating interest rates, tariffs, higher commodity prices, labor strikes, labor costs or transportation costs, or outbreaks of illness or disease, the occurrence of which could create work slowdowns, delays or shortages in production or shipment of products, increases in costs, reduced purchasing power or less discretionary income, or losses and delays in revenue and earnings;
+•
+uncertain and unpredictable global and regional economic conditions impacting one or more of the markets in which we sell products, which can result in higher prices for our products or consumer necessities and can otherwise negatively impact our customers and consumers, result in lower employment levels, consumer discretionary income, retailer inventories and spending, including lower spending on purchases of our products;
+•
+our ability to transform our business and capabilities to address the changing global consumer landscape, including evolving demographics for our products and advancements in emerging technologies, such as the integration of artificial intelligence into our product development, marketing strategies, and consumer
+3
+engagement, and the associated risks such as ethical concerns, evolving regulatory standards, implementation challenges, and third-party dependencies on such technologies;
+•
+our ability to design, develop, manufacture, and ship products on a timely, cost-effective and profitable basis;
+•
+the concentration of our customers, potentially increasing the negative impact to our business of difficulties experienced by any of our customers or changes in their purchasing or selling patterns;
+•
+our dependence on third-party relationships, including with third-party partners, manufacturers, distributors, studios, content producers, licensors, licensees, and outsourcers, which creates reliance on others and loss of control;
+•
+risks relating to the concentration of manufacturing for many of our products in the People’s Republic of China, which include the risks associated with increased tariffs imposed on trade between China and the U.S., and our ability to successfully diversify sourcing of our products to reduce reliance on sources of supply in China;
+•
+the success of our key partner brands, including the ability to secure, maintain and extend agreements with our key partners or the risk of delays, increased costs or difficulties associated with any of our or our partners’ planned digital applications or media initiatives;
+•
+our ability to attract and retain talented and diverse employees;
+•
+our business could be adversely affected by challenges and disruptions arising from the loss of skills, knowledge or expertise, and from uncertainty regarding the continued employment of key personnel, particularly as a result of recent workforce reductions and the planned relocation of our Rhode Island operations to Boston, Massachusetts;
+•
+our ability to realize the benefits of cost-savings and efficiency and/or revenue and operating profit enhancing initiatives;
+•
+risks relating to the impairment and/or write-offs related to businesses, products and/or content we acquire and/or produce;
+•
+the risk that acquisitions, dispositions and other investments we complete may not provide us with the benefits we expect, or the realization of such benefits may be significantly delayed or reduced;
+•
+fluctuations in our business due to seasonality;
+•
+the risk of product recalls or product liability suits and costs associated with product safety regulations;
+•
+the impact of litigation or arbitration decisions or settlement actions;
+•
+the bankruptcy or other lack of success of one or more of our significant retailers, licensees and other partners; and
+•
+other risks and uncertainties as may be detailed in our public announcements and U.S. Securities and Exchange Commission (“SEC”) filings.
+For a detailed discussion of these and other risks, uncertainties and factors, see Part I, Item 1A “Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended
+December 28, 2025
+ (the “
+2025
+ Annual Report”).
+The statements contained herein are based on our current beliefs and expectations. We undertake no obligation to make any revisions to the forward-looking statements contained in this Form 10-Q or to update them to reflect events or circumstances occurring after the date of this Form 10-Q.
+4
+PART I. FINANCIAL INFORMATION
+Item 1.    Financial Statements.
+HASBRO, INC. AND SUBSIDIARIES
+Consolidated Balance Sheets
+(Millions of Dollars Except Share Data)
+(Unaudited)
+March 29,
+2026
+March 30,
+2025
+December 28,
+2025
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+857.1
+ 
+$
+621.1
+ 
+$
+776.6
+ 
+Short-term investments
+498.2
+ 
+—
+ 
+105.4
+ 
+Accounts receivable, net
+712.6
+ 
+656.6
+ 
+1,059.8
+ 
+Inventories
+280.5
+ 
+295.8
+ 
+259.8
+ 
+Prepaid expenses and other current assets
+416.6
+ 
+339.3
+ 
+382.1
+ 
+Total current assets
+2,765.0
+ 
+1,912.8
+ 
+2,583.7
+ 
+Property, plant and equipment, net of accumulated depreciation of $
+1,071.4
+, $
+1,047.6
+ and $
+1,060.0
+393.9
+ 
+293.6
+ 
+247.8
+ 
+Goodwill
+1,256.5
+ 
+2,278.4
+ 
+1,256.7
+ 
+Other intangible assets, net of accumulated amortization of $
+425.7
+, $
+439.8
+ and $
+412.2
+441.2
+ 
+503.1
+ 
+456.7
+ 
+Other assets
+1,073.7
+ 
+1,052.1
+ 
+1,007.1
+ 
+Total assets
+$
+5,930.3
+ 
+$
+6,040.0
+ 
+$
+5,552.0
+ 
+LIABILITIES, NONCONTROLLING INTERESTS AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Current portion of long-term debt
+$
+497.0
+ 
+$
+—
+ 
+$
+497.0
+ 
+Accounts payable
+280.7
+ 
+284.8
+ 
+335.4
+ 
+Accrued liabilities
+893.7
+ 
+871.2
+ 
+1,038.7
+ 
+Total current liabilities
+1,671.4
+ 
+1,156.0
+ 
+1,871.1
+ 
+Long-term debt
+3,094.9
+ 
+3,331.5
+ 
+2,767.9
+ 
+Other liabilities
+489.8
+ 
+355.0
+ 
+347.5
+ 
+Total liabilities
+5,256.1
+ 
+4,842.5
+ 
+4,986.5
+ 
+Commitments and contingencies (Note 15)
+Shareholders' equity:
+Preference stock of $
+2.50
+ par value. Authorized
+5,000,000
+ shares;
+none
+ issued
+—
+ 
+—
+ 
+—
+ 
+Common stock of $
+0.50
+ par value. Authorized
+600,000,000
+ shares;
+220,286,736
+ shares issued
+110.1
+ 
+110.1
+ 
+110.1
+ 
+Additional paid-in capital
+2,708.7
+ 
+2,631.9
+ 
+2,695.4
+ 
+Retained earnings
+1,652.5
+ 
+2,274.4
+ 
+1,554.1
+ 
+Accumulated other comprehensive loss
+(
+217.4
+)
+(
+239.6
+)
+(
+217.5
+)
+Treasury stock, at cost;
+78,710,668
+ shares;
+80,160,721
+ shares; and
+79,901,615
+ shares, respectively
+(
+3,605.6
+)
+(
+3,606.9
+)
+(
+3,603.6
+)
+Noncontrolling interests
+25.9
+ 
+27.6
+ 
+27.0
+ 
+Total shareholders' equity
+674.2
+ 
+1,197.5
+ 
+565.5
+ 
+Total liabilities, noncontrolling interests and shareholders' equity
+$
+5,930.3
+ 
+$
+6,040.0
+ 
+$
+5,552.0
+ 
+See accompanying condensed notes to consolidated financial statements.
+5
+HASBRO, INC. AND SUBSIDIARIES
+Consolidated Statements of Operations
+(Millions of Dollars Except Per Share Data)
+(Unaudited)
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Net revenues
+$
+1,000.2
+ 
+$
+887.1
+ 
+Costs and expenses:
+Cost of sales
+236.1
+ 
+204.5
+ 
+Program cost amortization
+4.0
+ 
+7.4
+ 
+Royalties
+77.7
+ 
+57.0
+ 
+Product development
+78.0
+ 
+80.5
+ 
+Advertising
+60.4
+ 
+55.4
+ 
+Amortization of intangible assets
+14.6
+ 
+17.0
+ 
+Loss on disposal of business
+—
+ 
+25.0
+ 
+Selling, distribution and administration
+259.1
+ 
+269.6
+ 
+Total costs and expenses
+729.9
+ 
+716.4
+ 
+Operating profit
+270.3
+ 
+170.7
+ 
+Non-operating expense:
+Interest expense
+41.8
+ 
+41.6
+ 
+Interest income
+(
+10.1
+)
+(
+8.9
+)
+Other (income) expense, net
+(
+5.5
+)
+1.4
+ 
+Total non-operating expense, net
+26.2
+ 
+34.1
+ 
+Earnings before income taxes
+244.1
+ 
+136.6
+ 
+Income tax expense
+44.6
+ 
+37.1
+ 
+Net earnings
+199.5
+ 
+99.5
+ 
+Net earnings attributable to noncontrolling interests
+1.1
+ 
+0.9
+ 
+Net earnings attributable to Hasbro, Inc.
+$
+198.4
+ 
+$
+98.6
+ 
+Net earnings per common share:
+Basic
+$
+1.41
+ 
+$
+0.71
+ 
+Diluted
+$
+1.39
+ 
+$
+0.70
+ 
+Cash dividends declared
+$
+0.70
+ 
+$
+0.70
+ 
+See accompanying condensed notes to consolidated financial statements.
+6
+HASBRO, INC. AND SUBSIDIARIES
+Consolidated Statements of Comprehensive Earnings
+(Millions of Dollars)
+(Unaudited)
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Net earnings
+$
+199.5
+ 
+$
+99.5
+ 
+Other comprehensive earnings (loss):
+Foreign currency translation adjustments
+(
+5.2
+)
+10.2
+ 
+Net gains (losses) on hedging activities, net of tax
+4.2
+ 
+(
+2.7
+)
+Reclassifications to earnings, net of tax:
+Net losses (gains) on hedging activities
+1.1
+ 
+(
+0.7
+)
+Other comprehensive earnings, net of tax
+0.1
+ 
+6.8
+ 
+Total comprehensive earnings, net of tax
+199.6
+ 
+106.3
+ 
+Total comprehensive earnings attributable to noncontrolling interests
+1.1
+ 
+0.9
+ 
+Total comprehensive earnings attributable to Hasbro, Inc.
+$
+198.5
+ 
+$
+105.4
+ 
+See accompanying condensed notes to consolidated financial statements.
+    
+                                            
+7
+HASBRO, INC. AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+(Millions of Dollars)
+(Unaudited)
+Three months ended
+March 29,
+2026
+March 30,
+2025
+Cash flows from operating activities:
+Net earnings
+$
+199.5
+ 
+$
+99.5
+ 
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation of property, plant and equipment
+11.3
+ 
+17.2
+ 
+Loss on disposal of business
+—
+ 
+25.0
+ 
+Inventory obsolescence
+5.0
+ 
+5.2
+ 
+Amortization of intangible assets
+14.6
+ 
+17.0
+ 
+Program cost amortization
+4.0
+ 
+7.4
+ 
+Deferred income taxes
+11.9
+ 
+4.8
+ 
+Share-based compensation
+21.1
+ 
+18.4
+ 
+Other non-cash items
+4.9
+ 
+7.9
+ 
+Change in operating assets and liabilities:
+Net change in accounts receivable
+345.5
+ 
+258.7
+ 
+Net change in inventories
+(
+26.9
+)
+(
+23.2
+)
+Net change in prepaid expenses and other current assets
+(
+24.8
+)
+(
+25.3
+)
+Program production costs
+(
+2.1
+)
+(
+2.8
+)
+Net change in accounts payable and accrued liabilities
+(
+228.8
+)
+(
+267.0
+)
+Other
+2.5
+ 
+(
+4.7
+)
+Net cash provided by operating activities
+337.7
+ 
+138.1
+ 
+Cash flows from investing activities:
+Additions to property, plant and equipment
+(
+22.2
+)
+(
+13.8
+)
+Additions to software development
+(
+27.7
+)
+(
+29.4
+)
+Purchases of investments
+(
+423.0
+)
+(
+10.0
+)
+Other
+0.8
+ 
+0.8
+ 
+Net cash utilized by investing activities
+(
+472.1
+)
+(
+52.4
+)
+Cash flows from financing activities:
+Proceeds from borrowings
+399.4
+ 
+—
+ 
+Repayments of borrowings
+(
+68.4
+)
+(
+49.2
+)
+Repurchases of common stock
+(
+7.7
+)
+—
+ 
+Share-based compensation transactions
+37.7
+ 
+3.8
+ 
+Dividends paid
+(
+98.5
+)
+(
+97.9
+)
+Payments related to tax withholding for share-based compensation
+(
+41.5
+)
+(
+17.7
+)
+Payments of financing costs
+(
+4.1
+)
+—
+ 
+Other
+(
+1.8
+)
+(
+1.4
+)
+Net cash provided (utilized) by financing activities
+215.1
+ 
+(
+162.4
+)
+Effect of exchange rate changes on cash
+(
+0.2
+)
+2.8
+ 
+Net increase (decrease) in cash, cash equivalents and restricted cash
+80.5
+ 
+(
+73.9
+)
+Cash, cash equivalents and restricted cash at beginning of year
+776.6
+ 
+695.0
+ 
+Cash, cash equivalents and restricted cash at end of period
+$
+857.1
+ 
+$
+621.1
+ 
+Supplemental information
+Interest paid
+$
+28.9
+ 
+$
+28.7
+ 
+Income taxes paid, net
+$
+18.4
+ 
+$
+26.7
+ 
+See accompanying condensed notes to consolidated financial statements.
+8
+HASBRO, INC. AND SUBSIDIARIES
+Consolidated Statements of Shareholders' Equity
+(Millions of Dollars)
+(Unaudited)
+Common
+Stock
+Additional
+Paid-in Capital
+Retained
+Earnings
+Accumulated Other Comprehensive Loss
+Treasury
+Stock
+Non-controlling Interests
+Total
+Shareholders'
+Equity
+Balance, December 28, 2025
+$
+110.1
+ 
+$
+2,695.4
+ 
+$
+1,554.1
+ 
+$
+(
+217.5
+)
+$
+(
+3,603.6
+)
+$
+27.0
+ 
+$
+565.5
+ 
+Net earnings
+— 
+— 
+198.4
+ 
+— 
+— 
+1.1 
+199.5
+ 
+Other comprehensive earnings, net of tax
+— 
+— 
+— 
+0.1
+ 
+— 
+— 
+0.1
+ 
+Share-based compensation transactions
+— 
+(
+9.3
+)
+— 
+— 
+5.7
+ 
+— 
+(
+3.6
+)
+Share-based compensation expense
+— 
+21.1
+ 
+— 
+— 
+— 
+— 
+21.1
+ 
+Repurchases of common stock
+— 
+— 
+— 
+— 
+(
+7.7
+)
+— 
+(
+7.7
+)
+Dividends declared
+— 
+1.5
+ 
+(
+100.0
+)
+— 
+— 
+— 
+(
+98.5
+)
+Distributions paid to noncontrolling owners and other foreign exchange
+— 
+— 
+— 
+— 
+— 
+(
+2.2
+)
+(
+2.2
+)
+Balance, March 29, 2026
+$
+110.1
+ 
+$
+2,708.7
+ 
+$
+1,652.5
+ 
+$
+(
+217.4
+)
+$
+(
+3,605.6
+)
+$
+25.9
+ 
+$
+674.2
+ 
+Common
+Stock
+Additional
+Paid-in Capital
+Retained
+Earnings
+Accumulated Other
+Comprehensive Loss
+Treasury
+Stock
+Non-controlling Interests
+Total
+Shareholders'
+Equity
+Balance, December 29, 2024
+$
+110.1
+ 
+$
+2,632.2
+ 
+$
+2,274.2
+ 
+$
+(
+246.4
+)
+$
+(
+3,612.5
+)
+$
+27.4
+ 
+$
+1,185.0
+ 
+Net earnings
+— 
+— 
+98.6
+ 
+— 
+— 
+0.9
+ 
+99.5
+ 
+Other comprehensive earnings, net of tax
+— 
+— 
+— 
+6.8
+ 
+— 
+— 
+6.8
+ 
+Share-based compensation transactions
+— 
+(
+19.3
+)
+— 
+— 
+5.6
+ 
+— 
+(
+13.7
+)
+Share-based compensation expense
+— 
+18.4
+ 
+— 
+— 
+— 
+— 
+18.4
+ 
+Dividends declared
+— 
+0.6
+ 
+(
+98.4
+)
+— 
+— 
+— 
+(
+97.8
+)
+Distributions paid to noncontrolling owners and other foreign exchange
+— 
+— 
+— 
+— 
+— 
+(
+0.7
+)
+(
+0.7
+)
+Balance, March 30, 2025
+$
+110.1
+ 
+$
+2,631.9
+ 
+$
+2,274.4
+ 
+$
+(
+239.6
+)
+$
+(
+3,606.9
+)
+$
+27.6
+ 
+$
+1,197.5
+ 
+See accompanying condensed notes to consolidated financial statements.
+9
+HASBRO, INC. AND SUBSIDIARIES
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+(Unaudited)
+(1)    
+Basis of Presentation
+In the opinion of management, the accompanying unaudited interim consolidated financial statements contain all normal and recurring adjustments necessary to present fairly the consolidated financial position of Hasbro, Inc. and all consolidated subsidiaries ("Hasbro" or the "Company") as of March 29, 2026, March 30, 2025, and December 28, 2025, and the results of its operations and cash flows and shareholders' equity for the periods ended March 29, 2026 and March 30, 2025 in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP"). The preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and condensed notes thereto. Actual results could differ from those estimates.
+
+The three months ended March 29, 2026 and March 30, 2025 were 13-week periods.
+The results of operations for the three months ended March 29, 2026 are not necessarily indicative of results to be expected for the full year 2026, nor were those of the comparable 2025 periods representative of those actually experienced for the full year 2025.
+These consolidated financial statements have been prepared without audit, pursuant to the rules and regulations of the U.S. Securities and Exchange Commission ("SEC"). Certain information and disclosures normally included in the consolidated financial statements prepared in accordance with U.S. GAAP have been condensed or omitted pursuant to such rules and regulations. The Company filed with the SEC audited consolidated financial statements for the fiscal year ended December 28, 2025 in the Company's Annual Report on Form 10-K for the year ended December 28, 2025 ("2025 Form 10-K"), which includes all such information and disclosures and, accordingly, should be read in conjunction with the financial information included herein. Certain amounts have been reclassified to conform to current year presentation.
+Significant Accounting Policies
+The Company's significant accounting policies are summarized in Note 1, Summary of Significant Accounting Policies, to the consolidated financial statements included in the Company's 2025 Form 10-K.
+Recently Adopted Accounting Pronouncements
+During the three months ended March 29, 2026, there were no recently adopted accounting standards that had a material effect on the Company’s financial statements.
+Accounting Standards Issued But Not Yet Adopted
+In November 2024, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2024-03,
+Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures
+. The new standard requires enhanced additional disclosures related to certain expense categories. The new standard is effective for fiscal years beginning after December 15, 2026. We are assessing the effect on our 2027 annual consolidated financial statement disclosures and in future interim periods thereafter. At this time, we anticipate adoption will result in additional disclosures within our consolidated financial statements, however adoption will not impact our consolidated balance sheets or statements of operations.
+In September 2025, the FASB issued ASU 2025-06,
+Intangibles—Goodwill and Other—
+Internal-Use Software (Subtopic 350-40)
+. The standard removes all references to the previously existing software development project stages and requires entities to start capitalizing software costs when management has authorized and committed funding to a software project and it is probable that the project will be completed with its intended functionality. The new standard is effective for fiscal years beginning after December 15, 2027. Early adoption is permitted and can be applied prospectively, retrospectively, or utilizing a modified transition approach. We are currently assessing the impact of this ASU on our consolidated financial statements.
+All other ASUs issued but not yet adopted were assessed and determined to be not applicable or are not expected to have a material impact on our consolidated financial statements or financial statement disclosures.
+10
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+2)    
+Revenue Recognition
+Revenue is recognized when control of the promised goods, functional intellectual property or production is transferred to the customers or licensees, in an amount that reflects the consideration the Company expects to be entitled to in exchange for transferring those goods. The Company accounts for a contract when it has approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance, and collectability of consideration is probable.
+The majority of the Company’s revenues are derived from sales of finished products to customers. Refer to Note 1, Summary of Significant Accounting Policies, of the Company's 2025 Annual Report for the Company's revenue recognition accounting policy.
+Contract Assets and Liabilities
+In the ordinary course of business, the Company enters into arrangements that result in the recognition of contract assets and contract liabilities.
+ The Company records the current portion of contract assets and contract liabilities in Prepaid expenses and other current assets and Accrued liabilities, respectively, and the long-term portion within Other assets and Other liabilities, respectively, in the Company's Consolidated Balance Sheets.
+The opening and closing balances of contract assets and contract liabilities are as follows:
+March 29,
+2026
+March 30,
+2025
+Contract Assets:
+Balance, beginning of period
+$
+282.9
+ 
+$
+241.4
+ 
+Balance, end of period
+$
+283.5
+ 
+$
+227.1
+ 
+Contract Liabilities:
+Balance, beginning of period
+$
+190.5
+ 
+$
+236.8
+ 
+Balance, end of period
+$
+203.5
+ 
+$
+202.6
+ 
+For the three months ended March 29, 2026, the Company recognized revenue of $
+56.3
+ million that was included in the December 28, 2025 contract liability balance. For the three months ended March 30, 2025, the Company recognized revenue of $
+134.7
+ million that was included in the December 29, 2024 contract liability balance.
+Unsatisfied Performance Obligations
+As of March 29, 2026, revenue for unsatisfied performance obligations expected to be recognized in the future is $
+976.6
+ million, primarily for intellectual property to be made available in the future under existing agreements with merchandise and co-branding licensees and television station affiliates. Of this amount, we expect to recognize approximately $
+178.0
+ million in the remainder of 2026, $
+186.8
+ million in 2027, $
+146.6
+ million in 2028, and $
+465.2
+ million thereafter. These amounts include only fixed consideration or minimum guarantees and do not include amounts related to (i) contracts with an original expected term of one year or less or (ii) licenses of intellectual property that are solely based on the sales of the licensee.
+11
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+Accounts Receivable and Allowance for Credit Losses
+The Company’s balance for accounts receivable on the Consolidated Balance Sheets as of March 29, 2026 and March 30, 2025 are primarily derived from contracts with customers.
+A summary of the related allowance for credit losses activity is as follows:
+March 29,
+2026
+March 30,
+2025
+Balance, beginning of period
+$
+61.3
+ 
+$
+25.8
+ 
+Provisions/charges to income
+1.9
+ 
+14.6
+ 
+Amounts charged off and other
+(
+5.6
+)
+(
+2.9
+)
+Foreign currency impact
+(
+0.1
+)
+0.2
+ 
+Balance, end of period
+$
+57.5
+ 
+$
+37.7
+ 
+Disaggregation of Revenues
+The Company disaggregates its revenues from contracts with customers by reportable segment: Wizards of the Coast and Digital Gaming, Consumer Products, and Entertainment. The Company further disaggregates revenues within its Wizards of the Coast and Digital Gaming segment by category: Tabletop Gaming and Digital and Licensed Gaming; within its Consumer Products segment by major geographic region: North America, Europe, Latin America, and Asia Pacific; and within its Entertainment segment by category: Family Brands and Film and TV. Finally, the Company disaggregates its revenues into
+three
+ brand categories: Grow Brands, Optimize Brands, and Reinvent Brands. We believe these collectively depict how the nature, amount, timing and uncertainty of revenue and cash flows are affected by economic factors.
+The following table represents consolidated Wizards of the Coast and Digital Gaming segment net revenues by category:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Tabletop Gaming
+$
+460.7
+ 
+$
+343.8
+ 
+Digital and Licensed Gaming
+121.3
+ 
+118.3
+ 
+Net revenues
+$
+582.0
+ 
+$
+462.1
+ 
+The following table represents consolidated Consumer Products segment net revenues by major geographic region:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+North America
+$
+215.4
+ 
+$
+231.4
+ 
+Europe
+99.6
+ 
+85.0
+ 
+Asia Pacific
+53.8
+ 
+53.8
+ 
+Latin America
+29.1
+ 
+28.1
+ 
+Net revenues
+$
+397.9
+ 
+$
+398.3
+ 
+The following table represents consolidated Entertainment segment net revenues by category:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Family Brands
+$
+18.6
+ 
+$
+22.4
+ 
+Film and TV
+1.7
+ 
+4.3
+ 
+Net revenues
+$
+20.3
+ 
+$
+26.7
+ 
+12
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+The following table represents consolidated net revenues by brand portfolio:
+Three Months Ended
+March 29, 2026
+(1)
+March 30, 2025
+(1)
+Grow Brands
+$
+787.5
+ 
+$
+660.8
+ 
+Optimize Brands
+126.9
+ 
+130.7
+ 
+Reinvent Brands
+85.8
+ 
+95.6
+ 
+Net revenues
+$
+1,000.2
+ 
+$
+887.1
+ 
+(1)
+During the first quarter of 2026, the classification of brands within these categories was reviewed and certain brands were reclassified based on changes in growth, profitability or other characteristics. As such, the respective historical revenues associated within these brands has been reclassified into the brands' new brand category.
+(3)    
+Sale of Entertainment One Film and TV Business
+On December 27, 2023, the Company completed the sale of its Entertainment One film and television business ("eOne Film and TV") to Lions Gate Entertainment Corp., Lions Gate Entertainment Inc. and Lions Gate International Motion Pictures S.à.r.l (collectively "Lionsgate"), pursuant to the terms of an Equity Purchase Agreement dated August 3, 2023, among Hasbro and Lionsgate for a purchase price of $
+375.0
+ million in cash, subject to certain purchase price adjustments plus the assumption by Lionsgate of production financing loans. The Equity Purchase Agreement also included a holdback amount that was retained by Lionsgate upon the execution of the sale but remained recoverable by Hasbro if certain terms were not satisfied by Lionsgate within
+30
+ days of the first anniversary of the agreement.
+During the three months ended March 30, 2025, the Company was informed by Lionsgate of the satisfaction of the requirements under the agreement and the final holdback amount was settled, resulting in a $
+25.0
+ million Loss on disposal of business on the Consolidated Statements of Operations. During the three months ended March 29, 2026,
+no
+ further amounts were recorded to Loss on disposal of business.
+
+(4)    
+Earnings Per Common Share
+Net earnings per share data was computed as follows:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Net earnings attributable to Hasbro, Inc.
+$
+198.4
+ 
+$
+98.6
+ 
+Average shares outstanding
+140.8
+ 
+139.8
+ 
+Effect of dilutive securities
+2.4
+ 
+1.2
+ 
+Equivalent Shares
+143.2
+ 
+141.0
+ 
+Net earnings attributable to Hasbro, Inc. per common share:
+Basic
+$
+1.41
+ 
+$
+0.71
+ 
+Diluted
+$
+1.39
+ 
+$
+0.70
+ 
+For the three months ended March 29, 2026 and March 30, 2025, options and other share-based awards totaling
+0.3
+ million and
+0.9
+ million, respectively, were excluded from the calculation of diluted earnings per share because to include them would have been anti-dilutive.
+
+13
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+(5)    
+Other Comprehensive Earnings (Loss)
+Components of Other comprehensive earnings (loss) are presented within the Consolidated Statements of Comprehensive Earnings (Loss), net of tax. Income tax effects are released from Accumulated other comprehensive loss ("AOCL") at the effective tax rate during the period in which the components are released.
+Changes in the components of AOCL are as follows:
+Pension and
+Postretirement
+Amounts
+Derivative
+Instruments
+Available-
+for-Sale
+Securities
+Foreign
+Currency
+Translation
+Adjustments
+Total
+AOCL
+2026
+Balance, December 28, 2025
+$
+(
+7.2
+)
+$
+(
+21.1
+)
+$
+(
+0.1
+)
+$
+(
+189.1
+)
+$
+(
+217.5
+)
+Other comprehensive earnings (loss), before reclassifications, before tax
+—
+ 
+5.3
+ 
+—
+ 
+(
+5.2
+)
+0.1
+ 
+Income tax expense
+—
+ 
+(
+1.1
+)
+—
+ 
+—
+ 
+(
+1.1
+)
+Other comprehensive earnings (loss), before reclassifications
+—
+ 
+4.2
+ 
+—
+ 
+(
+5.2
+)
+(
+1.0
+)
+Reclassification from AOCL to earnings, before tax
+—
+ 
+1.5
+ 
+—
+ 
+—
+ 
+1.5
+ 
+Income tax expense
+—
+ 
+(
+0.4
+)
+—
+ 
+—
+ 
+(
+0.4
+)
+Reclassifications from AOCL to earnings
+—
+ 
+1.1
+ 
+—
+ 
+—
+ 
+1.1
+ 
+Other comprehensive earnings (loss)
+—
+ 
+5.3
+ 
+—
+ 
+(
+5.2
+)
+0.1
+ 
+Balance, March 29, 2026
+$
+(
+7.2
+)
+$
+(
+15.8
+)
+$
+(
+0.1
+)
+$
+(
+194.3
+)
+$
+(
+217.4
+)
+2025
+Balance, December 29, 2024
+$
+(
+8.0
+)
+$
+(
+9.1
+)
+$
+(
+0.1
+)
+$
+(
+229.2
+)
+$
+(
+246.4
+)
+Other comprehensive (loss) earnings, before reclassifications, before tax
+—
+ 
+(
+4.1
+)
+—
+ 
+10.2
+ 
+6.1
+ 
+Income tax benefit
+—
+ 
+1.4
+ 
+—
+ 
+—
+ 
+1.4
+ 
+Other comprehensive (loss) earnings, before reclassifications
+—
+ 
+(
+2.7
+)
+—
+ 
+10.2
+ 
+7.5
+ 
+Reclassification from AOCL to earnings, before tax
+—
+ 
+(
+0.9
+)
+—
+ 
+—
+ 
+(
+0.9
+)
+Income tax benefit
+—
+ 
+0.2
+ 
+—
+ 
+—
+ 
+0.2
+ 
+Reclassifications from AOCL to earnings
+—
+ 
+(
+0.7
+)
+—
+ 
+—
+ 
+$
+(
+0.7
+)
+Other comprehensive (loss) earnings
+—
+ 
+(
+3.4
+)
+—
+ 
+10.2
+ 
+6.8
+ 
+Balance, March 30, 2025
+$
+(
+8.0
+)
+$
+(
+12.5
+)
+$
+(
+0.1
+)
+$
+(
+219.0
+)
+$
+(
+239.6
+)
+Gains (Losses) on Derivative Instruments
+As of March 29, 2026, the Company had remaining net deferred losses on foreign currency forward contracts, net of tax, of $
+3.1
+ million in AOCL. These instruments hedge payments related to inventory purchased in the three months ended March 29, 2026 or forecasted to be purchased during the remainder of 2026, intercompany expenses expected to be paid or received during 2026 and cash receipts for sales made at the end of the first quarter of 2026 or forecasted to be made in the remainder of 2026. These amounts will be reclassified into the Consolidated Statements of Operations upon the sale of the related inventory or recognition of the related sales or expenses.
+In addition to foreign currency forward contracts, the Company entered into hedging contracts on future interest payments related to the
+5.10
+% Notes due 2044. At the date of debt issuance, these contracts were terminated and the fair value on the date of settlement was deferred in AOCL and is being amortized to interest expense over the life of the related Notes using the effective interest rate method. At March 29, 2026, deferred losses, net of tax of $
+12.6
+ million related to these instruments remained in AOCL. For each of the three months ended March 29, 2026 and March 30, 2025, previously deferred losses, net of tax, of $
+0.2
+ million related to these instruments were reclassified from AOCL to net earnings.
+14
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+Of the amounts included in AOCL at March 29, 2026, the Company expects net loss of approximately $
+3.8
+ million to be reclassified to the Consolidated Statements of Operations within the next twelve months. However, the amount ultimately realized in earnings is dependent on the fair value of the hedging instruments on the settlement dates.
+Refer to Note 13, Derivative Financial Instruments, to the consolidated financial statements for additional discussion on reclassifications from AOCL to earnings.
+(6)    
+Goodwill
+Changes in the carrying amount of goodwill, by operating segment, are as follows:
+Wizards of the Coast and Digital Gaming
+Consumer Products
+Entertainment
+Total
+2026
+Balance, December 28, 2025
+(1)
+$
+370.5
+$
+561.0
+$
+325.2
+$
+1,256.7
+Foreign exchange translation
+(
+0.1
+)
+(
+0.1
+)
+—
+(
+0.2
+)
+Balance, March 29, 2026
+$
+370.4
+$
+560.9
+$
+325.2
+$
+1,256.5
+Wizards of the Coast and Digital Gaming
+Consumer Products
+Entertainment
+Total
+2025
+Balance, December 29, 2024
+$
+371.0
+$
+1,582.0
+$
+325.2
+$
+2,278.2
+Foreign exchange translation
+0.1
+0.1
+—
+0.2
+Balance, March 30, 2025
+$
+371.1
+$
+1,582.1
+$
+325.2
+$
+2,278.4
+(1)
+During the second quarter of 2025, the Company recorded $
+1,021.9
+ million of non-cash goodwill impairment charges within the Consumer Products segment. Refer to the 2025 Annual Report for further detail.
+(7)    
+Investments in Productions
+Investments in productions are predominantly monetized on a title-by-title basis and are recorded within Other assets in the Company's Consolidated Balance Sheets to the extent they are considered recoverable against future revenues. These amounts are being amortized to program cost amortization using a model that reflects the consumption of the asset as it is released through various channels including broadcast licenses, theatrical release and home entertainment. Amounts capitalized are reviewed periodically on an individual title basis and any portion of the unamortized amount that appears not to be recoverable from future net revenues is expensed as part of program cost amortization during the period the loss becomes evident.
+The Company's unamortized investments in productions consisted of the following:
+March 29,
+2026
+March 30,
+2025
+December 28,
+2025
+Investment in Films and Television Programs:
+Individual monetization:
+Released, net of amortization
+$
+61.2
+ 
+$
+67.9
+ 
+$
+63.2
+ 
+Completed and not released
+—
+10.8
+—
+In production
+4.3
+1.4
+0.4
+Pre-production
+5.5
+8.1
+4.0
+Total individual monetization
+71.0
+88.2
+67.6
+Film/TV group monetization:
+Released, net of amortization
+29.6
+31.4
+29.8
+In production
+0.3
+—
+0.3
+Total film/TV group monetization
+29.9
+31.4
+30.1
+Total program investments
+$
+100.9
+ 
+$
+119.6
+ 
+$
+97.7
+ 
+15
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+The Company's program cost amortization consisted of the following:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Individual monetization
+$
+3.6
+ 
+$
+6.4
+ 
+Film/TV group monetization
+0.4
+1.0
+Total program cost amortization
+$
+4.0
+ 
+$
+7.4
+ 
+(8)    
+Additional Balance Sheet Information
+Components of accrued liabilities were as follows:
+March 29,
+2026
+March 30,
+2025
+December 28, 2025
+Contract liabilities - current
+$
+203.5
+ 
+$
+202.5
+ 
+$
+190.5
+ 
+Accrued royalties expense
+173.2
+131.6
+207.7
+Payroll and management incentives
+77.0
+22.4
+158.2
+Other taxes
+63.9
+51.4
+67.4
+Advertising
+48.7
+55.9
+88.2
+Interest
+40.9
+42.5
+29.6
+Freight
+35.6
+24.0
+44.2
+General vendor accruals
+33.9
+34.2
+46.8
+Lease liability - current
+31.4
+28.8
+30.6
+Defined contributions plans
+27.5
+14.5
+27.6
+Supplier cancellation charges
+21.6
+42.9
+32.9
+Accrued income taxes
+18.1
+100.5
+14.4
+Professional fees
+15.9
+16.0
+17.3
+Restructuring
+15.3
+39.1
+19.3
+Insurance
+8.9
+11.8
+9.0
+Participations and residuals
+5.9
+10.3
+6.8
+Accrued expenses - productions
+2.9
+0.7
+0.7
+Other
+69.5
+42.1
+47.5
+Total accrued liabilities
+$
+893.7
+ 
+$
+871.2
+ 
+$
+1,038.7
+ 
+Prepaid expenses and other current assets include contract assets, current of $
+128.4
+ million, $
+115.2
+ million, and $
+142.4
+ million as of March 29, 2026, March 30, 2025, and December 28, 2025
+, respectively.
+Other assets include deferred tax assets of $
+276.4
+ million, $
+417.2
+ million, and $
+286.8
+ million as of March 29, 2026, March 30, 2025, and December 28, 2025
+, respectively, and unamortized software development costs of
+$
+416.0
+ million
+,
+$
+291.0
+ million
+, and
+$
+385.6
+ million
+
+as of March 29, 2026, March 30, 2025, and December 28, 2025
+, respectively.
+16
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+(9)    
+Long-Term Debt and Other Financing
+The carrying costs, which are equal to the outstanding principal amounts, and fair values of the Company's long-term borrowings are as follows:
+March 29, 2026
+March 30, 2025
+December 28, 2025
+Carrying
+Cost
+Fair
+Value
+Carrying
+Cost
+Fair
+Value
+Carrying
+Cost
+Fair
+Value
+3.90
+% Notes Due 2029
+$
+900.0
+ 
+$
+871.8
+ 
+$
+900.0
+ 
+$
+853.8
+ 
+$
+900.0
+ 
+$
+885.2
+ 
+6.05
+% Notes Due 2034
+500.0
+ 
+517.5
+ 
+500.0
+ 
+512.6
+ 
+500.0
+ 
+530.7
+ 
+6.35
+% Notes Due 2040
+500.0
+ 
+517.8
+ 
+500.0
+ 
+512.5
+ 
+500.0
+ 
+526.1
+ 
+3.55
+% Notes Due 2026
+497.0
+ 
+494.4
+ 
+565.1
+ 
+554.7
+ 
+497.0
+ 
+495.3
+ 
+3.50
+% Notes Due 2027
+418.8
+ 
+413.2
+ 
+476.4
+ 
+462.5
+ 
+475.0
+ 
+470.3
+ 
+4.65
+% Notes Due 2031
+400.0
+ 
+393.2
+ 
+—
+ 
+—
+ 
+—
+ 
+—
+ 
+5.10
+% Notes Due 2044
+286.4
+ 
+256.4
+ 
+300.0
+ 
+260.6
+ 
+300.0
+ 
+267.5
+ 
+6.60
+% Debentures Due 2028
+109.9
+ 
+114.5
+ 
+109.9
+ 
+116.1
+ 
+109.9
+ 
+116.4
+ 
+Total long-term debt
+3,612.1
+ 
+3,578.8
+ 
+3,351.4
+ 
+3,272.8
+ 
+3,281.9
+ 
+3,291.5
+ 
+Less: deferred debt expenses
+20.2
+ 
+— 
+19.9
+ 
+— 
+17.0
+ 
+— 
+Less: Current portion of long-term debt
+497.0
+ 
+494.4
+ 
+—
+ 
+—
+ 
+497.0
+ 
+495.3
+ 
+Long-term debt
+$
+3,094.9
+ 
+$
+3,084.4
+ 
+$
+3,331.5
+ 
+$
+3,272.8
+ 
+$
+2,767.9
+ 
+$
+2,796.2
+ 
+For the three months ended March 29, 2026, the Company repurchased $
+69.8
+ million of its 2027 and 2044 Notes and recorded a gain on extinguishment of $
+1.5
+ million in Other (income) expense, net in the Consolidated Statements of Operations. For the three months ended March 30, 2025, the Company repurchased $
+50.4
+ million of its 2026 and 2027 Notes and recorded a gain on extinguishment of $
+1.2
+ million in Other (income) expense, net in the Consolidated Statements of Operations.
+2031 Notes
+In March 2026, the Company issued an aggregate of $
+400.0
+ million in senior unsecured debt securities that bear a fixed interest rate of
+4.65
+% due 2031 (the "2031 Notes"). The 2031 Notes were issued with an original issuance discount of $
+0.6
+ million and the Company capitalized $
+3.7
+ million of debt issuance costs. The original issuance discount and debt issuance costs will be amortized over the term of the 2031 Notes.
+Other Financing Arrangements
+On February 20, 2026, the Company entered into a Fourth Amended and Restated Revolving Credit Agreement (the "Amended Agreement") with Bank of America, N.A., as administrative agent, swing line lender, Letter of Credit issuer and lender, and certain other financial institutions, as Letter of Credit issuers and/or lenders. The Amended Agreement amends and restates the Borrower's Third Amended and Restated Revolving Credit Agreement dated as of September 5, 2023.
+The Amended Agreement provides the Company with a senior unsecured revolving credit facility (the “Revolving Facility”) with commitments in an aggregate principal amount of $
+1.1
+ billion. The Amended Agreement also provides for a potential additional incremental commitment increase of up to $
+550.0
+ million. Additionally, the Amended Agreement extends the term of the Revolving Facility from September 5, 2028 to February 20, 2031. The Amended Agreement contains sub-facilities that permit the Borrower to use up to $
+75.0
+ million of the Revolving Facility for the issuance of letters of credit and up to $
+50.0
+ million for swing line loans.
+The Amended Agreement contains affirmative and negative covenants typical of this type of facility, including: (a) restrictions on the Company’s and its domestic subsidiaries’ ability to allow liens on their assets, (b) restrictions on the incurrence of indebtedness, (c) restrictions on the Company’s and certain of its subsidiaries’ ability to engage in certain mergers, (d) the requirement that the Company maintain a Consolidated Interest Coverage Ratio of no less than
+3.00
+:1.00 as of the end of any fiscal quarter and (e) the requirement that the Company maintain: a Consolidated Net Total Leverage Ratio of no more than (i)
+3.75
+:1.00 for each of the first, second and fourth fiscal quarters of each year and (ii)
+4.00
+:1:00 for the third fiscal quarter of each year. The Company has
+no
+ outstanding borrowings under the Amended Agreement as of March 29, 2026. In connection with the execution of the Amended Agreement, the Company capitalized $
+1.8
+ million of deferred financing costs.
+17
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+The Company also has a supplier finance program which provides participating suppliers the option of receiving payment in advance of an invoice due date, to be paid by certain administering banks, on the basis of invoices that the Company has confirmed as valid and approved. The Company’s obligation is to make payment in the invoice amount negotiated with participating suppliers, to the administering banks on the invoice due date. The Company’s suppliers are not required to participate in the supplier finance program. The early payment transactions between the Company’s supplier and the administering bank are subject to an agreement between those parties, and the Company does not participate in any financial aspect of the agreements between the Company’s suppliers and the administering banks. The Company has not pledged any assets to the administering bank under the supplier financing program. The Company or the administering bank may terminate the agreement upon at least 30 days’ written notice. The amount of obligations confirmed under the program that remain unpaid by the Company were
+ $
+48.1
+ million, $
+51.2
+ million, and $
+45.7
+ million
+as of
+March 29, 2026, March 30, 2025, and December 28, 2025
+, respectively. These obligations are presented within
+Accounts payable
+ in our Consolidated Balance Sheets. The activity related to this program is reflected within the operating activities section of the Consolidated Statements of Cash Flows.
+(10)    
+Income Taxes
+The Company and its subsidiaries file income tax returns in the United States and various state and international jurisdictions. In the normal course of business, the Company is regularly audited by U.S. federal, state and local, and international tax authorities in various tax jurisdictions.
+The effective tax rate ("ETR") was
+18.3
+% for the three months ended March 29, 2026, and
+27.1
+% for the three months ended March 30, 2025. The following items impacted the ETR during the first three months of
+
+2026 and 2025:
+•
+During the three months ended March 29, 2026 the Company recorded a net discrete tax benefit of $
+8.8
+ million, primarily associated with share-based compensation.
+•
+During the three months ended March 30, 2025 the Company recorded an unfavorable adjustment to the Loss on Sale of the Film and TV reporting unit of $
+25.0
+ million with no tax benefit. The Company also recorded a net discrete tax benefit of $
+0.3
+ million, primarily associated with share-based compensation.
+
+(11)    
+Fair Value of Financial Instruments
+The Company measures certain financial instruments at fair value. The fair value hierarchy consists of three levels:
+•
+Level 1 fair values are based on quoted market prices in active markets for identical assets or liabilities that the entity has the ability to access;
+•
+Level 2 fair values are those based on quoted prices for similar assets or liabilities, quoted prices in markets that are not active, or other inputs that are observable or can be corroborated by observable data for substantially the full term of the assets or liabilities;
+•
+Level 3 fair values are based on inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.
+There have been no transfers between levels within the fair value hierarchy.
+As of March 29, 2026, March 30, 2025 and December 28, 2025, t
+he Company had the following assets and liabilities measured at fair value in its Consolidated Balance Sheets:
+Fair Value Measurements Using:
+Fair
+Value
+Level 1
+Level 2
+Level 3
+March 29, 2026
+Assets:
+Available-for-sale securities
+$
+528.6
+ 
+$
+528.6
+ 
+$
+—
+ 
+$
+—
+ 
+Derivative financial instruments
+3.4
+ 
+—
+ 
+3.4
+ 
+—
+ 
+$
+532.0
+ 
+$
+528.6
+ 
+$
+3.4
+ 
+$
+—
+ 
+Liabilities:
+Derivative financial instruments
+$
+5.9
+ 
+$
+—
+ 
+$
+5.9
+ 
+$
+—
+ 
+18
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+Fair Value Measurements Using:
+Fair
+Value
+Level 1
+Level 2
+Level 3
+March 30, 2025
+Assets:
+Available-for-sale securities
+$
+10.7
+ 
+$
+10.7
+ 
+$
+—
+ 
+$
+—
+ 
+Derivative financial instruments
+5.0
+ 
+—
+ 
+5.0
+ 
+—
+ 
+$
+15.7
+ 
+$
+10.7
+ 
+$
+5.0
+ 
+$
+—
+ 
+Liabilities:
+Derivative financial instruments
+$
+2.1
+ 
+$
+—
+ 
+$
+2.1
+ 
+$
+—
+ 
+December 28, 2025
+Assets:
+Available-for-sale securities
+$
+106.0
+ 
+$
+106.0
+ 
+$
+—
+ 
+$
+—
+ 
+Derivative financial instruments
+2.0
+ 
+—
+ 
+2.0
+ 
+—
+ 
+$
+108.0
+ 
+$
+106.0
+ 
+$
+2.0
+ 
+$
+—
+ 
+Liabilities:
+Derivative financial instruments
+$
+8.7
+ 
+$
+—
+ 
+$
+8.7
+ 
+$
+—
+ 
+Marketable securities are classified as available-for-sale since the Company does not have the positive intent and the capacity to hold the marketable securities until the maturity date. At March 29, 2026, the Company held $
+528.6
+ million of available-for-sale securities, of which $
+528.1
+ million consisted of U.S. Treasury securities. These investments are recorded at fair value within Short-term investments or Other assets in the Company's Consolidated Balance Sheets based on their contractual maturity dates, with an insignificant amount of unrealized gains and losses excluded from net income and deferred as a component of Other comprehensive earnings (loss), net of related tax effects, until realized. The accretion of discounts (or amortization of premiums) is accounted for in the Company's Consolidated Statements of Operations within Non-operating expense. At March 29, 2026, accrued interest receivable on available-for-sale securities totaled $
+8.6
+ million and was included within Accounts Receivable in the Consolidated Balance Sheets.
+The Company's derivative financial instruments primarily consist of foreign currency forward and option contracts. The Company uses current forward rates of the respective foreign currencies to measure the fair value of these contracts. There were no changes in these valuation techniques during the three months ended March 29, 2026.
+Other Fair Value Measurements
+The Company's financial instruments include cash and cash equivalents, accounts receivable, short-term borrowings, accounts payable and certain accrued liabilities. At March 29, 2026, March 30, 2025, and December 28, 2025, the carrying cost of these instruments approximated their fair value. The Company's financial instruments at March 29, 2026, March 30, 2025, and December 28, 2025 also include certain assets and liabilities measured at fair value, as described above. Refer to Note 9, Long-Term Debt and Other Financing, to the consolidated financial statements for the fair value of the Company's outstanding debt.
+19
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+(12)    
+Leases
+During the three months ended March 29, 2026, the Company obtained control over certain office and warehousing buildings that resulted in the commencement of
+two
+ significant new leases. These leases are classified as operating leases and have initial lease terms ranging from
+10
+ to
+12
+ years.
+The following is a reconciliation of future undiscounted cash flows to the operating liabilities, and the related right-of-use assets, included in our Consolidated Balance Sheets as of March 29, 2026:
+March 29,
+2026
+2026
+$
+31.4
+ 
+2027
+44.2
+ 
+2028
+40.0
+ 
+2029
+27.6
+ 
+2030
+24.9
+ 
+Thereafter
+181.3
+ 
+Total future lease payments
+(4)
+349.4
+ 
+Less: imputed interest
+68.1
+ 
+Present value of future operating lease payments
+281.3
+ 
+Less: current portion of operating lease liabilities
+(1)
+31.4
+ 
+Non-current operating lease liability
+(2)
+$
+249.9
+ 
+Operating lease right-of-use assets, net
+(3)
+$
+247.3
+ 
+(1)
+Included in Accrued liabilities on the Consolidated Balance Sheets
+(2)
+Included in Other liabilities on the Consolidated Balance Sheets
+(3)
+Included in Property, plant and equipment on the Consolidated Balance Sheets
+(4)
+Lease cash flow activity is displayed net within the Statements of Cash Flows, total gross Right of Use Assets and Lease Liabilities added during the quarter were $
+157.1
+ million
+Subsequent to the date of the financial statements, the Company entered into a non-cancelable operating lease for office space in West Hollywood, California. The lease is expected to commence in the second quarter of 2026 and has an initial lease term of approximately
+12
+ years, with estimated aggregate future lease payments of approximately $
+25.2
+ million.
+(13)    
+Derivative Financial Instruments
+The Company uses foreign currency forward and option contracts to mitigate the impact of currency rate fluctuations on firmly committed and projected future foreign currency transactions. These over-the-counter contracts, which hedge future currency requirements related to purchases of inventory, product sales and other cross-border transactions not denominated in the functional currency of the business unit, are primarily denominated in United States, Canadian and Hong Kong dollars as well as Euros and British pound sterling.
+All contracts are entered into with a number of counterparties, all of which are major financial institutions. The Company believes that a default by a single counterparty would not have a material adverse effect on the financial condition of the Company. The Company does not enter into derivative financial instruments for speculative purposes. Cash flow activity associated with the Company's derivative financial instruments is recorded within cash flows from operating activities on the Consolidated Statement of Cash Flows.
+Cash Flow Hedges
+All of the Company's designated foreign currency forward contracts are considered to be cash flow hedges. These instruments hedge a portion of the Company's currency requirements associated with anticipated inventory purchases, product sales and other cross-border transactions.
+20
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+The notional amounts and fair values of the Company's foreign currency forward contracts designated as cash flow hedging instruments were as follows:
+March 29, 2026
+March 30, 2025
+December 28, 2025
+Notional
+Amount
+Fair
+Value
+Notional
+Amount
+Fair
+Value
+Notional
+Amount
+Fair
+Value
+Inventory purchases
+$
+220.5
+ 
+$
+(
+3.2
+)
+$
+194.8
+ 
+$
+2.6
+ 
+$
+199.9
+ 
+$
+(
+9.5
+)
+Sales
+94.6
+ 
+3.1
+ 
+144.4
+ 
+(
+1.2
+)
+76.0
+ 
+3.1
+ 
+Other
+24.1
+ 
+(
+1.0
+)
+29.1
+ 
+0.6
+ 
+35.4
+ 
+(
+0.7
+)
+Total
+$
+339.2
+ 
+$
+(
+1.1
+)
+$
+368.3
+ 
+$
+2.0
+ 
+$
+311.3
+ 
+$
+(
+7.1
+)
+Undesignated Hedges
+The Company also enters into foreign currency forward contracts to minimize the impact of changes in the fair value of intercompany loans due to foreign currency changes. The Company does not use hedge accounting for these contracts as changes in the fair values of these contracts are substantially offset by changes in the fair value of the intercompany loans. As of March 29, 2026, March 30, 2025 and December 28, 2025, the total notional amounts of the Company's undesignated derivative financial instruments were $
+173.6
+ million, $
+263.2
+ million, and $
+191.5
+ million, respectively.
+Fair Value Measurement
+The Company has a master agreement with each of its counterparties that allows for the netting of outstanding forward contracts.
+The fair values of the Company's foreign currency forward contracts designated as cash flow hedges are recorded in the Consolidated Balance Sheets as follows:
+March 29,
+2026
+March 30,
+2025
+December 28,
+2025
+Prepaid expenses and other current assets:
+Unrealized gains
+$
+2.0
+ 
+$
+5.0
+ 
+$
+1.4
+ 
+Unrealized losses
+(
+0.5
+)
+(
+1.3
+)
+(
+0.7
+)
+Net unrealized gains
+$
+1.5
+ 
+$
+3.7
+ 
+$
+0.7
+ 
+Other assets:
+Unrealized gains
+$
+2.0
+ 
+$
+—
+ 
+$
+1.2
+ 
+Unrealized losses
+(
+0.1
+)
+—
+ 
+(
+0.3
+)
+Net unrealized gains
+$
+1.9
+ 
+$
+—
+ 
+$
+0.9
+ 
+Accrued liabilities:
+Unrealized gains
+$
+1.8
+ 
+$
+0.8
+ 
+$
+1.5
+ 
+Unrealized losses
+(
+6.3
+)
+(
+1.4
+)
+(
+9.5
+)
+Net unrealized losses
+$
+(
+4.5
+)
+$
+(
+0.6
+)
+$
+(
+8.0
+)
+Other liabilities:
+Unrealized gains
+$
+—
+ 
+$
+0.2
+ 
+$
+—
+ 
+Unrealized losses
+—
+ 
+(
+1.3
+)
+(
+0.7
+)
+Net unrealized losses
+$
+—
+ 
+$
+(
+1.1
+)
+$
+(
+0.7
+)
+21
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+The fair values of the Company's undesignated derivative financial instruments were recorded in the Consolidated Balance Sheets as follows:
+March 29,
+2026
+March 30,
+2025
+December 28,
+2025
+Prepaid expenses and other current assets:
+Unrealized gains
+$
+—
+ 
+$
+1.7
+ 
+$
+0.6
+ 
+Unrealized losses
+—
+ 
+(
+0.5
+)
+(
+0.2
+)
+Net unrealized gains
+$
+—
+ 
+$
+1.2
+ 
+$
+0.4
+ 
+Accrued liabilities:
+Unrealized gains
+$
+0.2
+ 
+$
+—
+ 
+$
+—
+ 
+Unrealized losses
+(
+1.6
+)
+(
+0.3
+)
+—
+ 
+Net unrealized losses
+$
+(
+1.4
+)
+$
+(
+0.3
+)
+$
+—
+ 
+Net (losses) gains on cash flow hedging activities have been reclassified from Other comprehensive earnings, net of tax to Net earnings as follows:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Statements of Operations Classification
+Cost of sales
+$
+(
+1.5
+)
+$
+1.1
+ 
+Net revenues
+0.6
+ 
+(
+0.3
+)
+Other
+(
+0.2
+)
+0.1
+ 
+Net realized (losses) gains
+$
+(
+1.1
+)
+$
+0.9
+ 
+In addition, the Company recorded a net loss of $
+2.5
+ million and a net gain of $
+2.2
+ million on its undesignated financial instruments for the three months ended March 29, 2026 and March 30, 2025, respectively, relating to the change in fair value of such derivative financial instruments, substantially offsetting gains and losses from the change in fair value of intercompany loans to which the contracts relate. Such amounts are recorded within Other (income) expense, net within the Consolidated Statements of Operations.
+For additional information related to the Company's derivative financial instruments refer to Note 5, Other Comprehensive Earnings (Loss) and Note 11, Fair Value of Financial Instruments, to the consolidated financial statements.
+(14)    
+Restructuring Actions
+Starting in 2022, the Company implemented its Operational Excellence program ("the Program"), an ongoing enterprise-wide initiative intended to improve our business through programs that include targeted cost-savings, supply chain transformation and certain other restructuring actions designed to drive growth and enhance shareholder value. The Company's organizational structure changes have resulted and will further result in workforce reductions as well as the reallocation of people and resources. The Company currently anticipates that these changes will be substantially complete over the next
+six
+ to
+nine months
+.
+Charges related to the Program were recorded in
+Selling, distribution and administration expense
+ within Corporate and Other. Going forward, the Company may implement further cost-saving initiatives under the Program that could result in additional restructuring charges including severance and other employee charges.
+The liability balance associated with the Program related restructuring actions consisted of severance payments recorded within Accrued liabilities in the Consolidated Balance Sheets as follows:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Balance, beginning of period
+$
+19.3
+ 
+$
+46.9
+ 
+Charges
+5.6
+ 
+1.8
+ 
+Payments
+(
+9.6
+)
+(
+9.6
+)
+Balance, end of period
+$
+15.3
+ 
+$
+39.1
+ 
+Total restructuring charges incurred to date under the Program as of March 29, 2026 equal $
+169.1
+ million.
+22
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+(15)    
+Commitments and Contingencies
+Contingencies – The Company is subject to claims related to product and other commercial matters. In determining costs to accrue related to these items, the Company carefully analyzes cases and considers the likelihood of adverse judgments or outcomes, as well as the potential range of possible loss. The Company accrues for matters when losses are both probable and estimable. Any amounts accrued for these matters are monitored on an ongoing basis and are updated based on new developments or new information as it becomes available for each matter.
+Litigation and Other Claims – The Company from time to time may be subject to lawsuits and other claims related to product, commercial, employee, environmental and other matters in the normal course of business. In determining costs to accrue related to these items, the Company carefully analyzes cases and considers the likelihood of adverse judgments or outcomes, as well as the potential range of possible loss. The Company accrues for matters when losses are both probable and estimable. Any amounts accrued for these matters are monitored on an ongoing basis and are updated based on new developments or new information as it becomes available for each matter.
+Environmental Liabilities – The Company monitors for any estimated environmental contingencies related to its current physical locations and former owned or leased facilities in which it is responsible for environmental matters. The Company has estimated a $
+30.5
+ million environmental liability related to a previously owned manufacturing facility (environmental liability assumed as part of a historical acquisition), in which the Company is solely responsible for the mitigation and remediation activities.
+Contractual obligations and commercial commitments, as detailed in the Company's 2025 Form 10-K, did not materially change outside of certain payments made in the normal course of business, except as disclosed above and in Note 9, Long-Term Debt and Other Financing, to the consolidated financial statements.
+(16)    
+Segment Reporting
+The Company's reportable segments are strategic business units that offer different products and services. They are managed separately because the business requires different technology and marketing strategies. The Company's
+three
+ reportable segments are as follows:
+•
+The Wizards of the Coast and Digital Gaming business engages in the promotion of the Company's brands through the development of trading card, role-playing and digital game experiences based on Hasbro and Wizards of the Coast games. Additionally, we license certain of our brands to other third-party digital game developers who transform Hasbro brand-based characters and other intellectual properties, into digital gaming experiences.
+•
+The Consumer Products segment engages in the sourcing, marketing and sales of toy and game products around the world. The Consumer Products business also promotes the Company's brands through the out-licensing of our trademarks, characters and other brand and intellectual property rights to third parties, through the sale of branded consumer products such as toys and apparel. Additionally, through license agreements with third parties, we develop and sell products based on popular third-party brands.
+•
+The Entertainment segment engages in the development and production of Hasbro-branded entertainment content including film, television, children’s programming, digital content and live entertainment focused on Hasbro-owned properties.
+Corporate and Other, which does not meet the criteria to be an operating segment, provides management and administrative services to the Company's reportable segments described above and consists of unallocated corporate expenses and administrative costs and activities not considered when evaluating segment performance as well as certain assets benefiting more than one segment.
+Segment performance is measured at the operating profit level. Intersegment sales and transfers are reflected in management reports at amounts approximating cost. Certain shared costs, including global development and marketing expenses and corporate administration, are allocated to segments based upon expenses and foreign exchange rates fixed at the beginning of the year, with adjustments to actual expenses and foreign exchange rates included in Corporate and Other. We do not present a measure of total assets for our reportable segments as this information is not used by the chief operating decision maker ("CODM") to allocate resources and assess performance.
+23
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+Information by segment and a reconciliation to reported amounts for the three months ended March 29, 2026 are as follows:
+Wizards of the Coast and Digital Gaming
+Consumer Products
+Entertainment
+Corporate and Other
+Total
+Revenues
+$
+652.9
+ 
+$
+434.9
+ 
+$
+33.7
+ 
+$
+(
+8.4
+)
+$
+1,113.1
+ 
+Less: Intersegment revenue
+70.9
+ 
+37.0
+ 
+13.4
+ 
+(
+8.4
+)
+112.9
+ 
+Total net revenues
+582.0
+ 
+397.9
+ 
+20.3
+ 
+—
+ 
+1,000.2
+ 
+Cost of sales
+94.5
+ 
+140.9
+ 
+0.6
+ 
+0.1
+ 
+236.1
+ 
+Program cost amortization
+—
+ 
+—
+ 
+4.0
+ 
+—
+ 
+4.0
+ 
+Royalties
+27.8
+ 
+63.3
+ 
+(
+13.0
+)
+(
+0.4
+)
+77.7
+ 
+Advertising
+34.5
+ 
+25.9
+ 
+—
+ 
+—
+ 
+60.4
+ 
+Amortization of intangible assets
+2.1
+ 
+8.4
+ 
+4.2
+ 
+(
+0.1
+)
+14.6
+ 
+Distribution
+(1)
+8.0
+ 
+33.3
+ 
+—
+ 
+0.1
+ 
+41.4
+ 
+Managed expense
+(2)
+117.4
+ 
+173.6
+ 
+7.2
+ 
+(
+2.5
+)
+295.7
+ 
+Operating profit (loss)
+$
+297.7
+ 
+$
+(
+47.5
+)
+$
+17.3
+ 
+$
+2.8
+ 
+$
+270.3
+ 
+Reconciliation to Earnings before income taxes:
+Interest expense
+41.8
+ 
+Interest income
+10.1
+ 
+Other income, net
+5.5
+ 
+Earnings before income taxes
+$
+244.1
+ 
+(1)
+Distribution expenses consist of shipping and warehousing expense and is included in Selling, distribution and administration in the Consolidated Statement of Operations.
+(2)
+Managed expenses consist of product development and selling and administrative expense. Product development is included in Product Development in the Consolidated Statement of Operations. Selling and administrative expense is included in Selling, distribution and administration in the Consolidated Statement of Operations.
+Information by segment and a reconciliation to reported amounts for the three months ended March 30, 2025 are as follows:
+Wizards of the Coast and Digital Gaming
+Consumer Products
+Entertainment
+Corporate and Other
+Total
+Revenues
+$
+505.8
+ 
+$
+433.4
+ 
+$
+38.0
+ 
+$
+28.9
+ 
+$
+1,006.1
+ 
+Less: Intersegment revenue
+43.7
+ 
+35.1
+ 
+11.3
+ 
+28.9
+ 
+119.0
+ 
+Total net revenues
+462.1
+ 
+398.3
+ 
+26.7
+ 
+—
+ 
+887.1
+ 
+Cost of sales
+73.8
+ 
+129.8
+ 
+1.1
+ 
+(
+0.2
+)
+204.5
+ 
+Program cost amortization
+—
+ 
+—
+ 
+7.4
+ 
+—
+ 
+7.4
+ 
+Royalties
+10.2
+ 
+50.7
+ 
+(
+8.4
+)
+4.5
+ 
+57.0
+ 
+Advertising
+26.3
+ 
+30.6
+ 
+0.1
+ 
+(
+1.6
+)
+55.4
+ 
+Amortization of intangible assets
+2.1
+ 
+10.1
+ 
+4.7
+ 
+0.1
+ 
+17.0
+ 
+Distribution
+(1)
+9.0
+ 
+31.8
+ 
+—
+ 
+(
+0.7
+)
+40.1
+ 
+Managed expense
+(2)
+110.7
+ 
+189.2
+ 
+33.0
+ 
+2.1
+ 
+335.0
+ 
+Operating profit (loss)
+$
+230.0
+ 
+$
+(
+43.9
+)
+$
+(
+11.2
+)
+$
+(
+4.2
+)
+$
+170.7
+ 
+Reconciliation to Earnings before income taxes:
+Interest expense
+41.6
+ 
+Interest income
+(
+8.9
+)
+Other expense, net
+1.4
+ 
+Earnings before income taxes
+$
+136.6
+ 
+(1)
+Distribution expenses consist of shipping and warehousing expense and is included in Selling, distribution and administration in the Consolidated Statement of Operations.
+(2)
+Managed expenses consist of product development, selling and administrative expense, and loss on disposal of business. Product development is included in Product Development in the Consolidated Statement of Operations. Selling and administrative expense is included in Selling, distribution and administration in the Consolidated Statement of Operations. Loss on disposal of business is included in Loss on disposal of business in the Consolidated Statement of Operations. Managed expenses for the Entertainment segment included a $
+25.0
+ million non-cash loss associated with the sale of the eOne Film and TV business.
+
+24
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+Other supplemental information by segments is as follows:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Depreciation and intangible asset amortization:
+(1)
+Wizards of the Coast and Digital Gaming
+$
+4.4
+ 
+$
+4.6
+ 
+Consumer Products
+15.7
+18.2
+Entertainment
+4.5
+5.1
+Corporate and Other
+1.3
+6.3
+Total
+$
+25.9
+ 
+$
+34.2
+ 
+Additions to property, plant and equipment:
+Wizards of the Coast and Digital Gaming
+$
+2.9
+ 
+$
+1.7
+ 
+Consumer Products
+16.7
+ 
+11.3
+ 
+Entertainment
+—
+ 
+—
+ 
+Corporate and Other
+2.6
+ 
+0.8
+ 
+Total
+$
+22.2
+ 
+$
+13.8
+ 
+(1)
+The amounts of depreciation disclosed by reportable segments are included within Cost of sales and Selling, distribution and administration in the Consolidated Statement of Operations. Intangible asset amortization is included within Amortization of intangible assets in the Consolidated Statement of Operations.
+25
+Item 2.    Management's Discussion and Analysis of Financial Condition and Results of Operations.
+(Dollar and share amounts in tables presented in millions, unless otherwise noted)
+The following discussion and analysis should be read together with the accompanying unaudited consolidated financial statements and the notes thereto included in this Quarterly Report and the audited consolidated financial statements and the notes thereto in the Company's 2025 Form 10-K.
+Overview
+Hasbro, Inc. (“Hasbro”) is a leading game, intellectual property ("IP"), and toy company whose mission is to create joy and community through the magic of play. With over 100 years of expertise, we deliver play experiences to kids, families, and fans around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more. 
+Through our franchise-first approach, we unlock value from both new and legacy IP, including MAGIC: THE GATHERING, MONOPOLY, HASBRO GAMES, PLAY-DOH, TRANSFORMERS, DUNGEONS & DRAGONS, NERF, and PEPPA PIG, as well as premier partner brands. Powered by our portfolio of iconic brands and a diversified network of partners and subsidiary studios, we bring fans together wherever they are, from tabletop to screen. 
+For more than a decade, Hasbro has been consistently recognized for its corporate citizenship, including being named one of the 100 Best Corporate Citizens by 3BL Media, a 2025 JUST Capital Industry Leader, one of the 50 Most Community-Minded Companies in the U.S. by the Civic 50, and a Brand that Matters by Fast Company.
+Recent Developments
+In fiscal year 2025, we launched our refreshed strategy "Playing to Win" to refocus the Company on inspiring a lifetime of play across more categories, more partners, and more ways to engage. Through play fueled brand engagement and partner scaled co-investment, including video games, artificial intelligence ("AI"), enabled entertainment, and licensing, we plan to expand our consumer reach as a games, IP, and toy company.
+In the first quarter of 2026, we made exciting new steps on executing the Playing To Win strategy, including:
+•
+The announcement of a multi-year licensing partnership starting in 2027 with Warner Bros. Discovery Global Consumer Products, making Hasbro the global primary toy licensee for the world of Harry Potter and the upcoming HBO Original HARRY POTTER series.
+•
+The announcement of a licensing collaboration with Amazon MGM Studios to produce action figures, toys and roleplay for the studio’s upcoming live-action Voltron movie and with Legendary Entertainment tied to the live-action Street Fighter movie.
+•
+The launch of LUMEE, a joint venture with Animaj, that will unite our digital advertising inventory and insights to power advertising sales and brand partnerships within the Entertainment segment.
+We believe these strategic moves position us to accelerate innovation and drive long-term growth in line with our Playing to Win strategy which emphasizes play-driven engagement and collaboration with partners.
+Tariffs
+Significant changes in trade policy announced by the U.S. government could adversely impact our forward-looking financial results. The Company monitors the impact of tariffs to its business operations on an ongoing basis and may need to implement actions such as price adjustments or making changes in our supply chain sourcing strategies in order to mitigate the impact of tariffs in future periods. The impacts of tariffs may lead to reduced economic activity, increased costs, reduced demand and changes in purchasing behaviors for some or all of our products, actual or potential impairments, write-downs or unrealizability of some of our existing assets, or other economic outcomes that could have a material adverse impact on our sales volumes, prices, and our financial results. During the first three months of 2026, the Company recognized approximately $8.3 million of tariff costs within Cost of sales.
+On February 20, 2026, the U.S. Supreme Court issued a ruling against the International Emergency Economic Powers Act ("IEEPA") tariffs that we have been paying to the U.S. government since the enactment on April 2, 2025. This could impact our results in 2026 and we are continuing to evaluate the accounting impacts including our ability to apply for and obtain refunds on tariffs previously paid.
+26
+Unauthorized Network Access
+In late March 2026, we identified unauthorized access to our network. Upon discovery, we promptly activated our security incident response protocols, implemented containment measures, including proactively taking certain systems offline, and launched an investigation with the assistance of third-party cybersecurity professionals. Based on analysis with the assistance of outside cybersecurity experts and information to date, we believe the unauthorized access has been contained and we are making progress in fully restoring our systems and operations.
+This unauthorized access did not impact our financial results for the first quarter. Due to the Company’s implementation of containment measures, certain systems were proactively taken offline and were subsequently or are currently being brought online sequentially. We are continuing to work with cybersecurity and forensic experts to identify and review any files potentially impacted. We plan to take additional actions as appropriate based on our review and findings, including providing any notifications deemed appropriate.
+We have continued to execute business continuity plans to enable us to take orders, ship product and conduct other key operations. Importantly, MAGIC: THE GATHERING shipments and its release cadence continued as planned in the second quarter, including the April 2026 release of Secrets of Strixhaven. For the Consumer Products segment, we have been shipping product, but we do anticipate some impact to second quarter revenues and operating profit due to expected order processing, shipping and invoicing delays. Given continued strength in point-of-sale, the expectation is that the majority of any delayed shipping in the second quarter will be made up in the back-half of 2026.
+During the second quarter of 2026, we began incurring costs related to the unauthorized network access, including legal and remediation costs. We plan to seek reimbursement of certain costs, expenses and losses related thereto by submitting claims to our cybersecurity insurers. While the receipt, timing and amount of any such reimbursements are not known at this time, we are currently in the process of documenting our claims.
+Summary of Results
+The Company experienced an increase in revenue from $887.1 million for the three months ended March 30, 2025 to $1,000.2 million for the three months ended March 29, 2026. The increase in revenue is driven primarily by growth in our Wizards of the Coast and Digital Gaming segment, inclusive of increased demand for both tabletop and licensed digital gaming.
+The Company also had an increase in operating profit from $170.7 million for the three months ended March 30, 2025 to $270.3 million for the three months ended March 29, 2026. This increase in operating profit is primarily driven by the revenue growth discussed above, as well as benefits from cost savings initiatives that have occurred over the last 12 months.
+See below for further discussion on the consolidated and segment results of operations for the three months ended March 29, 2026 and March 30, 2025.
+27
+RESULTS OF OPERATIONS
+The following table presents the consolidated results of operations for the three months ended March 29, 2026 and March 30, 2025:
+Three Months Ended
+March 29, 2026
+March 30, 2025
+Amount
+% of Net Revenues
+Amount
+% of Net Revenues
+Net revenues
+$
+1,000.2 
+100.0 
+%
+$
+887.1 
+100.0 
+%
+Costs and expenses:
+Cost of sales
+236.1 
+23.6 
+%
+204.5 
+23.1 
+%
+Program cost amortization
+4.0 
+0.4 
+%
+7.4 
+0.8 
+%
+Royalties
+77.7 
+7.8 
+%
+57.0 
+6.4 
+%
+Product development
+78.0 
+7.8 
+%
+80.5 
+9.1 
+%
+Advertising
+60.4 
+6.0 
+%
+55.4 
+6.2 
+%
+Amortization of intangible assets
+14.6 
+1.5 
+%
+17.0 
+1.9 
+%
+Loss on disposal of business
+— 
+— 
+%
+25.0 
+2.8 
+%
+Selling, distribution and administration
+259.1 
+25.9 
+%
+269.6 
+30.4 
+%
+Total costs and expenses
+729.9 
+73.0 
+%
+716.4 
+80.8 
+%
+Operating profit
+270.3 
+27.0 
+%
+170.7 
+19.2 
+%
+Non-operating expense:
+Interest expense
+41.8 
+4.2 
+%
+41.6 
+4.7 
+%
+Interest income
+(10.1)
+(1.0)
+%
+(8.9)
+(1.0)
+%
+Other (income) expense, net
+(5.5)
+(0.5)
+%
+1.4 
+0.2 
+%
+Total non-operating expense, net
+26.2 
+2.6 
+%
+34.1 
+3.8 
+%
+Earnings before income taxes
+244.1 
+24.4 
+%
+136.6 
+15.4 
+%
+Income tax expense
+44.6 
+4.5 
+%
+37.1 
+4.2 
+%
+Net earnings
+199.5 
+19.9 
+%
+99.5 
+11.2 
+%
+Net earnings attributable to noncontrolling interests
+1.1 
+0.1 
+%
+0.9 
+0.1 
+%
+Net earnings attributable to Hasbro, Inc.
+$
+198.4 
+19.8 
+%
+$
+98.6 
+11.1 
+%
+Net earnings per common share:
+Basic
+$
+1.41 
+$
+0.71 
+Diluted
+$
+1.39 
+$
+0.70 
+Net revenues
+–
+
+Net revenues for the first quarter of 2026 increased 12.7% to $1,000.2 million from $887.1 million for the first quarter of 2025 driven by growth of $119.9 million, or 25.9%, in the Wizards of the Coast and Digital Gaming segment. This growth was partially offset by a $6.4 million, or 24.0%, decrease in the Entertainment segment as well as a $0.4 million, or 0.1%, decrease in the Consumer Products segment. See the Segment Results discussion below for further details.
+As part of our Playing to Win strategy, we have aligned our brand portfolios as follows:
+•
+Grow Brands
+: Brands representing the highest margin, highest growth opportunities in categories where we see significant share and/or underlying market growth.
+•
+Optimize Brands
+: Brands representing opportunities to maintain or grow share while improving operating profit returns.
+•
+Reinvent Brands
+: Brands representing opportunities to reinvent or restructure to drive innovation and improved operating profit returns.
+28
+The following table presents net revenues by brand portfolio category:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+%
+Change
+Grow Brands
+$
+787.5 
+$
+660.8 
+19.2 
+%
+Optimize Brands
+126.9 
+130.7 
+(2.9)
+%
+Reinvent Brands
+85.8 
+95.6 
+(10.3)
+%
+Net revenues
+$
+1,000.2 
+$
+887.1 
+12.7 
+%
+During the first quarter of 2026, the classification of brands within these categories was reviewed and certain brands were reclassified based on changes in growth, profitability or other characteristics. As such, the respective historical revenues associated within these brands has been reclassified into the brands' new brand category.
+GROW BRANDS:
+ Net revenues in the Grow Brands portfolio increased $126.7 million, or 19.2%, in the first quarter of 2026, compared to the first quarter of 2025. The net revenue increase primarily reflects higher net revenues from MAGIC: THE GATHERING, which grew by $123.3 million, or 35.6%, driven by strong performance of the
+Lorwyn Eclipsed
+ and the
+Teenage Mutant Ninja Turtles
+ Universes Beyond set released in the first quarter of 2026.
+OPTIMIZE BRANDS:
+ Net revenues in the Optimize Brands portfolio decreased $3.8 million, or 2.9%, in the first quarter of 2026, compared to the first quarter of 2025, driven by lower net revenues from TRANSFORMERS and PLAY-DOH. The declines were partially offset with an increase in net revenue from GI JOE.
+REINVENT BRANDS:
+ Net revenues in the Reinvent Brands portfolio decreased $9.8 million, or 10.3%, in the first quarter of 2026 compared to the first quarter of 2025. The net revenue decrease is primarily driven by lower product sales for vault brands, partially offset by higher sales in BEY BLADE and NANOMALS.
+OPERATING COSTS AND EXPENSES
+Cost of sales
+–
+
+Cost of sales for the first quarter of 2026 was $236.1 million, or 23.6% of net revenues, compared to $204.5 million, or 23.1% of net revenues, for the first quarter of 2025. The increase in cost of sales was primarily the result of an increase in net revenues period over period, shift in product mix, as well as approximately $8.3 million of incremental cost related to the impacts of tariffs, primarily as it relates to products imported into the United States to be sold domestically.
+Program cost amortization
+–
+
+Program cost amortization decreased to $4.0 million, or 0.4% of net revenues, for the first quarter of 2026 from $7.4 million, or 0.8% of net revenues, for the first quarter of 2025. Program costs are capitalized as incurred and amortized primarily using the individual-film-forecast method which matches costs to the related recognized revenue and is based upon the current slate of entertainment projects.
+Royalties
+–
+
+Royalties for the first quarter of 2026 increased to $77.7 million, or 7.8% of net revenues, compared to $57.0 million, or 6.4% of net revenues, for the first quarter of 2025. The increase in Royalties during the first quarter of 2026 was directly driven by an increase in sales relating to MAGIC: THE GATHERING Universes Beyond sets, including
+Final Fantasy, Avatar: The Last Airbender,
+and
+Teenage Mutant Ninja Turtles
+, for which the Company is obligated to pay a royalty.
+Product development
+–
+
+Product development expense for the first quarter of 2026 was $78.0 million, or 7.8% of net revenues, compared to $80.5 million, or 9.1% of net revenues, for the first quarter of 2025. The decrease in Product development expense during the first quarter of 2026 was primarily due to the Company's cost saving initiatives over the last 12 months, partially offset with higher incremental investment in the development of Grow Brands under the Company's
+Playing to Win
+ strategy.
+Advertising
+–
+
+Advertising expense for the first quarter of 2026 was $60.4 million, or 6.0% of net revenues, compared to $55.4 million, or 6.2% of net revenues, for the first quarter of 2025. The Advertising expense increase during the first quarter of 2026 was primarily driven by additional spend necessary to support top line growth opportunities within the Grow Brands category, specifically within the Wizards of the Coast and Digital Gaming segment.
+Amortization of intangible assets
+–
+
+Amortization of intangible assets decreased to $14.6 million, or 1.5% of net revenues, for the first quarter of 2026, compared to $17.0 million, or 1.9% of net revenues, for the first quarter of 2025. The amortization expense was driven by the straight-line amortization of the Company's definite-lived intangible assets.
+29
+Loss on disposal of business
+– There was no Loss on disposal of business for the first quarter of 2026, compared to $25.0 million, or 2.8% of net revenues, for the first quarter of 2025. The Loss on disposal of business for 2025 represents the loss recognized associated with the divestiture of the Company's non-core film and TV business (the "eOne Film and TV business") within the Entertainment segment. Refer to Note 3, Sale of Entertainment One Film and TV Business, in our condensed notes to consolidated financial statements for additional information on the sale of the eOne Film and TV business.
+Selling, distribution and administration
+–
+
+Selling, distribution and administration expenses decreased to $259.1 million, or 25.9% of net revenues for the first quarter of 2026, from $269.6 million, or 30.4% of net revenues, for the first quarter of 2025. The decrease in Selling, distribution and administration expenses during the first quarter of 2026 is primarily the result of benefits from cost savings initiatives that have occurred over the last 12 months.
+Operating profit
+–
+
+Operating profit for the first quarter of 2026 was $270.3 million, or 27.0% of net revenues, compared to operating profit of $170.7 million, or 19.2% of net revenues, for the first quarter of 2025, driven by the factors discussed above.
+NON-OPERATING EXPENSE
+Interest expense
+–
+
+Interest expense remained flat for the first quarter of 2026 compared to first quarter of 2025, totaling $41.8 million and $41.6 million, respectively.
+Interest income
+–
+
+Interest income was $10.1 million for the first quarter of 2026, compared to $8.9 million in the first quarter of 2025. Higher Interest income in 2026 primarily reflects the Company's cash balance and investments in treasury securities, which were substantially higher in 2026 as compared to 2025.
+Other (income) expense, net
+–
+
+Other (income) expense, net resulted in income of $5.5 million for the first quarter of 2026, compared to expense of $1.4 million in the first quarter of 2025. The change in Other (income) expense, net during 2026 was driven primarily by variations in the movement of foreign currencies in the first quarter of 2026 when compared to the first quarter of 2025.
+INCOME TAXES
+Income tax expense totaled $44.6 million on a pre-tax income of $244.1 million in the first quarter of 2026 compared to an income tax expense of $37.1 million on pre-tax income of $136.6 million in the first quarter of 2025. Both periods were impacted by discrete tax events.
+During the first quarter of 2026, the Company recorded a net discrete tax benefit of $8.8 million primarily associated with share-based compensation. During the first quarter of 2025, the Company recorded an unfavorable adjustment to the Loss on Sale of the Film and TV reporting unit of $25.0 million, which generated no tax benefit, and recognized a net discrete tax benefit of $0.3 million primarily associated with share-based compensation.
+Absent discrete items, the tax rates for the first quarter of 2026 and 2025 were 21.9% and 23.1%, respectively. The decrease in the base rate to 21.9% for the first quarter of 2026 relative to the first quarter of 2025 is primarily due to the mix of jurisdictions where the Company earned its profits.
+30
+SEGMENT RESULTS
+The following table presents net external revenues and operating profit for the Company's reportable segments:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+%
+Change
+Net revenues:
+Wizards of the Coast and Digital Gaming
+$
+582.0 
+$
+462.1 
+25.9 
+%
+Consumer Products
+397.9 
+398.3 
+(0.1)
+%
+Entertainment
+20.3 
+26.7 
+(24.0)
+%
+Total Net revenues
+$
+1,000.2 
+$
+887.1 
+12.7 
+%
+Operating profit (loss):
+Wizards of the Coast and Digital Gaming
+$
+297.7 
+$
+230.0 
+29.4 
+%
+Consumer Products
+(47.5)
+(43.9)
+(8.2)
+%
+Entertainment
+17.3 
+(11.2)
+254.5 
+%
+Corporate and Other
+2.8 
+(4.2)
+166.7 
+%
+Total Operating profit
+$
+270.3 
+$
+170.7 
+58.3 
+%
+Wizards of the Coast and Digital Gaming Segment
+The following table presents Wizards of the Coast and Digital Gaming segment net revenues by category:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+%
+Change
+Tabletop Gaming
+$
+460.7 
+$
+343.8 
+34.0 
+%
+Digital and Licensed Gaming
+121.3 
+118.3 
+2.5 
+%
+Net revenues
+$
+582.0 
+$
+462.1 
+25.9 
+%
+Wizards of the Coast and Digital Gaming segment net revenues increased 25.9% in the first quarter of 2026 to $582.0 million from $462.1 million in the first quarter of 2025. The net revenue increase in the Wizards of the Coast and Digital Gaming segment during the first quarter of 2026 was primarily attributable to increase in Tabletop Gaming revenue which increased 34.0% behind growth in MAGIC: THE GATHERING Universes Beyond sets, primarily due to strong demand for
+Lorwyn Eclipsed
+,
+Teenage Mutant Ninja Turtles
+,
+
+as well as other various backlist titles. This growth was accompanied by an increase in digital licensing revenue related to
+MONOPOLY GO!,
+which contributed $41.4 million of revenue during the quarter
+.
+Wizards of the Coast and Digital Gaming segment operating profit was $297.7 million, or 51.2% of segment net revenues for the first quarter of 2026, compared to operating profit of $230.0 million, or 49.8% of segment net revenues, for the first quarter of 2025. Operating profit increased during the first quarter of 2026 due to increased net revenues, as discussed above. Operating margin also increased during the first quarter of 2026, primarily driven by increased net revenues and product mix in 2026 as compared to 2025.
+Consumer Products Segment
+The following table presents the Consumer Products segment net revenues by major geographic region:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+%
+Change
+North America
+$
+215.4 
+$
+231.4 
+(6.9)
+%
+Europe
+99.6 
+85.0 
+17.2 
+%
+Asia Pacific
+53.8 
+53.8 
+— 
+%
+Latin America
+29.1 
+28.1 
+3.6 
+%
+Net revenues
+$
+397.9 
+$
+398.3 
+(0.1)
+%
+The Consumer Products segment net revenues decreased slightly to $397.9 million for the first quarter of 2026 compared to $398.3 million for the first quarter of 2025, primarily driven by broader industry trends and timing of
+31
+retail orders. The net revenue decrease primarily reflects lower net revenues driven by decreased sales volumes for certain Grow Brands such as HASBRO GAMING and Marvel, partially offset by increases in Star Wars, which was driven by increased consumer demand stemming from upcoming theatrical releases. The net revenue decrease was also attributable to decreased sales volume for certain Optimize Brands such as PLAY-DOH and TRANSFORMERS.
+Consumer Products segment operating loss for the first quarter of 2026 was $47.5 million, or 11.9% of segment net revenues, compared to a segment operating loss of $43.9 million, or 11.0% of segment net revenues, for the first quarter of 2025. The increase in operating loss in the first quarter of 2026 was driven primarily by increased costs associated with tariffs of approximately $8.3 million.
+Entertainment Segment
+The following table presents Entertainment segment net revenues by category:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+%
+Change
+Family Brands
+$
+18.6 
+$
+22.4 
+(17.0)
+%
+Film and TV
+1.7 
+4.3 
+(60.5)
+%
+Net revenues
+$
+20.3 
+$
+26.7 
+(24.0)
+%
+Entertainment segment net revenues decreased 24.0% to $20.3 million for the first quarter of 2026, compared to $26.7 million for the first quarter of 2025. The net revenue decrease in the Entertainment segment during the first quarter of 2026 was driven primarily by the timing of entertainment streaming renewals, partially offset with continued momentum relating to investments in the PEPPA PIG brand.
+Entertainment segment operating profit was $17.3 million, or 85.2% of segment net revenues for the first quarter of 2026, compared to an operating loss of $11.2 million, or 41.9% of segment net revenues for the first quarter of 2025. The increase in operating profit in the Entertainment segment operating results during the first quarter of 2026 was driven by the non-recurring $25.0 million Loss on disposal of business that was recorded in 2025.
+Corporate and Other
+Corporate and Other operating profit was $2.8 million for the first quarter of 2026 compared to an operating loss of $4.2 million for the first quarter of 2025. The increase in operating profit in the first quarter of 2026 as compared to the first quarter of 2025 primarily reflects the impacts of cost saving initiatives at the Company.
+OTHER INFORMATION
+Commitments and Contingencies
+Refer to Item 7 of our
+2025
+ Form 10-K for additional information regarding the Company’s cash obligations and commitments as of the end of fiscal year
+2025
+. Additionally, refer to Note 15, Commitments and Contingencies, to
+the consolidated financial statements
+ for a discussion of the Company’s commitments and contingencies. C
+ontractual obligations and commercial commitments, as detailed in the Company's 2025 Form 10-K, did not materially change outside of certain payments made in the normal course of business and as otherwise set forth in this report.
+LIQUIDITY AND CAPITAL RESOURCES
+The Company has historically generated a significant amount of cash from operations. The Company primarily funds its operations and liquidity needs through cash on hand and from cash flows from operations, and when needed, borrowings under its commercial paper program and available lines of credit.
+The Company believes that the funds available to it, including cash expected to be generated from operations, funds available through its commercial paper program or its available lines of credit, are adequate to meet its working capital needs for the next twelve months. The Company may also issue debt or equity securities from time to time to provide additional sources of liquidity when pursuing opportunities to enhance our long-term competitive position, while maintaining a strong balance sheet.
+The impact of tariffs recognized by the Company in Cost of sales was approximately $8.3 million during the first three months of 2026. Significant changes in trade policy announced by the U.S. government could adversely impact our forward-looking financial results, including the timing and extent of cash flows based upon timing in customer buying patterns and changes in our supply chain sourcing strategies.
+32
+As of March 29, 2026, the Company's cash and cash equivalents totaled $857.1 million and the Company's Short-term investments totaled $498.2 million. The majority of the Company’s cash and cash equivalents held outside of the United States as of March 29, 2026 are denominated in the U.S. dollar.
+Under the Company’s commercial paper program, at the request of the Company and subject to market conditions, the Company may issue notes from time to time up to an aggregate principal amount outstanding at any given time of $1.0 billion. The Company intends to use the commercial paper program as its primary short-term borrowing facility. As of March 29, 2026, the Company had no outstanding borrowings related to the commercial paper program.
+On February 20, 2026, the Company entered into a Fourth Amended and Restated Revolving Credit Agreement which amended and restated the third amended and restated revolving credit agreement to extend the maturity date through February 20, 2031 and reduce the aggregate principal amount to $1.1 billion. The revolving credit facility also provides for a potential additional incremental commitment increase of up to $550.0 million subject to agreement of the lenders. The Company's revolving credit facility contains certain financial covenants setting forth leverage and coverage requirements, and certain other limitations typical of an investment grade facility, including with respect to liens, mergers and incurrence of indebtedness. The Company was in compliance with all covenants as of March 29, 2026. The Company had no borrowings outstanding under its revolving credit facility as of March 29, 2026. However, letters of credit outstanding under this facility as of March 29, 2026 were approximately $3.3 million. Amounts available and unused under the revolving credit facility at March 29, 2026 were approximately $1.1 billion, inclusive of borrowings under the Company’s commercial paper program. The Company also has other uncommitted lines from various banks, of which approximately $8.4 million was utilized as of March 29, 2026. Of the amount utilized under, or supported by, the uncommitted lines, the full $8.4 million represented letters of credit.
+As of March 29, 2026, the Company had $3.6 billion of Long-term debt due at varying times from 2026 through 2044. Of the total principal amount of long-term debt, $497.0 million is current as of March 29, 2026 which represents the Company's 3.55% fixed-rate notes due November 2026.
+In March 2026, the Company issued an aggregate of $400.0 million in senior unsecured debt securities that bear a fixed interest rate of 4.65% due 2031 (the "2031 Notes"). In connection with the issuance of the 2031 Notes, the 2031 Notes were issued with an original issuance discount of $0.6 million and the Company capitalized $3.7 million of debt issuance costs. The original issuance discount and debt issuance costs will be amortized over the term of the 2031 Notes. It is anticipated that proceeds from the 2031 Notes, along with existing cash available, will be utilized to repay the 2026 Notes. As of March 29, 2026, the Company had invested the proceeds from the 2031 Notes in Short-term investments.
+From time to time, the Company or its affiliates may seek to retire or purchase outstanding debt through cash purchases, in open-market purchases, privately negotiated transactions or otherwise. Such repurchases, if any, will be upon such terms and at such prices as we may determine, and will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. During 2026, the Company has repurchased $69.8 million of outstanding debt.
+The Company has a supplier finance program which provides participating suppliers the option of receiving payment in advance of an invoice due date, to be paid by certain administering banks, on the basis of invoices that the Company has confirmed as valid and approved. The Company’s obligation is to make payment in the invoice amount negotiated with participating suppliers, to the administering banks on the invoice due date. The Company’s suppliers are not required to participate in the supplier finance program. The early payment transactions between the Company’s supplier and the administering bank are subject to an agreement between those parties, and the Company does not participate in any financial aspect of the agreements between the Company’s suppliers and the administering banks. The Company has not pledged any assets to the administering bank under the supplier financing program. The Company or the administering bank may terminate the agreement upon at least 30 days’ written notice.
+The amount of obligations confirmed under the supplier finance program that remain unpaid by the Company were $48.1 million, $51.2 million, and $45.7 million
+as of
+March 29, 2026, March 30, 2025 and December 28, 2025, respectively. These obligations are presented within Accounts payable in the Company's Consolidated Balance Sheets. The activity related to this program is reflected within the operating activities section of the Consolidated Statements of Cash Flows.
+33
+Cash Flow
+The following table summarizes the changes in the Consolidated Statements of Cash Flows:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Net cash provided (utilized) by:
+Operating activities
+$
+337.7 
+$
+138.1 
+Investing activities
+$
+(472.1)
+$
+(52.4)
+Financing activities
+$
+215.1 
+$
+(162.4)
+Net cash provided by Operating activities in the first three months of 2026 was $337.7 million compared to $138.1 million in the first three months of 2025. The $199.6 million increase in net cash provided by Operating activities after adjusting for non-cash items, was primarily attributable to changes in net working capital, specifically the collection of Accounts receivable, which was a direct result of sales growth in 2025.
+Net cash utilized by Investing activities was $472.1 million in the first three months of 2026 compared to net cash utilized for Investing activities of $52.4 million in the first three months of 2025. Additions to property, plant and equipment and software was $22.2 million and $27.7 million in the first three months of 2026, respectively, compared to $13.8 million and $29.4 million in the first three months of 2025, respectively. Additionally, purchases of Short-term investments of $423.0 million, which represent prefunding of future debt maturities with U.S. Treasury securities, occurred in the first three months of 2026, compared to net purchases of Short-term Investments of $10.0 million in the first three months of 2025. The level of purchases during 2026 was impacted by the intent to utilize the investments, together with available cash, to repay indebtedness of the Company that is due in November 2026.
+Net cash provided by Financing activities was $215.1 million in the first three months of 2026 compared to net cash utilized by Financing activities of $162.4 million in the first three months of 2025. The primary source of cash inflows during first three months of 2026 was $399.4 million of proceeds from the issuance of the 2031 Notes, offset by dividends paid of $98.5 million, repayments of long-term debt of $68.4 million, and $41.5 million of payments related to tax withholdings for share compensation coinciding with equity award vesting activity. Share repurchases during the first three months of 2026 include $7.7 million or 82,559 shares of Common Stock under a share repurchase authorization approved by the Company's Board of Directors in February 2026. As of March 29, 2026, there is $992.3 million remaining on the authorization. Financing activities in the first three months of 2025 included dividends paid of $97.9 million, repayments of long-term debt of $49.2 million, and $17.7 million of payments related to tax withholdings for share compensation coinciding with equity award vesting activity.
+CRITICAL ACCOUNTING POLICIES AND SIGNIFICANT ESTIMATES
+We have prepared the consolidated financial statements in accordance with accounting principles generally accepted in the United States, which require us to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the consolidated financial statements and revenues and expenses during the periods reported. These estimates are based on our best judgment about current and future conditions, but actual results could differ from those estimates. Information with respect to accounting estimates that are the most critical to the understanding of our financial statements as they could have the most significant effect on our reported results and require subjective or complex judgments by management is contained in Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, of our Annual Report on Form 10-K for the fiscal year ended December 28, 2025. We believe that at March 29, 2026, there has been no material change to this information.
+FINANCIAL RISK MANAGEMENT
+The Company is exposed to market risks attributable to fluctuations in foreign currency exchange rates primarily as the result of sourcing products priced in U.S. dollars, Hong Kong dollars and Euros while marketing and selling those products in more than twenty currencies. Results of operations may be affected primarily by changes in the value of the U.S. dollar, Euro, British pound sterling, Canadian dollar, Brazilian real and Mexican peso and, to a lesser extent, other currencies in Latin America and Asia Pacific countries.
+To manage this exposure, the Company has hedged a portion of its forecasted foreign currency transactions using foreign exchange forward contracts and foreign exchange option contracts. The Company is also exposed to foreign currency risk with respect to its net cash and cash equivalents or short-term borrowing positions in currencies other than the U.S. dollar. The Company believes, however, that the on-going risk on the net exposure should not be
+34
+material to its financial condition. In addition, the Company's revenues and costs have been and will likely continue to be affected by changes in foreign currency rates. A significant change in foreign exchange rates can materially impact the Company's revenues and earnings due to translation of foreign-denominated revenues and expenses. The Company does not hedge against translation impacts of foreign exchange. From time to time, affiliates of the Company may make or receive intercompany loans in currencies other than their functional currency. The Company manages this exposure at the time the loan is made by using foreign exchange contracts.
+The Company reflects all derivative financial instruments at their fair value as an asset or liability on the Consolidated Balance Sheets. The Company does not speculate in foreign currency exchange contracts. Refer to Note 13, Derivative Financial Instruments, to the Company’s consolidated financial statements for further details on the Company's derivative financial instruments.
+As of March 29, 2026, the Company had fixed-rate debt of $3.6 billion.
+Inflation
+The Company monitors the impact of inflation to its business operations on an ongoing basis and may need to implement actions such as price adjustments to mitigate the impact of changes to the rate of inflation in future periods. However, future volatility of general price inflation could affect consumer spending. Additionally, the impact of inflation on costs and availability of materials, costs for shipping and warehousing and other operational overhead, could adversely affect the Company's financial results.
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk.
+The information required by this item is included in Part I, Item 2. "Management's Discussion and Analysis of Financial Condition and Results of Operations" and is incorporated herein by reference.
+Item 4.    Controls and Procedures.
+Evaluation of disclosure controls and procedures
+The Company maintains disclosure controls and procedures, as defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934 (the "Exchange Act"), that are designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms and that such information is accumulated and communicated to the Company's management, including its Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. The Company carried out an evaluation, under the supervision and with the participation of the Company's management, including the Company's Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company's disclosure controls and procedures as of March 29, 2026. Based on the evaluation of these disclosure controls and procedures, the Chief Executive Officer and Chief Financial Officer concluded that the Company's disclosure controls and procedures were effective.
+Changes in internal control over financial reporting
+There were no changes in the Company's internal control over financial reporting, as defined in Rule 13a-15(f) promulgated under the Exchange Act, during the quarter ended March 29, 2026 that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.
+35
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings.
+West Palm Beach Firefighters' Pension Fund v. Hasbro Inc. et al., 24-cv-8633 (S.D.N.Y)
+On November 13, 2024, West Palm Beach Firefighters’ Pension Fund ("Lead Plaintiff") filed a putative class action lawsuit in the U.S. District Court for the Southern District of New York alleging violations of Sections 10(b) and 20(a) of the Securities and Exchange Act of 1934 (the "Exchange Act") and certain rules promulgated thereunder. On November 26, 2025, Lead Plaintiff filed an amended complaint on behalf of all persons and entities that purchased the Company’s securities between September 16, 2021 and October 26, 2023, inclusive (the “Alleged Class Period”). The amended complaint alleges violations of Sections 10(b) and 20(a) of the Exchange Act. In the amended complaint, Lead Plaintiff alleges that members of the putative class suffered losses as a result of Defendants’ false or misleading statements regarding the growth and success of Magic: The Gathering (“Magic”) card sets, including statements attributing Magic’s growth to a consumer-driven “segmentation” strategy, during the Alleged Class Period. Defendants moved to dismiss the amended complaint on February 6, 2026. The Company intends to vigorously defend against these claims. Due to the early stages of this matter, the Company is unable to estimate a reasonably possible range of loss, if any, that may result from this matter.
+Derivative Action
+On August 19, 2025, Karen Sbriglio, derivatively on behalf of Hasbro, Inc., filed a putative shareholder derivative action against certain of the Company's executive officers and current and former members of the Board of Directors of the Company in Rhode Island Superior Court.
+Sbriglio v. Stoddart et al.,
+PC-2025-04400 (Prov. City, RI). Plaintiff alleges the Board of Directors wrongfully refused a pre-suit litigation demand made on the Board relating to similar allegations described in the initial complaint in the West Palm Beach Firefighters' Pension Fund action. The parties have stipulated to stay the case pending resolution of the motion to dismiss in the West Palm Beach Firefighters' Pension Fund action.
+Other Matters
+The Company is currently party to other certain legal proceedings, including a recently filed putative class action suit filed by Sheila Standing in the U.S. District Court for the District of Rhode Island against Hasbro, Inc., Case No. 1:26-cv-00219 (D.R.I.), alleging injuries and damages arising out of Hasbro’s cyber breach. None of these other legal proceedings are believed to be material to our business or financial condition.
+Item 1A. Risk Factors.
+In connection with information set forth in this Quarterly Report on Form 10-Q, the risk factors discussed under Item 1A. Risk Factors, in Part I of our
+2025
+ Form 10-K and in our subsequent filings, including in this filing, should be considered. The risks set forth in our
+2025
+ Form 10-K and in our subsequent filings, including in this filing, could materially and adversely affect our business, financial condition, and results of operations. Except as set forth below, there are no material changes from the risk factors as previously disclosed in our
+2025
+ Form 10-K, in any of our subsequently filed reports or as otherwise set forth in this Quarterly Report.
+Our business could be significantly harmed as a result of compromise of our electronic data.
+We and our third-party manufacturers and other business partners maintain significant amounts of data electronically in locations around the world and in the cloud. This data relates to all aspects of our business, including current and future products and entertainment under development, and also contains certain customer, consumer, supplier, partner and employee data. We and our partners maintain systems and processes designed to protect this data, but notwithstanding such protective systems and processes, there have been, and in the future may be, intrusions, cyber-attacks, tampering, or other authorized access, whether intentional or unintentional, that have compromised, and could in the future, compromise the integrity and privacy of this data. Intrusions, cyber-attacks, tampering, and other unauthorized access continue to increase in frequency, sophistication and intensity, and are becoming increasingly difficult to detect and prevent. They are often carried out by motivated, well-resourced, skilled and persistent actors, including nation states, organized crime groups, “hacktivists” and employees or contractors acting with malicious intent. Intrusions, cyber-attacks, tampering, and other unauthorized access could include the deployment of harmful malware and key loggers, ransomware, a denial-of-service attack, a malicious website, artificial intelligence, the use of social engineering and other means to affect the confidentiality, integrity and availability of our or third-party technology systems and data. Intrusions, cyber-attacks, tampering, and other unauthorized access could also include supply chain attacks, which could cause a delay in the manufacturing of our products. In addition, we provide confidential and proprietary information to our third-party manufacturers and business partners to conduct our business. While we obtain assurances from those parties that they have systems
+36
+and processes in place to protect such data, and where applicable, that they will take steps to assure the protections of such data by third parties, those manufacturers and partners may also be subject to data intrusion or otherwise compromise the protection of such data. The risk of data loss or breaches is heightened during uncertain economic times, changes in business strategy and reductions in workforce. Any compromise of the confidential data of our customers, consumers, suppliers, partners, employees or ourselves, or failure to prevent or mitigate the loss of or damage to this data through breach of our information technology systems, or those of our third party manufacturers and other business partners, as well as any related security incident response, containment, remediation, or mitigation efforts, could substantially disrupt our operations, result in delays of shipping products, result in delays in making or receiving payments, harm our customers, consumers, employees and other business partners, damage our reputation, violate applicable laws and regulations, subject us to potentially significant costs and liabilities and/or result in a loss of business that could be material.
+For example, in late March 2026, we identified unauthorized access to our network. Upon discovery, we promptly activated our security incident response protocols, implemented containment measures, including proactively taking certain systems offline, and launched an investigation with the assistance of third-party cybersecurity professionals. Based on analysis with the assistance of outside cybersecurity experts and information to date, we believe the unauthorized access has been contained and we are making progress in fully restoring our systems and operations.
+Despite our efforts to control and remediate the impacts and risks related to the unauthorized access to our network, the duration and magnitude of the related operational disruption may be greater than we currently anticipate; the effectiveness of our response, our business continuity plans and our ongoing assessment of the impact of the unauthorized access may be inadequate and thus fail to prevent adverse effects on our business, operations, financial results, and financial reporting; and any further impacts related to the unauthorized access or other similar unauthorized activity may result in increased costs, including from any legal proceedings. For more information, refer to Part I, Item 2. “Management’s Discussion and Analysis of Financial Condition and Results of Operation – Unauthorized Network Access.”
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+In February 2026, the Company announced that its Board of Directors authorized the repurchase of up to $1.0 billion in Common Stock, which may be repurchased in the open market or through privately negotiated transactions. This authorization replaces and supersedes all prior approved share repurchase authorization and has no expiration date. The Company has no obligation to repurchase shares under this authorization. The timing, actual number and value of the shares that are repurchased, if any, will depend on a number of factors, including the price of the Company’s stock and the Company's generation of, and uses for, cash.
+During the three months ended March 29, 2026, the Company's discretionary share repurchases, in millions of dollars except shares and per share data, were as follows:
+2026 Fiscal Month
+Total Number of Shares Purchased
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Share Repurchase Authorization
+Total Remaining Authorization
+December 29 to January 25
+— 
+$
+— 
+— 
+$
+— 
+January 26 to March 1
+— 
+$
+— 
+— 
+$
+1,000 
+March 2 to March 29
+82,559 
+$
+93.3 
+82,559 
+$
+992 
+82,559 
+$
+93.3 
+82,559 
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+Item 5. Other Information.
+During the three months ended March 29, 2026, none of our officers or directors
+adopted
+ or
+terminated
+ a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) and (c) of Regulation S-K.
+37
+Item 6. Exhibits.
+Exhibit No.
+Description
+3.1 
+Restated Articles of Incorporation of the Company. (Incorporated by reference to Exhibit 3.1 to the Company's Quarterly Report on Form 10-Q for the period ended July 2, 2000, File No. 1-6682.)
+3.2 
+Amendment to Articles of Incorporation, dated June 28, 2000. (Incorporated by reference to Exhibit 3.4 to the Company's Quarterly Report on Form 10-Q for the period ended July 2, 2000, File No. 1-6682.)
+3.3 
+Amendment to Articles of Incorporation, dated May 19, 2003. (Incorporated by reference to Exhibit 3.3 to the Company's Quarterly Report on Form 10-Q for the period ended June 29, 2003, File No. 1-6682.)
+3.4 
+Second Amended and Restated Bylaws of the Company (Incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K dated September 30, 2022, File No. 1-6682.)
+3.5 
+Certificate of Designations of Series C Junior Participating Preference Stock of Hasbro, Inc. dated June 29, 1999. (Incorporated by reference to Exhibit 3.2 to the Company's Quarterly Report on Form 10-Q for the period ended July 2, 2000, File No. 1-6682.)
+3.6 
+Certificate of Vote(s) authorizing a decrease of class or series of any class of shares. (Incorporated by reference to Exhibit 3.3 to the Company's Quarterly Report on Form 10-Q for the period ended July 2, 2000, File No 1-6682.)
+4.1 
+Indenture, dated as of July 17, 1998, by and between the Company and The Bank of New York Mellon Trust Company, N.A. as successor Trustee to Citibank, N.A. as Trustee. (Incorporated by reference to Exhibit 4.1 to the Company's Current Report on Form 8-K dated July 14, 1998, File No. 1-6682.)
+4.2 
+Indenture, dated as of March 15, 2000, by and between the Company and The Bank of New York Mellon Trust Company, N.A. as successor Trustee to the Bank of Nova Scotia Trust Company of New York. (Incorporated by reference to Exhibit 4(b)(i) to the Company's Annual Report on Form 10-K for the fiscal year ended December 26, 1999, File No. 1-6682.)
+4.3 
+First Supplemental Indenture, dated as of September 17, 2007, between the Company and The Bank of New York Mellon Trust Company, N.A. as successor Trustee to the Bank of Nova Scotia Trust Company of New York. (Incorporated by reference to Exhibit 4.1 to the Company's Current Report on Form 8-K filed September 17, 2007, File No. 1-6682.)
+4.4 
+Second Supplemental Indenture, dated as of May 13, 2009, between the Company and The Bank of New York Mellon Trust Company, N.A. as successor Trustee to the Bank of Nova Scotia Trust Company of New York. (Incorporated by reference to Exhibit 4.1 to the Company's Current Report on Form 8-K filed May 13, 2009, File No. 1-6682.)
+4.5 
+Third Supplemental Indenture, dated as of March 11, 2010, between the Company and The Bank of New York Mellon Trust Company, N.A. as successor Trustee to the Bank of Nova Scotia Trust Company of New York. (Incorporated by reference to Exhibit 4.1 to the Company's Current Report on Form 8-K filed March 11, 2010, File No. 1-6682.)
+4.6 
+Fourth Supplemental Indenture, dated May 13, 2014, between the Company and The Bank of New York Mellon Trust Company, N.A. as successor Trustee to the Bank of Nova Scotia Trust Company of New York.  (Incorporated by reference to Exhibit 4.1 to the Company's Current Report on Form 8-K filed May 13, 2014, file No. 1-6682.)
+4.7 
+Fifth Supplemental Indenture, dated September 13, 2017, between the Company and The Bank of New York Mellon Trust Company, N.A. as successor Trustee to the Bank of Nova Scotia Trust Company of New York.  (Incorporated by reference to Exhibit 4.1 to the Company's Current Report on Form 8-K filed September 13, 2017, file No. 1-6682.)
+4.8 
+Sixth Supplemental Indenture dated as of November 19, 2019, among the Company and The Bank of New York Mellon Trust Company, N.A. and U.S. Bank, National Association, supplementing the Indenture dated as of March 15, 2000. (Incorporated by reference to Exhibit 1.2 to the Company’s Current Report on Form 8-K filed November 19, 2019, File No. 1-6682.)
+4.9 
+Seventh Supplemental Indenture dated as of May 14, 2024, among the Company and The Bank of New York Mellon Trust Company, N.A. and U.S. Bank
+ Trust Company
+, National Association, supplementing the Indenture dated as of March 15, 2000. (Incorporated by reference to Exhibit 4.
+2
+ to the Company’s Current Report on Form 8-K filed May 14, 2024, File No. 1-6682.)
+4.10 
+Eighth Supplemental Indenture dated as of March 12, 2026, among Hasbro, Inc., The Bank of New York Mellon Trust Company, N.A. (as successor trustee to The Bank of Nova Scotia Trust Company of New York) and U.S. Bank Trust Company, National Association(Incorporated by reference to Exhibit 4.2 to the Company’s Current Report on Form 8-K filed March 12, 2026, File No. 1-6682)
+10.1**
+Hasbro, Inc. 2026 Form of Restricted Stock Unit Award Agreement
+10.2**
+Hasbro, Inc. 2026 Form of Performance Stock Unit Award Agreement
+10.3**
+H
+asbro, In
+c. 2026 Performance
+Rewards Plan
+10.4 
+Fourth Amended and Restated Revolving Credit Agreement, dated February 20, 2026, by and among Hasbro, Inc., Bank of America, N.A., and certain other L/C issuers party thereto. (Incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed February 20, 2026, File No. 1-6682).
+31.1*
+Certification of the Chief Executive Officer Pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+31.2*
+Certification of the Chief Financial Officer Pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+32.1*
+Certification of the Chief Executive Officer Pursuant to Rule 13a-14(b) under the Securities Exchange Act of 1934.
+32.2*
+Certification of the Chief Financial Officer Pursuant to Rule 13a-14(b) under the Securities Exchange Act of 1934.
+101.INS
+XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL Document.
+101.SCH
+XBRL Taxonomy Extension Schema Document
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.LAB
+XBRL Taxonomy Extension Labels Linkbase Document
+101.PRE 
+XBRL Taxonomy Extension Presentation Linkbase Document
+101.DEF 
+XBRL Taxonomy Extension Definition Linkbase Document
+* Furnished herewith
+** Indicates management contract or compensatory plan, contract or arrangement
+38
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+HASBRO, INC.
+(Registrant)
+Date: May 13, 2026
+By: /s/ Gina Goetter
+ 
+Gina Goetter
+Chief Financial Officer and Chief Operating Officer
+(Duly Authorized Officer and
+Principal Financial and Principal Accounting Officer)
+39
+

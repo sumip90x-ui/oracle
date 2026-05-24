@@ -1,0 +1,17 @@
+=== FILING DATE: 2026-05-13 ===
+=== PERIOD COVERED: 2026-03-29 ===
+=== SOURCE: 10-Q filed 2026-05-13 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: HAS ===
+
+Item 7
+, Management’s Discussion and Analysis of Financial Condition and Results of Operations, of our Annual Report on Form 10-K for the fiscal year ended December 28, 2025. We believe that at March 29, 2026, there has been no material change to this information.
+FINANCIAL RISK MANAGEMENT
+The Company is exposed to market risks attributable to fluctuations in foreign currency exchange rates primarily as the result of sourcing products priced in U.S. dollars, Hong Kong dollars and Euros while marketing and selling those products in more than twenty currencies. Results of operations may be affected primarily by changes in the value of the U.S. dollar, Euro, British pound sterling, Canadian dollar, Brazilian real and Mexican peso and, to a lesser extent, other currencies in Latin America and Asia Pacific countries.
+To manage this exposure, the Company has hedged a portion of its forecasted foreign currency transactions using foreign exchange forward contracts and foreign exchange option contracts. The Company is also exposed to foreign currency risk with respect to its net cash and cash equivalents or short-term borrowing positions in currencies other than the U.S. dollar. The Company believes, however, that the on-going risk on the net exposure should not be
+34
+material to its financial condition. In addition, the Company's revenues and costs have been and will likely continue to be affected by changes in foreign currency rates. A significant change in foreign exchange rates can materially impact the Company's revenues and earnings due to translation of foreign-denominated revenues and expenses. The Company does not hedge against translation impacts of foreign exchange. From time to time, affiliates of the Company may make or receive intercompany loans in currencies other than their functional currency. The Company manages this exposure at the time the loan is made by using foreign exchange contracts.
+The Company reflects all derivative financial instruments at their fair value as an asset or liability on the Consolidated Balance Sheets. The Company does not speculate in foreign currency exchange contracts. Refer to Note 13, Derivative Financial Instruments, to the Company’s consolidated financial statements for further details on the Company's derivative financial instruments.
+As of March 29, 2026, the Company had fixed-rate debt of $3.6 billion.
+Inflation
+The Company monitors the impact of inflation to its business operations on an ongoing basis and may need to implement actions such as price adjustments to mitigate the impact of changes to the rate of inflation in future periods. However, future volatility of general price inflation could affect consumer spending. Additionally, the impact of inflation on costs and availability of materials, costs for shipping and warehousing and other operational overhead, could adversely affect the Company's financial results.

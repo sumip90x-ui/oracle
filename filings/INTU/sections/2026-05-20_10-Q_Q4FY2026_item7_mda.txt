@@ -1,0 +1,89 @@
+=== FILING DATE: 2026-05-20 ===
+=== PERIOD COVERED: 2026-04-30 ===
+=== SOURCE: 10-Q filed 2026-05-20 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: INTU ===
+
+Item 7
+ of our Annual Report on Form 10-K for the fiscal year ended July 31, 2025 have the greatest potential impact on our financial statements, so we consider them to be our critical accounting estimates. There were no significant changes in those critical accounting estimates during the first nine months of fiscal 2026. Senior management has reviewed the development and selection of our critical accounting estimates and their disclosure in this Quarterly Report on Form 10-Q with the Audit and Risk Committee of our Board of Directors.
+RESULTS OF OPERATIONS
+Financial Overview
+(Dollars in millions, except per share amounts)
+Q3
+FY26
+Q3
+FY25
+$
+Change
+%
+Change
+YTD
+Q3
+FY26
+YTD
+Q3
+FY25
+$
+Change
+%
+Change
+Total net revenue
+$
+8,558 
+$
+7,754 
+$
+804 
+10 
+%
+$
+17,094 
+$
+15,000 
+$
+2,094 
+14 
+%
+Operating income
+4,020 
+3,720 
+300 
+8 
+%
+5,409 
+4,584 
+825 
+18 
+%
+Net income
+3,064 
+2,820 
+244 
+9 
+%
+4,203 
+3,488 
+715 
+20 
+%
+Diluted net income per share
+$
+11.09 
+$
+10.02 
+$
+1.07 
+11 
+%
+$
+15.05 
+$
+12.33 
+$
+2.72 
+22 
+%
+Current Fiscal Quarter
+Total net revenue for the third quarter of fiscal 2026 increased $804 million, or 10%, compared with the same quarter of fiscal 2025. Consumer segment revenue increased 8% due to growth in assisted tax and our consumer money offerings, and strength in our Credit Karma personal loan and insurance verticals, partially offset by a decrease in revenue due to fewer TurboTax federal units. Our Global Business Solutions segment revenue increased 15% during the quarter due to growth in our Online Ecosystem revenue. See
+“Segment Results”
+ later in this

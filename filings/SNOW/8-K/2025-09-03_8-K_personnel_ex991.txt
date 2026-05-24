@@ -1,0 +1,48 @@
+=== FILING DATE: 2025-09-03 ===
+=== PERIOD COVERED: 2025-09-03 ===
+=== SOURCE: 8-K Exhibit 99.1 filed 2025-09-03 ===
+=== SECTION: 8-K Exhibit 99.1 — personnel ===
+=== TICKER: SNOW ===
+
+
+
+EX-99.1
+
+3
+
+ex991_pressrelease.htm
+
+EX-99.1
+
+
+Document
+Snowflake Appoints Brian Robins as Chief Financial Officer
+No-Headquarters/BOZEMAN, Mont. – September 3, 2025
+ –
+Snowflake
+ (NYSE: SNOW), the AI Data Cloud company, today announced that Brian Robins is joining the company as Chief Financial Officer, effective September 22. In this role, Mr. Robins will be responsible for shaping Snowflake’s financial strategies to support its growth and long-term health, and will lead the global finance organization, including planning, treasury, tax, reporting, and investor relations. Snowflake also announced that Mike Scarpelli is retiring as Chief Financial Officer, effective September 22. Mr. Scarpelli will stay a Snowflake employee for a period of time to support continuity and a smooth transition, then will take on an advisory role at Snowflake.
+"We're incredibly confident in our next chapter of growth with Brian taking the helm as our new Chief Financial Officer,” said Sridhar Ramaswamy, CEO of Snowflake. “Brian’s deep commitment to operational rigor and long-term high growth aligns perfectly with the strategic direction of Snowflake.
+
+We have an enormous opportunity ahead of us and he'll be an invaluable partner in our mission to empower every enterprise with data and AI. I would also like to
+ thank Mike for his years of service and deep impact on Snowflake.
+"
+“Snowflake is at the center of the AI revolution, and I couldn't be more excited to join the team," Mr. Robins said. “The work Snowflake is doing to empower organizations around the world with data and AI is transformational. I am thrilled to be a part of this hyper-growth phase and am committed to helping the company scale efficiently to achieve its vision."
+Mr. Robins has served as Chief Financial Officer of GitLab Inc. (GitLab), a technology company, since October 2020,
+ he is responsible for GitLab's financial, data and business systems functions, including accounting, tax, treasury, corporate finance and investor relations.
+
+Prior to GitLab, Mr. Robins was CFO of Sisense, Cylance, AlienVault, and Verisign (VRSN), a Nasdaq listed company.  He currently serves on the GitLab Foundation Board of Directors and the Board of Directors of ID.me as a member and as audit committee chair. Mr. Robins is a special advisor at Brighton Park Capital, L.P. and on the Advisory Council at ForgePoint Capital Cybersecurity.
+Mr. Robins holds a B.S. degree in Finance from Lipscomb University and an M.B.A from Vanderbilt University.
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, regarding our expectations, hopes, beliefs, intentions or strategies regarding the future. These forward-looking statements are subject to known and unknown risks, uncertainties, assumptions, and other factors that may cause actual results or outcomes to be materially different from any future results or outcomes expressed or implied by the forward-looking statements. Further information on such risks, uncertainties, and other factors that could cause actual outcomes and results to differ materially from those included in or contemplated by
+the forward-looking statements contained in this press release are included in the filings and reports we make with the Securities and Exchange Commission from time to time. Forward-looking statements speak only as of the date the statements are made and are based on information available to us at the time those statements are made and/or our management's good faith belief as of that time with respect to future events. Except as required by law, we undertake no obligation, and do not intend, to update these forward-looking statements to reflect events that occur or circumstances that exist after the date on which they were made.
+About Snowflake
+Snowflake is the platform for the AI era, making it easy for enterprises to innovate faster and get more value from data. More than 12,000 customers around the globe, including hundreds of the world’s largest companies, use Snowflake’s AI Data Cloud to build, use and share data, applications and AI. With Snowflake, data and AI are transformative for everyone. Learn more at snowflake.com (NYSE: SNOW).
+Media Contact
+Eszter Szikora
+Global PR, Snowflake
+press@snowflake.com
+
+Source: Snowflake Inc.
+
+

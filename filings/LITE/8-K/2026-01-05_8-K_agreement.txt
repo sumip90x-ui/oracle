@@ -1,0 +1,360 @@
+=== FILING DATE: 2026-01-05 ===
+=== PERIOD COVERED: 2025-12-29 ===
+=== SOURCE: 8-K filed 2026-01-05 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: LITE ===
+
+
+
+
+8-K
+
+
+
+
+
+false
+
+0001633978
+
+
+
+
+
+
+
+
+0001633978
+
+
+
+2025-12-29
+
+2025-12-29
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+Form
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+December 29, 2025
+
+ 
+
+
+ 
+
+Lumentum Holdings Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Delaware
+
+
+ 
+
+
+001-36861
+
+
+ 
+
+
+47-3108385
+
+
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+
+ 
+
+
+
+(Commission
+
+File Number)
+
+
+ 
+
+
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+
+1001 Ridder Park Drive
+,
+San Jose
+,
+California
+
+95131
+
+
+(Address of Principal Executive Offices, including Zip Code)
+
+(408)
+
+546-5483
+
+(Registrant’s Telephone Number, Including Area Code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+
+ 
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common Stock, par value of $0.001 per share
+
+
+ 
+
+
+LITE
+
+
+ 
+
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+ of the Securities Exchange Act of 1934
+(§240.12b-2
+ of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On December 29, 2025, Matthew Sepe, Chief Accounting Officer and Senior Vice President, Finance of Lumentum Holdings Inc. (the “Company”), informed the Company of his planned retirement from the Company. Mr. Sepe will serve as the Company’s Senior Vice President, Finance until his retirement in fall 2026 and will step down as the Company’s Chief Accounting Officer effective as of the later of (i) February 6, 2026 and (ii) the date upon which the Company files its Quarterly Report on Form
+10-Q
+ for the three months ended December 27, 2025 (such date, the “Effective Date”). In connection with Mr. Sepe’s retirement, the Board has appointed Eric Chang, who recently joined the Company as Senior Vice President, Finance, as Chief Accounting Officer effective upon the Effective Date.
+
+Mr. Chang, 52, the Company’s Senior Vice President, Finance, most recently served as Chief Financial Officer of Digilens, Inc., a privately-held manufacturer and licensor of key components of augmented reality and extended reality displays, from July 2025 until November 2025. Prior to joining Digilens, Mr. Chang served as VP, Chief Accounting Officer of Edgio, Inc., a content delivery network service provider, from October 2022 until June 2025. Prior to Edgio, Mr. Chang served as VP, Finance and Accounting of Summit Interconnect, Inc. from January 2022 until October 2022. Prior to joining Summit Interconnect, Mr. Chang served as Senior Vice President, Chief Financial Officer and Principal Accounting Officer of Aviat Networks, Inc. from February 2016 until October 2021. Mr. Chang also served as Senior Director, Corporate Controller at Micrel, Incorporated, a publicly-traded semiconductor company, from November 2013 to February 2016, and as Senior Director, Assistant Corporate Controller and Memory Business Unit Controller at Atmel Corporation, a publicly-traded semiconductor company, from June 2007 to November 2013. Earlier in his career, Mr. Chang served as a Senior Manager at Ernst & Young LLP and as a Senior Associate at PricewaterhouseCoopers LLP, planning, administering and managing audit engagements of public companies in the high-tech industry and performing technical research of accounting, Sarbanes-Oxley Section 404, financial statements presentation and disclosure issues in accordance with US GAAP and SEC requirements. Mr. Chang holds a B.S. in Accounting and Computer Information Systems from Indiana University and is a certified public accountant.
+
+Mr. Chang’s compensation is not expected to change in connection with this appointment as the Company’s Chief Accounting Officer. Mr. Chang will enter into the Company’s standard form of indemnification agreement, which has been previously filed with the Securities and Exchange Commission. There are no arrangements or understandings between Mr. Chang and any other persons pursuant to which he was selected as Chief Accounting Officer. There are also no family relationships between Mr. Chang and any director or executive officer of the Company, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation
+S-K.
+
+
+ 
+
+
+
+
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+ 
+
+
+ 
+
+
+LUMENTUM HOLDINGS INC.
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+ 
+
+
+
+/s/ Jae Kim
+
+
+ 
+
+
+ 
+
+
+Name:
+
+
+ 
+
+
+Jae Kim
+
+
+ 
+
+
+ 
+
+
+Title:
+
+
+ 
+
+
+Senior Vice President, General Counsel and Secretary
+
+
+January 5, 2026
+
+
+ 
+
+
+ 
+
+
+ 
+
+

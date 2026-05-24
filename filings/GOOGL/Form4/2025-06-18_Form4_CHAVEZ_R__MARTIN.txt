@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-18
+Transaction Date: 2025-06-16
+Person: CHAVEZ R. MARTIN — Insider
+Type: BUY
+Shares: 7 at $0
+Shares After: 8167
+=== TICKER: GOOGL ===
+===

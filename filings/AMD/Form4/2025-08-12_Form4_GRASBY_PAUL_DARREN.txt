@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-12
+Transaction Date: 2025-08-09
+Person: GRASBY PAUL DARREN — EVP & CSO
+Type: OTHER
+Shares: 67449 at $0
+Shares After: 3886
+=== TICKER: AMD ===
+===

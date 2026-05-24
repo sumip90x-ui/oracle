@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-30
+Transaction Date: 2025-06-26
+Person: DeSantis Dean — 10%+ Owner
+Type: OTHER
+Shares: 1800000 at $40.1588
+Shares After: 0
+=== TICKER: CELH ===
+===

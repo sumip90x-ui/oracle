@@ -1,0 +1,9 @@
+=== FILING DATE: 2025-05-28 ===
+=== PERIOD COVERED: 2025-04-27 ===
+=== SOURCE: 10-Q filed 2025-05-28 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: NVDA ===
+
+Item 7A
+, “Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report on Form 10-K for the fiscal year ended January 26, 2025. As of April 27, 2025, there have been no material changes to the foreign exchange rate risks described as of January 26, 2025.
+29

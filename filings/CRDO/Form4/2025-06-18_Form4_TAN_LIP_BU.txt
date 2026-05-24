@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-18
+Transaction Date: 2025-06-16
+Person: TAN LIP BU — Director
+Type: SELL
+Shares: 171473 at $76.6506
+Shares After: 53574
+=== TICKER: CRDO ===
+===

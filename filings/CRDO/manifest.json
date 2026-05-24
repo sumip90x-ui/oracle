@@ -1,0 +1,940 @@
+{
+  "ticker": "CRDO",
+  "company_name": "Credo Technology Group Holding Ltd",
+  "cik": "0001807794",
+  "sic": "3674",
+  "industry": "Semiconductors & Related Devices",
+  "fiscal_year_end": "0429",
+  "last_checked": "2026-05-19T06:09:43.888588",
+  "newest_filing_date": "2026-05-05",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-04-13",
+      "oldest_included": "2025-06-02",
+      "count": 9,
+      "files": [
+        {
+          "filing_date": "2026-04-13",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2026-04-13_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2026-04-13_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-03-02",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2026-03-02_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2026-03-02_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-02-09",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2026-02-09_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2026-02-09_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-12-01_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-12-01_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-10-29",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-10-29_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-10-16",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-10-16_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-10-07",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-10-07_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-09-03_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-09-03_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-06-02_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-06-02_8-K_earnings_ex991.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-05",
+      "count": 118,
+      "transactions": [
+        {
+          "filing_date": "2026-05-05",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "172.6222"
+        },
+        {
+          "filing_date": "2026-04-29",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "177.1066"
+        },
+        {
+          "filing_date": "2026-04-24",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "184.7392"
+        },
+        {
+          "filing_date": "2026-04-20",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "154.0967"
+        },
+        {
+          "filing_date": "2026-04-17",
+          "person": "Laufman James",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "164.41"
+        },
+        {
+          "filing_date": "2026-04-16",
+          "person": "Fleming Daniel W.",
+          "type": "SELL",
+          "shares": "7580",
+          "price": "152.5086"
+        },
+        {
+          "filing_date": "2026-04-16",
+          "person": "Brennan William Joseph",
+          "type": "OTHER",
+          "shares": "7500",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-14",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "109.05"
+        },
+        {
+          "filing_date": "2026-04-08",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "102.3281"
+        },
+        {
+          "filing_date": "2026-04-06",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "12298",
+          "price": "101.45"
+        },
+        {
+          "filing_date": "2026-04-06",
+          "person": "Fleming Daniel W.",
+          "type": "SELL",
+          "shares": "4920",
+          "price": "101.45"
+        },
+        {
+          "filing_date": "2026-04-06",
+          "person": "Lam Yat Tung",
+          "type": "SELL",
+          "shares": "6360",
+          "price": "101.45"
+        },
+        {
+          "filing_date": "2026-04-06",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "2434",
+          "price": "101.45"
+        },
+        {
+          "filing_date": "2026-04-02",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "88.8746"
+        },
+        {
+          "filing_date": "2026-03-26",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "98.8913"
+        },
+        {
+          "filing_date": "2026-03-19",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "102.9189"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "114.02"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "68016",
+          "price": "113.8783"
+        },
+        {
+          "filing_date": "2026-02-20",
+          "person": "Laufman James",
+          "type": "OTHER",
+          "shares": "6350",
+          "price": "130.66"
+        },
+        {
+          "filing_date": "2026-02-02",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "27500",
+          "price": "123.9559"
+        },
+        {
+          "filing_date": "2026-02-02",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "68016",
+          "price": "123.7591"
+        },
+        {
+          "filing_date": "2026-02-02",
+          "person": "Sutardja, Pantas",
+          "type": "SELL",
+          "shares": "1875",
+          "price": "128.67"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "30000",
+          "price": "133.1482"
+        },
+        {
+          "filing_date": "2026-01-20",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "30000",
+          "price": "149.3352"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "ACEVEDO SYLVIA",
+          "type": "SELL",
+          "shares": "2200",
+          "price": "162.11"
+        },
+        {
+          "filing_date": "2026-01-12",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "30000",
+          "price": "136.0036"
+        },
+        {
+          "filing_date": "2026-01-09",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "19932",
+          "price": "125.6932"
+        },
+        {
+          "filing_date": "2026-01-09",
+          "person": "Fleming Daniel W.",
+          "type": "SELL",
+          "shares": "8562",
+          "price": "128.0977"
+        },
+        {
+          "filing_date": "2026-01-06",
+          "person": "Brennan William Joseph",
+          "type": "OTHER",
+          "shares": "11318",
+          "price": "143.22"
+        },
+        {
+          "filing_date": "2026-01-06",
+          "person": "Lam Yat Tung",
+          "type": "OTHER",
+          "shares": "5366",
+          "price": "143.22"
+        },
+        {
+          "filing_date": "2026-01-06",
+          "person": "Fleming Daniel W.",
+          "type": "OTHER",
+          "shares": "3938",
+          "price": "143.22"
+        },
+        {
+          "filing_date": "2026-01-06",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "31591",
+          "price": "141.4839"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "140.7721"
+        },
+        {
+          "filing_date": "2025-12-29",
+          "person": "Laufman James",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "150"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "149.2021"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "ACEVEDO SYLVIA",
+          "type": "OTHER",
+          "shares": "83",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-22",
+          "person": "Cheng Chi Fung",
+          "type": "OTHER",
+          "shares": "750",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "141.7683"
+        },
+        {
+          "filing_date": "2025-12-15",
+          "person": "Lam Yat Tung",
+          "type": "SELL",
+          "shares": "370000",
+          "price": "149.4185"
+        },
+        {
+          "filing_date": "2025-12-15",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "78016",
+          "price": "149.4012"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "170.1572"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Khaira Manpreet",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "175"
+        },
+        {
+          "filing_date": "2025-12-09",
+          "person": "ACEVEDO SYLVIA",
+          "type": "SELL",
+          "shares": "2145",
+          "price": "185.17"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "person": "Laufman James",
+          "type": "OTHER",
+          "shares": "7379",
+          "price": "141.88"
+        },
+        {
+          "filing_date": "2025-11-13",
+          "person": "Kelleher Brian",
+          "type": "BUY",
+          "shares": "2695",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-05",
+          "person": "Sutardja, Pantas",
+          "type": "SELL",
+          "shares": "1875",
+          "price": "189.35"
+        },
+        {
+          "filing_date": "2025-11-03",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "68016",
+          "price": "166.3744"
+        },
+        {
+          "filing_date": "2025-10-31",
+          "person": "Lam Yat Tung",
+          "type": "SELL",
+          "shares": "80000",
+          "price": "165.6054"
+        },
+        {
+          "filing_date": "2025-10-29",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "154.8134"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Lam Yat Tung",
+          "type": "SELL",
+          "shares": "70000",
+          "price": "132.7075"
+        },
+        {
+          "filing_date": "2025-10-22",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "148.1547"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "Khaira Manpreet",
+          "type": "BUY",
+          "shares": "1540",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "DANESH FARIBA",
+          "type": "BUY",
+          "shares": "650",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "HOSEIN CLYDE",
+          "type": "BUY",
+          "shares": "1540",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "Sutardja, Pantas",
+          "type": "BUY",
+          "shares": "1540",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "TAN LIP BU",
+          "type": "BUY",
+          "shares": "1540",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "ACEVEDO SYLVIA",
+          "type": "BUY",
+          "shares": "1540",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-15",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "144.3635"
+        },
+        {
+          "filing_date": "2025-10-15",
+          "person": "Sutardja, Pantas",
+          "type": "SELL",
+          "shares": "4408",
+          "price": "147.405"
+        },
+        {
+          "filing_date": "2025-10-15",
+          "person": "Khaira Manpreet",
+          "type": "SELL",
+          "shares": "5000",
+          "price": "149.6723"
+        },
+        {
+          "filing_date": "2025-10-10",
+          "person": "Fleming Daniel W.",
+          "type": "SELL",
+          "shares": "112580",
+          "price": "137.8361"
+        },
+        {
+          "filing_date": "2025-10-09",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "18952",
+          "price": "135.4502"
+        },
+        {
+          "filing_date": "2025-10-07",
+          "person": "Cheng Chi Fung",
+          "type": "OTHER",
+          "shares": "57460",
+          "price": "143.87"
+        },
+        {
+          "filing_date": "2025-10-06",
+          "person": "Lam Yat Tung",
+          "type": "OTHER",
+          "shares": "6348",
+          "price": "149.63"
+        },
+        {
+          "filing_date": "2025-10-06",
+          "person": "Fleming Daniel W.",
+          "type": "OTHER",
+          "shares": "4920",
+          "price": "149.63"
+        },
+        {
+          "filing_date": "2025-10-06",
+          "person": "Brennan William Joseph",
+          "type": "OTHER",
+          "shares": "12298",
+          "price": "149.63"
+        },
+        {
+          "filing_date": "2025-10-03",
+          "person": "Lam Yat Tung",
+          "type": "SELL",
+          "shares": "80000",
+          "price": "141.6018"
+        },
+        {
+          "filing_date": "2025-10-01",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "146.1161"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "160.7108"
+        },
+        {
+          "filing_date": "2025-09-22",
+          "person": "TAN LIP BU",
+          "type": "SELL",
+          "shares": "20000",
+          "price": "175.1239"
+        },
+        {
+          "filing_date": "2025-09-18",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "68016",
+          "price": "161.4215"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "161.078"
+        },
+        {
+          "filing_date": "2025-09-16",
+          "person": "TAN LIP BU",
+          "type": "SELL",
+          "shares": "25000",
+          "price": "161.5278"
+        },
+        {
+          "filing_date": "2025-09-15",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "19476",
+          "price": "159.3442"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "141.9125"
+        },
+        {
+          "filing_date": "2025-09-09",
+          "person": "Fleming Daniel W.",
+          "type": "SELL",
+          "shares": "3790",
+          "price": "137.553"
+        },
+        {
+          "filing_date": "2025-09-09",
+          "person": "Laufman James",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "140.0019"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Fleming Daniel W.",
+          "type": "OTHER",
+          "shares": "2460",
+          "price": "123.06"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Brennan William Joseph",
+          "type": "OTHER",
+          "shares": "6149",
+          "price": "123.06"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Lam Yat Tung",
+          "type": "OTHER",
+          "shares": "3174",
+          "price": "123.06"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Cheng Chi Fung",
+          "type": "OTHER",
+          "shares": "2460",
+          "price": "123.06"
+        },
+        {
+          "filing_date": "2025-08-20",
+          "person": "Laufman James",
+          "type": "OTHER",
+          "shares": "7379",
+          "price": "106.30"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "person": "Brennan William Joseph",
+          "type": "SELL",
+          "shares": "196444",
+          "price": "103.5632"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "person": "Sutardja, Pantas",
+          "type": "SELL",
+          "shares": "1875",
+          "price": "103.85"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "103.6374"
+        },
+        {
+          "filing_date": "2025-07-30",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "104.0213"
+        },
+        {
+          "filing_date": "2025-07-23",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "94.0933"
+        },
+        {
+          "filing_date": "2025-07-16",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "95.2363"
+        },
+        {
+          "filing_date": "2025-07-14",
+          "person": "Fleming Daniel W.",
+          "type": "SELL",
+          "shares": "3790",
+          "price": "97.2593"
+        },
+        {
+          "filing_date": "2025-07-09",
+          "person": "DANESH FARIBA",
+          "type": "BUY",
+          "shares": "6577",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-08",
+          "person": "Lam Yat Tung",
+          "type": "OTHER",
+          "shares": "253174",
+          "price": "93.61"
+        },
+        {
+          "filing_date": "2025-07-08",
+          "person": "Fleming Daniel W.",
+          "type": "OTHER",
+          "shares": "2460",
+          "price": "93.61"
+        },
+        {
+          "filing_date": "2025-07-08",
+          "person": "Brennan William Joseph",
+          "type": "OTHER",
+          "shares": "6149",
+          "price": "93.61"
+        },
+        {
+          "filing_date": "2025-07-08",
+          "person": "Cheng Chi Fung",
+          "type": "OTHER",
+          "shares": "57460",
+          "price": "93.61"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Fleming Daniel W.",
+          "type": "OTHER",
+          "shares": "2460",
+          "price": "89.37"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Lam Yat Tung",
+          "type": "OTHER",
+          "shares": "3174",
+          "price": "89.37"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Brennan William Joseph",
+          "type": "OTHER",
+          "shares": "6149",
+          "price": "89.37"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Fleming Daniel W.",
+          "type": "BUY",
+          "shares": "100000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Brennan William Joseph",
+          "type": "BUY",
+          "shares": "200000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "92.0737"
+        },
+        {
+          "filing_date": "2025-06-26",
+          "person": "TAN LIP BU",
+          "type": "SELL",
+          "shares": "92248",
+          "price": "90.3656"
+        },
+        {
+          "filing_date": "2025-06-25",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "82.8256"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "person": "Laufman James",
+          "type": "SELL",
+          "shares": "5000",
+          "price": "85.0701"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "person": "TAN LIP BU",
+          "type": "SELL",
+          "shares": "54297",
+          "price": "86.3824"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Brennan William Joseph",
+          "type": "OTHER",
+          "shares": "15000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "TAN LIP BU",
+          "type": "SELL",
+          "shares": "171473",
+          "price": "76.6506"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "55000",
+          "price": "76.603"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "HOSEIN CLYDE",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "78.4869"
+        },
+        {
+          "filing_date": "2025-06-16",
+          "person": "TAN LIP BU",
+          "type": "SELL",
+          "shares": "103527",
+          "price": "75.3338"
+        },
+        {
+          "filing_date": "2025-06-12",
+          "person": "Laufman James",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "71.5352"
+        },
+        {
+          "filing_date": "2025-06-09",
+          "person": "Cheng Chi Fung",
+          "type": "SELL",
+          "shares": "114641",
+          "price": "74.9556"
+        },
+        {
+          "filing_date": "2025-06-09",
+          "person": "TAN LIP BU",
+          "type": "SELL",
+          "shares": "75000",
+          "price": "75.2024"
+        },
+        {
+          "filing_date": "2025-06-09",
+          "person": "Fleming Daniel W.",
+          "type": "SELL",
+          "shares": "16288",
+          "price": "77.3492"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Brennan William Joseph",
+          "type": "OTHER",
+          "shares": "6149",
+          "price": "60.96"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Lam Yat Tung",
+          "type": "OTHER",
+          "shares": "3174",
+          "price": "60.96"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Cheng Chi Fung",
+          "type": "OTHER",
+          "shares": "2460",
+          "price": "60.96"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Fleming Daniel W.",
+          "type": "OTHER",
+          "shares": "2460",
+          "price": "60.96"
+        },
+        {
+          "filing_date": "2025-05-20",
+          "person": "Laufman James",
+          "type": "OTHER",
+          "shares": "7379",
+          "price": "61.96"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-03-03",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q2FY2025",
+        "Q1FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/CRDO/10-Q/2026-03-03_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/CRDO/10-Q/2025-12-02_10-Q_Q2FY2025.txt",
+        "/home/sumith/ORACLE/filings/CRDO/10-Q/2025-09-04_10-Q_Q1FY2025.txt"
+      ],
+      "newest_period": "2025-08-02"
+    },
+    "earnings_8k_by_quarter": {
+      "Q3FY2026": "/home/sumith/ORACLE/filings/CRDO/8-K/2026-03-02_8-K_earnings_ex991.txt",
+      "Q2FY2025": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-12-01_8-K_earnings_ex991.txt",
+      "Q1FY2025": "/home/sumith/ORACLE/filings/CRDO/8-K/2025-09-03_8-K_earnings_ex991.txt"
+    },
+    "10-K": {
+      "newest_filing_date": "2025-07-02",
+      "period_covered": "2025-05-03",
+      "local_path": "/home/sumith/ORACLE/filings/CRDO/10-K/2025-07-02_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2025-08-25",
+      "local_path": "/home/sumith/ORACLE/filings/CRDO/DEF14A/2025-08-25_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/CRDO/sections/2025-07-02_10-K_FY2025_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/CRDO/sections/2026-03-03_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/CRDO/sections/2025-07-02_10-K_FY2025_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/CRDO/sections/2026-03-03_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/CRDO/8-K/2026-04-13_8-K_earnings_ex991.txt",
+    "newest_segments": "/home/sumith/ORACLE/filings/CRDO/sections/2026-03-03_10-Q_Q3FY2026_segments.txt"
+  },
+  "failed_downloads": []
+}

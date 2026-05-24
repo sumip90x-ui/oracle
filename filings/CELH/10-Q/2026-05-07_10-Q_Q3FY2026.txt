@@ -1,0 +1,4523 @@
+=== FILING DATE: 2026-05-07 ===
+=== PERIOD COVERED: 2026-03-31 ===
+=== SOURCE: 10-Q filed 2026-05-07 ===
+=== SECTION: Full 10-Q ===
+=== TICKER: CELH ===
+
+
+
+celh-20260331
+Q1
+2026
+0001341766
+--12-31
+False
+1
+1
+0.07
+0.03
+1
+1
+295
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+celh:member
+xbrli:pure
+celh:segment
+celh:pure
+celh:person
+0001341766
+2026-01-01
+2026-03-31
+0001341766
+2026-04-30
+0001341766
+2026-03-31
+0001341766
+2025-12-31
+0001341766
+us-gaap:CustomerRelationshipsMember
+2026-03-31
+0001341766
+us-gaap:CustomerRelationshipsMember
+2025-12-31
+0001341766
+celh:BrandsMember
+2026-03-31
+0001341766
+celh:BrandsMember
+2025-12-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+2025-12-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+2026-03-31
+0001341766
+us-gaap:SeriesBPreferredStockMember
+2025-12-31
+0001341766
+us-gaap:SeriesBPreferredStockMember
+2026-03-31
+0001341766
+us-gaap:RelatedPartyMember
+2026-03-31
+0001341766
+us-gaap:RelatedPartyMember
+2025-12-31
+0001341766
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:RelatedPartyMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:RelatedPartyMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:CommonStockMember
+2025-12-31
+0001341766
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0001341766
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0001341766
+us-gaap:RetainedEarningsMember
+2025-12-31
+0001341766
+us-gaap:TreasuryStockCommonMember
+2025-12-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2025-12-31
+0001341766
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PreferredStockMember
+2025-12-31
+0001341766
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SeriesBPreferredStockMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SeriesBPreferredStockMember
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:CommonStockMember
+2026-03-31
+0001341766
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0001341766
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0001341766
+us-gaap:RetainedEarningsMember
+2026-03-31
+0001341766
+us-gaap:TreasuryStockCommonMember
+2026-03-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2026-03-31
+0001341766
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PreferredStockMember
+2026-03-31
+0001341766
+us-gaap:CommonStockMember
+2024-12-31
+0001341766
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001341766
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001341766
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001341766
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001341766
+2024-12-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2024-12-31
+0001341766
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:CommonStockMember
+2025-03-31
+0001341766
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001341766
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001341766
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001341766
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001341766
+2025-03-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2025-03-31
+0001341766
+celh:RockstarMember
+2025-08-28
+2025-08-28
+0001341766
+celh:AlaniNuMember
+2026-01-01
+2026-03-31
+0001341766
+celh:FunctionalEnergyDrinksMember
+us-gaap:ProductConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0001341766
+celh:FunctionalEnergyDrinksMember
+us-gaap:ProductConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0001341766
+celh:PepsicoIncMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0001341766
+celh:PepsicoIncMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0001341766
+celh:AmazonMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0001341766
+celh:AmazonMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0001341766
+celh:AllOtherMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0001341766
+celh:AllOtherMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2025-01-01
+2025-03-31
+0001341766
+celh:PepsicoIncMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2026-01-01
+2026-03-31
+0001341766
+celh:PepsicoIncMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-03-31
+0001341766
+celh:AmazonMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2026-01-01
+2026-03-31
+0001341766
+celh:AmazonMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-03-31
+0001341766
+celh:CostcoMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2026-01-01
+2026-03-31
+0001341766
+celh:CostcoMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-03-31
+0001341766
+celh:AllOtherMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2026-01-01
+2026-03-31
+0001341766
+celh:AllOtherMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:AccountsReceivableMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:NonUsMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:CashAndCashEquivalentsMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:NonUsMember
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:CashAndCashEquivalentsMember
+2025-01-01
+2025-12-31
+0001341766
+srt:NorthAmericaMember
+2026-03-31
+0001341766
+srt:NorthAmericaMember
+2025-12-31
+0001341766
+celh:GeographicalNonNorthAmericaMember
+2026-03-31
+0001341766
+celh:GeographicalNonNorthAmericaMember
+2025-12-31
+0001341766
+srt:NorthAmericaMember
+2026-01-01
+2026-03-31
+0001341766
+srt:NorthAmericaMember
+2025-01-01
+2025-03-31
+0001341766
+srt:EuropeMember
+2026-01-01
+2026-03-31
+0001341766
+srt:EuropeMember
+2025-01-01
+2025-03-31
+0001341766
+srt:AsiaPacificMember
+2026-01-01
+2026-03-31
+0001341766
+srt:AsiaPacificMember
+2025-01-01
+2025-03-31
+0001341766
+celh:OtherMember
+2026-01-01
+2026-03-31
+0001341766
+celh:OtherMember
+2025-01-01
+2025-03-31
+0001341766
+celh:PepsicoIncMember
+2025-08-28
+0001341766
+celh:PepsicoIncMember
+2026-01-01
+2026-03-31
+0001341766
+celh:RockstarMember
+2025-08-28
+0001341766
+celh:RockstarMember
+us-gaap:SeriesAPreferredStockMember
+2022-08-01
+0001341766
+celh:RockstarMember
+us-gaap:SeriesBPreferredStockMember
+2025-08-28
+2025-08-28
+0001341766
+celh:RockstarMember
+us-gaap:SeriesAPreferredStockMember
+2025-08-28
+2025-08-28
+0001341766
+celh:PepsicoIncMember
+celh:RockstarMember
+2025-08-28
+0001341766
+celh:RockstarMember
+2025-01-01
+2025-12-31
+0001341766
+celh:RockstarMember
+2026-01-01
+2026-03-31
+0001341766
+celh:RockstarMember
+celh:BrandsMember
+2025-08-28
+0001341766
+celh:RockstarMember
+us-gaap:CustomerRelationshipsMember
+2025-08-28
+2025-08-28
+0001341766
+celh:RockstarMember
+us-gaap:CustomerRelationshipsMember
+2025-08-28
+0001341766
+celh:AlaniNuMember
+2025-02-20
+2025-02-20
+0001341766
+celh:AlaniNuMember
+2025-04-01
+2025-04-01
+0001341766
+celh:AlaniNuMember
+2025-04-01
+0001341766
+celh:AlaniNuMember
+2025-01-01
+2025-12-31
+0001341766
+celh:AlaniNuMember
+2025-12-31
+0001341766
+celh:AlaniNuMember
+celh:BrandsMember
+2025-04-01
+0001341766
+celh:AlaniNuMember
+us-gaap:CustomerRelationshipsMember
+2025-04-01
+2025-04-01
+0001341766
+celh:AlaniNuMember
+us-gaap:CustomerRelationshipsMember
+2025-04-01
+0001341766
+celh:AlaniNuAndRockstarEnergyMember
+2026-01-01
+2026-03-31
+0001341766
+celh:AlaniNuAndRockstarEnergyMember
+2025-01-01
+2025-03-31
+0001341766
+2025-01-01
+2025-12-31
+0001341766
+celh:StrongArmProductionsLawsuitMember
+2026-03-31
+0001341766
+celh:StrongArmProductionsLawsuitMember
+2025-12-31
+0001341766
+us-gaap:ContractTerminationMember
+2024-12-31
+0001341766
+us-gaap:ContractTerminationMember
+2025-01-01
+2025-12-31
+0001341766
+us-gaap:ContractTerminationMember
+2025-12-31
+0001341766
+us-gaap:ContractTerminationMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:ContractTerminationMember
+2026-03-31
+0001341766
+us-gaap:SecuredDebtMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2025-04-01
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2025-04-01
+0001341766
+us-gaap:LetterOfCreditMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2025-04-01
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:RevolvingFacilityMember
+us-gaap:LineOfCreditMember
+2025-10-01
+2025-10-31
+0001341766
+us-gaap:SecuredDebtMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2025-10-01
+2025-10-31
+0001341766
+us-gaap:SecuredDebtMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2025-10-31
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:RevolvingFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SecuredDebtMember
+us-gaap:SecuredOvernightFinancingRateSofrMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SecuredDebtMember
+celh:AlternateRateMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+us-gaap:SecuredOvernightFinancingRateSofrMember
+celh:RevolvingFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:AlternateRateMember
+celh:RevolvingFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:CommitmentFeeMember
+celh:RevolvingFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SecuredDebtMember
+celh:FederalFundsRateMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:FederalFundsRateMember
+celh:RevolvingFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:BenchmarkRateMember
+celh:RevolvingFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SecuredDebtMember
+celh:BenchmarkRateMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001341766
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001341766
+us-gaap:RevolvingCreditFacilityMember
+celh:RevolvingFacilityMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001341766
+us-gaap:SecuredDebtMember
+celh:TermLoanFacilityMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+2022-08-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+us-gaap:RelatedPartyMember
+2022-08-01
+2022-08-31
+0001341766
+us-gaap:RelatedPartyMember
+2022-08-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+us-gaap:RelatedPartyMember
+2025-08-01
+2025-08-31
+0001341766
+celh:RockstarMember
+2025-08-01
+2025-08-31
+0001341766
+celh:RockstarMember
+2025-08-31
+0001341766
+us-gaap:SeriesBPreferredStockMember
+2025-08-28
+2025-08-28
+0001341766
+celh:A2025RelatedPartyTransactionMember
+us-gaap:RelatedPartyMember
+2026-03-31
+0001341766
+celh:A2022RelatedPartyTransactionMember
+us-gaap:RelatedPartyMember
+2026-03-31
+0001341766
+us-gaap:RelatedPartyMember
+2026-03-31
+0001341766
+celh:A2025RelatedPartyTransactionMember
+us-gaap:RelatedPartyMember
+2025-12-31
+0001341766
+celh:A2022RelatedPartyTransactionMember
+us-gaap:RelatedPartyMember
+2025-12-31
+0001341766
+us-gaap:RelatedPartyMember
+2025-12-31
+0001341766
+us-gaap:SeriesAPreferredStockMember
+2025-03-31
+0001341766
+celh:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesAPreferredStockMember
+2022-08-01
+2022-08-01
+0001341766
+us-gaap:SeriesAPreferredStockMember
+2022-08-01
+2022-08-01
+0001341766
+us-gaap:SeriesAPreferredStockMember
+2022-08-01
+0001341766
+us-gaap:MeasurementInputPriceVolatilityMember
+us-gaap:SeriesAPreferredStockMember
+2022-08-01
+2022-08-01
+0001341766
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+us-gaap:SeriesAPreferredStockMember
+2022-08-01
+2022-08-01
+0001341766
+us-gaap:MeasurementInputExpectedDividendRateMember
+us-gaap:SeriesAPreferredStockMember
+2022-08-01
+2022-08-01
+0001341766
+us-gaap:MeasurementInputSharePriceMember
+us-gaap:SeriesAPreferredStockMember
+2022-08-01
+2022-08-01
+0001341766
+us-gaap:MeasurementInputPriceVolatilityMember
+us-gaap:SeriesBPreferredStockMember
+2025-08-28
+2025-08-28
+0001341766
+us-gaap:MeasurementInputRiskFreeInterestRateMember
+us-gaap:SeriesBPreferredStockMember
+2025-08-28
+2025-08-28
+0001341766
+us-gaap:MeasurementInputExpectedDividendRateMember
+us-gaap:SeriesBPreferredStockMember
+2025-08-28
+2025-08-28
+0001341766
+celh:MeasurementInputProbabilityRateMember
+us-gaap:SeriesBPreferredStockMember
+2025-08-28
+2025-08-28
+0001341766
+us-gaap:MeasurementInputSharePriceMember
+us-gaap:SeriesBPreferredStockMember
+2025-08-28
+2025-08-28
+0001341766
+us-gaap:SeriesBPreferredStockMember
+2025-08-28
+0001341766
+celh:SecuritiesPurchaseAgreementMember
+2026-01-01
+2026-03-31
+0001341766
+celh:SecuritiesPurchaseAgreementMember
+us-gaap:SeriesBPreferredStockMember
+2026-03-31
+0001341766
+celh:EightPercentageMember
+2026-01-01
+2026-03-31
+0001341766
+celh:TenPercentageMember
+2026-01-01
+2026-03-31
+0001341766
+celh:TwelvePercentageMember
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:SeriesBPreferredStockMember
+2025-03-31
+0001341766
+celh:TwentyTwentyFiveOmnibusIncentiveCompensationPlanMember
+2026-03-31
+0001341766
+celh:The2015IncentiveStockPlanMember
+2026-03-31
+0001341766
+celh:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2025-12-31
+0001341766
+celh:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2024-12-31
+0001341766
+celh:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2026-01-01
+2026-03-31
+0001341766
+celh:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2025-01-01
+2025-03-31
+0001341766
+celh:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2026-03-31
+0001341766
+celh:RestrictedStockUnitsAndPerformanceStockUnitsMember
+2025-03-31
+0001341766
+us-gaap:PerformanceSharesMember
+celh:GrantDateFebruary272026Member
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:PerformanceSharesMember
+celh:GrantDateFebruary272026Member
+celh:ValuationRevenueApproachMember
+2026-03-31
+0001341766
+us-gaap:PerformanceSharesMember
+celh:GrantDateFebruary272026Member
+celh:ValuationTotalShareholderReturnVs.PeerGroupApproachMember
+2026-03-31
+0001341766
+us-gaap:PerformanceSharesMember
+celh:GrantDateMarch22026Member
+2026-01-01
+2026-03-31
+0001341766
+us-gaap:PerformanceSharesMember
+celh:GrantDateMarch22026Member
+celh:ValuationRevenueApproachMember
+2026-03-31
+0001341766
+us-gaap:PerformanceSharesMember
+celh:GrantDateMarch22026Member
+celh:ValuationTotalShareholderReturnVs.PeerGroupApproachMember
+2026-03-31
+0001341766
+celh:ShareRepurchaseProgramMember
+2025-11-30
+0001341766
+celh:ShareRepurchaseProgramMember
+2026-03-31
+0001341766
+celh:ShareRepurchaseProgramMember
+2026-01-01
+2026-03-31
+0001341766
+celh:ShareRepurchaseProgramMember
+2025-01-01
+2025-03-31
+0001341766
+us-gaap:EmployeeStockMember
+2025-02-28
+0001341766
+celh:ReportableSegmentMember
+2026-01-01
+2026-03-31
+0001341766
+celh:ReportableSegmentMember
+2025-01-01
+2025-03-31
+0001341766
+celh:FAndLMember
+celh:DthreemLicensingGroupMember
+2021-05-04
+2021-05-04
+0001341766
+2023-01-18
+2023-01-18
+0001341766
+2023-06-27
+2023-06-27
+0001341766
+us-gaap:SubsequentEventMember
+2026-04-17
+2026-04-17
+0001341766
+srt:MinimumMember
+2026-03-31
+0001341766
+srt:MaximumMember
+2026-03-31
+0001341766
+celh:EnivaMember
+2026-03-31
+0001341766
+celh:PaulStoreyMember
+2026-01-01
+2026-03-31
+0001341766
+celh:PaulStoreyMember
+2026-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+x
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2026
+or
+o
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from __________to__________
+Commission File Number:
+
+001-34611
+CELSIUS HOLDINGS, INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+20-2745790
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+2381 NW Executive Center Drive
+,
+Boca Raton
+,
+Florida
+33431
+(Address of principal executive offices)
+(Zip Code)
+(561)
+
+276-2239
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+CELH
+Nasdaq
+ Capital Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+
+x
+ No
+o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+
+x
+ No
+o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+x
+Accelerated filer
+o
+Non-accelerated filer
+o
+Smaller reporting company
+o
+Emerging growth company
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+o
+ No
+x
+As of April 30, 2026 the registrant had
+255,640,360
+ shares of Common Stock, $0.001 par value per share, outstanding.
+TABLE OF CONTENTS
+Page
+PART I - FINANCIAL INFORMATION
+5
+Item 1.
+Financial Statements
+5
+Condensed Consolidated Balance Sheets as of March 31, 2026 and December 31, 2025 (unaudited)
+5
+Condensed Consolidated Statements of Operations and Comprehensive Income for the three months ended March 31, 2026 and 2025 (unaudited)
+7
+Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity for the three months ended March 31, 2026 (unaudited)
+8
+Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity for the three months ended March 31, 2025 (unaudited)
+9
+Condensed Consolidated Statements of Cash Flows for the three months ended March 31, 2026 and 2025 (unaudited)
+10
+Notes to the Condensed Consolidated Financial Statements (unaudited)
+12
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+37
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+42
+Item 4.
+Controls and Procedures
+43
+Part II - OTHER INFORMATION
+44
+Item 1.
+Legal Proceedings
+44
+Item 1A.
+Risk Factors
+44
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+44
+Item 3.
+Defaults Upon Senior Securities
+44
+Item 4.
+Mine Safety Disclosures
+44
+Item 5.
+Other Information
+45
+Item 6.
+Exhibits
+46
+SIGNATURES
+47
+2
+MASTER GLOSSARY
+Term
+Definition
+2015 Plan
+The Celsius Holdings, Inc. 2015 Stock Incentive Plan
+2025 Plan
+The Celsius Holdings, Inc. 2025 Omnibus Incentive Compensation Plan
+A&R Canada Distribution Agreement
+Amended and Restated Distribution Agreement between the Company and Pepsi, including Pepsi's affiliates, select territories in Canada, entered into in August 2025
+A&R Distribution Agreements
+Collectively, the A&R Canada Distribution Agreement and the A&R U.S. Distribution Agreement
+A&R U.S. Distribution Agreement
+Amended and Restated Distribution Agreements between the Company and Pepsi, including Pepsi's affiliates, covering the U.S. (excluding Puerto Rico and the U.S. Virgin Islands), entered into in August 2025
+Alani Nu
+Alani Nutrition LLC, a wholly owned subsidiary of the Company
+Alani Nu Acquisition
+The Company's acquisition of Alani Nu on April 1, 2025
+Annual Report
+The Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed with the SEC on March 2, 2026
+ASC
+Accounting Standards Codification
+ASC 606
+ASC Topic 606, Revenue from Contracts with Customers
+ASC 805
+ASC Topic 805, Business Combinations
+ASU
+Accounting Standards Update
+Big Beverages
+Big Beverages Contract Manufacturing, L.L.C., a wholly owned subsidiary of the Company
+Board
+Board of Directors of Celsius Holdings, Inc.
+Captaincy
+An enhanced, long-term arrangement according to which Pepsi uses commercially reasonable efforts to sell and distribute the Company’s products in the U.S.
+Certificates of Designation
+The Series A Certificate and the Series B Certificate, collectively
+Closing Date of Alani Nu
+April 01, 2025
+Closing Date of the Pepsi Transactions
+August 28, 2025
+CODM
+Chief Operating Decision Maker, which is the Company's Chief Executive Officer
+Common Stock
+The Company's common stock, par value $0.001 per share
+Company
+Celsius Holdings, Inc., a Nevada corporation
+Consolidated Derivative Action
+A single combined stockholder derivative action filed by the same stockholders who previously filed the Dobler and Stoyanoff derivative actions.
+Credit Agreement
+Credit Agreement, dated April 1, 2025, with UBS AG, Stamford Branch, as administrative and collateral agent, as amended by the First Refinancing Amendment and as may be further amended, restated, supplemented or otherwise modified from time to time.
+DCA
+District Court of Appeal
+DLOM
+Discount for lack of marketability
+Dobler Derivative Action
+Derivative action filed by stockholder Kurt Dobler
+Eniva
+Eniva USA, Inc.
+EPS
+Earnings per share
+ESPP
+Employee Stock Purchase Plan
+Exchange Act
+Securities Exchange Act of 1934, as amended
+FASB
+Financial Accounting Standards Board
+First Refinancing Amendment
+First refinancing amendment to the Credit Agreement on October 2, 2025.
+Flannery Derivative Action
+Derivative action filed by stockholder Suzanne Flannery
+Forward Stock Split
+Three-for-one split of the Company’s common stock on November 13, 2023
+ICFR
+Internal control over financial reporting
+Murphy Derivative Action
+Derivative action filed by stockholder David Murphy
+OBBBA
+One Big Beautiful Bill Act
+Original Canadian Distribution Agreement
+Original distribution agreement between the Company and The Pepsi Bottling Group (Canada), ULC, dated August 9, 2023
+Original Purchase Agreement
+Original securities purchase agreement between the Company and Pepsi, dated August 1, 2022
+Original Transition Agreement
+Original channel transition agreement between the Company and Pepsi, dated August 1, 2022
+Original U.S. Distribution Agreement
+Original distribution agreement between the Company and Pepsi, dated August 1, 2022
+Pepsi
+PepsiCo, Inc. and its subsidiaries
+3
+MASTER GLOSSARY
+Term
+Definition
+Pepsi Transactions
+The Captaincy together with the Rockstar Acquisition
+PIK Dividends
+Paid-in-kind Dividends
+Pillar Two
+Tax legislation enacted by the Organization for Economic Co-operation and Development
+Preferred Stock
+Series A Preferred Stock together with the Series B Preferred Stock
+PSU
+Performance Stock Units
+Quarterly Report
+The Company's Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2026 filed with the SEC on May 7, 2026
+Redemption Price
+The applicable amount that the Company would pay to redeem a share of Preferred Stock, including all accrued and unpaid dividends per share.
+Regular Dividends
+Recurring dividends declared on the Preferred Stock in accordance with the Certificates of Designation
+Revolving Credit Facility
+The Company's revolving credit facility under the Credit Agreement in an aggregate principal amount of up to $100.0 million
+Rockstar
+The Rockstar brand (and the related brands and sub-brands) in the U.S. (excluding Virgin Islands and Puerto Rico) and Canada
+Rockstar Acquisition
+The Company's acquisition from Pepsi on August 28, 2025 of certain assets and liabilities comprising Rockstar under the Transaction Agreement
+RSU
+Restricted Stock Units
+rTSR
+Relative total stockholder return
+SEC
+U.S. Securities and Exchange Commission
+Securities Act
+The Securities Act of 1933, as amended
+Securities Class Action
+The consolidation of the two putative securities class actions
+Sellers
+The sellers of Alani Nu
+Series A Certificate
+Series A Preferred Stock Certificate of Designation
+Series A Preferred Stock
+The Company's Series A Convertible Preferred Stock
+Series B Certificate
+Series B Preferred Stock Certificate of Designation
+Series B Preferred Stock
+The Company's Series B Convertible Preferred Stock
+Series B Purchase Agreement
+Agreement under which the Company issued and sold shares of Series B Convertible Preferred Stock to Pepsi
+SOFR
+Secured Overnight Financing Rate
+State Court Derivative Actions
+The Flannery Derivative Action together with the Sunny Derivative Action and Murphy Derivative Action
+Stoyanoff Derivative Action
+Derivative action filed by stockholder Mark Stoyanoff
+Sunny Derivative Action
+Derivative action filed by stockholder Shadia Khan Sunny
+Ten-Day VWAP
+Ten-day volume weighted average price of the Company’s common stock
+Term Loan Facility
+The Company's term loan facility under the Credit Agreement in an aggregate principal amount of up to $900.0 million
+Transaction Agreement
+The agreement pursuant to which the Company consummated the Rockstar Acquisition and commenced the Captaincy
+U.S.
+United States of America
+U.S. GAAP
+Generally accepted accounting principles in the United States of America
+U.S. STRIPS Rate
+Yield on U.S. Treasury STRIPS, which stands for: Separate Trading of Registered Interest and Principal of Securities
+4
+PART I – FINANCIAL INFORMATION
+Item 1. Financial Statements
+Celsius Holdings, Inc.
+ Condensed Consolidated Balance Sheets
+(in thousands, except per share amounts)
+(Unaudited)
+March 31, 2026
+December 31, 2025
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+549,201
+ 
+$
+398,866
+ 
+Restricted cash
+—
+ 
+141,121
+ 
+Accounts receivable-net
+[1]
+832,373
+ 
+755,499
+ 
+Inventories-net
+364,146
+ 
+337,698
+ 
+Prepaid expenses and other current assets
+[2]
+69,086
+ 
+128,806
+ 
+Deferred other costs-current
+[3]
+49,472
+ 
+49,164
+ 
+Total current assets
+1,864,278
+ 
+1,811,154
+ 
+Property, plant and equipment-net
+96,783
+ 
+87,910
+ 
+Customer relationships-net
+105,494
+ 
+111,604
+ 
+Brands-net
+1,280,264
+ 
+1,280,311
+ 
+Goodwill
+919,793
+ 
+917,560
+ 
+Deferred other costs-non-current
+[3]
+759,081
+ 
+771,635
+ 
+Deferred tax assets
+86,448
+ 
+96,013
+ 
+Other long-term assets
+45,452
+ 
+43,434
+ 
+Total Assets
+$
+5,157,593
+ 
+$
+5,119,621
+ 
+LIABILITIES, MEZZANINE EQUITY AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable
+[4]
+$
+198,225
+ 
+$
+137,930
+ 
+Accrued expenses
+[5]
+278,013
+ 
+230,721
+ 
+Income taxes payable
+64,447
+ 
+49,612
+ 
+Accrued distributor termination fees
+39,990
+ 
+264,088
+ 
+Accrued promotional allowance
+[6]
+401,084
+ 
+307,922
+ 
+Contingent consideration
+—
+ 
+25,000
+ 
+Deferred revenue-current
+[7]
+26,869
+ 
+26,988
+ 
+Other current liabilities
+42,705
+ 
+36,465
+ 
+Total current liabilities
+1,051,333
+ 
+1,078,726
+ 
+Long-term debt
+668,881
+ 
+669,926
+ 
+Deferred revenue-non-current
+[3]
+395,279
+ 
+401,155
+ 
+Other long term liabilities
+31,363
+ 
+28,372
+ 
+Total Liabilities
+2,146,856
+ 
+2,178,179
+ 
+Commitments and contingencies (Note 15)
+Mezzanine equity:
+Series A convertible preferred stock, $
+0.001
+ par value per share,
+1,467
+ shares issued and outstanding as of both March 31, 2026 and December 31, 2025
+[3]
+852,355
+ 
+852,355
+ 
+Series B convertible preferred stock, $
+0.001
+ par value per share,
+390
+ shares issued and outstanding as of both March 31, 2026 and December 31, 2025
+[3]
+907,620
+ 
+907,620
+ 
+Stockholders’ equity:
+Common Stock, $
+0.001
+ par value per share;
+400,000
+ shares authorized;
+258,601
+ shares issued and
+256,549
+ shares outstanding as of March 31, 2026; and
+258,108
+ shares issued and
+256,906
+ shares outstanding as of  December 31, 2025.
+101
+ 
+101
+ 
+Treasury stock, at cost;
+2,052
+ shares and
+1,202
+ shares as of March 31, 2026 and December 31, 2025, respectively
+(
+81,121
+)
+(
+48,226
+)
+Additional paid-in capital
+1,058,144
+ 
+1,050,518
+ 
+Accumulated other comprehensive income
+1,619
+ 
+3,162
+ 
+Retained earnings
+272,019
+ 
+175,912
+ 
+Total Stockholders’ Equity
+1,250,762
+ 
+1,181,467
+ 
+Total Liabilities, Mezzanine Equity and Stockholders’ Equity
+$
+5,157,593
+ 
+$
+5,119,621
+ 
+5
+[1]
+Includes $
+378.4
+ million and $
+349.1
+ million from a related party as of March 31, 2026 and December 31, 2025, respectively.
+[2]
+Includes
+no
+ amounts from a related party as of March 31, 2026 and $
+64.2
+ million from a related party as of December 31, 2025.
+[3]
+ Amounts in this line item are associated with a related party for all periods presented.
+[4]
+Includes $
+38.5
+ million and $
+28.6
+ million due to a related party as of March 31, 2026 and December 31, 2025, respectively.
+[5]
+ Includes $
+3.3
+ million and $
+1.8
+ million due to a related party as of March 31, 2026 and December 31, 2025, respectively.
+[6]
+ Includes $
+197.0
+ million and $
+128.9
+ million due to a related party as of March 31, 2026 and December 31, 2025, respectively.
+[7]
+ Includes $
+25.8
+ million and $
+26.3
+ million due to a related party as of March 31, 2026 and December 31, 2025, respectively.
+The accompanying notes are an integral part of these unaudited Condensed Consolidated Financial Statements
+6
+Celsius Holdings, Inc.
+Condensed Consolidated Statements of Operations and Comprehensive Income
+(in thousands, except per share amounts)
+(Unaudited)
+Three Months Ended March 31,
+2026
+2025
+Revenue
+[1]
+$
+782,615
+ 
+$
+329,276
+ 
+Cost of revenue
+[2]
+404,548
+ 
+156,903
+ 
+Gross profit
+378,067
+ 
+172,373
+ 
+Selling, general and administrative expenses
+[3]
+234,647
+ 
+120,342
+ 
+Distributor termination fees
+4,427
+ 
+—
+ 
+Income from operations
+138,993
+ 
+52,031
+ 
+Other (expense) income:
+Interest income
+2,992
+ 
+7,846
+ 
+Interest expense
+(
+11,843
+)
+—
+ 
+Other, net
+[4]
+7,394
+ 
+1,116
+ 
+Total other (expense) income
+(
+1,457
+)
+8,962
+ 
+Net income before provision for income taxes
+137,536
+ 
+60,993
+ 
+Provision for income taxes
+(
+27,437
+)
+(
+16,574
+)
+Net income
+$
+110,099
+ 
+$
+44,419
+ 
+Dividends on convertible Preferred Stock
+[5]
+(
+13,993
+)
+(
+6,781
+)
+Income allocated to participating Preferred Stock
+[5]
+(
+11,026
+)
+(
+3,219
+)
+Net income attributable to common stockholders
+$
+85,080
+ 
+$
+34,419
+ 
+Other comprehensive income:
+Foreign currency translation (loss) gain, net of income tax
+(
+1,543
+)
+2,249
+ 
+Comprehensive income
+$
+83,537
+ 
+$
+36,668
+ 
+Earnings per share:
+Basic
+$
+0.33
+ 
+$
+0.15
+ 
+Diluted
+$
+0.33
+ 
+$
+0.15
+ 
+Weighted average shares outstanding:
+Basic
+257,012
+ 
+235,191
+ 
+Diluted
+259,764
+ 
+237,172
+ 
+[1]
+Includes $
+461.7
+ million and $
+189.7
+ million for the three months ended March 31, 2026 and 2025, respectively, from a related party.
+[2]
+ Includes $
+11.8
+ million and
+no
+ amounts for the three months ended March 31, 2026 and 2025, respectively, to a related party.
+[3]
+Includes $
+2.9
+ million and $
+0.8
+ million for the three months ended March 31, 2026 and 2025, respectively, to a related party.
+[4]
+Includes $
+7.0
+ million and
+no
+ amounts for the three months ended March 31, 2026 and 2025, respectively, from a related party.
+[5]
+Amounts in this line item are associated with a related party for all periods presented.
+The accompanying notes are an integral part of these unaudited Condensed Consolidated Financial Statements
+7
+Celsius Holdings, Inc.
+Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity
+(In thousands, except per share amounts)
+(Unaudited)
+Stockholders’ Equity
+Mezzanine Equity
+Common Stock
+Treasury Stock
+Series A Preferred Stock
+Series B Preferred Stock
+Shares
+Amount
+Additional
+ Paid-In
+Capital
+Accumulated
+Other
+Comprehensive
+Income
+ Retained Earnings
+Shares
+Amount
+Total
+ Stockholders’
+Equity
+Shares
+Amount
+Shares
+Amount
+Balance at December 31, 2025
+258,108
+$
+101
+ 
+$
+1,050,518
+ 
+$
+3,162
+ 
+$
+175,912
+ 
+(
+1,202
+)
+$
+(
+48,226
+)
+$
+1,181,467
+ 
+1,467
+ 
+$
+852,355
+ 
+390
+ 
+$
+907,620
+ 
+Stock-based compensation
+— 
+— 
+7,626
+ 
+— 
+— 
+— 
+— 
+7,626
+ 
+— 
+— 
+— 
+— 
+Stock option exercises, RSUs and PSUs converted
+493
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+Dividends paid to Series A Preferred Stock ($
+4.62
+ per share)
+—
+— 
+— 
+— 
+(
+6,781
+)
+— 
+— 
+(
+6,781
+)
+— 
+— 
+— 
+— 
+Dividends paid to Series B Preferred Stock ($
+18.49
+ per share)
+— 
+— 
+— 
+— 
+(
+7,211
+)
+— 
+— 
+(
+7,211
+)
+— 
+— 
+— 
+— 
+Repurchase of Common Stock related to employee tax withholdings
+— 
+— 
+— 
+— 
+— 
+(
+170
+)
+(
+8,805
+)
+(
+8,805
+)
+— 
+— 
+— 
+— 
+Common Stock repurchases
+—
+— 
+— 
+— 
+— 
+(
+680
+)
+(
+24,090
+)
+(
+24,090
+)
+— 
+— 
+— 
+— 
+Foreign currency translation
+—
+— 
+— 
+(
+1,543
+)
+— 
+— 
+— 
+(
+1,543
+)
+— 
+— 
+— 
+— 
+Net income
+—
+— 
+— 
+— 
+110,099
+ 
+— 
+— 
+110,099
+ 
+— 
+— 
+— 
+— 
+Balance at March 31, 2026
+258,601
+$
+101
+ 
+$
+1,058,144
+ 
+$
+1,619
+ 
+$
+272,019
+ 
+(
+2,052
+)
+$
+(
+81,121
+)
+$
+1,250,762
+ 
+1,467
+ 
+$
+852,355
+ 
+390
+ 
+$
+907,620
+ 
+The accompanying notes are an integral part of these unaudited Condensed
+
+Consolidated Financial Statements
+8
+Celsius Holdings, Inc.
+Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity
+(In thousands, except per share amounts)
+(Unaudited)
+Stockholders’ Equity
+Mezzanine Equity
+Common Stock
+Treasury Stock
+Series A Preferred Stock
+Shares
+Amount
+Additional
+ Paid-In
+Capital
+Accumulated
+Other
+Comprehensive
+Loss
+Retained Earnings
+Shares
+Amount
+Total
+ Stockholders’
+Equity
+Shares
+Amount
+Balance at December 31, 2024
+235,087
+$
+79
+ 
+$
+300,164
+ 
+$
+(
+3,250
+)
+105,521
+(
+73
+)
+$
+(
+2,585
+)
+$
+399,929
+ 
+1,467
+$
+824,488
+ 
+Stock-based compensation
+—
+— 
+5,029
+ 
+— 
+— 
+— 
+— 
+5,029
+ 
+— 
+— 
+Stock option exercises, RSUs and PSUs converted
+348
+— 
+338
+ 
+— 
+— 
+— 
+— 
+338
+ 
+— 
+— 
+Dividends paid to Series A Preferred Stock ($
+4.62
+ per share)
+—
+— 
+— 
+— 
+(
+6,781
+)
+— 
+— 
+(
+6,781
+)
+— 
+— 
+Repurchase of Common Stock related to employee tax withholdings
+— 
+— 
+— 
+— 
+— 
+(
+73
+)
+(
+1,932
+)
+(
+1,932
+)
+— 
+— 
+Treasury Stock
+— 
+— 
+— 
+— 
+— 
+(
+6
+)
+(
+137
+)
+(
+137
+)
+— 
+— 
+Foreign currency translation
+—
+— 
+— 
+2,249
+ 
+— 
+— 
+— 
+2,249
+ 
+— 
+— 
+Net income
+—
+— 
+— 
+— 
+44,419
+ 
+— 
+— 
+44,419
+ 
+— 
+— 
+Balance at March 31, 2025
+235,435
+$
+79
+ 
+$
+305,531
+ 
+$
+(
+1,001
+)
+$
+143,159
+ 
+(
+152
+)
+$
+(
+4,654
+)
+$
+443,114
+ 
+1,467
+ 
+$
+824,488
+ 
+The accompanying notes are an integral part of these unaudited Condensed Consolidated Financial Statements
+9
+Celsius Holdings, Inc.
+Condensed Consolidated Statements of Cash Flows
+(In thousands)
+(Unaudited)
+Three Months Ended March 31,
+2026
+2025
+Cash flows from operating activities:
+Net income
+$
+110,099
+ 
+$
+44,419
+ 
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+9,134
+ 
+2,611
+ 
+Allowance for credit losses
+[1]
+3,048
+ 
+2,077
+ 
+Amortization of deferred other costs
+[2]
+12,247
+ 
+3,531
+ 
+Inventory excess and obsolescence
+1,750
+ 
+5,337
+ 
+Stock-based compensation expense
+7,626
+ 
+5,029
+ 
+Deferred income taxes-net
+9,515
+ 
+269
+ 
+Payment of contingent consideration in excess of acquisition-date fair value
+(
+13,800
+)
+—
+ 
+Other operating activities-net
+687
+ 
+(
+1,014
+)
+Changes in operating assets and liabilities:
+Accounts receivable-net
+[3]
+(
+79,978
+)
+11,841
+ 
+Inventories
+[4]
+(
+28,197
+)
+4,794
+ 
+Prepaid expenses and other current assets
+[5]
+59,538
+ 
+(
+3,687
+)
+Other long-term assets
+1,123
+ 
+(
+1,700
+)
+Accounts payable
+[6]
+58,049
+ 
+11,679
+ 
+Accrued expenses
+[7]
+38,950
+ 
+(
+8,673
+)
+Income taxes payable
+14,835
+ 
+15,353
+ 
+Accrued promotional allowance
+[8]
+93,162
+ 
+15,379
+ 
+Accrued distributor termination fees
+(
+224,098
+)
+—
+ 
+Other current liabilities
+5,525
+ 
+(
+1,648
+)
+Deferred revenue
+[2]
+(
+5,996
+)
+(
+2,378
+)
+Other long-term liabilities
+504
+ 
+148
+ 
+Net cash provided by operating activities
+$
+73,723
+ 
+$
+103,367
+ 
+Cash flows from investing activities:
+Purchase of property, plant and equipment
+[9]
+(
+7,916
+)
+(
+6,944
+)
+Net working capital estimate received from Pepsi related to the Rockstar Acquisition
+[2]
+241
+ 
+—
+ 
+Net cash used in investing activities
+$
+(
+7,675
+)
+$
+(
+6,944
+)
+[1]
+Includes $
+0.2
+ million and $(
+0.3
+) million associated with a related party for the three months ended March 31, 2026 and 2025, respectively.
+[2]
+Amounts in this line item are associated with a related party for all periods presented.
+[3]
+Includes $(
+29.3
+) million and $
+31.4
+ million associated with a related party for the three months ended March 31, 2026 and 2025, respectively.
+[4]
+Includes $
+7.8
+ million  and
+no
+ amounts associated with a related party for the three months ended March 31, 2026 and 2025, respectively.
+[5]
+Includes $
+64.2
+ million and
+no
+ amounts associated with a related party for the three months ended March 31, 2026 and 2025, respectively.
+[6]
+Includes $
+9.9
+ million and $
+7.5
+ million associated with a related party for the three months ended March 31, 2026 and 2025, respectively
+.
+[7]
+Includes $
+1.4
+ million and $
+0.1
+ million associated with a related party for the three months ended March 31, 2026 and 2025, respectively.
+[8]
+Includes $
+68.1
+ million and $
+13.6
+ million associated with a related party for the three months ended March 31, 2026 and 2025, respectively
+.
+[9]
+Includes $(
+2.5
+) million and $(
+3.7
+) million associated with a related party for the three months ended March 31, 2026 and 2025, respectively.
+The accompanying notes are an integral part of these unaudited Condensed Consolidated Financial Statements
+10
+Celsius Holdings, Inc.
+Condensed Consolidated Statements of Cash Flows
+(In thousands)
+(Unaudited)
+Three Months Ended March 31,
+2026
+2025
+Cash flows from financing activities:
+Cash dividends paid on Preferred Stock
+[1]
+$
+(
+13,992
+)
+$
+(
+6,781
+)
+Repurchase of Common Stock related to employee tax withholdings
+(
+8,805
+)
+(
+1,932
+)
+Repurchase of Common Stock
+(
+20,086
+)
+—
+ 
+Payments on term loan
+(
+1,750
+)
+—
+ 
+Payment of debt issuance costs
+—
+ 
+(
+2,195
+)
+Payment of contingent consideration up to acquisition-date fair value
+(
+11,200
+)
+—
+ 
+Other financing activities-net
+(
+25
+)
+321
+ 
+Net cash used in financing activities
+$
+(
+55,858
+)
+$
+(
+10,587
+)
+Effect on exchange rate changes on cash, cash equivalents and restricted cash
+(
+976
+)
+1,259
+ 
+Net increase in cash, cash equivalents and restricted cash
+9,214
+ 
+87,095
+ 
+Cash, cash equivalents and restricted cash at beginning of the period
+539,987
+ 
+890,190
+ 
+Cash and cash equivalents at end of the period
+$
+549,201
+ 
+$
+977,285
+ 
+Supplemental disclosures:
+Cash paid for:
+Interest
+$
+10,899
+ 
+$
+—
+ 
+Taxes, net of refunds received
+$
+535
+ 
+$
+669
+ 
+[1]  Amounts in this line item are associated with a related party for all periods presented.
+The accompanying notes are an integral part of these unaudited Condensed Consolidated Financial Statements
+11
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+1.    
+ORGANIZATION AND DESCRIPTION OF BUSINESS
+Business Overview
+References in this Quarterly Report to the “Company” or “Celsius” refer to Celsius Holdings, Inc. and its wholly owned subsidiaries. Definitions of certain capitalized terms used in this Quarterly Report are included within the Master Glossary.
+The Company develops, processes, markets, sells, manufactures and distributes differentiated products with innovative formulas as premium lifestyle beverages designed to fuel active and wellness-oriented consumers. The Company’s portfolio consists of a differentiated, multi-brand platform comprising three brands, CELSIUS
+®
+, Alani Nu
+®
+ and Rockstar
+®
+, collectively forming a leading total energy portfolio. Each brand is positioned to serve distinct consumers, occasions and energy needs across the functional energy and adjacent wellness categories.
+The Company's products are available in the U.S., Canada, Europe, the Middle East and portions of the Asia-Pacific region. They are sold through multiple channels, including conventional grocery, natural-food and convenience stores, fitness centers, mass-market and vitamin specialty retailers and e-commerce platforms.
+On August 28, 2025, the Closing Date of the Pepsi Transactions, the Company entered into a series of strategic transactions with Pepsi. Pursuant to these transactions, the Company (i) acquired Rockstar in the U.S. and Canada, (ii) enhanced its existing long-term commercial arrangement with Pepsi through the Captaincy, pursuant to which Pepsi has agreed to use commercially reasonable efforts to sell and distribute the Company's products in the U.S. in accordance with jointly developed sales, placement and promotional priorities, (iii) entered into the A&R Distribution Agreements, under which Pepsi became the primary distributor of Alani Nu and Rockstar products in the U.S. and Canada in addition to its existing role as primary distributor of Celsius products in those regions and (iv) issued
+390,000
+ shares of Series B Preferred Stock to Pepsi and amended certain terms of the outstanding Series A Preferred Stock, including aligning conversion and redemption dates. In connection with the share issuance, Pepsi was granted the right to designate
+one
+ additional Board member for a total of
+two
+ Board seats, which number may in certain circumstances be ratably increased upon a subsequent expansion of the number of persons serving on the Board.
+On April 1, 2025, the Company completed the Alani Nu Acquisition. Subsequently, in connection with the A&R Distribution Agreements, the Company issued termination notices to certain former Alani Nu distributors and transferred the related territory rights to Pepsi. The Company has recognized distributor termination fees as the related obligations became probable and reasonably estimable, with the majority of termination notices having been delivered during the year ended December 31, 2025. Pepsi has agreed to reimburse the Company for such fees up to a cap of $
+275.0
+ million, with amounts received contractually restricted for use solely to satisfy termination obligations. As of March 31, 2026, the Company had fully utilized the funds received from Pepsi. Any additional termination payments to former distributors must be funded by the Company.
+For more information, see Note 4.
+Revenue,
+Note 5.
+Acquisitions,
+ Note 9.
+Accrued Distributor Termination Fees,
+Note 11.
+Related Party Transactions
+and
+
+Note 12.
+Mezzanine Equity.
+2.    
+BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+ — The accompanying unaudited Condensed Consolidated Financial Statements have been prepared in accordance with U.S. GAAP for interim financial information and with the instructions to Form 10-Q and Rule 10-01 of Regulation S-X. Accordingly, the Condensed Consolidated Financial Statements do not include all of the information and notes required by U.S. GAAP for annual audited Consolidated Financial Statements. In the opinion of management, all normal recurring adjustments considered necessary for a fair presentation have been included. The preparation of our Condensed Consolidated Financial Statements in accordance with U.S. GAAP requires management to make estimates and assumptions that affect reported amounts, based on historical experience and other reasonable factors. These estimates and assumptions are reviewed on an ongoing basis and revised as circumstances change. Accordingly, the results for the three months ended March 31, 2026 are not necessarily indicative of the results expected for any future period or the full year. These Condensed Consolidated Financial Statements have been prepared on a basis that is substantially consistent with the accounting principles applied in the Company's Annual Report, as filed with the SEC. These Condensed Consolidated Financial Statements and the accompanying notes should be read in conjunction with such Annual Report.
+Certain prior period amounts have been reclassified to conform to the current period's presentation in the Condensed Consolidated Financial Statements and accompanying notes. These reclassifications reflect changes in the level of detail presented for certain captions, including the aggregation of certain previously presented captions and the separate presentation of other previously aggregated captions.
+These reclassifications were made for consistency with current period presentation and had no effect on operating results.
+12
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Line Items – As Previously Reported
+Line Item – As Reclassified
+Consolidated Statements of Operations and Comprehensive Income
+Dividends on Series A convertible preferred stock
+Dividends on convertible Preferred Stock
+Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity
+Additional paid-in capital
+Treasury stock
+Additional paid-in capital
+Additional paid-in capital
+Consolidated Statements of Cash Flows
+Other operating activities
+Other operating activities-net
+Cash dividends paid on Series A convertible preferred stock
+Cash dividends paid on Preferred Stock
+Other financing activities
+Other financing activities-net
+Principles of Consolidation
+— These Condensed Consolidated Financial Statements include the accounts of the Company and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in accordance with U.S. GAAP.
+Business Combinations
+— The Company accounts for business combinations in accordance with ASC 805. Under this guidance, the results of operations of an acquired business are included in the Company’s Condensed Consolidated Financial Statements and related notes prospectively from the acquisition date.
+The Company allocates the purchase consideration to the identifiable tangible and intangible assets acquired and liabilities assumed based on their fair values as of the acquisition date. Any excess of the purchase consideration over the fair value of net assets acquired is recognized as goodwill. During the measurement period, which does not exceed twelve months from the acquisition date, adjustments to the preliminary fair value estimates may be recorded as additional information becomes available. Measurement period adjustments, if applicable, are recognized in the reporting period in which the adjustments are determined and are reflected as a prospective adjustment to goodwill. Transaction costs associated with acquisitions, such as advisory, legal and consulting fees are expensed as incurred. Contingent consideration, associated with acquisitions, is recorded at fair value using discounted, probability-weighted cash flow models that rely on Level 3 inputs. Contingent consideration is remeasured at fair value each reporting period, with changes recognized in earnings until settlement. See Note 5.
+Acquisitions
+.
+
+Significant Estimates
+ — The preparation of Condensed Consolidated Financial Statements and accompanying disclosures in conformity with U.S. GAAP requires management to make recurring estimates and assumptions that affect the reported amounts of assets, liabilities, mezzanine equity, stockholders' equity, revenues and expenses, as well as disclosure of contingent assets and liabilities at the date of the financial statements. Although these estimates are based on management's best knowledge of current events and actions that the Company may undertake in the future, actual results may differ from those estimates. These estimates and judgments are reviewed on an ongoing basis and are revised when necessary. Significant estimates include promotional allowances, intangibles, assets and liabilities assumed as a part of business combinations, allowance for inventory obsolescence and sales returns, the useful lives of property, plant and equipment, impairment of goodwill and intangibles, deferred taxes and related valuation allowance, stock-based compensation and the valuation of preferred stock.
+Segment Reporting
+ — Operating segments are defined as components of an enterprise that engage in business activities, maintain discrete financial information and undergo regular review by the CODM, who is the Chief Executive Officer, to assess performance and allocate resources. Although the Company operates in multiple geographical regions and offers a range of products under distinct brands, it functions as a single operating segment.
+
+The CODM evaluates operating results and allocates resources on a consolidated basis due to the significant economic interdependencies between the Company's brands, geographical operations and product offerings. As a result, the Company and its brands are managed as a single operating segment, which also represents the Company’s single reportable segment. See Note 14.
+Segment Reporting.
+Fair Value Measurements
+ — ASC 820,
+Fair Value Measurement,
+ defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Additionally, ASC 820 requires the use of valuation techniques that maximize the use of observable inputs and minimize the use of unobservable inputs.
+13
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Accordingly, inputs used in fair value measurements are prioritized within the following hierarchy:
+Level 1: Observable inputs such as quoted prices in active markets for identical assets or liabilities.
+Level 2: Inputs other than quoted prices in active markets included in Level 1 that are observable, directly or indirectly.
+Level 3: Unobservable inputs, which rely on the reporting entity’s assumptions when there is little or no market data.
+The carrying values of cash and cash equivalents, restricted cash, accounts receivable-net, accounts payable, other current liabilities and accrued expenses approximate fair value due to their short-term maturities and market interest rates. As such, these are classified within Level 1.
+The Company’s outstanding debt is recorded at face value, net of unamortized discounts and debt issuance costs, on the Condensed Consolidated Balance Sheets. The Term Loan Facility bears interest at variable rates based on either benchmark rates or an alternate base rate, in each case plus the applicable spread set forth in the Credit Agreement as further described in Note 10.
+Debt.
+ Because the interest rates on the Term Loan Facility reprice frequently based on observable market reference rates, and there have been no significant changes in the Company’s leverage or credit profile, the Company determined that the fair value of the Term Loan Facility approximates its principal amount as of March 31, 2026. Any difference between the carrying amount and fair value primarily reflects unamortized debt issuance costs rather than changes in market interest rates or credit spreads. The applicable interest margin reflects the Company’s credit risk and is derived from observable market inputs but is not based on quoted prices for identical instruments; accordingly, the Term Loan Facility is classified within Level 2 of the fair value hierarchy.
+The Company performs valuations of assets acquired and liabilities assumed in acquisitions accounted for as business combinations and recognizes the assets acquired and liabilities assumed at their respective acquisition-date fair values. For additional information on fair value measurements performed as part of the Rockstar and Alani Nu acquisitions, see Note 5.
+Acquisitions.
+For additional information on the fair value measurements performed as part of the Series B Preferred Stock issuance and the Series A Preferred Stock modification, see
+
+Note 12.
+Mezzanine Equity.
+Concentrations of Risk
+ —
+ The majority of the Company’s revenue is derived from the sale of functional energy drinks. Functional energy drink product revenue accounted for approximately
+
+95.6
+% and
+95.4
+% o
+f revenue for the three months ended
+March 31, 2026 and 2025
+, respectively
+.
+Revenue from customers accounting for more than 10.0% of total revenue was as follows:
+Three Months Ended March 31,
+2026
+2025
+Pepsi
+59.0
+%
+57.6
+%
+Amazon
+8.4
+%
+12.1
+%
+All others
+32.6
+%
+30.3
+%
+Total
+100.0
+%
+100.0
+%
+Accounts receivable-net from customers accounting for more than 10.0% were as follows:
+March 31, 2026
+December 31, 2025
+Pepsi
+45.5
+%
+46.2
+%
+Amazon
+12.5
+%
+9.3
+%
+Costco
+8.5
+%
+10.5
+%
+All others
+33.5
+%
+34.0
+%
+Total
+100.0
+%
+100.0
+%
+Cash and Cash Equivalents
+ — The Company considers all highly liquid instruments with original maturities of three months or less, when purchased, to be cash equivalents.
+ As of March 31, 2026 and December 31, 2025, the Company did not hold any instruments with original maturities exceeding three months.
+14
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+The Company's cash balances are held in international and domestic accounts. Of the Company's $
+549.2
+ million
+
+and $
+398.9
+ million
+
+in unrestricted cash and cash equivalents as of
+
+March 31, 2026 and December 31, 2025, respectively, approximately
+36.3
+% and
+51.9
+% were held outside the U.S., respectively. Such cash is freely transferable to the U.S. without any restrictions.
+The Company has amounts on deposit at financial institutions that exceeded federally insured limits. As of March 31, 2026, the Company had not experienced any loss as a result of these deposits and does not expect to incur any losses on such deposits in the future.
+Property, Plant and Equipment
+— Property, plant and equipment is recorded at cost and depreciated on a straight-line basis over their estimated useful lives.
+ Property, plant and equipment had gross carrying values of $
+122.0
+ million and $
+110.0
+ million as of March 31, 2026 and December 31, 2025, respectively, and is presented net of accumulated depreciation of $
+25.2
+ million and $
+22.1
+ million as of March 31, 2026 and December 31, 2025, respectively, on the Condensed Consolidated Balance Sheets. Depreciation expense amounted to approximately $
+3.2
+ million and $
+2.4
+ million for the three months ended March 31, 2026 and 2025, respectively. Depreciation expense is primarily included in selling, general and administrative
+expenses.
+Long-Lived Assets by Geographic Area
+— Long-lived assets consist of property, plant and equipment-net, right-of-use assets and definite-lived intangible assets-net, and exclude goodwill and indefinite-lived intangible assets. Long-lived assets located in North America were $
+202.3
+ million and $
+197.9
+ million as of
+March 31, 2026
+ and December 31, 2025, respectively. Long-lived assets located outside of North America were $
+21.1
+ million and $
+20.3
+ million as of
+March 31, 2026
+ and December 31, 2025, respectively. All of the Company’s North American long-lived assets are located in the U.S. and Canada.
+Goodwill and Intangible Assets
+ — Goodwill and indefinite-lived intangible assets recognized as part of acquisitions are not amortized but are tested for impairment at least annually, or more frequently if events or changes in circumstances indicate a potential impairment. Intangible assets with definite useful lives are generally measured at cost, net of accumulated amortization and impairment, and are amortized on a straight-line basis over their estimated useful lives. Useful lives are determined based on expected cash flows and other relevant facts and circumstances specific to each asset.
+
+Equity Investments
+ — The Company holds equity investments that are accounted for under the measurement alternative in accordance with ASC 321-10-35-2 for equity securities without readily determinable fair values. These investments are recorded at cost, adjusted for impairment and for observable price changes in orderly transactions for identical or similar investments of the same issuer.
+ As of both March 31, 2026 and December 31, 2025, the carrying amount of equity investments without readily determinable fair values was $
+17.0
+ million.
+Distributor Termination Fees
+ — In connection with the A&R Distribution Agreements, the Company accrued distributor termination fees related to the transition of certain Alani Nu distribution to Pepsi. These accruals represent amounts expected to be paid to former distributors. The Company recognizes these accruals when a loss is probable and reasonably estimable, based on current available information and updates estimates as facts change. Termination charges are presented as distributor termination fees in the Company's Condensed Consolidated Statements of Operations and Comprehensive Income. Termination accruals are presented as accrued distributor termination fees on the Condensed Consolidated Balance Sheets. See Note 4.
+Revenue
+and Note 9.
+Accrued Distributor Termination Fees.
+Advertising Costs
+ — Advertising costs are expensed as incurred and charged to selling, general and administrative expenses. The Company primarily utilizes targeted marketing initiatives across various channels, including print (e.g., print displays), radio, digital and streaming platforms, online and social media, television, direct sponsorships, endorsements and in-store displays.
+ The Company incurred advertising expenses of approximately $
+82.7
+ million and
+
+$
+49.3
+ million during the three months ended March 31, 2026 and 2025, respectively.
+Income Taxes
+ — The Company is subject to the Organization for Economic Co-operation and Development Pillar Two Global Anti-Base Erosion model rules, which establish a global minimum corporate tax rate of 15.0% for multinational enterprises with annual consolidated revenues exceeding €750 million. Multiple jurisdictions in which the Company operates, including European Union member states and other countries, have enacted or are expected to enact tax laws to comply with Pillar Two. Legislation enacted as of March 31, 2026 did not have a material impact on the Company’s financial statements for the three months ended March 31, 2026 and is not currently expected to have a material impact on the Company’s financial results for the year ending December 31, 2026. The Company will continue to monitor developments in, and the implementation of, Pillar Two legislation across individual jurisdictions, including any applicable safe harbor provisions or additional Organization for Economic Co-operation and Development guidance.
+15
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Recently Adopted Accounting Pronouncements
+In September 2025, the FASB issued ASU 2025-06,
+ Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40)
+. The ASU updates the guidance on the capitalization of internal-use software by removing all references to software development project stages and replacing them with a principles-based capitalization threshold. The standard is effective for fiscal years beginning after December 15, 2027, including interim periods within those fiscal years, with early adoption permitted. Effective January 1, 2026, the Company early adopted ASU 2025-06 using the prospective transition method. Under the prospective transition method, the amended guidance has been applied to all software costs incurred on or after January 1, 2026, and prior period amounts have not been restated. The adoption of ASU 2025-06 did not have a material impact on the Company's Condensed Consolidated Financial Statements.
+Recently Issued Accounting Pronouncements
+In December 2025, the FASB issued ASU 2025-12,
+Codification Improvements
+. This ASU includes a collection of amendments intended to clarify, correct errors in, or make minor improvements to existing guidance across multiple Topics in the FASB ASC. The amendments are not expected to result in significant changes to current accounting practice. The standard is effective for annual reporting periods beginning after December 15, 2026, with early adoption permitted. The Company is currently evaluating the impact of ASU 2025-12 on its Consolidated Financial Statements and related disclosures.
+In December 2025, the FASB issued ASU 2025-11,
+Interim Reporting (Topic 270): Narrow-Scope Improvements
+. This update clarifies the interim reporting requirements by improving the organization and navigability of required interim disclosures, clarifying when such guidance is applicable and establishing a principle requiring disclosure of events or changes occurring after the end of the most recent annual reporting period that have a material impact on interim results. This standard update will be effective for the interim reporting periods within annual reporting periods beginning after December 15, 2027. Early adoption is permitted and the guidance may be applied either prospectively to interim financial statements issued after the effective date or retrospectively to prior interim periods presented. The Company is currently evaluating the impact of this standard on its Consolidated Financial Statements and related disclosures.
+In November 2024, the
+FASB
+ issued
+ASU
+ 2024-03,
+Income Statement — Reporting Comprehensive Income — Expense Disaggregation Disclosures (Subtopic 220-40).
+ The effective date was further clarified by
+ASU
+ 2025-01 in January 2025. These standards enhance expense disclosures by requiring more detailed information on the types of expenses included in certain captions within the Consolidated Financial Statements, including employee compensation, depreciation, amortization and costs incurred related to inventory and manufacturing activities in income statement expense captions, such as cost of sales and
+selling, general and administrative expenses
+. The guidance is effective for fiscal years beginning after December 15, 2026 and interim periods beginning after December 15, 2027, with early adoption permitted. Once effective,
+the Company will apply the new guidance on a prospective basis and expects
+
+ASU
+ 2024-03
+to impact only disclosures, with no effect on the Company's financial condition, results of operations or cash flows
+.
+3.     
+EARNINGS PER SHARE
+The Company’s Preferred Stock is classified as a participating security in accordance with ASC 260,
+Earnings Per Share,
+ and is therefore included in the two-class method. Basic EPS reflects an allocation of period earnings to the Preferred Stock based on its contractual dividends and participation rights, as if all earnings for the period were distributed. The Preferred Stock does not participate in losses.
+Dilutive EPS for the Preferred Stock is computed using the more dilutive of (i) the two-class method (distributed and undistributed) and (ii) the if-converted method. When the if-converted method results in greater dilution, diluted EPS is calculated as if all shares of Preferred Stock were converted into Common Stock at the beginning of the period (or at the issuance date, if later). In this case, Regular Dividends are added back to net income and the corresponding conversion shares are included in the denominator. When the if-converted method does not result in greater dilution, the Preferred Stock is excluded from diluted EPS as its effect would be anti-dilutive, and the two-class method is applied under which the Preferred Stock is treated as a participating security and earnings are allocated between Common Stock and the Preferred Stock based on their respective participation rights. The terms of the Series A Preferred Stock and Series B Preferred Stock are substantially identical, and both are classified as mezzanine equity, as discussed in Note 12.
+Mezzanine Equity
+. Treasury stock, including shares repurchased by the Company, is excluded from the calculation of both basic and diluted EPS from the respective repurchase dates, as such shares are not considered outstanding for purposes of determining weighted average shares.
+16
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Three Months Ended March 31,
+2026
+2025
+Numerator:
+Net income
+$
+110,099
+ 
+$
+44,419
+ 
+Dividends on convertible Preferred Stock
+(
+13,993
+)
+(
+6,781
+)
+Income allocated to participating Preferred Stock
+(
+11,026
+)
+(
+3,219
+)
+Net income attributable to common stockholders
+$
+85,080
+ 
+$
+34,419
+ 
+Effect of dilutive securities:
+Allocation of earnings to participating securities
+$
+11,026
+ 
+$
+3,219
+ 
+Reallocation of earnings to participating securities
+(
+10,922
+)
+(
+3,195
+)
+Net income available to common stockholders after assumed conversions
+$
+85,184
+ 
+$
+34,443
+ 
+Denominator:
+Weighted average common shares outstanding, basic
+257,012
+ 
+235,191
+ 
+Dilutive shares of Common Stock
+2,752
+ 
+1,981
+ 
+Weighted average shares of Common Stock outstanding, diluted
+259,764
+ 
+237,172
+ 
+Earnings per share:
+Basic
+$
+0.33
+ 
+$
+0.15
+ 
+Diluted
+$
+0.33
+ 
+$
+0.15
+ 
+For the three months ended March 31, 2026 and 2025, approximately
+33.4
+ million
+
+and
+22.0
+ million potentially dilutive shares of Common Stock, respectively, on a weighted average basis, were excluded from the computation of diluted EPS, primarily related to shares issuable upon conversion of the Company’s convertible Preferred Stock, with the remainder related to PSUs, as their inclusion would have been antidilutive.
+4.    
+REVENUE
+The Company recognizes revenue when performance obligations under the terms of a contract with the customer are satisfied. The primary performance obligation is the promise to sell finished products to customers, including distributors, wholesalers and retailers. Performance obligations are typically satisfied once control or title is transferred based on the commercial terms of the applicable agreements with customers. Revenue is measured as the amount of consideration the Company expects to receive in exchange for transferring goods. Revenue is recorded net of variable consideration, such as provisions for returns, discounts and allowances. Such provisions are calculated using historical averages and are adjusted to reflect anticipated changes based on current business conditions. Consideration given to customers for advertising is recognized as a reduction of revenue except to the extent that there is a distinct good or service at or below fair market value, in which case the expense is classified as selling, general and administrative expenses in the Company's Condensed Consolidated Statements of Operations and Comprehensive Income. The amount of consideration the Company receives and revenue the Company recognizes varies with changes in incentives offered to its customers and their customers.
+The following table sets forth the amount of revenue by geographical location:
+Three Months Ended March 31,
+2026
+2025
+North America
+$
+747,316
+ 
+$
+306,534
+ 
+Europe
+25,354
+ 
+18,659
+ 
+Asia-Pacific
+6,995
+ 
+2,244
+ 
+Other
+2,950
+ 
+1,839
+ 
+Revenue
+$
+782,615
+ 
+$
+329,276
+ 
+17
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+All of the Company’s North American revenue was derived from the U.S. and Canada. Revenue from Puerto Rico is included in the "Other" category.
+Promotional (Billback) Allowances
+The Company’s promotional allowance programs with its customers are executed through separate agreements in the ordinary course of business (variable consideration). These agreements can provide for one or more of the arrangements described below and are of varying duration. The Company’s billbacks are calculated based on various programs with distributors and retail customers and accruals are established for the Company’s anticipated liabilities. These accruals are based on agreed upon terms as well as the Company’s historical experience with similar programs and require management’s judgment with respect to estimating consumer participation and the performance of distributors and retail customers.
+
+Differences between estimated and actual promotional and other allowances are recognized in the period such differences are determined.
+Promotional allowances are recorded as reductions to revenue and primarily include consideration given to the Company’s distributors or retail customers including, but not limited to the following:
+•
+discounts from list prices to support price promotions to end-consumers by retailers;
+•
+reimbursements given to distributors for agreed portions of their promotional spend with retailers, including slotting, shelf space allowances and other fees;
+•
+the Company’s agreed share of fees given to distributors and/or directly to retailers for certain advertising, in-store marketing and promotional activities that cannot be separated from the transaction price;
+•
+the Company’s agreed share of slotting, shelf space allowances and other fees given directly to retailers, club stores and/or wholesalers;
+•
+incentives provided to distributors and/or retailers for achieving or exceeding certain predetermined volume goals or other incentive targets;
+•
+discounted products;
+•
+contractual fees given to distributors for items sold below defined pricing targets; and
+•
+contractual fees paid to the Company’s distributors related to sales made by the Company directly to certain customers within the distributors’ sales territories.
+For the three months ended March 31, 2026 and 2025, promotional allowances included as a reduction of revenue were $
+288.9
+ million and $
+110.2
+ million, respectively.
+Transaction Agreement – Rockstar Acquisition and Captaincy
+On August 28, 2025, the Closing Date of the Pepsi Transactions, the Company entered into the Transaction Agreement with Pepsi, pursuant to which (i) the Company acquired certain assets and assumed certain liabilities, comprising Rockstar in the U.S. and Canada and (ii) the Company and Pepsi commenced the Captaincy. Under the Captaincy, Pepsi is obligated to use commercially reasonable efforts to sell and distribute the Company’s energy drink portfolio in the U.S. and to prioritize the Company's products within its U.S. beverage distribution system. The arrangement provides the Company with enhanced control and oversight of the energy drink category within Pepsi’s U.S. distribution network, including the ability to determine product facings, merchandising allocations and certain promotional priorities for energy beverages. In connection with the Transaction Agreement, the Company initially recognized an asset of $
+598.8
+ million for a payment to its customer, which is presented within deferred other costs, current and non-current, on the Condensed Consolidated Balance Sheets. The asset is being amortized as a reduction of revenue over the approximate
+17-year
+ term of the A&R U.S. Distribution Agreement in accordance with ASC 606. See Note 5.
+Acquisitions.
+Amended and Restated Distribution Agreements
+On the Closing Date of the Pepsi Transactions, the Company entered into the A&R Distribution Agreements with Pepsi, which amended and restated in its entirety the Original U.S. Distribution Agreement and Original Canadian Distribution Agreement, predominantly to include Pepsi’s distribution of Alani Nu and Rockstar products (in addition to existing Celsius products). The other material terms and covenants, including termination provisions, contained in the original agreements remain in full force and effect. In connection with this product transition, the Company has incurred fees from the termination of agreements with certain former Alani Nu distributors and the transfer of territory rights to Pepsi. Pursuant to the A&R U.S. Distribution Agreement, Pepsi agreed to reimburse the Company up to $
+275.0
+ million to facilitate the transition. As of March 31, 2026, the Company had received the entire $
+275.0
+ million from Pepsi. Amounts received from Pepsi pursuant to the A&R U.S. Distribution Agreement relating to the costs associated with terminating certain of the Company’s prior distributors have been accounted for as deferred revenue, current and non-current, on the Condensed Consolidated Balance Sheets, and are being amortized over the approximate
+17-year
+ term of the agreement. See Note 11.
+Related Party Transactions
+.
+18
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+5.    
+ACQUISITIONS
+Rockstar Acquisition
+On August 28, 2025, the Closing Date of the Pepsi Transactions, the Company entered into a series of transactions with Pepsi, pursuant to which the Company acquired Rockstar in the U.S. and Canada, as well as certain related property, plant and equipment, inventory, customer relationships and marketing functions. The Rockstar Acquisition was accounted for as a business combination under ASC 805.
+On the Closing Date of the Pepsi Transactions, the Company entered into the Series B Purchase Agreement with Pepsi. Under this agreement, the Company issued
+390,000
+ shares of newly designated Series B Preferred Stock, with a par value of $
+0.001
+ per share. Concurrently and in connection with the Pepsi Transactions, the Company amended the redemption and conversion rights of the
+1,466,666
+ outstanding shares of Series A Preferred Stock previously issued to Pepsi on August 1, 2022. This amendment aligned the terms of the Series A Preferred Stock, including the redemption period, with those of the newly issued Series B Preferred Stock.
+The estimated fair value of the Series B Preferred Stock, along with the estimated incremental fair value of Series A Preferred Stock resulting directly from the amendment, was treated as noncash consideration, partially accounted for under ASC 805 as consideration transferred for the Rockstar Acquisition and partially accounted for under ASC 606 as an implicit upfront payment to Pepsi in its capacity as a customer of the Company.
+The consideration attributable to the Rockstar Acquisition was estimated based on both the income and market approaches. Given Rockstar's distinct size, scale and recent performance relative to its industry peers, the Company primarily relied on the discounted cash flow method, a form of the income approach. The resulting valuation was then corroborated by analyzing implied market multiples of comparable publicly traded companies, with adjustments made to reflect differences in growth prospects, profitability and risk profile.
+The total consideration related to the Pepsi Transactions consisted of (i) non-cash consideration associated with the issuance of the Series B Preferred Stock and the amendment to the terms of the Series A Preferred Stock less (ii) cash consideration received from Pepsi related to net working capital adjustments, which compensated the Company for certain working capital requirements of Rockstar.
+
+The preliminary purchase consideration was calculated as follows:
+Purchase Consideration
+Total estimated fair value of Series B Preferred Stock
+$
+907,920
+ 
+Total incremental estimated fair value of Series A Preferred Stock
+27,867
+ 
+Total fair value of Series B Preferred Stock and incremental fair value of Series A Preferred Stock
+$
+935,787
+ 
+Fair value of non-cash amount attributable to ASC 606 implicit upfront payment to customer
+$
+598,787
+ 
+Fair value of non-cash amount attributable to ASC 805 business acquisition
+$
+337,000
+ 
+Less: Net working capital cash received from Pepsi
+[1]
+(
+29,397
+)
+Total preliminary Rockstar purchase consideration
+$
+307,603
+ 
+[1]     This amount includes net working capital adjustments received from Pepsi
+
+pursuant to the Transaction Agreement. Of this amount, $
+29.2
+ million was received during the year ended December 31, 2025, with the remaining $
+0.2
+ million received during the three months ended March 31, 2026. The amounts are classified within investing activities in the Condensed Consolidated Statements of Cash Flows.
+19
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+The following table summarizes the estimated fair values of the assets acquired and liabilities assumed on the Closing Date of the Pepsi Transactions. The Company is in the process of reviewing and finalizing third-party valuations of certain intangible assets, tangible assets and finished goods inventory; therefore, the provisional measurements of assets acquired are subject to change as the valuation procedures are finalized. As of March 31, 2026, no measurement period adjustments had been recorded.
+At August 28, 2025
+ASSETS
+Inventories
+$
+10,288
+ 
+Property, plant and equipment
+4,917
+ 
+Brands
+176,000
+ 
+Customer relationships
+5,500
+ 
+Prepaid expenses and other current assets
+1,461
+ 
+LIABILITIES
+Accrued expenses
+390
+ 
+Net identifiable assets acquired
+$
+197,776
+ 
+Goodwill
+109,827
+ 
+Total preliminary Rockstar purchase consideration
+$
+307,603
+ 
+The Rockstar Acquisition resulted in the recognition of $
+109.8
+ million of goodwill, primarily composed of the expansion of Rockstar and the development of new intellectual property through innovation, the value of the assembled workforce, particularly key personnel in advertising and marketing and projected synergies resulting from the integration of distribution networks. Goodwill recognized is expected to be deductible for tax purposes and has been allocated to the Company’s single reporting unit.
+Intangible assets acquired
+The fair value of the intangible brand asset was estimated using the relief-from-royalty method, an income approach technique that reflects the royalty expense a market participant would avoid by owning rather than licensing the brand. Key assumptions included forecasted revenue and cash flows attributable to the brand, a royalty rate and a discount rate. The brand asset was determined to have an indefinite useful life. The valuation relied on significant unobservable inputs and is therefore classified as a Level 3 fair value measurement. Changes in forecasted revenues, royalty rates or discount rates could result in materially different fair value measurements. The acquired brand intangible asset includes all trademarks, trade names, proprietary formulas, recipes and other intellectual property.
+The fair value of the customer relationships intangible asset was estimated using the with-and-without method, a form of the income approach that quantifies the economic benefit of having existing customer relationships in place as of the acquisition date. This method measures the difference in the present value of expected cash flows between two scenarios, one in which the business retains its existing customer base and one in which it must reestablish those relationships over time. Key assumptions included forecasted revenue recovery rates, a discount rate and the cost and time required to reestablish customer relationships. The valuation relied on significant unobservable inputs and is therefore classified as a Level 3 fair value measurement. Accordingly, changes in these assumptions could result in materially different fair value measurements.
+The identifiable customer relationships asset acquired will be amortized on a straight-line basis over its estimated useful life.
+The following table summarizes the estimated fair values of identifiable intangible assets acquired and their respective amortization periods:
+Estimated Useful Life in Years
+At August 28, 2025
+Brands
+Indefinite
+$
+176,000
+ 
+Customer relationships
+10
+5,500
+Total intangibles acquired
+$
+181,500
+ 
+20
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Alani Nu Acquisition
+On the Closing Date of Alani Nu, the Company completed the Alani Nu Acquisition pursuant to the terms of the membership interest purchase agreement dated February 20, 2025. The total purchase consideration was composed of (i) cash consideration as outlined in the table below, (ii) an aggregate of
+22,451,224
+ unregistered shares of the Company's Common Stock subject to a registration rights agreement and a lock-up agreement that restricts the sale or transfer of the Company's Common Stock, with one-third of the Common Stock released from restrictions on each of April 1, 2026, October 1, 2026 and April 1, 2027 and (iii) contingent consideration. The Company funded the cash consideration using cash on hand and proceeds from the Term Loan Facility under the Credit Agreement, as described in Note 10.
+Debt
+. The Alani Nu Acquisition was accounted for as a business combination. During the quarter ended March 31, 2026, within the one year measurement period, the Company finalized the fair value of the assets acquired and liabilities assumed in the Alani Nu Acquisition, and the amounts presented within this footnote are final.
+The purchase consideration consisted of the following:
+Purchase Consideration
+Cash consideration
+$
+1,322,425
+ 
+Share consideration
+721,964
+ 
+Contingent consideration
+[1]
+11,200
+ 
+Final fair value of purchase consideration
+$
+2,055,589
+ 
+[1]    A probability-weighted expected return method was used to value the contingent consideration as of the Closing Date of Alani Nu, whereby the value was determined based on expected cash flows under various scenarios related to the achievement of the revenue target.
+
+The following table summarizes the final fair values of the assets acquired and liabilities assumed on the Closing Date of Alani Nu, inclusive of measurement period adjustments:
+At April 1, 2025
+ASSETS
+Cash and cash equivalents
+$
+43,655
+ 
+Accounts receivable
+[1]
+83,655
+ 
+Inventories
+[1] [2]
+95,425
+ 
+Prepaid expenses and other current assets
+1,699
+ 
+Property, plant and equipment
+[1]
+103
+ 
+Brands
+1,104,000
+ 
+Customer relationships
+111,000
+ 
+LIABILITIES
+Accounts payable
+49,117
+ 
+Accrued expenses
+ [1] [3]
+52,371
+ 
+Deferred revenue-current
+8,519
+ 
+Other current liabilities
+426
+ 
+Deferred revenue-non-current
+3,780
+ 
+Other long term liabilities
+6,698
+ 
+Net identifiable assets acquired
+$
+1,318,626
+ 
+Goodwill
+736,963
+ 
+Total purchase consideration
+$
+2,055,589
+ 
+[1]   Includes fair value adjustments during the measurement period see
+Measurement Period Adjustments
+section below.
+[2]  Includes an inventory valuation step-up of $
+21.7
+ million which was recognized as an adjustment to the Company’s cost of revenue in the Condensed Consolidated Statements of Operations and Comprehensive Income during the year ended December 31, 2025.
+[3]  Includes $
+3.1
+ million the Company paid relating to the settlement of the net working capital adjustment during the year ended December 31, 2025. The settlement resulted in a decrease in accrued expenses and an increase in the total purchase consideration. The adjustment did not impact goodwill.
+21
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+The Company initially recognized a contingent consideration of $
+11.2
+ million, representing the fair value of a potential payment of up to $
+25.0
+ million contingent upon the achievement of an agreed-upon revenue target by December 31, 2025. During the year ended December 31, 2025, the contingent consideration was remeasured to the maximum $
+25.0
+ million payout, driven by the outperformance of Alani Nu's revenue results relative to the financial projections as of the Closing Date of Alani Nu and ultimately by exceeding the agreed-upon revenue target. During the three months ended March 31, 2026, the Company paid the $
+25.0
+ million in cash.
+The fair value of the
+22,451,224
+ shares of Common Stock issued to the Sellers was $
+32.16
+ per share. This represents the closing share price of $
+35.73
+ on the Closing Date of Alani Nu, adjusted by a DLOM of 10.0%, given that the offer and sale of the shares were not registered under the Securities Act and are “restricted securities” as defined by Rule 144 promulgated under the Securities Act. The DLOM was calculated based on the Finnerty model, which incorporates Level 2 and 3 inputs and assumptions, including historical stock volatility, management’s estimated time to liquidity based on the Company’s expectations for the time to register the shares post-closing and a historical dividend yield. The Alani Nu Acquisition resulted in the recognition of $
+737.0
+ million of goodwill, attributable to anticipated revenue synergies, combined distribution capabilities and operational and administrative cost efficiencies. The majority of goodwill recognized is expected to be deductible for tax purposes and has been allocated to the Company’s single reporting unit.
+Intangible assets acquired
+The fair value of the intangible brand asset was estimated using the relief-from-royalty method and was determined to have an indefinite useful life. Key assumptions included forecasted revenues, royalty rates and a discount rate. The customer relationships were estimated using a combination of the with-and-without method, an income approach and a cost approach. Key assumptions included forecasted revenue recovery rates, a discount rate and the cost and time required to reestablish customer relationships. Both valuations relied on significant unobservable inputs and are therefore classified as Level 3 fair value measurements. Changes in these assumptions could result in materially different fair value measurements.
+The following table summarizes the estimated fair value of identifiable intangible assets acquired and their respective remaining amortization periods:
+Estimated Useful Life in Years
+At April 1, 2025
+Brands
+Indefinite
+$
+1,104,000
+ 
+Customer relationships
+5
+111,000
+Total intangibles acquired
+$
+1,215,000
+ 
+The identifiable customer relationships asset acquired will be amortized on a straight-line basis over its estimated useful life.
+Measurement Period Adjustments
+Measurement period adjustments are recognized in the reporting period in which the adjustments are determined and calculated as if the accounting had been completed at the acquisition date. As a result of refining estimates and assumptions since the acquisition date, the Company recorded the following measurement period adjustments, with corresponding adjustments to goodwill:
+•
+During the year ended December 31, 2025, $
+1.2
+ million increase to accounts receivable and $
+0.4
+ million decrease to inventory related to an in-transit inventory accrual;
+•
+During the year ended December 31, 2025, $
+2.9
+ million decrease in property, plant and equipment-net, with a corresponding immaterial impact on depreciation expense, and decreases in prepaid expenses and other current assets;
+•
+During the year ended December 31, 2025, $
+3.5
+ million increase to accrued expenses related to customer promotional allowances; and
+•
+During the three months ended March 31, 2026, $
+2.6
+ million decrease in property, plant and equipment-net, with a corresponding immaterial impact on depreciation expense.
+22
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Pro forma Consolidated Financial Information
+The following unaudited pro forma financial information summarizes the results of operations for the periods indicated as if the Alani Nu Acquisition and Rockstar Acquisition had been completed on January 1, 2024. The unaudited pro forma information is not necessarily indicative of the results that the Company would have achieved had the acquisitions actually occurred on January 1, 2024, nor does such information purport to be indicative of future financial operating results.
+Three Months Ended March 31,
+2026
+2025
+Revenue
+$
+782,615
+ 
+$
+647,397
+ 
+Net income
+110,099
+ 
+98,690
+ 
+Net income attributable to common stockholders
+$
+85,080
+ 
+$
+74,106
+ 
+The unaudited pro forma financial information includes, where applicable, adjustments for (i) the recognition in cost of revenue of the inventory step-up, (ii) amortization expense related to acquired customer relationship intangible assets, (iii) additional interest expense for borrowings related to funding the acquisitions and (iv) associated tax-related impacts of adjustments. These pro forma adjustments are based on the available information as of the date hereof and upon assumptions that the
+Company
+ believes are reasonable to reflect the impact of the acquisitions with the
+Company
+'s historical financial information on a pro forma basis. Adjustments do not include costs related to integration activities, cost savings or synergies that have been or may be achieved by the combined business.
+6.    
+INVENTORIES
+Inventories are valued at the lower of cost or net realizable value with costs approximating those determined under the first-in, first-out method. Changes in the inventory reserve are included in cost of revenue.
+Inventories-net consist of the following:
+March 31, 2026
+December 31, 2025
+Finished goods
+$
+266,990
+ 
+$
+272,750
+ 
+Raw materials
+106,961
+ 
+74,654
+ 
+Less: inventory reserve
+(
+9,805
+)
+(
+9,706
+)
+Inventories-net
+$
+364,146
+ 
+$
+337,698
+ 
+7.     
+GOODWILL AND INTANGIBLES
+The following table reflects goodwill as of
+ March 31, 2026 and December 31, 2025
+:
+Goodwill
+Balance at December 31, 2024
+$
+71,582
+ 
+Alani Nu Acquisition
+[1]
+734,404
+ 
+Rockstar Acquisition
+109,827
+ 
+Foreign currency translation
+1,747
+ 
+Balance at December 31, 2025
+$
+917,560
+ 
+Alani Nu measurement period adjustment
+[1]
+2,559
+ 
+Foreign currency translation
+(
+326
+)
+Balance at March 31, 2026
+$
+919,793
+ 
+[1]  Goodwill recognized in connection with the Alani Nu Acquisition reflects the preliminary purchase price allocation as of December 31, 2025. See Note 5.
+Acquisitions
+, for additional information about the
+
+measurement period adjustment recorded during the three months ended March 31, 2026.
+23
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+The carrying amounts and accumulated amortization of intangible assets, net of the impact of foreign exchange rate fluctuations and prior impairments, as of March 31, 2026 and December 31, 2025 were as follows:
+Estimated Weighted Average Useful Life in Years
+March 31, 2026
+December 31, 2025
+Definite-lived intangible assets
+Customer relationships
+7.45
+$
+131,865
+ 
+$
+132,183
+ 
+Brands
+3
+500
+ 
+500
+ 
+Less: accumulated amortization
+(
+26,607
+)
+(
+20,773
+)
+Definite-lived intangible assets, net
+$
+105,758
+ 
+$
+111,910
+ 
+Indefinite-lived intangibles assets - Brands
+ [1]
+indefinite
+$
+1,280,000
+ 
+$
+1,280,005
+ 
+Brands-net
+$
+1,280,264
+ 
+$
+1,280,311
+ 
+Customer relationships-net
+$
+105,494
+ 
+$
+111,604
+ 
+[1]  During the year ended December 31, 2025, the Company recognized an impairment charge of $
+0.5
+ million related to the Func Food brand. The carrying amount presented reflects the adjusted basis following recognition of the impairment loss.
+No
+ impairment was recognized during the three months ended March 31, 2026.
+The following table reflects the future estimated amortization expense remaining as of March 31, 2026 related to definite-lived intangible assets:
+2026
+$
+17,730
+ 
+2027
+23,613
+ 
+2028
+23,474
+ 
+2029
+23,474
+ 
+2030
+6,800
+ 
+Thereafter
+10,667
+ 
+Total
+$
+105,758
+ 
+As of March 31, 2026 and December 31, 2025, there were no indicators of goodwill impairment. Intangible asset amortization expense for the three months ended March 31, 2026 and 2025 was approximately $
+5.9
+ million and $
+0.2
+ million, respectively. Amortization expense is primarily included in selling, general and administrative expenses
+.
+8.    
+ACCRUED EXPENSES
+Accrued expenses consisted of the following:
+March 31, 2026
+December 31, 2025
+Accrued legal
+$
+88,165
+ 
+$
+64,104
+ 
+Accrued marketing
+54,793
+ 
+72,789
+ 
+Unbilled purchases
+45,811
+ 
+22,280
+ 
+Accrued freight
+17,907
+ 
+13,153
+ 
+Payroll liabilities
+13,809
+ 
+18,091
+ 
+Other accrued expenses
+57,528
+ 
+40,304
+ 
+Accrued expenses
+$
+278,013
+ 
+$
+230,721
+ 
+As of March 31, 2026 and December 31, 2025, accrued legal included $
+85.0
+ million and $
+59.5
+ million, respectively, related to the
+Strong Arm Productions
+ ongoing litigation, refer to Note 15.
+Commitments and Contingencies
+.
+24
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+9.    
+ACCRUED DISTRIBUTOR TERMINATION FEES
+Primarily in connection with the A&R Distribution Agreements, the Company issued termination notices to existing Alani Nu distributors and is transferring certain territory rights to Pepsi. The majority of termination notices were delivered during the year ended December 31, 2025 and the related expenses were recognized upon delivery of such notices in accordance with ASC 420,
+Exit or Disposal Cost Obligations
+. Activity for the three months ended March 31, 2026 primarily consisted of the settlement of previously accrued distributor termination fees, with the remaining activity representing adjustments to accrued distributor termination fees based on new information that was not available as of December 31, 2025. The corresponding amounts were recorded as distributor termination fees within the Condensed Consolidated Statements of Operations and Comprehensive Income.
+The following table reflects accrued distributor termination fees as of
+ March 31, 2026 and December 31, 2025:
+Accrued Distributor Termination Fees
+Balance as of December 31, 2024
+$
+—
+ 
+Distributor termination fees
+[1]
+333,708
+ 
+Less: Settlement of accrued distributor termination fees
+(
+69,620
+)
+Balance as of December 31, 2025
+$
+264,088
+ 
+Distributor termination fees
+4,427
+ 
+Less: Settlement of accrued distributor termination fees
+(
+228,525
+)
+Balance as of March 31, 2026
+$
+39,990
+ 
+[1]  This amount includes the distributor termination fees of $
+327.5
+ million recognized in the Consolidated Statements of Operations and Comprehensive Income for the year ended December 31, 2025, plus an additional $
+6.2
+ million of previously recorded deferred revenue related to pre-acquisition distributor transition payments that also became due to the former distributors upon the termination of such distributors during the year ended December 31, 2025.
+10.     
+DEBT
+Debt consisted of the following
+as of
+ March 31, 2026 and December 31, 2025:
+March 31, 2026
+December 31, 2025
+Term loan, due 2032
+$
+696,500
+ 
+$
+698,250
+ 
+Less: current portion
+[1]
+(
+7,000
+)
+(
+7,000
+)
+Less: unamortized discount and debt issuance costs
+(
+20,619
+)
+(
+21,324
+)
+Total long-term debt
+$
+668,881
+ 
+$
+669,926
+ 
+[1]  The current portion of the Company’s debt is included in other current liabilities on the Condensed Consolidated Balance Sheets.
+The Company’s remaining debt outstanding as of March 31, 2026 matures as follows:
+2026
+$
+5,250
+ 
+2027
+7,000
+ 
+2028
+7,000
+ 
+2029
+7,000
+ 
+2030
+7,000
+ 
+Thereafter
+663,250
+ 
+Total debt
+$
+696,500
+ 
+Unamortized discounts and debt issuance costs
+(
+20,619
+)
+Total debt, net of unamortized discounts and debt issuance costs
+$
+675,881
+ 
+25
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Credit Agreement
+On April 1, 2025, Celsius Holdings, Inc. and Celsius, Inc., as borrowers, together with certain subsidiaries of Celsius as guarantors, entered into the Credit Agreement with the lenders and issuing banks party thereto and UBS AG, Stamford Branch, as administrative agent and collateral agent. The Credit Agreement provided for a Term Loan Facility in an aggregate principal amount of up to $
+900.0
+ million, which was fully drawn on the Closing Date of Alani Nu to fund a portion of the cash consideration, payable to the Sellers in the Alani Nu Acquisition, and the Revolving Credit Facility in an aggregate principal amount of up to $
+100.0
+ million (which could include the issuance of letters of credit in a stated face amount of up to, but not exceeding, $
+50.0
+ million). The obligations under the Credit Agreement are guaranteed by certain wholly owned domestic subsidiaries of the Company, subject to customary exclusions, and are secured by a first-priority security interest in substantially all of the assets of the Company, the borrowers and the guarantors. The Term Loan Facility matures on April 1, 2032 and the Revolving Credit Facility matures on April 1, 2030.
+In October 2025, the Company amended the Credit Agreement through the First Refinancing Amendment to refinance the existing Term Loan Facility and reduce the applicable interest rate margin by
+0.75
+% on both the Term Loan Facility and the Revolving Credit Facility. All other material terms of the Credit Agreement remained unchanged. Immediately prior to the First Refinancing Amendment, the Company repaid $
+197.8
+ million of the outstanding principal of the Term Loan Facility, reducing the principal to $
+700.0
+ million at the time of refinancing. The Company accounted for the transaction as a debt modification with a partial extinguishment which was related to the repayment immediately prior to the amendment.
+The following table summarizes the material interest rate terms applicable to borrowings under the Credit Agreement. Borrowings bear interest at either a benchmark rate or an alternate base rate, and applicable rates are subject to potential step-downs in
+0.25
+% increments pursuant to a pricing grid based on net leverage:
+Facility
+Rate Type
+Applicable Rate
+Term Loan Facility
+Benchmark Rate
+[1]
+2.50
+%
+Alternate Rate
+[2]
+1.50
+%
+Revolving Credit Facility
+Benchmark Rate
+[1]
+2.25
+%
+Alternate Rate
+[2]
+1.25
+%
+Revolving Credit Facility
+Commitment Fee
+[3]
+ (unused portion)
+0.50
+%
+[1]  Bear interest at the benchmark rate, including Term SOFR or, in the case of certain foreign currency borrowings, Euro Interbank Offered Rate, plus the applicable rate shown above.
+[2]  Bear interest at the alternate base rate, plus the applicable rate shown above. The alternate base rate is defined as the highest of (i) the U.S. prime rate, (ii) the federal funds rate plus
+0.50
+%, (iii) the Benchmark Rate for an interest period of one month plus
+1.00
+% and (iv)
+1.00
+%.
+[3]  The commitment fee is payable on the unused portion of the Revolving Credit Facility.
+The effective interest rate on the Term Loan Facility as of March 31, 2026 was
+6.78
+%.
+There were
+no
+ borrowings and no letters of credit outstanding under the Revolving Credit Facility as of March 31, 2026. As of March 31, 2026, the Company’s unamortized debt issuance costs related to the Revolving Credit Facility were
+
+$
+2.2
+ million
+
+and are included in other long-term assets in the Condensed Consolidated Balance Sheets.
+The Credit Agreement requires quarterly payments equal to
+0.25
+% of the refinanced principal amount under the Term Loan Facility. Additionally, the Credit Agreement requires mandatory prepayments in connection with certain assets sales, the incurrence of certain additional indebtedness and the Company’s cash flow exceeding specified thresholds, in each case subject to various limitations and exceptions. As of March 31, 2026, the Company’s unamortized debt discount and debt issuance costs related to the Term Loan Facility were $
+20.6
+ million, which is included as a reduction of long-term debt in the Condensed Consolidated Balance Sheets.
+The Credit Agreement further contains certain customary restrictive covenants that, among other things, generally limit the ability of the Company and substantially all of its subsidiaries to (i) create liens, (ii) pay dividends, acquire shares of capital stock and make payments on subordinated debt, (iii) sell assets, (iv) enter into transactions with affiliates, (v) effect mergers and (vi) incur indebtedness. The Credit Agreement additionally contains customary representations, warranties, affirmative covenants and events of default (subject to grace periods). As of March 31, 2026, management had not identified any events of non-compliance with the covenants under the Credit Agreement.
+26
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+11.    
+RELATED PARTY TRANSACTIONS
+In August 2022, the Company and Pepsi, a related party due to its ownership interest in the Company and its Board representation, entered into multiple agreements, including the Original Purchase Agreement, the Original U.S. Distribution Agreement and the Original Transition Agreement. Under the Original Purchase Agreement, the Company issued approximately
+1.5
+ million shares of non-voting Series A Preferred Stock to Pepsi for an aggregate purchase price of $
+550.0
+ million. The fair value of the Series A Preferred Stock at issuance was estimated at $
+832.5
+ million, resulting in $
+282.5
+ million of excess fair value recorded as deferred costs within the Condensed Consolidated Balance Sheets.
+In August 2025, the Company entered into a series of strategic transactions with Pepsi. As part of these transactions, the Series A Preferred Stock was modified to align key terms, such as conversion and redemption dates, with those of the newly issued Series B Preferred Stock. The Company recorded an increase of $
+27.9
+ million to the Series A Preferred Stock carrying value as part of the overall Pepsi Transactions.
+Under the Series B Purchase Agreement, which was also entered into in August 2025, the Company issued
+390,000
+ shares of Series B Preferred Stock to Pepsi. Each share of Series B Preferred Stock is convertible, subject to certain conditions and adjustments, into approximately
+29
+ shares of Common Stock and Pepsi obtained the right to designate
+one
+ additional Board member for a total of two Board seats, which number may in certain circumstances be ratably increased upon a subsequent expansion of the number of persons serving on the Board. The Series B Preferred Stock issued in connection with the Pepsi Transactions had a stated purchase price of $
+585.0
+ million and a fair value $
+907.9
+ million on the issuance date. The total non-cash consideration of $
+935.8
+ million comprised the fair value of the newly issued Series B Preferred Stock and the modified Series A Preferred Stock. The total non-cash consideration was allocated among the various components of the Pepsi Transactions, including the implicit upfront payment to Pepsi for the Captaincy, considering the allocation measurement principles of ASC 606, and the Rockstar Acquisition, based on the estimated value of Rockstar. The implicit upfront payment to Pepsi is being amortized as a reduction of revenue over the term of the A&R U.S. Distribution Agreement in accordance with ASC 606.
+As part of these arrangements, the Company and Pepsi also entered into the A&R Distribution Agreements under which Pepsi became the primary distributor of Celsius, Alani Nu and Rockstar products in the U.S. and Canada. Pursuant to such agreement, Pepsi agreed to reimburse the Company for distributor termination fees up to $
+275.0
+ million to facilitate the transition of certain Alani Nu distribution rights to Pepsi. As of March 31, 2026, the Company received the entire $
+275.0
+ million from Pepsi. The Company recorded the amount received as deferred revenue and recognizes it as an increase to revenue on a straight-line basis over the term of the A&R U.S. Distribution Agreement.
+The following table presents deferred revenue and deferred other cost balances related to the 2025 and 2022 transactions entered into with Pepsi. Each of these amounts is included within the respective line item on the Condensed Consolidated Balance Sheets as of March 31, 2026 and December 31, 2025.
+March 31, 2026
+Balance sheet line item
+2025 Transaction
+2022 Transaction
+Total
+Deferred other costs-current
+$
+35,348
+ 
+$
+14,124
+ 
+$
+49,472
+ 
+Deferred other costs-non-current
+542,520
+ 
+216,561
+ 
+759,081
+ 
+Deferred revenue-current
+16,256
+ 
+9,513
+ 
+25,769
+ 
+Deferred revenue-non-current
+$
+249,130
+ 
+$
+145,823
+ 
+$
+394,953
+ 
+December 31, 2025
+Balance sheet line item
+2025 Transaction
+2022 Transaction
+Total
+Deferred other costs-current
+$
+35,040
+ 
+$
+14,124
+ 
+$
+49,164
+ 
+Deferred other costs-non-current
+551,544
+ 
+220,091
+ 
+771,635
+ 
+Deferred revenue-current
+16,815
+ 
+9,513
+ 
+26,328
+ 
+Deferred revenue-non-current
+$
+252,954
+ 
+$
+148,201
+ 
+$
+401,155
+ 
+For the three months ended March 31, 2026 and 2025, amortization of deferred other costs recognized as a reduction of revenue was approximately $
+12.2
+ million and $
+3.5
+ million, respectively. For the three months ended March 31, 2026 and 2025, amortization of deferred revenue recognized as an increase to revenue was approximately $
+6.4
+ million and $
+2.4
+ million, respectively.
+For more information on the components of the Pepsi Transactions and the A&R Distribution Agreements, see Note 4.
+Revenue,
+Note 5.
+Acquisitions
+and
+
+Note 12.
+Mezzanine Equity.
+27
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+12.    
+MEZZANINE EQUITY
+Convertible Preferred Stock
+As of March 31, 2026 and December 31, 2025, the Company had authorized and designated
+1,466,666
+ shares of Series A Preferred Stock with a par value of $
+0.001
+ per share and a stated value of $
+375.00
+ per share. In addition, as of March 31, 2026 and as of December 31, 2025, the Company had authorized and designated
+390,000
+ shares of Series B Preferred Stock, with a par value of $
+0.001
+ per share and a stated value of $
+1,500.00
+ per share. The stated value per share may increase from time to time if dividends on the Preferred Stock are paid as PIK Dividends pursuant to the Series A Certificate or the Series B Certificate, as applicable.
+Series A Preferred Stock
+On August 1, 2022, pursuant to the Original Purchase Agreement, the Company issued all of the authorized Series A Preferred Stock to Pepsi for cash consideration totaling $
+550.0
+ million, excluding issuance costs. The issuance occurred concurrently with the execution of the Original U.S. Distribution Agreement and the Original Transition Agreement. The Company determined that the aggregate fair value of the Series A Preferred Stock on the issuance date was $
+832.5
+ million or $
+567.61
+ per share. Accordingly, the Series A Preferred Stock was initially recorded at that amount, net of issuance costs of $
+8.0
+ million, within the mezzanine equity in the Company’s Condensed Consolidated Balance Sheets and within the Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity.
+The Company engaged a third-party valuation firm to assist in determining the fair value of the Series A Preferred Stock as of the issuance date. The valuation of the Series A Preferred Stock represents a non-recurring fair value measurement. The Company used a Monte Carlo simulation model to determine the fair value of the Series A Preferred Stock on August 1, 2022. The Monte Carlo simulation utilized multiple Level 2 and 3 inputs, which included a volatility rate of
+45.0
+%, risk free interest rate of
+2.7
+%, a
+5.0
+% dividend rate, the closing price of the Company’s Common Stock on the issuance date of $
+98.87
+ (before the Forward Stock Split), a debt discount rate of
+12.5
+% and a DLOM attributed to the registration period of the underlying stock. The selected historical volatility was based on Celsius and a peer group with comparable characteristics. The risk-free interest rate was based on the U.S. STRIPS Rate with a corresponding term as of issuance date. The
+5.0
+% dividend rate is consistent with the provisions of the Series A Preferred Stock and the Company’s historical cash dividends payments. The debt discount rate was based on estimated credit analysis and corresponding market yields as of the issuance date. The Company also applied a nominal DLOM with respect to the assumed registration period of the underlying shares.
+Series B Preferred Stock
+On the Closing Date of the Pepsi Transactions, pursuant to the Series B Purchase Agreement, the Company issued all of the authorized Series B Preferred Stock to Pepsi for a stated purchase price of $
+585.0
+ million, excluding issuance costs. The issuance occurred concurrently with the execution of the A&R Distribution Agreements and the Transaction Agreement, pursuant to which (i) the Company consummated the Rockstar Acquisition and (ii) the Company and Pepsi commenced the Captaincy. See Note 4.
+Revenue.
+The Company engaged a third-party valuation firm to assist in determining the fair value of the Series B Preferred Stock issuance. The valuation of the Series B Preferred Stock issuance represents a non-recurring fair value measurement. The fair value of the Series B Preferred Stock was determined using a Monte Carlo simulation model with multiple Level 2 and 3 inputs. Variables included a volatility rate of
+60.0
+%, risk free interest rate of
+3.9
+%,
+5.0
+% dividend rate, a
+90
+% probability that certain market-based conditions will be met and the closing price of the Company’s Common Stock on the issuance date of $
+59.69
+. The valuation relied on significant unobservable inputs and required judgment in the selection of key assumptions; changes in these assumptions could result in materially different fair value measurements. The aggregate fair value of the Series B Preferred Stock on the issuance date was determined to be $
+907.9
+ million or $
+2,328.00
+ per share, which was recorded within the Company’s Condensed Consolidated Balance Sheets and the Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity.
+Pursuant to the Series B Purchase Agreement, Pepsi, together with its affiliates, has certain rights and is subject to various restrictions with respect to its ownership of the Company’s outstanding Common Stock on an as-converted basis, including purchases of the Company’s Common Stock in the open market and the accumulation of PIK Dividends.
+Additionally, under the Series B Purchase Agreement, Pepsi currently has the right to designate
+two
+ persons to be nominated by Pepsi for election to the Board, which number of directors may, in certain circumstances, be ratably increased upon a subsequent expansion of the number of persons serving on the Board. Upon the earlier of (i) Pepsi, together with its affiliates, ceasing to beneficially own at least approximately
+31.6
+ million shares of Common Stock (on an as-converted basis) and (ii) the termination of the Captaincy, Pepsi's designation right will be reduced to
+one
+ director. If Pepsi, together with its affiliates, ceases to own at least approximately
+11.0
+ million shares of Common Stock (on an as-converted basis), then Pepsi's Board designation rights will terminate in their entirety. As of March 31, 2026, Pepsi has two designated directors serving on the Board. Notwithstanding that the Preferred Stock is not currently convertible into Common Stock, the Series B Purchase Agreement provides that Pepsi is deemed to beneficially own the underlying shares of Common Stock for purposes of its rights under such agreement.
+28
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Series A Preferred Stock Modification
+In connection with the Series B Purchase Agreement, the Company amended the terms of the Series A Preferred Stock to align the conversion and redemption dates with the newly issued Series B Preferred Stock. The amendment extended the Series A Preferred Stock optional conversion date to August 28, 2032, the automatic conversion date to August 28, 2031, the Company redemption date to August 28, 2032 and the holder redemption dates to August 28, 2032, 2035 and 2038. All other terms, including the cumulative dividend rate, remained unchanged.
+The Company engaged a third-party valuation firm to assist in determining the fair value of the Series A Preferred Stock before and after the modification. The fair value of the Series A Preferred Stock modification reflects the change between the pre-modification and post-modification fair values and was determined using a Monte Carlo simulation model with multiple Level 2 and 3 inputs. Variables included a volatility rate of
+60.0
+%, risk free interest rate of
+3.9
+%, dividend rate of
+5.0
+%, a
+90
+% probability that certain market-based conditions will be met and the closing price of the Common Stock on the modification date of $
+59.69
+.
+This amendment resulted in a non-recurring fair value measurement of an increase in the fair value of the Series A Preferred Stock and was accounted for as a modification considering the fair value immediately before and after the amendment. The Company determined that the change in fair value of the Series A Preferred Stock on the modification date was approximately $
+27.9
+ million, or $
+19.00
+ per share. Accordingly, the Series A Preferred Stock modification was recorded as an adjustment to mezzanine equity, with the $
+27.9
+ million increase reflected in the Company’s Condensed Consolidated Balance Sheets and Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity.
+Terms of Amended Series A Preferred Stock and Series B Preferred Stock are Substantially Identical
+Other than the stated value, conversion price and conversion ratio, the terms of the Amended Series A Preferred Stock and Series B Preferred Stock are substantially identical. As described above, in connection with the issuance of the Series B Preferred Stock, the conversion and redemption periods of the Series A Preferred Stock were extended to match the terms of the newly issued Series B Preferred Stock. In connection with the issuance and sale of the Series B Preferred Stock, the Board adopted resolutions approving a certificate of amendment to the Series A Certificate, which certificate of amendment was approved by Pepsi, as the sole holder of shares of Series A Preferred Stock and filed by the Company with the Secretary of State of the State of Nevada on August 28, 2025. The certificate of amendment modified the Series A Certificate solely to align certain terms contained therein to those contained in the Series B Certificate, including amending certain dates related to redemption and conversion to match those included in the Series B Certificate. Except as otherwise stated, the description of the terms of the Preferred Stock set forth below applies to both the Series A Preferred Stock and the Series B Preferred Stock.
+Liquidation Preference
+The Preferred Stock ranks, with respect to distribution rights and rights on liquidation, winding-up and dissolution, (i) senior and in priority of payment to the Company’s Common Stock, (ii) senior to any class or series of capital stock of the Company expressly designated as ranking junior to the Preferred Stock, (iii) on parity with any class or series of capital stock of the Company expressly designated as ranking on parity with the Preferred Stock (the Series A Preferred Stock and the Series B Preferred Stock rank on parity with one another) and (iv) junior to any class or series of capital stock of the Company expressly designated as ranking senior to the Preferred Stock. The aggregate liquidation preference of the Series A Preferred Stock was $
+550.0
+ million as of both March 31, 2026 and December 31, 2025. The aggregate liquidation preference of the Series B Preferred Stock was $
+585.0
+ million as of both March 31, 2026 and December 31, 2025.
+Voting
+The Preferred Stock confers no voting rights, except as otherwise required by applicable law and with respect to matters that adversely change the powers, preferences, privileges, rights or restrictions given to the Preferred Stock or provided for its benefit or would result in securities that would be senior to or
+ pari passu
+ with the Preferred Stock. As described above, Pepsi has a contractual right to representation on the Board, subject to maintaining certain ownership thresholds.
+Dividends
+The Preferred Stock entitles the holder to cumulative dividends, which are payable quarterly in arrears either in cash, in-kind or a combination thereof, at the Company’s election. These Regular Dividends accrue on each share of Preferred Stock at the rate of
+5.0
+% per annum, subject to adjustment as set forth in the Certificates of Designation. In addition to such quarterly Regular Dividends, shares of Preferred Stock also entitle the holder to participate in any dividends paid on the Company’s Common Stock on an as-converted basis.
+29
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+There were no dividends issued to common stockholders for the three months ended March 31, 2026 and 2025. The Company declared and paid $
+6.8
+ million in Regular Dividends on the Series A Preferred Stock, which amounted to $
+4.62
+ per preferred share for each of the three months ended March 31, 2026 and 2025. The Company declared and paid $
+7.2
+ million in Regular Dividends on the Series B Preferred Stock, which amounted to $
+18.49
+ per preferred share for the three months ended March 31, 2026. There were no cumulative undeclared dividends on the Preferred Stock at March 31, 2026 or 2025.
+Redemption
+Subject to certain conditions set forth in the Certificates of Designation, the Preferred Stock may be redeemed at a price per share of Preferred Stock equal to the sum of (i) the stated value of such share of Preferred Stock (as set forth in the applicable Certificates of Designation) as of the applicable redemption date, plus (ii) without duplication, all accrued and unpaid dividends previously added to the stated value of such share of Preferred Stock and all accrued and unpaid dividends per share of Preferred Stock through such redemption date.
+Company’s Optional Redemption
+At any time from and after the earlier of (i) August 28, 2032, if the Ten-Day VWAP does not exceed the conversion price on the date immediately prior to the date the Company delivers a redemption notice to the holders and (ii) the termination of the A&R Distribution Agreements by the Company, the Company has the right to redeem all (and not less than all) of the then-outstanding shares of one or both of the Series A Preferred Stock or Series B Preferred Stock at the Redemption Price. In the event of the Company's optional redemption, the Company shall effect such redemption by paying the applicable Redemption Price on or before the date that is thirty days after the delivery of the Company’s redemption notice and by redeeming all the shares of the applicable series of Preferred Stock on such date.
+Change in Control Redemption
+In the event of a change in control, as defined by the following scenarios, the Company (or its successor) shall redeem all (and not less than all) of the then-issued and outstanding shares of Preferred Stock: (i) a sale or transfer, directly or indirectly, of all or substantially all of the assets of the Company in any transaction or series of related transactions (other than sales in the ordinary course of business), (ii) any merger, consolidation or reorganization of the Company with or into any other entity or entities as a result of which the holders of the Company’s outstanding capital stock (on a fully-diluted basis) immediately prior to the merger, consolidation or reorganization no longer represent at least a majority of the voting power of the surviving or resulting Company or other entity or (iii) any sale or series of sales, directly or indirectly, beneficially or of record, of shares of the Company’s capital stock by the holders thereof which results in any person or group of affiliated persons owning capital stock holding more than
+50.0
+% of the Company's voting power.
+Upon a change in control redemption, the holder of Preferred Stock will receive, an amount equal to the greater of (i) the Redemption Price in cash and (ii) the cash and/or other assets (including securities) such holder would have received if each share of Preferred Stock were converted into a number of shares of Common Stock equal to the then-applicable conversion ratio and participated in such transaction resulting in such change of control as of the close of business on the business day immediately prior to the effective date of such transaction.
+If the Company or its successor shall not have sufficient funds legally available under the Nevada law governing distributions to stockholders to redeem all outstanding shares of Preferred Stock, then the Company shall (i) redeem, pro rata among the holders, a number of shares of Preferred Stock equal to the number of shares of Preferred Stock that can be redeemed with the maximum amount legally available for the redemption and (ii) redeem all remaining shares of Preferred Stock not redeemed because of the foregoing limitations at the applicable change of control Redemption Price as soon as practicable after the Company (or its successor) is able to make such redemption out of assets legally available for the purchase of such shares of Preferred Stock. The inability of the Company (or its successor) to make a redemption payment for any reason shall not relieve the Company (or its successor) from its obligation to affect any required redemption when, as and if permitted by applicable law.
+Holder Right to Request Redemption
+On each of August 28, 2032, August 28, 2035 and August 28, 2038, the holder of Preferred Stock has the right, upon no less than six months prior written notice to the Company, to request that the Company redeem all (and not less than all) of the then-outstanding shares of such series of Preferred Stock, at the Redemption Price.
+30
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+In the event of a holder-optional redemption, the Redemption Price will be payable and the Company shall redeem the shares in three equal installments. These installments would commence on August 28, 2032, August 28, 2035 or August 28, 2038, as applicable, and in each case on the fifteenth- and thirtieth-month anniversary thereafter. On each redemption date for a holder-optional redemption, the Company will redeem the applicable shares of Preferred Stock on a pro rata basis according to the number of shares owned. The number of outstanding shares will be determined by dividing (i) the total number of shares of the applicable series of Preferred Stock outstanding immediately prior to such redemption date by (ii) the number of remaining redemption dates (including the redemption date to which such calculation applies).
+If, on any redemption date, legal constraints under the Nevada law governing distributions to stockholders or the terms of any indebtedness of the Company to financial institutions prevents the Company from redeeming all shares of Preferred Stock subject to redemption, the Company will ratably redeem the maximum number of shares that it may legally redeem and will redeem the remaining shares as soon as it may lawfully do so.
+Should any shares of Preferred Stock scheduled for redemption on a redemption date remain unredeemed for any reason on such redemption date, the following will occur: from the redemption date to the fifteen-month anniversary of such redemption date, the dividend rate with respect to such unredeemed share will automatically increase to
+8.0
+% per annum. From such fifteenth-month anniversary to the thirtieth-month anniversary of such redemption date, the dividend rate with respect to such unredeemed share will automatically increase to
+10.0
+% per annum. After such thirtieth-month anniversary of such redemption date, the dividend rate with respect to any such unredeemed share will automatically increase to
+12.0
+% per annum, in each case until such share is duly redeemed or converted.
+As of March 31, 2026 and 2025, it was not probable that the Preferred Stock would become redeemable, as the most likely method of settlement is conversion to Common Stock, which is likely to occur before the holder's right to request redemption becomes exercisable.
+Conversion
+The shares of Preferred Stock may be converted into shares of the Company’s Common Stock pursuant to the applicable Certificates of Designation either at the option of the Company or subject to an automatic conversion as discussed below. The Series A Preferred Stock has a conversion price of $
+25.00
+ and a stated value of $
+375.00
+ per share and the Series B Preferred Stock has a conversion price of $
+51.75
+ and a stated value of $
+1,500.00
+ per share. The conversion price is subject to customary adjustment as set forth in the applicable Certificates of Designation. The conversion ratio per share of Preferred Stock is calculated as the quotient of (a) the sum of (x) the stated value of such share of Preferred Stock as of the applicable conversion date, plus (y) all accrued and unpaid dividends previously added to the stated value of such share of Preferred Stock and without duplication, all accrued and unpaid dividends per share of Preferred Stock through the applicable conversion date; divided by (b) the conversion price as of the conversion date. As of March 31, 2026, the conversion ratio of the Series A Preferred Stock into Common Stock was 1-to-15 and the conversion ratio of the Series B Preferred Stock was 1-to-28.99. The Company will not issue fractional shares of Common Stock upon conversion of the Preferred Stock; instead, holders will receive a cash payment in lieu of any fractional share amount, which is determined based on the product of the fractional share and the Ten-Day VWAP as of the applicable conversion date. At March 31, 2026, approximately
+22.0
+ million and
+11.3
+ million shares of Common Stock were issuable upon conversion of the Series A Preferred Stock and the Series B Preferred Stock, respectively.
+Company Optional Conversion
+At any time from and after August 28, 2032, provided the Ten-Day VWAP immediately prior to the date the Company delivers a conversion notice to the holders of the applicable series of Preferred Stock exceeds the conversion price of such series, the Company may elect to convert all, but not less than all, of the outstanding shares of such series of Preferred Stock into shares of the Company’s Common Stock.
+Automatic Conversion
+The Preferred Stock will convert automatically into shares of the Company’s Common Stock upon the occurrence of any of the following, each an “Automatic Conversion Event”:
+•
+Any date from and after the valid termination of the A&R Distribution Agreements by the Company or Pepsi, if the Ten-Day VWAP immediately preceding such date exceeds the conversion price of such share of Preferred Stock as of such date.
+•
+Any date from and after August 28, 2031, on which (i) the Company’s products meet a market share requirement during a specified period (as defined in the A&R Distribution Agreements) and (ii) the Ten-Day VWAP immediately prior to such date exceeds the conversion price of such share of Preferred Stock as of such date.
+31
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+In the case of an Automatic Conversion Event with respect to a series of Preferred Stock, each share of such series of Preferred Stock then outstanding shall be converted into the number of shares of Common Stock equal to the conversion ratio of such share of Preferred Stock in effect as of the automatic conversion date. The occurrence of an Automatic Conversion Event will terminate any right of the holder of Preferred Stock to receive a redemption at their request even if such request had already been submitted, provided that the applicable series of Preferred Stock had not already been redeemed.
+Mezzanine Classification
+The Preferred Stock is redeemable in the event of a change in control as defined in the applicable Certificates of Designation and at the holder's option as described above. ASC 480,
+Distinguishing Liabilities from Equity
+, specifically ASC 480-10-S99-3A, requires preferred securities that are redeemable for cash or other assets to be classified outside of permanent equity if they are redeemable (i) at a fixed or determinable price on a fixed or determinable date, (ii) at the option of the holder or (iii) upon the occurrence of an event that is not solely within the control of the issuer. Preferred securities that are mandatorily redeemable are required to be classified by the issuer as liabilities whereas under ASC 480 an issuer should classify a preferred security whose redemption is contingent on an event not entirely in control of the issuer as mezzanine equity. The Preferred Stock is not considered mandatorily redeemable other than in the event of a change of control and a change in control is not solely in control of the Company. Accordingly, the Company determined that mezzanine treatment is appropriate for the Preferred Stock and has presented it as such in the Condensed Consolidated Balance Sheets and Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity
+.
+13.    
+SHAREHOLDERS' EQUITY
+Stock-based Compensation
+On May 28, 2025, the Company's stockholders approved the 2025 Plan which has the objective of attracting and retaining skilled personnel and to enable the Company to grant equity compensation awards and other types of incentive compensation. As of March 31, 2026, there were
+4.7
+ million shares of Common Stock available for issuance under the 2025 Plan.
+The 2015 Plan, which was adopted on April 30, 2015 and expired in 2025, had the objective of attracting and retaining skilled personnel and enabled the Company to grant equity compensation awards and other types of incentive compensation. As of March 31, 2026, there were
+1.0
+ million unvested awards under the 2015 Plan and certain vested but unexercised awards remained outstanding.
+No
+ further awards can be granted under the 2015 Plan.
+A summary of the Company’s RSU and PSU activity for the three months ended March 31, 2026 and 2025 is presented in the following table:
+Three Months Ended March 31,
+2026
+2025
+RSUs/PSUs (000's)
+Weighted
+Average
+Grant Date
+Fair Value
+RSUs/PSUs (000's)
+Weighted
+Average
+Grant Date
+Fair Value
+Unvested at beginning of period
+2,054
+$
+36.66
+ 
+1,021
+$
+45.09
+ 
+Granted
+805
+$
+54.75
+ 
+1,074
+$
+26.41
+ 
+Vested
+(
+478
+)
+$
+34.83
+ 
+(
+249
+)
+$
+44.09
+ 
+Forfeited and cancelled
+(
+191
+)
+$
+39.13
+ 
+(
+10
+)
+$
+50.81
+ 
+Unvested at end of period
+2,190
+$
+43.49
+ 
+1,836
+$
+34.27
+ 
+A summary of PSU awards granted during the three months ended March 31, 2026, is as follows:
+Grant Date
+Number of
+Shares (000's)
+Performance Period
+Metrics
+Grant Date Fair Value
+February 27, 2026
+67
+2026-2028
+Revenue
+ rTSR
+Revenue - $
+53.61
+rTSR - $
+81.38
+March 2, 2026
+4
+2026-2028
+Revenue
+ rTSR
+Revenue - $
+49.25
+rTSR - $
+72.33
+32
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Treasury Stock
+Share Repurchase Program
+In November 2025, the Board approved a share repurchase program under which the Company may repurchase up to $
+300.0
+ million of its outstanding Common Stock. Share repurchases may be made from time to time through open market transactions, privately negotiated transactions and accelerated share repurchase transactions, arrangements or other methods, including transactions executed pursuant to a pre-set trading arrangement intended to satisfy the requirements of Rule 10b5-1(c) of the Exchange Act. As of March 31, 2026, $
+236.1
+ million remained available for repurchase under the program. The program does not obligate the Company to repurchase any shares, has no expiration date and may be modified, suspended, or terminated by the Board at any time at its discretion.
+During the three months ended March 31, 2026, the Company repurchased approximately
+0.7
+ million shares of Common Stock at a weighted average price of $
+35.39
+ per share, for a total repurchase cost of $
+24.1
+ million, including commissions. There were
+no
+ share repurchases during the three months ended March 31, 2025. As of March 31, 2026, none of the repurchased shares had been reissued.
+Employee Withhold-To-Cover Taxes
+To satisfy employees’ tax withholding obligations, the Company uses net settlement, under which shares of Common Stock are withheld upon vesting and the related taxes are paid by the Company in cash. For the three months ended March 31, 2026 and 2025, $
+8.8
+ million and $
+1.9
+ million, respectively, were recorded for these net settlements. These amounts are reflected as repurchases of Common Stock related to tax withholdings in the Condensed Consolidated Statements of Changes in Stockholders’ Equity and Mezzanine Equity and in the Condensed Consolidated Statements of Cash Flows.
+Employee Stock Purchase Plan
+In February 2025, the Board approved the Company’s 2025 ESPP, which authorized the issuance of up to
+850,000
+ shares of Common Stock. The ESPP is intended to qualify as an “employee stock purchase plan” under Section 423 of the Internal Revenue Code. Eligible employees may elect to participate in the ESPP through payroll deductions of up to 15% during designated six-month offering periods. The first offering period commenced in January 2026. On each purchase date, accumulated payroll deductions will be used to purchase shares at a price equal to 85% of the lower of the Company's stock price on the applicable offering period start date or on the purchase date. Participants may withdraw from the ESPP in accordance with the plan’s terms and receive a refund of accumulated contributions that have not yet been used to purchase shares. The fair value of the discount associated with shares purchased under the plan is recognized as stock-based compensation expense over the offering period. Forfeitures are recognized as they occur.
+14.    
+SEGMENT REPORTING
+The Company functions as a single operating and reportable segment because its operations and strategies are centrally managed and remain significantly similar across the geographical regions in which it operates. The CODM evaluates operating results and allocates resources on a consolidated basis due to the significant economic interdependencies between the Company's geographical operations and its brands. The CODM does not regularly review asset information or other balance sheet data; accordingly, the Company does not disclose specific asset information for its single reportable segment herein.
+33
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+The following table reflects certain financial data for the Company's single reportable segment:
+Three Months Ended March 31,
+ 
+2026
+2025
+Revenue
+$
+782,615
+ 
+$
+329,276
+ 
+Cost of revenue (excluding outbound freight)
+(
+348,826
+)
+(
+142,476
+)
+Outbound freight
+(
+55,722
+)
+(
+14,427
+)
+Gross profit
+378,067
+ 
+172,373
+ 
+Selling and marketing expenses
+(
+150,593
+)
+(
+80,898
+)
+General and administrative expenses
+(
+84,054
+)
+(
+39,444
+)
+Distributor termination fees
+(
+4,427
+)
+—
+ 
+Other (expense) income, net
+(
+1,457
+)
+8,962
+ 
+Net income before provision for income taxes
+$
+137,536
+ 
+$
+60,993
+ 
+Provision for income taxes
+(
+27,437
+)
+(
+16,574
+)
+Net income
+$
+110,099
+ 
+$
+44,419
+ 
+15.    
+COMMITMENTS AND CONTINGENCIES
+Legal
+Securities Litigation Concerning the Pepsi Distribution Agreement
+The Company and individual executives were named as defendants in two putative securities class actions, both filed in the U.S. District Court for the Southern District of Florida and concerning, among other things, allegedly false and misleading statements or omissions concerning the Company’s distribution agreement with Pepsi and the Company’s growth. The first putative securities class action was filed on November 22, 2024. The complaint asserts claims for violations of Section 10(b) of the Exchange Act, Rule 10b-5 promulgated thereunder and Section 20(a) of the Exchange Act. The second putative securities class action was filed on January 14, 2025. The complaint also asserts claims for violations of Section 10(b) of the Exchange Act, Rule 10b-5 promulgated thereunder and Section 20(a) of the Exchange Act. On March 3, 2025, the Court issued the Securities Class Action and appointed Lead Plaintiff and Lead Counsel. The Lead Plaintiff filed an Amended Complaint on April 25, 2025, naming the Company, its CEO, CFO and Chief of Staff as defendants. The Amended Complaint asserts claims for violations of Section 10(b) of the Exchange Act, Rule 10b-5 promulgated thereunder and Section 20(a) of the Exchange Act. The Amended Complaint was filed on behalf of stockholders who purchased or otherwise acquired shares of the Company’s stock between May 9, 2023 and November 5, 2024. On June 13, 2025, the Company filed a motion to dismiss seeking complete dismissal of all claims. After full briefing, the Magistrate Judge issued a Report and Recommendation on December 4, 2025, recommending that the motion to dismiss be granted. Lead Plaintiff filed an objection to the Report and Recommendation, and the Company responded. On March 31, 2026, the District Court adopted the Magistrate Judge’s recommendation and dismissed the securities class action. The Lead Plaintiff filed a second amended complaint on April 20, 2026. The Company intends to move to dismiss at the appropriate time.
+The Company has been named as a nominal defendant and certain of its current and former executive officers and directors have been named as defendants in derivative actions pending in federal and state court in Nevada, concerning, among other things, allegedly false and misleading statements or omissions concerning the Company’s distribution agreement with Pepsi and the Company’s growth. The first of these derivative actions was filed on December 16, 2024, in the U.S. District Court of the District of Nevada, the Dobler Derivative Action. The Company was named as a nominal defendant. The complaint asserts claims for (i) violations of Section 14(a) of the Exchange Act, (ii) breach of fiduciary duty, (iii) unjust enrichment, (iv) waste of corporate assets, (v) gross mismanagement, (vi) abuse of control and (vii) contribution under Section 10(b) and 21D of the Exchange Act, solely against the Company’s CEO and CFO.
+34
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+The second of these derivative actions was filed on January 31, 2025, in the U.S. District Court of the District of Nevada, the Stoyanoff Derivative Action. The Company was named as a nominal defendant. The complaint asserts claims for (i) breach of fiduciary duty, (ii) aiding and abetting breach of fiduciary duty, (iii) unjust enrichment, (iv) violations of Section 14(a) of the Exchange Act and Rule 14a-9, (v) abuse of control and (vi) waste of corporate assets. The Dobler Derivative Action and the Stoyanoff Derivative Action were consolidated on March 5, 2025 into the Consolidated Derivative Action and have been stayed through a decision on the motion to dismiss in the Securities Class Action. The third of these derivative actions was filed on February 7, 2025, in District Court, Clark County, Nevada, the Sunny Derivative Action. The complaint asserts claims for (i) breach of fiduciary duty, (ii) unjust enrichment, (iii) abuse of control and (iv) waste of corporate assets. The fourth of these derivative actions was filed on February 11, 2025, also in District Court, Clark County, Nevada, the Murphy Derivative Action. The complaint asserts claims for (i) breach of fiduciary duty and (ii) unjust enrichment. The fifth of these derivative actions was filed on March 31, 2025, also in District Court, Clark County, Nevada, the Flannery Derivative Action. The Flannery Derivative Action, together with the Sunny Derivative Action and Murphy Derivative Action, are referred to as the State Court Derivative Actions. The complaint asserts claims for (i) breach of fiduciary duty and (ii) unjust enrichment. The State Court Derivative Actions were consolidated on June 9, 2025 and have been stayed through a decision on the motion to dismiss in the Securities Class Action.
+The Company believes that the claims asserted in the foregoing putative securities class actions and derivative actions are without merit and that the likelihood of loss is remote. However, the ultimate outcome of these actions may differ materially from the Company’s current expectations and the Company is unable to reasonably estimate a range of losses at this time. The Company will vigorously defend itself and its current and former executive officers and directors.
+California Consumer Class Action
+On January 22, 2025, the Company and certain individuals were named as defendants in a putative class action filed in the U.S. District Court for the Central District of California. The complaint alleges, on behalf of a putative nationwide class of all purchasers of Celsius products, that plaintiff and other class members were misled regarding the alleged financial relationship between Celsius and the individual defendants, who allegedly promoted the Company’s products on social media. The complaint asserts claims for (i) violation of California’s Consumers Legal Remedies Act and Unfair Competition Law, (ii) unjust enrichment and (iii) negligent misrepresentation. On August 18, 2025, the court dismissed the plaintiff's complaint with leave to amend. On September 15, 2025, the plaintiff filed an amended complaint premised on the same claims. On October 15, 2025, a motion to dismiss, or in the alternative, transfer, the amended complaint was filed on behalf of all defendants. On November 11, 2025, plaintiff filed its brief in opposition to the motion and on November 26, 2025, the Company filed its reply brief in further support of the motion.
+
+Briefing is complete and the court held an oral argument on the motion on February 3, 2026. Following oral argument, the motion remains pending before the court.
+The Company believes that the claims asserted in this putative class action are without merit and that the likelihood of loss is remote. However, the ultimate outcome of these actions may differ materially from the Company’s current expectations and the Company is unable to reasonably estimate a range of losses at this time. The Company will vigorously defend itself against this allegation.
+Strong Arm Productions
+On May 4, 2021, plaintiffs Strong Arm Productions USA, Inc., Tramar Dillard professionally known as Flo Rida and D3M Licensing Group, LLC filed a lawsuit against the Company in the Circuit Court of the 17th Judicial Circuit in and for Broward County, Florida. Plaintiffs asserted that the Company breached two endorsement and licensing agreements that were entered into between Plaintiffs and the Company in 2014 and 2016. Plaintiffs alleged the Company had reached certain revenue and sales benchmarks set forth in the 2014 agreement that entitled them to receive
+2.25
+ million shares (as adjusted for the Forward Stock Split) of the Company's Common Stock. In addition, the Plaintiffs claimed they were entitled to receive unspecified royalties under the 2016 agreement.
+A jury trial commenced on this matter on January 10, 2023. On January 18, 2023, the jury rendered a verdict against the Company for $
+82.6
+ million in compensatory damages. On June 27, 2023, the court denied the Company’s post-trial motions which sought (i) dismissal of the case notwithstanding the verdict based on the plain language of the contracts at issue, (ii) in the alternative, granting a new trial or (iii) in the alternative, reducing the award of damages to $
+2.1
+ million, which reflects the Company’s stock price on the date that the jury found the relevant revenue and sales benchmarks at issue were met. The Company believed that the jury verdict was not supported by the facts of the case or applicable law and was the result of significant trial error and that there were strong grounds for appeal. The Company filed a notice of appeal to the Fourth DCA for the State of Florida on February 21, 2023. By order dated December 11, 2024, the Fourth DCA granted the Company’s requested relief, in part, by vacating the amount of the jury’s verdict and remanding for further fact finding on the appropriate amount of damages, while affirming the jury’s finding of liability. On December 19, 2024, the Company requested that the DCA rehear the appeal and on February 6, 2025, the DCA denied that rehearing request. On February 28, 2025, the Company filed a Notice to Invoke Discretionary Jurisdiction of the Florida Supreme Court. The Florida Supreme Court denied the Company’s request for discretionary review on November 12, 2025, foreclosing further appeal.
+35
+Celsius Holdings, Inc.
+Notes to the Condensed Consolidated Financial Statements (Unaudited)
+March 31, 2026
+(Tabular dollars in thousands, except per share amounts)
+Following remand, the trial court held a case management conference on January 27, 2026. At the conference, the trial court denied the Plaintiffs' request to strike the Company’s motion for summary judgment and ordered the Plaintiffs to respond to the Company's motion for summary judgment. The Plaintiffs filed their opposition brief and cross-motion for summary judgment on February 12, 2026, and a supplemental opposition brief on February 16, 2026. The Company filed its reply brief on February 20, 2026. The trial court held the oral argument on the motion for summary judgment on April 2, 2026, and on April 17, 2026, entered judgment in favor of the Plaintiffs in the amount of $
+101.1
+ million, inclusive of prejudgment interest. The Company intends to appeal the trial court's ruling on the summary judgment.
+The Company has estimated a range of possible outcomes between $
+60.4
+ million and $
+105.0
+ million, inclusive of prejudgment interest and attorney's fees. The Company accrued a liability in the amount of $
+85.0
+ million representing management's best estimate within the range of possible outcomes, reflected in accrued expenses in the Condensed Consolidated Balance Sheets as of March 31, 2026. The ultimate amount of the judgment that the Company may be required to pay may include additional attorney's fees and interest incurred between March 31, 2026 and the payment date, and could be materially different than the amount the Company has accrued. The Company cannot predict or estimate the duration or ultimate outcome of this matter.
+On December 26, 2025, the same plaintiffs filed a new lawsuit against the Company, alleging that they are entitled to perpetual royalties at ten cents per case on each case of Sparkling Orange Celsius sold domestically from January 1, 2021, and asserting two causes of action, one for breach of contract and a second for an accounting. The Company was served with process in the lawsuit on April 10, 2026, and filed a motion to dismiss on April 30, 2026. The Company denies any wrongdoing and plans to vigorously defend the suit. The Company cannot predict or estimate the duration or ultimate outcome of this matter.
+Eniva Trademark Litigation Concerning Vibe-Formative Marks
+On March 20, 2025, the Company filed a declaratory judgment action in the U.S. District Court for the District of Minnesota against Eniva, seeking a declaration that the Company's use and registration of various VIBE-formative marks do not infringe Eniva’s trademark rights. The dispute follows proceedings filed by Eniva at the Trademark Trial and Appeal Board, alleging that the Company's marks are likely to cause confusion with its own VIBE-registered mark used on liquid dietary supplements.
+On April 10, 2025, Eniva filed its answer and counterclaims, asserting, among other things, that the Company's use of the VIBE-formative marks constitutes trademark infringement under federal and state law, false designation of origin and unfair competition. Eniva further seeks an order declaring that the Company is not entitled to register its marks. Eniva seeks injunctive relief, damages, cancellation of the Company’s trademark applications and attorneys’ fees. An initial status hearing was held on February 2, 2026, and pursuant to the case schedule, dispositive motions are due on or before October 1, 2026. The Company believes the claims are without merit and intends to vigorously defend its rights to use its intellectual property. The Company accrued a liability of $
+0.2
+ million related to this matter as of March 31, 2026. The ultimate outcome may differ materially from the Company’s current expectations and the Company is unable to reasonably estimate a range of losses in excess of the amount accrued.
+Larissa Rodriguez v. Glazer’s
+On April 8, 2026, a wrongful-death action was filed in the District Court of Hidalgo County, Texas by the parents of Larissa Rodriguez against Glazer’s Beer and Beverage, LLC and Glazer’s Beer and Beverage of Texas, LLC, a former local distributor of Alani Nu products. The complaint alleges, among other things, that Ms. Rodriguez consumed one or more Alani Nu energy drinks and later died from cardiomyopathy allegedly caused by excessive caffeine consumption, and that the product was marketed toward minors without adequate warnings regarding alleged caffeine-related risks.
+The Company is not currently named as a defendant, but the matter relates to Alani Nu products and the Company has an obligation to indemnify the named defendants for a loss arising out of any actual or alleged injury or damages suffered in connection with the consumption or purchase of Alani Nu. The Company has provided notice of the matter to its insurers. The Company believes that the claims are without merit. The Company is unable to predict the duration or ultimate outcome of this matter.
+Commitments
+As of March 31, 2026, the Company had purchase commitments to third parties of approximately $
+982.9
+ million due over the next five years. These purchase obligations are primarily related to third-party suppliers and have arisen through the normal course of business. Contracts that require the Company to purchase all or a portion of its requirements for a specific product or service from a supplier, but do not specify a fixed or minimum quantity, are excluded from the obligations quantified above.
+In addition, the Company from time to time enters into certain types of contracts that contingently require the Company to indemnify parties against third-party claims. These contracts primarily relate to certain distribution agreements under which the Company may have to indemnify the Company’s customers from any claim, liability or loss arising out of any actual or alleged injury or damages suffered in connection with the consumption or purchase of the Company’s products or the use of Company trademarks. The terms of such obligations vary and typically, a maximum obligation is not explicitly stated.
+36
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+When used in this Quarterly Report, unless otherwise indicated, the terms the “Company,” “Celsius,” “we,” “us” and “our” refer to Celsius Holdings, Inc. and its consolidated subsidiaries.
+Definitions of key terms can be found in the Master Glossary. Unless otherwise noted, tabular dollars are presented in thousands, except per share amounts.
+Cautionary Note Regarding Forward-Looking Statements
+This Quarterly Report contains forward-looking statements that are based on the current expectations of our Company about future events within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act and Section 21E of the Securities Exchange Act of 1934, as amended, and are made in reliance on the safe harbor protections provided thereunder. While we have specifically identified certain information as being forward-looking in the context of its presentation, we caution you that all statements contained in this Quarterly Report that are not clearly historical in nature, including statements regarding our ability to successfully integrate Alani Nu and Rockstar; the strategic investment by and long-term partnership with
+Pepsi
+, including our responsibilities under the Captaincy and the A&R Distribution Agreements; anticipated financial performance; management’s plans and objectives for international expansion and future operations globally; the successful development, commercialization and timing of new products; business prospects; outcomes of regulatory proceedings or actions; market conditions; the current and future market size for existing or new products; the impact of macroeconomic conditions, tariff policies and supply chain constraints or cost increases; potential effects of emerging climate-related disclosure laws such as California’s Climate Accountability Package; ongoing and potential litigation matters; the impact of third parties attempting to replicate our product attributes; and any stated or implied outcomes with regard to the foregoing, including future tax changes under the OBBBA; and other matters are forward-looking.
+Without limiting the generality of the preceding sentences, any time we use the words “expects,” “intends,” “will,” “anticipates,” “believes,” “confident,” “continue,” “propose,” “seeks,” “could,” “may,” “should,” “estimates,” “forecasts,” “might,” “goals,” “objectives,” “targets,” “planned,” “projects,” and, in each case, their negative or other various or comparable terminology, and similar expressions, we intend to clearly express that the information deals with possible future events and is forward-looking in nature. However, the absence of these words or similar expressions does not mean that a statement is not forward-looking. Particular uncertainties that could cause our actual results to be materially different than those expressed in our forward-looking statements include, without limitation:
+•
+Our ability to successfully integrate businesses that we may acquire, achieve the expected benefits of such acquisitions and to manage multiple brands across our product portfolio;
+•
+The potential negative impact that we could realize as a result of businesses that we may acquire;
+•
+Liabilities of businesses that we may acquire that are not known to us;
+•
+Our ability to maintain a strong relationship with
+Pepsi
+ or any of our other distributors, including our ability to successfully execute our responsibilities under the Captaincy and the A&R Distribution Agreements;
+•
+The increased ownership stake and additional Board representation by
+Pepsi
+ may allow it to exert greater influence over our strategic and governance decisions;
+•
+The impact of the consolidation of retailers, wholesalers and distributors in the industry;
+•
+Our reliance on key distributor partnerships;
+•
+The potential impact of terminating distributor relationships, including exposure to contractual, statutory or regulatory claims, increased costs, litigation risk and intensified competitive pressures;
+•
+Our ability to maintain strong relationships with our customers and with co-packers to manufacture our products;
+•
+Our failure to accurately estimate demand for our products;
+•
+The impact of increases in cost or shortages of raw materials or increases in costs of co-packing;
+•
+Our ability to successfully estimate and/or generate demand through the use of third-parties, including celebrities, social media influencers and others, may expose us to risk of negative publicity, litigation and/or regulatory enforcement action;
+•
+The impact of additional labeling or warning requirements or limitations on the marketing or sale of our products;
+•
+Our ability to successfully expand outside of the U.S. and the impact of U.S. and international laws, including export and import controls and other risk exposure;
+•
+Our ability to successfully complete or manage strategic transactions, successfully integrate and manage our acquired businesses, brands or bottling operations or successfully realize a significant portion of the anticipated benefits of our joint ventures or strategic relationships;
+•
+Our ability to protect our brand, trademarks, proprietary rights and our other intellectual property, and the impact of third parties attempting to create lower-cost products that attempt to replicate our product attributes;
+37
+•
+The impact of internal and external cyber-security threats and breaches, including risks arising from emerging artificial intelligence-enabled threats;
+•
+Our ability to comply with data privacy and personal data protection laws;
+•
+Our ability to effectively manage future growth;
+•
+The impact of global or regional catastrophic events on our operations and ability to grow;
+•
+The impact of any actions by the U.S. Food and Drug Administration regarding the manufacture, composition/ingredients, packaging, marketing/labeling, storage, transportation and/or distribution of our products, or any required or elective recall of our products from distribution;
+•
+The impact of any actions by any regulatory bodies on our advertising;
+•
+The impact of current and potential litigation matters, whether or not successful, on our brand, reputation, results of operations, and cash flows;
+•
+Our ability to effectively compete in the functional beverage product industry and the strength of such industry;
+•
+The impact of changes in consumer product and shopping preferences;
+•
+The impact of changes in government regulation and our ability to comply with existing and emerging regulation concerning energy drinks, including climate-disclosure and environmental-reporting requirements;
+•
+The potential effects of tariffs, macroeconomic instability or inflationary pressures on our supply chain, operating costs and consumer demand;
+•
+Our ability to execute any share repurchase program, including the timing, amount and funding of any repurchases and the potential impact of such repurchases on our liquidity and the trading price of our Common Stock;
+•
+Other statements regarding our future operations, financial condition, prospects and business strategies; and
+•
+Those factors contained in this Quarterly Report under the heading, "Risk Factors".
+Forward-looking statements and information involve risks, uncertainties and other factors that could cause actual results to differ materially from those expressed or implied in or reasonably inferred from, such statements, including without limitation, the risks and uncertainties disclosed or referenced in Part I, Item 1A
+ Risk Factors
+of our Annual Report. Therefore, caution should be taken not to place undue reliance on any such forward-looking statements. Much of the information in this Quarterly Report that looks toward future performance is based on various factors and important assumptions about future events that may or may not actually occur. As a result, our operations and financial results in the future could differ materially and substantially from those we have discussed in the forward-looking statements included in this Quarterly Report. We assume no obligation (and specifically disclaim any such obligation) to publicly update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by law.
+38
+Our Business
+Executive-Level Overview
+Celsius is a functional energy drink company operating in the U.S. and internationally. Our portfolio consists of three brands: CELSIUS
+®
+, our core functional energy brand; Alani Nu
+®
+, a wellness-focused energy and nutrition brand acquired in April 2025; and Rockstar
+®
+, an established energy brand with a strong heritage, acquired in August 2025. Together, these brands form a differentiated, multi-brand platform designed to serve distinct consumers, occasions and energy needs, supporting functional performance, better-for-you formulations and active lifestyles.
+CELSIUS
+®
+ is a functional energy brand offering products across a range of formats, including ready-to-drink, on-the-go powder and hydration, designed to support active and wellness-oriented lifestyles for consumers who are 18 years and older. Our product range is widely available across the U.S. and in select territories in Canada in various retail outlets, including grocery stores, natural product stores, convenience stores, fitness centers, mass retailers, vitamin specialty stores and through e-commerce platforms. Moreover, our products are offered in select markets in Europe, the Middle East and the Asia-Pacific region as we have continued to expand our global presence.
+Alani Nu expands our portfolio further into wellness and nutrition, broadening our reach across consumers, occasions and product formats, with a product range spanning energy drinks, pre-workout formulas, protein beverages and supplements. With a strong following among Gen Z and female consumers, who are 18 years and older, Alani Nu enhances our ability to connect with key consumer segments, strengthens our innovation pipeline and supports continued expansion.
+Rockstar Energy further strengthens our total energy portfolio by adding both full-sugar and zero-sugar offerings that complement our existing brands. With established brand equity, Rockstar enhances our ability to serve core energy consumers who are 18 years and older. Together, our brands enable a portfolio-led approach to serving diverse consumer preferences across performance, lifestyle and traditional energy occasions.
+We engage in developing, manufacturing, processing, marketing, selling and distributing Celsius, Alani Nu and Rockstar products. Our operational model strategically relies primarily on co-packers for the manufacture and supply of our products, leveraging their specialized expertise and scalable production capabilities. Additionally, we utilize our in-house manufacturing facility to complement our strategic use of co-packers. This approach allows us to maintain flexibility in responding to market demands and to focus our resources on innovation, marketing and expanding our distribution channels. We continuously assess and work to optimize our supply chain to ensure quality, consistency and timely delivery to our customers.
+Building on the long-term distribution arrangement that we originally established with Pepsi in August 2022, we entered into a series of transactions on the Closing Date of the Pepsi Transactions that expanded our strategic partnership. These included (i) the Rockstar Acquisition, (ii) the issuance of Series B Preferred Stock and amendment of the existing Series A Preferred Stock and (iii) the execution of the A&R Distribution Agreements, which designate Pepsi as the primary distributor of our Alani Nu and Rockstar products in the U.S. and Canada. Under the enhanced commercial arrangement, Pepsi has agreed to use its commercially reasonable efforts to sell and distribute our full portfolio of products in the U.S. in accordance with the Captaincy.
+Impact of Macroeconomic Trends
+The imposition of tariffs, including U.S. tariffs imposed or threatened to be imposed on other countries and any tariffs imposed by such countries, have impacted and could continue to impact our supply chain, including the cost of certain raw materials and packaging, including aluminum. In February 2026, the U.S. Supreme Court ruled that tariffs imposed under the International Emergency Economic Powers Act were unlawful, and those duties were subsequently terminated. While this may present a potential refund opportunity, the pathway and timing of any such refunds remain uncertain. The current administration has since imposed alternative tariffs under other statutory authority, and we continue to monitor developments. Any supply chain constraints, inflationary impacts, or reduced consumer demand as a result of such tariffs or ongoing macroeconomic uncertainty could impact our results.
+Similarly, the ongoing conflict in the Middle East, including tensions involving Iran, has impacted and could continue to impact our operations through increased fuel, energy and transportation costs, as well as supply chain disruptions and increased cost of aluminum. Although we sell products in the Middle East, revenue from that region is not material to our overall results, and we do not anticipate the conflict to have a meaningful direct impact on our net sales.
+The rapidly changing nature of global trade policies, tariff regulations, geopolitical developments and other aspects of the macroeconomic environment make it difficult to reasonably estimate potential future impacts on our cost structure and results of operations.
+39
+Impact of One Big Beautiful Bill Act
+On July 4, 2025, the OBBBA was signed into law in the U.S. The legislation introduced a wide array of changes to the U.S. corporate tax system, including permanent extensions of certain provisions of the Tax Cuts and Jobs Act of 2017 and substantial modifications to the international tax regime applicable to U.S. multinational corporations. Significant provisions include the permanent restoration of 100% bonus depreciation for qualifying property, changes to the global intangible low-taxed income regime, now referred to as net CFC tested income, the treatment of foreign tax credits, and the foreign-derived intangible income deduction. We evaluated the applicable OBBBA provisions and incorporated their impact into our March 31, 2026 financial statements. The impact of the OBBBA provisions is not expected to have a material impact on our 2026 annual effective tax rate.
+Results of Operations
+Three months ended March 31, 2026 compared to three months ended March 31, 2025
+Revenue
+For the three months ended March 31, 2026, revenue was approximately $782.6 million, an increase of $453.3 million or 137.7%, from $329.3 million for the three months ended March 31, 2025.
+For the three months ended March 31, 2026, revenue in North America increased by $440.8 million, or 143.8%, compared to the three months ended March 31, 2025. The increase was driven primarily by the Alani Nu Acquisition, which contributed approximately $368.1 million. Approximately $66.6 million of the increase was attributable to the Rockstar Acquisition.
+European revenues for the three months ended March 31, 2026 were approximately $25.4 million, representing an increase of $6.7 million, or 35.9%, compared to the three months ended March 31, 2025. Asia-Pacific revenues generated approximately $7.0 million for the three months ended March 31, 2026, with other international markets contributing an additional $3.0 million in revenue for the same period. Our international markets have continued to expand, driven by new market launches and continued investment in distribution, marketing and strategic partnerships to support long-term growth.
+The following table sets forth revenue by geographical location:
+Three Months Ended March 31,
+2026
+2025
+ Change
+North America
+$
+747,316 
+$
+306,534 
+143.8 
+%
+Europe
+25,354 
+18,659 
+35.9 
+%
+Asia-Pacific
+6,995 
+2,244 
+211.7 
+%
+Other
+2,950 
+1,839 
+60.4 
+%
+Revenue
+$
+782,615
+ 
+$
+329,276
+ 
+137.7 
+%
+Gross Profit
+For the three months ended March 31, 2026, gross profit increased by $205.7 million to $378.1 million, an increase of 119.3%, from $172.4 million for the three months ended March 31, 2025. Gross profit margin decreased to 48.3% for the three months ended March 31, 2026 from 52.3% for the three months ended March 31, 2025. The decrease in gross profit margin was primarily driven by increased promotional activity as a percentage of revenue and increased aluminum costs. Freight costs also contributed to margin compression, driven by integration-related freight disruptions, increased freeze protection and tariffs.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses for the three months ended March 31, 2026 were $234.6 million, an increase of $114.3 million, or 95.0%, from $120.3 million for the three months ended March 31, 2025. The increase was primarily driven by incremental costs associated with the expansion of our portfolio from one brand to three brands, including increased investment in brand awareness and marketing initiatives, higher employee and professional service costs and other expenses associated with supporting and marketing three brands. The current period also included acquisition-related transition, integration, and intangible asset amortization costs that were not present in the prior year period. Additionally, the current period reflected charges of $25.5 million related to an ongoing legal matter. These increases were partially offset by a decrease in deal and transaction costs that were higher in the prior year in connection with completing the Alani acquisition.
+40
+Distributor Termination Fees
+For the three months ended March 31, 2026, we recorded $4.4 million of distributor termination fees related to the termination of certain former Alani Nu distributors, primarily reflecting adjustments to previously accrued amounts based on information that was not available as of December 31, 2025. There were no such expenses for the three months ended March 31, 2025.
+Other (Expense) Income
+Total other expense was $1.5 million for the three months ended March 31, 2026, compared to total other income of $9.0 million for the three months ended March 31, 2025, reflecting an expense increase of $10.5 million. The changes in total other (expense) income reflect an $11.8 million increase in interest expense related to our outstanding debt, whereas no such debt existed in the prior-year period, and a $4.9 million decrease in interest income as a result of lower average cash balances as we utilized our cash reserves for strategic investments and share repurchase activities. These changes were partially offset by a $6.2 million increase in other income, net, primarily reflecting sales of Rockstar products for which we acted as an agent under a transition services agreement during the three months ended March 31, 2026. This arrangement is transitional in nature, with no comparable activity in the prior-year period.
+Provision for Income Taxes
+The effective income tax rate for the three months ended March 31, 2026 was 19.9% compared to 27.2% in the comparable prior year period. The decrease in the effective tax rate was due primarily to foreign tax credit utilization and windfall tax benefits on the vesting of restricted stock. The effective tax rate for the three months ended March 31, 2026 varied from the U.S. statutory rate due primarily to the geographical mix of earnings and permanent tax differences related to stock compensation.
+We are subject to U.S. federal income tax as well as income tax in multiple state and foreign jurisdictions. Our tax returns for tax years beginning 2021 remain subject to potential examination by the taxing authorities.
+Net Income Attributable to Common Stockholders
+Net income attributable to common stockholders for the three months ended March 31, 2026 was $85.1 million, representing basic EPS of $0.33 based on a basic weighted average of 257.0 million shares outstanding. In comparison, for the three months ended March 31, 2025, net income attributable to common stockholders was $34.4 million, representing basic EPS of $0.15 based on a weighted average of 235.2 million shares outstanding. Diluted EPS was $0.33 and $0.15 for the three months ended March 31, 2026 and 2025, respectively.
+The increase in net income attributable to common stockholders for the three months ended March 31, 2026 was primarily driven by the increase in revenue and gross profit resulting from our Alani Nu and Rockstar acquisitions. This impact was partially offset by dividends on our Series B Preferred Stock, which was not outstanding in the prior year period, higher interest expense related to incurred debt and higher selling, general and administrative expenses reflecting the expansion to a three-brand portfolio and increased costs from ongoing litigation. Additionally, basic and diluted EPS for the quarter ended March 31, 2026 were impacted by an increase in weighted average shares outstanding as compared to the prior year period, primarily as a result of Common Stock issued in connection with the Alani Nu Acquisition.
+Liquidity and Capital Resources
+General
+As of March 31, 2026, we had unrestricted cash and cash equivalents of approximately $549.2 million and net working capital of $812.9 million.
+Our primary sources of liquidity are cash flows from operations and our existing cash balances. We expect that purchases of inventories, increases in accounts receivable and other assets, equipment purchases, advances to certain co-packers and distributors, payments of accounts payable, income taxes, dividends paid on our Preferred Stock, debt repayments and stock repurchases will remain our principal recurring uses of cash. We believe that cash available from operations, together with our $100.0 million Revolving Credit Facility, will be sufficient for our working capital needs, including purchase commitments for raw materials and inventory, increases in accounts receivable and other assets, and purchases of capital assets and equipment for the next twelve months and beyond.
+41
+Cash flows for the three months ended March 31, 2026 and 2025
+Cash provided by operating activities
+Cash provided by operating activities totaled $73.7 million for the three months ended March 31, 2026 compared to $103.4 million cash provided by operating activities for the three months ended March 31, 2025. The $29.7 million decrease was primarily driven by the settlement of $224.1 million in accrued distributor termination fees, with no comparable transactions in the prior year. This outflow was partially offset by $64.2 million collected from Pepsi during the three months ended March 31, 2026 related to the receivable recognized as of December 31, 2025, which was fully used to fund distributor termination settlements and is reflected in the change in prepaid expenses and other current assets. The decrease was further driven by an $80.0 million increase in accounts receivable-net, reflecting the timing of invoicing and collections processing, which resulted in a higher balance of outstanding receivables at period end as compared to the prior-year period, and a $13.8 million payment for the portion of contingent consideration in excess of its acquisition-date fair value. These outflows were partially offset by higher net income driven by revenue growth attributable to the Alani Nu and Rockstar Acquisitions, as well as increases in accrued promotional allowances and accounts payable consistent with the expanded scale of our operations.
+Cash used in investing activities
+Cash used in investing activities totaled $7.7 million for the three months ended March 31, 2026, compared to cash used in investing activities of $6.9 million for the three months ended March 31, 2025. Cash used in investing activities was primarily related to the  purchases of property, plant and equipment in both periods presented.
+Cash used in financing activities
+Cash used in financing activities totaled $55.9 million for the three months ended March 31, 2026, compared to $10.6 million cash used in financing activities for the same period in 2025, representing a $45.3 million increase. The increase was primarily driven by $20.1 million of Common Stock repurchases, an $11.2 million payment for the portion of contingent consideration up to the acquisition-date fair value, and $7.2 million of dividends paid on Series B Preferred Stock, each of which had no comparable activity in the prior year period. This was partially offset by the absence of debt issuance costs.
+Off Balance Sheet Arrangements
+As of March 31, 2026 and December 31, 2025, we had no off balance sheet arrangements.
+Critical Accounting Policies and Estimates
+Our Condensed Consolidated Financial Statements are prepared in accordance with U.S. GAAP, which requires us to make estimates and assumptions that affect the reported amounts in our Condensed Consolidated Financial Statements. Critical accounting policies and estimates are those that management believes are the most important to the portrayal of our financial condition, results of operations and cash flows, and require the most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and that have had, or are reasonably likely to have, a material impact on our financial condition or results of operations. Judgments and uncertainties may result in materially different amounts being reported under different conditions or using different assumptions. There have been no material changes to our critical accounting policies or estimates from those described in Part II, Item 7,
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ included in our Annual Report.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+Commodity Price Risk
+In the normal course of business, our financial position is routinely subject to a variety of risks. The principal market risks (i.e., the risk of loss arising from adverse changes in market rates and prices) to which we are exposed are fluctuations in commodity and other input prices affecting the costs of our raw materials (including, but not limited to, increases in the costs of the price of aluminum cans, sucralose and other sweeteners, as well as other raw materials contained within our products). We do not currently use hedging agreements or other financial instruments to manage the risks associated with securing sufficient ingredients or raw materials. We are also subject to market risks with respect to the cost of commodities and other inputs because our ability to recover increased costs through higher pricing is limited by the competitive environment in which we operate.
+42
+Interest Rate Risk
+Fluctuations in market interest rates may cause cash flows to vary. Interest rates are highly sensitive to many factors, including fiscal and monetary policies and domestic and international economic and political considerations, as well as other factors beyond our control. This can affect both our borrowing costs and the fair values of our debt obligations. We are subject to interest rate risk in connection with the Term Loan Facility and Revolving Credit Facility, which bear interest at variable rates based on either a benchmark rate or an alternate base rate, plus an applicable rate which is subject to potential step-downs in 0.25% increments pursuant to a pricing grid based on net leverage. A one-percentage-point increase in the interest rate would raise our annual interest expense by approximately $6.8 million, based on outstanding balances under the Term Loan Facility as of March 31, 2026. There were no borrowings under the Revolving Credit Facility as of March 31, 2026. For additional information see Note 10.
+Debt
+ in the notes to our Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report.
+Except as described herein, there have been no material changes to the information regarding market risk provided in Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+ contained in our Annual Report.
+Item 4. Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+Disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) are designed to ensure that information required to be disclosed by us in the reports filed or submitted by us under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms adopted by the SEC. These controls also ensure that information required to be disclosed in the reports that are filed or submitted under the Exchange Act are accumulated and communicated to the Company’s management, including our Chief Executive Officer (our principal executive officer) and our Chief Financial Officer (our principal financial and accounting officer), or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
+Our Chief Executive Officer, as well as our Chief Financial Officer, evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of March 31, 2026. Based on that evaluation, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were effective as of such date.
+Changes in Internal Control over Financial Reporting
+During the quarter ended March 31, 2026, the Company completed the incorporation of Alani Nu and Rockstar into its internal control over financial reporting framework and implemented related controls. These changes have materially affected the Company's internal control over financial reporting. There were no other changes in our internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)) during the quarter ended March 31, 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+43
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings.
+The information required by this Item is included in Note 15.
+Commitments and Contingencies
+ in the unaudited Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report.
+Item 1A. Risk Factors.
+We face a variety of risks that are inherent in our business and our industry, including operational, legal, regulatory and product risks. Such risks could cause our actual results to differ materially from our forward-looking statements, expectations and historical trends. Except for the risks discussed elsewhere in this Quarterly Report, during the reporting period covered by this Quarterly Report, there have been no material changes to our risk factors as set forth in Part I, Item 1A.
+Risk Factors
+ in our Annual Report.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Issuer Purchases of Equity Securities
+During the quarter ended March 31, 2026, we purchased the following shares of our Common Stock under our share repurchase program and to satisfy employee tax withholding obligations upon the vesting of equity awards:
+Period
+Total Number of Shares Purchased
+[1]
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+[2]
+Maximum Dollar Value that May Yet Be Purchased Under the Plans or Programs
+January 1, 2026 to January 31, 2026
+35,064 
+$
+45.74 
+— 
+$
+260,222,795 
+February 1, 2026 to February 28, 2026
+2,431 
+$
+48.32 
+— 
+$
+260,222,795 
+March 1, 2026 to March 31, 2026
+812,231 
+$
+38.38 
+680,102 
+$
+236,133,117 
+Total
+849,726
+ 
+680,102
+ 
+[1]  During the quarter ended March 31, 2026, we repurchased an aggregate of 169,624 shares of Common Stock to satisfy employee tax withholding obligations upon the vesting of equity awards.
+[2]  In November 2025, the Board approved a share repurchase program under which we may repurchase up to $300.0 million of our outstanding Common Stock. As of March 31, 2026, $63.9 million had been utilized under this authorization and $236.1 million remained available for repurchase. The program has no expiration date and does not obligate us to repurchase any shares and may be modified, suspended or terminated at any time. Repurchases may be executed in open market or privately negotiated transactions, including transactions executed pursuant to a pre-set trading arrangement intended to satisfy the requirements of Rule 10b5-1(c) of the Exchange Act. See Note 13.
+Shareholders' Equity
+in the notes to our Condensed Consolidated Financial Statements contained elsewhere in this Quarterly Report.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+44
+Item 5. Other Information.
+Rule 10b5-1 Trading Arrangements
+Our insider trading policy permits our officers and directors to establish pre-approved stock trading plans pursuant to Rule 10b5-1 promulgated under the Exchange Act. Rule 10b5-1 allows insiders to adopt written stock trading plans at a time when they are unaware of material non-public information, which establish predetermined trading parameters that do not permit the insider to subsequently exercise any influence over how, when or whether to effect trades. During the quarter ended March 31, 2026, except as set forth below, none of our officers or directors
+adopted
+ or
+terminated
+ any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408 of Regulation S-K).
+Name and Title
+Type of Plan
+Participant's Adoption Date
+ Plan Termination Date
+Maximum Aggregate Number of Securities
+Description of Trading Arrangement
+Paul Storey
+
+Chief Supply Chain Officer
+10b5-1(c)(1) Trading Plan
+March 11, 2026
+December 31, 2026
+10,000
+Sale of shares of Common Stock (vested stock options or other awards)
+45
+Item 6. Exhibits.
+Index to Exhibits
+Exhibit
+Incorporated by Reference
+Number
+Exhibit Description
+Form
+Exhibit
+Filing Date
+3.1
+Composite Articles of Incorporation of Celsius Holdings, Inc.
+10-Q
+3.1
+11/7/2025
+3.2
+Second Amended and Restated Bylaws
+10-Q
+3.2
+8/6/2024
+31.1*
+Section 302 Certification by Chief Executive Officer
+31.2*
+Section 302 Certification by Chief Financial Officer
+32.1**
+Section 906 Certification by Chief Executive Officer
+32.2**
+Section 906 Certification by Chief Financial Officer
+101.INS
+Inline XBRL Instance Document
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+The cover page of this Quarterly Report on Form 10-Q for the quarter ended March 31, 2026, formatted in Inline XBRL (included within the Exhibit 101 attachment)
+__________________________________________________
+*
+Filed herewith.
+**    Furnished herewith.    
+46
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Quarterly Report to be signed on its behalf by the undersigned thereunto duly authorized.
+CELSIUS HOLDINGS, INC.
+Date: May 7, 2026
+By:
+/s/ John Fieldly
+John Fieldly,
+Chief Executive Officer
+(Principal Executive Officer)
+Date: May 7, 2026
+By:
+/s/ Jarrod Langhans
+Jarrod Langhans,
+Chief Financial Officer
+(Principal Financial and Accounting Officer)
+47
+

@@ -1,0 +1,68 @@
+=== FILING DATE: 2026-03-20 ===
+=== PERIOD COVERED: 2026-01-31 ===
+=== SOURCE: 10-K filed 2026-03-20 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: SNOW ===
+
+sed on their preferences. Customers can query as of a relative point in time or as of an absolute point in time. This has a broad array of use cases for customers, including error recovery, time-based analysis, and data quality checks.
+◦
+Cloning.
+Our architecture enables us to offer zero-copy cloning, an operation by which entire tables, schemas, or databases can be duplicated—or cloned—without having to copy or duplicate the underlying data. Our platform leverages the separation between cloud services and storage to be able to track independent clones of objects sharing the same physical copy of the underlying data. This enables a variety of customer use cases such as making copies of production data for data scientists, creating custom snapshots in time, or testing data pipelines.
+•
+Compute Model.
+Our platform offers a variety of capabilities to operate on data, from ingestion to transformation, as well as rich query and analysis. Our compute services are primarily presented to users in one of two models, either through explicit specification of compute clusters or through a number of serverless features.
+◦
+Compute Clusters.
+ Our platform exposes compute clusters as a core concept. Our customers can create as few or as many compute clusters as they want and specify compute capacity at tiered levels. These clusters can be configured to run only when needed, with cluster instantiation operations typically completed in seconds. Compute clusters can also be configured as a multi-cluster warehouse in which our platform can automatically add and remove additional instances of a given cluster to address variations in query demands. This gives us the ability to offer extremely high levels of concurrency with a simple configuration specification. We also offer warehouse recommendations for workloads that have large memory requirements, such as ML use cases.
+14
+Table
+ of Contents
+◦
+Serverless features.
+We offer a number of additional services that automatically provide the capacity our customers require. For example, our data ingestion service automatically ingests data from cloud storage and allocates compute capacity based on the amount of data ingested; our clustering service continuously rearranges the physical layout of data to ensure conformity with clustering key specifications, improving performance; our materialized views service propagates changes from underlying tables to views that have materialized subsets or summaries; our replication service moves data between regions or clouds; our search optimization service analyzes changes in data, maintains information that speeds up lookup queries, and accelerates queries performing lookups of specific values; and our query acceleration service automatically offloads parts of eligible queries to shared, flexible compute clusters to handle high-burst workloads.
+•
+Data Sharing.
+In our platform, data sharing within any given region is defined through access control and not through data movement. As such, the data consumer sees no latency relative to updates from the data provider, and incurs no cost to move or transform data to make it usable. Based on the same technology principles, our platform enables data clean rooms.
+•
+Global Infrastructure
+◦
+Replication.
+Our platform enables customers to replicate data from one region or public cloud to another region or public cloud while maintaining transactional integrity, either at the granularity of a database or an account.
+◦
+Business continuity.
+ Our platform enables failing over and failing back a database and redirecting clients transparently across regions or public clouds. This provides an integrated and global disaster recovery capability.
+◦
+Global listings for sharing.
+ Our platform enables a listing to be published globally to access consumers across regions or public clouds.
+•
+Built-in Security.
+ We built our platform with security as a core shared responsibility between us and our customers. Our platform provides a number of configurable capabilities for customers to confidently use our platform while configuring security requirements for their organizations, including:
+◦
+Authentication.
+Our platform supports a number of customer-configurable authentication capabilities, including federated authentication with a variety of identity providers, as well as support for multi-factor authentication.
+◦
+Access control.
+ Our platform provides a fine-grained, customer-configurable security model based on role-based access control. It provides granular privileges on system objects and actions.
+◦
+Data encryption.
+Our platform encrypts customer data uploaded to our platform, both at rest and in transit over untrusted networks to and from our platform, and simplifies operations by providing automatic re-keying of data. It also supports customer-managed keys, where an additional layer of encryption is provided by keys controlled by customers, giving them the ability to control access to the data.
+Observe by Snowflake
+In February 2026, we acquired Observe, Inc. (Observe), a leader in AI-powered observability, to deliver the next generation of AI-powered observability, built on open standards and designed for the scale, complexity, and economics required by modern AI-driven enterprises. Observe enables organizations to manage enterprise-wide observability across terabytes to petabytes of telemetry with an open, scalable architecture and AI-powered troubleshooting workflows. For example, Observe enables organizations to:
+•
+Leverage agentic AI for faster troubleshooting.
+ With the AI-powered Site Reliability Engineer, leverage a unified context graph that correlates logs, metrics, and traces, allowing teams to detect anomalies earlier, identify root causes faster, and resolve production issues faster, to improve operational resilience as systems grow more distributed, dynamic, and autonomous.
+15
+Table
+ of Contents
+•
+Utilize an open-standard architecture built for scale.
+
+Manage massive telemetry volumes using economical object storage, elastic compute, and interoperable standards, an essential foundation for operating next generation AI agents and applications at scale.
+•
+Retain full telemetry data with efficient economics.
+ Retain high-fidelity telemetry data, optimizing observability cost while improving visibility enterprise-wide.
+Sales and Marketing
+We sell our platform primarily through our direct sales team, which consists of field sales and inside sales professionals segmented by customer industry, size, and region. Our direct sales team is primarily focused on new customer acquisitions and driving increased use of our platform by existing customers. The breadth of our platform allows us to engage at every level of an organization, including data analysts, data engineers, and developers through our self-service model and senior executives through our direct sales team. The majority of our global sales and marketing efforts are carried out by teams located in North America. Outside of North America, we have dedicated direct sales teams for the EMEA and APJ regions for organizations of all sizes. In addition to direct sales, we also sell our platform through resellers and distributors.
+Many organizations initially adopt our platform through a self-service trial on our website. We deploy a range of marketing strategies to drive traffic to our website and usage of our platform. Our marketing team combines the creation of inbound demand with direct marketing, business development, and efforts targeted at business and technology leaders.
+Partnerships
+Our partnership strategy is focused on delivering complete end-to-end solutions, driving general awareness, and broadening our global reach, and acts as a force multiplier for our direct sales and marketing efforts. Our Snowflake Partner Network is a global program comprising system integrators, technology, software, and data providers that integrate directly with the Snowflake AI Data Cloud to enhance functionality, impr

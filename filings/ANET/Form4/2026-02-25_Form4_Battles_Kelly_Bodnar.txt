@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-25
+Transaction Date: 2026-02-23
+Person: Battles Kelly Bodnar — Director
+Type: SELL
+Shares: 422 at $126.8497
+Shares After: 9529
+=== TICKER: ANET ===
+===

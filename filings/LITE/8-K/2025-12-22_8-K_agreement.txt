@@ -1,0 +1,464 @@
+=== FILING DATE: 2025-12-22 ===
+=== PERIOD COVERED: 2025-12-19 ===
+=== SOURCE: 8-K filed 2025-12-22 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: LITE ===
+
+
+
+
+8-K
+
+
+
+
+
+NASDAQ
+
+false
+
+0001633978
+
+
+
+
+
+
+
+
+0001633978
+
+
+
+2025-12-19
+
+2025-12-19
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+December 19, 2025
+
+ 
+
+
+ 
+
+Lumentum Holdings Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Delaware
+
+
+ 
+
+
+001-36861
+
+
+ 
+
+
+47-3108385
+
+
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+
+ 
+
+
+
+(Commission
+
+File Number)
+
+
+ 
+
+
+
+(IRS Employer
+
+Identification Number)
+
+ 
+
+
+1001 Ridder Park Drive
+,
+San Jose
+,
+CA
+
+
+ 
+
+
+95131
+
+
+(Address of Principal Executive Offices)
+
+
+ 
+
+
+(Zip Code)
+
+(408)
+
+546-5483
+
+(Registrant’s Telephone Number, Including Area Code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+
+ 
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common Stock, par value of $0.001 per share
+
+
+ 
+
+
+LITE
+
+
+ 
+
+
+
+Nasdaq Global Select Market
+
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule
+12b-2
+ of the Securities Exchange Act of 1934 (§
+240.12b-2
+ of this chapter).
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 1.01
+
+
+
+Entry into a Material Definitive Agreement.
+
+On December 19, 2025 (the “Effective Date”), Lumentum Holdings Inc., a Delaware corporation (the “Company”), entered into a credit agreement (the “Credit Agreement”), by and among the Company, as borrower, the lenders from time to time party thereto (the “Lenders”) and Wells Fargo Bank, National Association, as administrative agent (in such capacity, the “Administrative Agent”) and collateral agent.
+
+The Credit Agreement provides for a senior secured revolving credit facility in an aggregate principal amount of $400.0 million, including a $23.0 million sublimit for the issuance of letters of credit. The Credit Agreement provides that the Company has the right at any time and from time to time to incur one or more incremental revolving commitments and/or incremental term loans up to an unlimited amount, subject to certain customary conditions precedent and other requirements. The Lenders are not obligated to provide any such incremental loans or commitments. The proceeds of the loans under the Credit Agreement may be used for working capital and general corporate purposes. As of the Effective Date, the Company had no outstanding revolving loans or letters of credit under the Credit Agreement.
+
+Revolving loans under the Credit Agreement may be borrowed, repaid and reborrowed, without premium or penalty (subject to customary breakage costs), until their maturity date under the Credit Agreement, at which time all amounts borrowed must be repaid. Revolving loans under the Credit Agreement will mature on December 19, 2030, subject to earlier maturity on the date that is 91 days prior to the final scheduled maturity date of certain of the Company’s existing outstanding convertible senior notes, if on such date, the Company is unable to satisfy certain liquidity and/or total net leverage requirements.
+
+At the Company’s option, borrowings bear interest at either a base rate plus an applicable margin ranging from 0.50% to 1.50%, or a term Secured Overnight Financing Rate (“SOFR”) plus a margin ranging from 1.50% to 2.50%, in each case with such margin based upon the Company’s secured net leverage ratio, as determined in accordance with the terms of the Credit Agreement. Interest is payable quarterly in arrears with respect to borrowings bearing interest at the alternate base rate or on the last day of an interest period, but at least every three months, with respect to borrowings bearing interest at a term SOFR rate. The Company is required to pay to the Administrative Agent for the account of each Lender a commitment fee on a quarterly basis in an amount equal to 0.15% to 0.35% (depending on the Company’s secured net leverage ratio) of unused availability under the revolving facility. The Company is also obligated to pay other fees customary for revolving credit facilities of this size and type.
+
+The Credit Agreement contains customary representations, warranties, and affirmative and negative covenants. The negative covenants include, among others, restrictions on liens, investments, indebtedness, fundamental changes, restricted payments, transactions with affiliates and prepayments of subordinated debt, all subject to certain exceptions. In addition, the Credit Agreement contains financial covenants, tested at the end of each fiscal quarter, requiring the Company to maintain a secured net leverage ratio of less than or equal to 3.25:1.00, subject to a 0.50:1.00
+step-up
+ for four fiscal quarters in connection with a material acquisition, and an interest coverage ratio of no less than 3.00:1.00.
+
+The obligations under the Credit Agreement are required to be guaranteed by certain of the Company’s material domestic subsidiaries and are secured by substantially all assets of the Company and such subsidiary guarantors, subject to customary exceptions.
+
+The Credit Agreement includes customary events of default that include, among other things:
+non-payment
+ of principal, interest or fees; inaccuracy of representations and warranties; violation of certain covenants; cross default to certain other indebtedness; bankruptcy and insolvency events; material judgments, change of control; and certain material ERISA events, subject to thresholds and cure periods as set forth in the Credit Agreement. Upon the occurrence and during the continuance of an event of default, the Lenders may terminate their commitments and accelerate the Company’s obligations under the Credit Agreement and may exercise certain other rights and remedies provided for under the Credit Agreement, the other loan documents and applicable law. Notwithstanding the foregoing, acceleration will be automatic in the case of bankruptcy and insolvency events of default involving
+
+
+
+
+
+the Company or any material subsidiary. Under certain circumstances, a default interest rate will apply on all obligations during the existence of an event of default under the Credit Agreement at a per annum rate equal to 2.00% above the otherwise applicable interest rate.
+
+The Administrative Agent and the Lenders, and certain of their respective affiliates, have provided, and in the future may provide, financial, banking and related services to the Company. These parties have received, and in the future may receive, compensation from the Company for these services.
+
+The foregoing description of the Credit Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Credit Agreement, a copy of which is attached as Exhibit 10.1 to this Current Report on Form
+8-K
+ and is incorporated herein by reference.
+
+ 
+
+
+Item 2.03
+
+
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+ Sheet Arrangement of a Registrant.
+
+The information set forth under Item 1.01 of this Current Report on Form
+8-K
+ is incorporated herein by reference.
+
+ 
+
+
+Item 9.01
+
+
+
+Financial Statements and Exhibits.
+
+ 
+
+
+(d)
+
+
+
+Exhibits.
+
+ 
+
+
+Exhibit
+No.
+
+
+  
+
+
+
+Description
+
+
+10.1
+
+
+  
+
+
+Credit Agreement, dated as of December 19, 2025, among Lumentum Holdings Inc., as borrower, the lenders from time to time party thereto and Wells Fargo Bank, National Association, as administrative agent and collateral agent.
+
+
+104
+
+
+  
+
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+
+
+ 
+
+
+
+
+
+Signatures
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+ 
+
+
+ 
+
+
+LUMENTUM HOLDINGS INC.
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+ 
+
+
+
+/s/ Jae Kim
+
+
+ 
+
+
+ 
+
+
+Name:
+
+
+ 
+
+
+Jae Kim
+
+
+ 
+
+
+ 
+
+
+Title:
+
+
+ 
+
+
+Senior Vice President, General Counsel and Secretary
+
+
+December 22, 2025
+
+
+ 
+
+
+ 
+
+
+ 
+
+

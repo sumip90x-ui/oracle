@@ -1,0 +1,24 @@
+=== FILING DATE: 2026-05-01 ===
+=== PERIOD COVERED: 2026-03-28 ===
+=== SOURCE: 10-Q filed 2026-05-01 ===
+=== SECTION: Item 1 — Business ===
+=== TICKER: AAPL ===
+
+Item 1
+, “Financial Statements” of this Quarterly Report on Form 10-Q.
+104**
+Inline XBRL for the cover page of this Quarterly Report on Form 10-Q, included in the Exhibit 101 Inline XBRL Document Set.
+*    Indicates management contract or compensatory plan or arrangement.
+**    Filed herewith.
+***    Furnished herewith.
+Apple Inc. | Q2 2026 Form 10-Q | 25
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Date: May 1, 2026
+Apple Inc.
+By:
+/s/ Kevan Parekh
+Kevan Parekh
+Senior Vice President,
+Chief Financial Officer
+Apple Inc. | Q2 2026 Form 10-Q | 26

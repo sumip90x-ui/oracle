@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-09
+Transaction Date: 2025-07-08
+Person: DALZELL RICHARD L — Director
+Type: SELL
+Shares: 666 at $784.57
+Shares After: 15807
+=== TICKER: INTU ===
+===

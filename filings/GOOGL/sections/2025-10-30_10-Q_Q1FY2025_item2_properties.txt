@@ -1,0 +1,64 @@
+=== FILING DATE: 2025-10-30 ===
+=== PERIOD COVERED: 2025-09-30 ===
+=== SOURCE: 10-Q filed 2025-10-30 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: GOOGL ===
+
+ITEM 2
+.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Issuer Purchases of Equity Securities
+The following table presents information with respect to Alphabet's repurchases of Class A and Class C stock during the quarter ended September 30, 2025.
+Period
+Total Number of Class A Shares Purchased
+(in thousands)
+(1)
+Total Number of Class C Shares Purchased
+(in thousands)
+(1)
+Average Price Paid per Class A Share
+ (2)
+Average Price Paid per Class C Share
+ (2)
+Total Number of Shares Purchased as Part of Publicly Announced Programs
+(in thousands)
+(1)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program
+(in millions)
+July 1 - 31
+2,571 
+19,077 
+$
+185.81 
+$
+186.76 
+21,648 
+$
+82,307 
+August 1 - 31
+1,548 
+17,148 
+$
+203.08 
+$
+203.43 
+18,696 
+$
+78,523 
+September 1 - 30
+551 
+14,738 
+$
+241.96 
+$
+242.62 
+15,289 
+$
+74,825 
+Total
+4,670 
+50,963 
+55,633 
+(1)
+    
+Repurchases are being executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not have an expiration date. For additional information related to share repurchases, see Note 11 of the Notes to Consolidated Financial Statements included in Part I,

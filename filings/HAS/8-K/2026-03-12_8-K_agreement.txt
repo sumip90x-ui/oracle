@@ -1,0 +1,488 @@
+=== FILING DATE: 2026-03-12 ===
+=== PERIOD COVERED: 2026-03-12 ===
+=== SOURCE: 8-K filed 2026-03-12 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: HAS ===
+
+
+
+
+8-K
+
+
+
+
+
+false
+
+0000046080
+
+
+
+
+
+
+
+
+0000046080
+
+
+
+2026-03-12
+
+2026-03-12
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+March 12, 2026
+
+ 
+
+
+ 
+
+
+Hasbro, Inc.
+
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Rhode Island
+
+
+ 
+
+
+1-6682
+
+
+ 
+
+
+05-0155090
+
+
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+
+ 
+
+
+
+(Commission
+
+File Number)
+
+
+ 
+
+
+
+(I.R.S. Employer
+
+Identification No.)
+
+ 
+
+
+
+1027 Newport Avenue
+,
+
+Pawtucket
+,
+Rhode Island
+
+
+ 
+
+
+02861
+
+
+(Address of Principal Executive Offices)
+
+
+ 
+
+
+(Zip Code)
+
+Registrant’s telephone number, including area code:
+(401)
+
+431-8697
+
+ 
+
+
+ 
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act.
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common Stock, $0.50 par value per share
+
+
+ 
+
+
+HAS
+
+
+ 
+
+
+The NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule
+12b-2
+ of the Securities Exchange Act of 1934.
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 1.01.
+
+
+
+Entry into a Material Definitive Agreement.
+
+On March 12, 2026, Hasbro, Inc. (the “Company”) completed a registered public offering (the “Notes Offering”) of $400,000,000 aggregate principal amount of 4.650% notes due 2031 (the “Notes”), pursuant to the Company’s shelf registration statement on Form
+S-3
+ (Registration File
+No. 333-279146)
+ (the “Registration Statement”). The Notes were issued pursuant to the indenture (the “Base Indenture”), dated as of March 15, 2000, between the Company and The Bank of New York Mellon Trust Company, N.A. (as successor trustee to The Bank of Nova Scotia Trust Company of New York), as the original trustee (the “Original Trustee”), as supplemented by an eighth supplemental indenture (the “Eighth Supplemental Indenture” and, together with the Base Indenture, the “Indenture”), dated as of March 12, 2026, among the Company, the Original Trustee and U.S. Bank Trust Company, National Association, as series trustee.
+
+The Notes are senior unsecured debt obligations of the Company, mature on March 12, 2031 and bear interest at a rate of 4.650% per annum. Prior to February 12, 2031 (the “Par Call Date”), the Company may redeem the Notes at the Company’s option, in whole or in part, at any time and from time to time, at a redemption price equal to the greater of (i) (a) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a
+360-day
+ year consisting of twelve
+30-day
+ months) at the Treasury Rate (as defined in the Eighth Supplemental Indenture), plus 15 basis points less (b) interest accrued to the date of redemption, and (ii) 100% of the principal amount of the Notes to be redeemed, plus, in each case, accrued and unpaid interest thereon to the redemption date.
+
+In addition, on or after the Par Call Date, the Company may redeem the Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed, plus accrued and unpaid interest thereon to the redemption date.
+
+If the Company experiences a Change of Control Repurchase Event (defined in the Eighth Supplemental Indenture as a change of control combined with a below investment grade rating event), it will be required, unless it has exercised its right to redeem the Notes, to offer to purchase the Notes at a purchase price equal to 101% of their principal amount, plus accrued and unpaid interest thereon to the date of purchase.
+
+The Indenture also contains certain covenants restricting the Company’s ability in certain circumstances to incur secured debt and enter into sale-leaseback transactions, as well as certain customary events of default.
+
+The preceding descriptions of the Base Indenture, the Eighth Supplemental Indenture and the Notes are qualified in their entirety by reference to the full text of the Base Indenture, which is filed as Exhibit 4.1, the Eighth Supplemental Indenture, which is filed as Exhibit 4.2, and the Form of Note, which is filed as Exhibit 4.3, each of which is incorporated herein by reference.
+
+In connection with the issuance of the Notes, the legal opinion of Tarrant Sibley, Executive Vice President, Chief Legal Officer and Corporate Secretary of the Company is filed as Exhibit 5.1, and the legal opinion of Cravath, Swaine & Moore LLP is filed as Exhibit 5.2.
+
+ 
+
+
+Item 2.03.
+
+
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+ Sheet Arrangement of a Registrant.
+
+The information provided in Item 1.01 of this Current Report on Form
+8-K
+ is incorporated by reference into this Item 2.03.
+
+ 
+
+
+Item 8.01.
+
+
+
+Other Events.
+
+In connection with the issuance and sale of the Notes, the Company entered into an underwriting agreement (the “Underwriting Agreement”), dated March 5, 2026, with BofA Securities, Inc., J.P. Morgan Securities LLC, Citigroup Global Markets Inc. and Scotia Capital (USA) Inc., as representatives of the several underwriters named therein. The Underwriting Agreement is filed as Exhibit 1.1 hereto and is incorporated herein by reference.
+
+
+
+
+
+Item 9.01.
+
+
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+
+
+Exhibit
+No.
+
+
+  
+
+
+
+Description
+
+
+ 1.1
+
+
+  
+
+
+Underwriting Agreement dated as of March 5, 2026
+
+
+ 4.1
+
+
+  
+
+
+Indenture dated as of March 15, 2000, between Hasbro, Inc. and The Bank of New York Mellon Trust Company, N.A., as successor trustee to The Bank of Nova Scotia Trust Company of New York (incorporated by reference to Exhibit 4(b)(i) to the Company’s Annual Report on Form
+10-K
+ for the fiscal year ended December 26, 1999)
+
+
+ 4.2
+
+
+  
+
+
+Eighth Supplemental Indenture dated as of March 12, 2026, among Hasbro, Inc., The Bank of New York Mellon Trust Company, N.A. (as successor trustee to The Bank of Nova Scotia Trust Company of New York) and U.S. Bank Trust Company, National Association
+
+
+ 4.3
+
+
+  
+
+
+Form of 4.650% Note due 2031 (included as Exhibit A to Exhibit 4.2)
+
+
+ 5.1
+
+
+  
+
+
+Opinion of Tarrant Sibley, Esq.
+
+
+ 5.2
+
+
+  
+
+
+Opinion of Cravath, Swaine & Moore LLP
+
+
+23.1
+
+
+  
+
+
+Consent of Tarrant Sibley, Esq. (included in Exhibit 5.1)
+
+
+23.2
+
+
+  
+
+
+Consent of Cravath, Swaine & Moore LLP (included in Exhibit 5.2)
+
+
+104
+
+
+  
+
+
+Cover Page Interactive Data File (embedded within XBRL document)
+
+
+
+ 
+
+
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+HASBRO, INC.
+
+
+By:
+
+
+ 
+
+
+
+/s/ Gina Goetter
+
+
+Name
+
+
+ 
+
+
+Gina Goetter
+
+
+Title
+
+
+ 
+
+
+Chief Financial Officer and Chief Operating Officer
+
+
+
+Date: March 12, 2026
+
+

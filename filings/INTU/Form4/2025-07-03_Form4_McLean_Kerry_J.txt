@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-03
+Transaction Date: 2025-07-01
+Person: McLean Kerry J — EVP, Gen. Counsel & Corp. Sec.
+Type: OTHER
+Shares: 2144 at $0
+Shares After: 2395
+=== TICKER: INTU ===
+===

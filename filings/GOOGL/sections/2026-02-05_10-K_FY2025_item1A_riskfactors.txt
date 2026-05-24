@@ -1,0 +1,12 @@
+=== FILING DATE: 2026-02-05 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-02-05 ===
+=== SECTION: Item 1A — Risk Factors ===
+=== TICKER: GOOGL ===
+
+Item 1A
+, "Risk Factors" of this Annual Report on Form 10-K.
+Pending Acquisitions
+In March 2025, we entered into a definitive agreement to acquire Wiz, Inc. ("Wiz"), a leading cloud security platform, for $32.0 billion, subject to closing adjustments, in an all-cash transaction. The acquisition of Wiz is expected to close in 2026, subject to customary closing conditions, including the receipt of regulatory approvals.
+In December 2025, we entered into a definitive agreement to acquire Intersect, which provides data center and energy infrastructure solutions, for $4.8 billion in cash, plus the assumption of debt. The acquisition of Intersect is expected to close in the first half of 2026, subject to customary closing conditions.
+For additional information, see Note 8 of the Notes to Consolidated Financial Statements included in

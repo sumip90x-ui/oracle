@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-10
+Transaction Date: 2026-02-06
+Person: PENNY HERSCHER — 
+Type: SELL
+Shares: 849 at $535.4798
+Shares After: 02
+=== TICKER: LITE ===
+===

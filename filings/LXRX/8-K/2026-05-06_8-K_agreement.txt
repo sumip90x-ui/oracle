@@ -1,0 +1,132 @@
+=== FILING DATE: 2026-05-06 ===
+=== PERIOD COVERED: 2026-05-04 ===
+=== SOURCE: 8-K filed 2026-05-06 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: LXRX ===
+
+
+
+lxrx-20260504
+0001062822
+FALSE
+Nasdaq
+0001062822
+2026-05-04
+2026-05-04
+0001062822
+2021-07-30
+2021-07-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________
+FORM
+8-K
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 4, 2026
+Lexicon Pharmaceuticals, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+000-30111
+76-0474169
+(State or other jurisdiction of
+incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer
+Identification Number)
+
+2445 Technology Forest Blvd., 11th Floor
+The Woodlands
+,
+Texas
+
+77381
+(Address of principal executive offices and Zip Code)
+(
+281
+)
+863-3000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001
+LXRX
+The
+Nasdaq
+ Capital Market
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+☐
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR § 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR § 240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 1.01    Entry into a Material Definitive Agreement
+Loan and Security Agreement
+On May 4, 2026, Lexicon Pharmaceuticals, Inc. (“
+Lexicon
+”) and its subsidiaries entered into a loan and security agreement with Hercules Capital, Inc. and certain of its affiliates (“
+Hercules
+”) that provides up to $100 million in borrowing capacity (the “
+Hercules Term Loans
+”) available in three tranches, each maturing in May 2030.
+Monthly interest-only payments are due during an initial 18-month period, which may be extended to 24 months if specified performance milestones are achieved, including (a) Lexicon’s ongoing SONATA-HCM Phase 3 clinical trial of sotagliflozin in hypertrophic cardiomyopathy (“
+HCM
+”) achieving its primary endpoint with an acceptable safety profile and secondary data supporting the filing of an application for regulatory approval in the U.S. for the treatment of both obstructive and non-obstructive HCM and (b) Lexicon meeting specified financial requirements (the “
+Performance Milestones
+”).  The interest-only period may be further extended to 30 months if additional specified performance milestones are achieved, including the U.S. Food and Drug Administration approving sotagliflozin for the treatment of both obstructive and non-obstructive HCM in a manner supporting Lexicon’s planned commercialization strategy (the “
+Tranche 2 Milestones
+”).  The interest-only period will be followed by an amortization period extending through the maturity date.
+The first $55 million tranche was funded at closing.  The second $20 million tranche is available for draw at Lexicon’s option within 30 days following achievement of the Tranche 2 Milestones, but no later than June 15, 2028.  The third $25 million tranche is available for draw at Lexicon’s option, subject to Hercules’s consent, at any time prior to the expiration of the interest-only payment period.
+The Hercules Term Loans bear interest at a floating rate equal to the prime rate plus 3.10%, but not less than 9.85%, subject to additional interest if an event of default occurs and is continuing.
+If an event of default occurs and is continuing, Hercules may declare all amounts outstanding under the loan and security agreement to be immediately due and payable.  Lexicon may prepay the Hercules Term Loans in whole or in part at its option at any time. Any prepayment of the Hercules Term Loans is subject to prepayment fees equal to 3.0% of the outstanding principal being repaid, subject to a declining scale depending on when prepayment occurs relative to the applicable closing date.
+A final payment equal to 6.25% of the amount funded under the Hercules Term Loans is due upon prepayment or maturity.
+Lexicon’s obligations under the Hercules Term Loans are secured by a first lien security interest in all of the assets of Lexicon and its subsidiaries.  The loan and security agreement contains certain customary representations and warranties, affirmative and negative covenants and events of default applicable to Lexicon and its subsidiaries.  Financial covenants include (a) a minimum cash covenant beginning on June 1, 2027, which will be extended to January 1, 2028 upon achievement of the Tranche 2 Milestone and waived at any time Lexicon meets specified market capitalization requirements and (b) a minimum revenue covenant relating to net sales of its products beginning only at specified times after Lexicon draws the second or third tranche, which will be waived at any time Lexicon meets specified minimum cash and/or market capitalization requirements.  Additional covenants include those restricting dispositions, fundamental changes to its business, mergers or acquisitions, indebtedness, encumbrances, distributions, investments, transactions with affiliates and subordinated debt.
+Warrants
+In connection with the loan and security agreement, Lexicon agreed to grant Hercules warrants to purchase a number of shares of its common stock equal to 2% of the aggregate principal amount of the Hercules Term Loans made and funded under the loan and security agreement at an exercise price of $1.59 per share.  Concurrent with the funding of the first tranche, Lexicon granted Hercules warrants to purchase 691,823 shares of its common stock.  Upon funding of the second and third tranches, Lexicon will grant Hercules warrants to purchase an additional 251,572 and 314,465 shares of its common stock, respectively.  The warrants are exercisable for a five-year period from the date of issuance and feature a net cashless exercise provision.
+Item 2.03    
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+The information contained in Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference into this Item 2.03.
+Item 3.02    Unregistered Sales of Equity Securities
+The information contained in Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference into this Item 3.02.  The issuance of the warrants discussed above and the underlying shares of common stock issuable upon exercise of the warrants have not been and will not be registered under the Securities Act of 1933, as amended (the “
+Securities Act
+”).  The issuance of the warrants was made in reliance on the exemption from the registration requirements of the Securities Act provided by Section 4(a)(2) thereof.  Any shares of common stock issuable upon exercise of the warrants will be issued in reliance on the exemption from the registration requirements of the Securities Act provided by Section 3(a)(9) or Section 4(a)(2) thereof.
+Item 7.01    Regulation FD Disclosure
+On May 4, 2026, Lexicon issued a press release announcing the execution of the loan and security agreement discussed above, a copy of which is furnished as Exhibit 99.1 hereto and is incorporated herein by reference.
+The information in Item 7.01 of this Current Report on Form 8-K, including the attached Exhibit 99.1, is being “furnished” pursuant to Item 7.01 and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, and is not incorporated by reference into any filing, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+Item 9.01    Financial Statements and Exhibits
+(d)    Exhibits
+Exhibit No.
+Description
+99.1
+—
+Press Release of Lexicon Pharmaceuticals, Inc. dated Ma
+y 4
+, 2
+026
+EX-104
+—
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Lexicon Pharmaceuticals, Inc.
+Date:  May 6, 2026
+By:
+/s/ Brian T. Crum
+Brian T. Crum
+Senior Vice
+
+President and General Counsel
+

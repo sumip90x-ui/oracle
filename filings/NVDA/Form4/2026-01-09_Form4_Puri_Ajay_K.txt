@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-09
+Transaction Date: 2026-01-07
+Person: Puri Ajay K — EVP, Worldwide Field Ops
+Type: SELL
+Shares: 200000 at $187.2513
+Shares After: 46360
+=== TICKER: NVDA ===
+===

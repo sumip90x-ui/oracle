@@ -1,0 +1,12 @@
+=== FILING DATE: 2026-02-25 ===
+=== PERIOD COVERED: 2026-01-25 ===
+=== SOURCE: 10-K filed 2026-02-25 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: NVDA ===
+
+Item 7A
+. Quantitative and Qualitative Disclosures about Market Risk
+Investment and Interest Rate Risk
+We are exposed to interest rate risk related to our fixed-rate investment portfolio and outstanding debt. The investment portfolio is managed consistent with our overall liquidity strategy in support of both working capital needs and growth of our businesses.
+According to our sensitivity analysis on our investment portfolio, a decrease in the yield curve of 0.5% as of the end of fiscal year 2026 and 2025 would decrease the fair value for these investments by approximately $0.2 billion.
+As of the end of fiscal year 2026, we had $8.5 billion of senior Notes outstanding. We carry the Notes at face value less unamortized discount on our Consolidated Balance Sheets. As the Notes bear interest at a fixed rate, we have no financial statement risk associated with changes in interest rates. Refer to Note 11 of the Notes to the Consolidated Financial Statements in Part IV,

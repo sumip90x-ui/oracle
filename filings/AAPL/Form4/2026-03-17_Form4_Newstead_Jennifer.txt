@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-17
+Transaction Date: 2026-03-15
+Person: Newstead Jennifer — SVP, GC and Secretary
+Type: OTHER
+Shares: 152944 at $N/A
+Shares After: 240832
+=== TICKER: AAPL ===
+===

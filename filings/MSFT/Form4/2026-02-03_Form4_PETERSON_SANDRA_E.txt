@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-03
+Transaction Date: 2026-01-30
+Person: PETERSON SANDRA E — Director
+Type: BUY
+Shares: 267 at $0
+Shares After: 25837.390
+=== TICKER: MSFT ===
+===

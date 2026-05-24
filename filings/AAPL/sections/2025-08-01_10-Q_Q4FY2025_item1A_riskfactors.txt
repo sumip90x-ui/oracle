@@ -1,0 +1,8 @@
+=== FILING DATE: 2025-08-01 ===
+=== PERIOD COVERED: 2025-06-28 ===
+=== SOURCE: 10-Q filed 2025-08-01 ===
+=== SECTION: Item 1A — Risk Factors ===
+=== TICKER: AAPL ===
+
+Item 1A
+ of this Form 10-Q, there have been no material changes to the Company’s risk factors since the 2024 Form 10-K.

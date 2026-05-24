@@ -1,0 +1,7550 @@
+=== FILING DATE: 2021-02-16 ===
+=== PERIOD COVERED: 2021-02-16 ===
+=== SOURCE: SC13G filed 2021-02-16 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: SNOW ===
+
+
+
+SC 13G
+
+1
+
+d137431dsc13g.htm
+
+SC 13G
+
+
+SC 13G
+
+
+ 
+
+
+ 
+
+UNITED STATES
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+SCHEDULE 13G
+
+
+UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+
+(Amendment No.     )*
+
+ 
+
+
+ 
+
+Snowflake,
+Inc.
+
+(Name of Issuer)
+
+ 
+
+
+ 
+
+CLASS A
+COMMON STOCK, $0.0001 PAR VALUE PER SHARE
+
+(Title of Class of Securities)
+
+
+833445109
+
+(CUSIP Number)
+
+
+December 31, 2020
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+ 
+
+
+ 
+
+Check the
+appropriate box to designate the rule pursuant to which this Schedule is filed:
+
+☐ Rule
+
+13d-1(b)
+
+
+☐ Rule
+13d-1(c)
+
+
+
+☒ Rule
+13d-1(d)
+
+
+ 
+
+
+*
+
+
+
+The remainder of this cover page shall be filled out for a reporting person’s initial filing on this form
+with respect to the subject class of securities, and for any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
+
+
+The information required in the remainder of this cover page shall not be deemed to be “filed” for the purpose of Section 18 of
+the Securities Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+
+
+ 
+
+ 
+
+
+ 
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 2
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners III, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  12,114,956 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  12,114,956 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  12,114,956 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  20.1% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 12,114,956 shares of Common Stock consisting of (i) 2,633,327 shares of Class A Common Stock and
+(ii) 9,481,629 shares of Class B Common Stock held directly by ICONIQ Strategic Partners III, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the Issuer’s amended and restated certificate of incorporation (the
+“COI”), (2) on the final conversion date, as defined in the COI, and (3) as otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 2,633,327 shares of Class A Common Stock and the 9,481,629 shares of Class B Common Stock held by ICONIQ Strategic
+Partners III, L.P. represents 4.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 3
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners III-B, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  12,944,986 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  12,944,986 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  12,944,986 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  21.3% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 12,944,986 shares of Common Stock consisting of (i) 2,813,743 shares of Class A Common Stock and
+(ii) 10,131,243 shares of Class B Common Stock held directly by ICONIQ Strategic Partners III-B, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because
+the Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 2,813,743 shares of Class A Common Stock and the 10,131,243 shares of Class B Common Stock held by ICONIQ
+Strategic Partners III-B, L.P. represents 4.4% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 4
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners III Co-Invest, L.P., Series SF
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+
+  Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  6,421,439 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  6,421,439 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  6,421,439 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  11.5% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 6,421,439 shares of Common Stock consisting of (i) 1,395,774 shares of Class A Common Stock and (ii)
+5,025,665 shares of Class B Common Stock held directly by ICONIQ Strategic Partners III Co-Invest, L.P., Series SF.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 1,395,774 shares of Class A Common Stock and the 5,025,665 shares of Class B Common Stock held by ICONIQ Strategic
+Partners III Co-Invest, L.P., Series SF represents 2.2% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 5
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners III GP, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  31,481,381 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  31,481,381 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  31,481,381 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  41.8% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 31,481,381 shares of Common Stock consisting of (i) 6,842,844 shares of Class A Common Stock and
+(ii) 24,638,537 shares of Class B Common Stock held directly by ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and ICONIQ Strategic Partners III Co-Invest, L.P., Series SF. ICONIQ Strategic Partners III GP, L.P. is
+the sole general partner of each of ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and ICONIQ Strategic Partners III Co-Invest, L.P., Series SF and may be deemed to beneficially own the shares of stock held directly by
+each of ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and ICONIQ Strategic Partners III Co-Invest, L.P., Series SF.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI..
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 6,842,844 shares of Class A Common Stock and the 24,638,537 shares of Class B Common Stock held by ICONIQ Strategic
+Partners III GP, L.P. represents 10.7% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 6
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners III TT GP, Ltd.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  31,481,381 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  31,481,381 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  31,481,381 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  41.8% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  CO
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 31,481,381 shares of Common Stock consisting of (i) 6,842,844 shares of Class A Common Stock and
+(ii) 24,638,537 shares of Class B Common Stock held directly by ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and ICONIQ Strategic Partners III Co-Invest, L.P., Series SF. ICONIQ Strategic Partners III GP, L.P. is
+the sole general partner of each of ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and ICONIQ Strategic Partners III Co-Invest, L.P., Series SF and may be deemed to beneficially own the shares of stock held directly by
+each of ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and ICONIQ Strategic Partners III Co-Invest, L.P., Series SF. ICONIQ Strategic Partners III TT GP, Ltd. is the sole general partner of ICONIQ Strategic Partners
+III GP, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 6,842,844 shares of Class A Common Stock and the 24,638,537 shares of Class B Common Stock held by ICONIQ Strategic
+Partners III TT GP, Ltd. represents 10.7% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 7
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners IV, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  418,033 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  418,033 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  418,033 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  0.8% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 418,033 shares of Common Stock consisting of (i) 163,788 shares of Class A Common Stock and (ii)
+254,245 shares of Class B Common Stock held directly by ICONIQ Strategic Partners IV, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with
+Rule 13d-3,
+ the percentage reported does not reflect the ten for one voting
+power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 163,788 shares of Class A Common Stock and the 254,245 shares of
+Class B Common Stock held by ICONIQ Strategic Partners IV, L.P. represents 0.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 8
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners IV-B, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  692,634 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  692,634 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  692,634 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  1.4% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 692,634 shares of Common Stock consisting of (i) 271,378 shares of Class A Common Stock and (ii)
+421,256 shares of Class B Common Stock held directly by ICONIQ Strategic Partners IV-B, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 271,378 shares of Class A Common Stock and the 421,256 shares of Class B Common Stock held by ICONIQ Strategic
+Partners IV-B, L.P. represents 0.2% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 9
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners IV GP, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  1,110,667 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  1,110,667 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  1,110,667 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  2.2% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 1,110,667 shares of Common Stock consisting of (i) 435,166 shares of Class A Common Stock and (ii)
+675,501 shares of Class B Common Stock held directly by ICONIQ Strategic Partners IV, L.P. and ICONIQ Strategic Partners IV-B, L.P. ICONIQ Strategic Partners IV GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners IV, L.P. and
+ICONIQ Strategic Partners IV-B, L.P. and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners IV, L.P. and ICONIQ Strategic Partners IV-B, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 435,166 shares of Class A Common Stock and the 675,501 shares of Class B Common Stock held by ICONIQ Strategic
+Partners IV GP, L.P. represents 0.3% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 10
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners IV TT GP, Ltd.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  1,110,667 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  1,110,667 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  1,110,667 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  2.2% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  CO
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 1,110,667 shares of Common Stock consisting of (i) 435,166 shares of Class A Common Stock and (ii)
+675,501 shares of Class B Common Stock held directly by ICONIQ Strategic Partners IV, L.P. and ICONIQ Strategic Partners IV-B, L.P. ICONIQ Strategic Partners IV GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners IV, L.P. and
+ICONIQ Strategic Partners IV-B, L.P. and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners IV, L.P. and ICONIQ Strategic Partners IV-B, L.P. ICONIQ Strategic Partners IV TT GP, Ltd. is the sole
+general partner of ICONIQ Strategic Partners IV GP, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 435,166 shares of Class A Common Stock and the 675,501 shares of Class B Common Stock held by ICONIQ Strategic
+Partners IV TT GP, Ltd. represents 0.3% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 11
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners V, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  82,661 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  82,661 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  82,661 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  0.2% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 82,661 shares of Common Stock consisting of (i) 82,661 shares of Class A Common Stock and (ii) 0
+shares of Class B Common Stock held directly by ICONIQ Strategic Partners V, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 82,661 shares of Class A Common Stock and the 0 shares of Class B Common Stock held by ICONIQ Strategic Partners V,
+L.P. represents less than 0.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 12
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners V-B, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  127,339 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  127,339 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  127,339 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  0.3% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 127,339 shares of Common Stock consisting of (i) 127,339 shares of Class A Common Stock and (ii) 0
+shares of Class B Common Stock held directly by ICONIQ Strategic Partners V-B, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3,
+2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 127,339 shares of Class A Common Stock and the 0 shares of Class B Common Stock held by ICONIQ Strategic Partners
+V-B, L.P. represents less than 0.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 13
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners V GP, L.P.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  210,000 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  210,000 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  210,000 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  0.4% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 210,000 shares of Common Stock consisting of (i) 210,000 shares of Class A Common Stock and (ii) 0
+shares of Class B Common Stock held directly by ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners V GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners V, L.P. and ICONIQ
+Strategic Partners V-B, L.P. and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 210,000 shares of Class A Common Stock and the 0 shares of Class B Common Stock held by ICONIQ Strategic Partners
+IV GP, L.P. represents less than 0.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 14
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  ICONIQ Strategic Partners V TT GP, Ltd.
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  Cayman
+Islands
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  210,000 (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  210,000 (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  210,000 (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  0.4% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  CO
+
+
+
+ 
+
+
+(1)
+
+
+
+Represents 210,000 shares of Common Stock consisting of (i) 210,000 shares of Class A Common Stock and
+(ii) 0 shares of Class B Common Stock held directly by ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners V GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners V, L.P. and
+ICONIQ Strategic Partners V-B, L.P. and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners V TT GP, Ltd. is the sole
+general partner of ICONIQ Strategic Partners V GP, L.P.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is
+entitled to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically
+into one (1) share of Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as
+defined in the COI, and (3) as otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii)
+232,400,000 shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange
+Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 210,000 shares of Class A Common Stock and the 0 shares of Class B Common Stock held by ICONIQ Strategic Partners V
+TT GP, Ltd. represents less than 0.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 15
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  
+Divesh Makan
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  United States of
+America
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  32,816,822* (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  32,816,822* (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  32,816,822* (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  43.2% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  IN
+
+
+
+ 
+
+
+*
+
+
+
+Includes 14,774 shares of Class A Common Stock held directly by Mr. Makan.
+
+
+(1)
+
+
+
+Represents 32,816,822 shares of Common Stock consisting of (i) 7,502,784 shares of Class A Common Stock and
+(ii) 25,314,038 shares of Class B Common Stock held directly by ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P., ICONIQ Strategic Partners III Co-Invest L.P., Series SF, ICONIQ Strategic Partners IV, L.P., ICONIQ Strategic
+Partners IV-B, L.P., ICONIQ Strategic Partners V, L.P., ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners III GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and
+ICONIQ Strategic Partners III Co-Invest, L.P., Series SF and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and ICONIQ Strategic Partners III
+Co-Invest, L.P., Series SF. ICONIQ Strategic Partners III TT GP, Ltd. is the sole general partner of ICONIQ Strategic Partners III GP, L.P. ICONIQ Strategic Partners IV GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners IV,
+L.P. and ICONIQ Strategic Partners IV-B, L.P. and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners IV, L.P. and ICONIQ Strategic Partners IV-B, L.P. ICONIQ Strategic Partners IV TT GP, Ltd. is
+the sole general partner of ICONIQ Strategic Partners IV GP, L.P. ICONIQ Strategic Partners V GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. and may be deemed to beneficially
+own the shares of stock held directly by each of ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners V TT GP, Ltd. is the sole general partner of ICONIQ Strategic Partners V GP, L.P. Divesh Makan and
+William J.G. Griffith are the sole equity holders and directors of ICONIQ Strategic Partners
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 16
+ of 36 Pages
+
+ 
+
+
+ 
+
+
+III TT GP, Ltd. Divesh Makan, William J.G. Griffith and Matthew Jacobson are the sole equity holders and directors of each of ICONIQ Strategic Partners IV TT GP, Ltd. and ICONIQ Strategic
+Partners V TT GP, Ltd.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 7,502,784 shares of Class A Common Stock and the 25,314,038 shares of Class B Common Stock held by Divesh Makan
+represents 11.0% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 17
+ of 36 Pages
+
+ 
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  
+William J.G. Griffith
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  United States of
+America
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  32,816,836* (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  32,816,836* (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  32,816,836* (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  43.2% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  IN
+
+
+
+ 
+
+
+*
+
+
+
+Includes 14,788 shares of Class A Common Stock held directly by Mr. Griffith.
+
+
+(1)
+
+
+
+Represents 32,816,836 shares of Common Stock consisting of (i) 7,502,798 shares of Class A Common Stock and
+(ii) 25,314,038 shares of Class B Common Stock held directly by ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P., ICONIQ Strategic Partners III Co-Invest L.P., Series SF, ICONIQ Strategic Partners IV, L.P., ICONIQ Strategic
+Partners IV-B, L.P., ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners III GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P.
+and ICONIQ Strategic Partners III Co-Invest, L.P., Series SF and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners III, L.P., ICONIQ Strategic Partners III-B, L.P. and ICONIQ Strategic Partners
+III Co-Invest, L.P., Series SF. ICONIQ Strategic Partners III TT GP, Ltd. is the sole general partner of ICONIQ Strategic Partners III GP, L.P. ICONIQ Strategic Partners IV GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners
+IV, L.P. and ICONIQ Strategic Partners IV-B, L.P. and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners IV, L.P. and ICONIQ Strategic Partners IV-B, L.P. ICONIQ Strategic Partners IV TT GP, Ltd.
+is the sole general partner of ICONIQ Strategic Partners IV GP, L.P. ICONIQ Strategic Partners V GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. and may be deemed to
+beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners V TT GP, Ltd. is the sole general partner of ICONIQ Strategic Partners V GP, L.P.
+Divesh Makan and William J.G. Griffith are the sole equity holders and directors of ICONIQ Strategic Partners III TT GP, Ltd. Divesh Makan, William J.G. Griffith and Matthew Jacobson are the sole equity holders and directors of each of ICONIQ
+Strategic Partners IV TT GP, Ltd. and ICONIQ Strategic Partners V TT GP, Ltd.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 18
+ of 36 Pages
+
+ 
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and
+the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted
+into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the
+Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 7,502,798 shares of Class A Common Stock and the 25,314,038 shares of Class B Common Stock held by William J.G.
+Griffith represents 11.0% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+  1.  
+
+
+ 
+
+
+  NAMES OF REPORTING PERSONS
+
+ 
+
+
+  
+Matthew Jacobson
+
+
+  2.
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☒
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  United States of
+America
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5.  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  1,325,332* (1)(2)
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  1,325,332* (1)(2)
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  9.  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  1,325,332* (1)(2)
+
+
+10.
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11.
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  2.6% (2)(3)(4)
+
+
+12.
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  IN
+
+
+
+ 
+
+
+*
+
+
+
+Includes 4,665 shares of Class A Common Stock held directly by Mr. Jacobson.
+
+
+(1)
+
+
+
+Represents 1,325,332 shares of Common Stock consisting of (i) 649,831 shares of Class A Common Stock and (ii)
+675,501 shares of Class B Common Stock held directly by ICONIQ Strategic Partners IV, L.P., ICONIQ Strategic Partners IV-B, L.P., ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners IV GP, L.P. is the
+sole general partner of each of ICONIQ Strategic Partners IV, L.P. and ICONIQ Strategic Partners IV-B, L.P. and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners IV, L.P. and ICONIQ Strategic
+Partners IV-B, L.P. ICONIQ Strategic Partners IV TT GP, Ltd. is the sole general partner of ICONIQ Strategic Partners IV GP, L.P. ICONIQ Strategic Partners V GP, L.P. is the sole general partner of each of ICONIQ Strategic Partners V, L.P. and
+ICONIQ Strategic Partners V-B, L.P. and may be deemed to beneficially own the shares of stock held directly by each of ICONIQ Strategic Partners V, L.P. and ICONIQ Strategic Partners V-B, L.P. ICONIQ Strategic Partners V TT GP, Ltd. is the sole
+general partner of ICONIQ Strategic Partners V GP, L.P. Divesh Makan, William J.G. Griffith and Matthew Jacobson are the sole equity holders and directors of each of ICONIQ Strategic Partners IV TT GP, Ltd. and ICONIQ Strategic Partners V TT GP,
+Ltd.
+
+
+(2)
+
+
+
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled
+to ten votes. Each share of Class B Common Stock is convertible, at any time at the option of the holder, into one (1) share of Class A Common Stock. In addition, each share of Class B Common Stock will convert automatically into one (1) share of
+Class A Common Stock upon the following: (1) sale or transfer of such shares of Class B Common Stock, except for certain “Permitted Transfers” described in the COI, (2) on the final conversion date, as defined in the COI, and (3) as
+otherwise set forth in the COI.
+
+
+(3)
+
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000
+shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 20
+ of 36 Pages
+
+ 
+
+
+(4)
+
+
+
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person
+and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities
+Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule
+13d-3,
+ the
+percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The
+649,831 shares of Class A Common Stock and the 675,501 shares of Class B Common Stock held by Matthew Jacobson represents 0.3% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 21
+ of 36 Pages
+
+ 
+
+
+Item 1.
+
+
+
+Issuer
+
+ 
+
+
+ 
+
+
+(a)
+
+
+
+Name of Issuer:
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+Snowflake, Inc. (the “
+Issuer
+”)
+
+
+ 
+
+
+ 
+
+
+(b)
+
+
+
+Address of Issuer’s Principal Executive Offices:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+450 Concar Drive
+
+
+ 
+
+
+  
+
+
+
+San Mateo, CA 94402
+
+
+ 
+
+
+Item 2.
+
+
+
+Filing Person
+
+
+ 
+
+
+ 
+
+
+(a) – (c)
+
+
+
+Name of Persons Filing; Address; Citizenship:
+
+
+ 
+
+
+ 
+
+
+(i)
+
+
+
+ICONIQ Strategic Partners III, L.P., a Cayman Islands exempted limited partnership (“
+ICONIQ
+III
+”).
+
+ 
+
+
+ 
+
+
+(ii)
+
+
+
+ICONIQ Strategic Partners
+III-B,
+ L.P., a Cayman Islands exempted
+limited partnership (“
+ICONIQ
+III-B
+”).
+
+ 
+
+
+ 
+
+
+(iii)
+
+
+
+ICONIQ Strategic Partners III
+Co-Invest,
+ L.P., Series SF, a Delaware
+series limited partnership (“
+ICONIQ III
+Co-Invest
+” and, together with ICONIQ III and ICONIQ
+III-B,
+ the “
+ICONIQ III Funds
+”).
+
+
+ 
+
+
+ 
+
+
+(iv)
+
+
+
+ICONIQ Strategic Partners IV, L.P., a Cayman Islands exempted limited partnership (“
+ICONIQ
+IV
+”).
+
+ 
+
+
+ 
+
+
+(v)
+
+
+
+ICONIQ Strategic Partners
+IV-B,
+ L.P., a Cayman Islands exempted limited
+partnership (“
+ICONIQ
+IV-B
+” and, together with ICONIQ IV, the “
+ICONIQ IV Funds
+”).
+
+ 
+
+
+ 
+
+
+(vi)
+
+
+
+ICONIQ Strategic Partners V, L.P., a Cayman Islands exempted limited partnership (“
+ICONIQ V
+”).
+
+
+ 
+
+
+ 
+
+
+(vii)
+
+
+
+ICONIQ Strategic Partners
+V-B,
+ L.P., a Cayman Islands exempted limited
+partnership (“
+ICONIQ
+V-B
+” and, together with ICONIQ V, the “
+ICONIQ V Funds
+”).
+
+ 
+
+
+ 
+
+
+(viii)
+
+
+
+ICONIQ Strategic Partners III GP, L.P., a Cayman Islands exempted limited partnership (“
+ICONIQ III
+GP
+”), the sole general partner of the ICONIQ III Funds.
+
+ 
+
+
+ 
+
+
+(ix)
+
+
+
+ICONIQ Strategic Partners IV GP, L.P., a Cayman Islands exempted limited partnership (“
+ICONIQ IV
+GP
+”), the sole general partner of the ICONIQ IV Funds.
+
+ 
+
+
+ 
+
+
+(x)
+
+
+
+ICONIQ Strategic Partners V GP, L.P., a Cayman Islands exempted limited partnership (“
+ICONIQ V
+GP
+”), the sole general partner of the ICONIQ V Funds.
+
+ 
+
+
+ 
+
+
+(xi)
+
+
+
+ICONIQ Strategic Partners III TT GP, Ltd., a Cayman Islands exempted company (“
+ICONIQ III Parent
+GP
+”), the sole general partner of ICONIQ III GP.
+
+ 
+
+
+ 
+
+
+(xii)
+
+
+
+ICONIQ Strategic Partners IV TT GP, Ltd., a Cayman Islands exempted company (“
+ICONIQ IV Parent
+GP
+”), the sole general partner of ICONIQ IV GP.
+
+ 
+
+
+ 
+
+
+(xiii)
+
+
+
+ICONIQ Strategic Partners V TT GP, Ltd., a Cayman Islands exempted company (“
+ICONIQ V Parent
+GP
+”), the sole general partner of ICONIQ V GP.
+
+ 
+
+
+ 
+
+
+(xiv)
+
+
+
+Divesh Makan, a citizen of the United States (“
+Makan
+”).
+
+
+ 
+
+
+ 
+
+
+(xv)
+
+
+
+William J.G. Griffith, a citizen of the United States (“
+Griffith
+”), together with Makan, are
+the sole equity holders and directors of ICONIQ III Parent GP.
+
+ 
+
+
+ 
+
+
+(xvi)
+
+
+
+Matthew Jacobson, a citizen of the United States (“
+Jacobson
+”), together with Makan and
+Griffith, are the sole equity holders and directors of ICONIQ IV Parent GP and ICONIQ V Parent GP.
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+The address of the principal business office of each of the reporting persons is c/o ICONIQ Capital, 394
+Pacific Avenue, 2nd Floor, San Francisco, CA 94111.
+
+ 
+
+
+ 
+
+
+(d)
+
+
+
+Title of Class of Securities:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+Class A Common Stock, $0.0001 par value per share ( “
+Class
+ A Common
+Stock
+”)
+
+ 
+
+
+ 
+
+
+(e)
+
+
+
+CUSIP Number:
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+833445109
+
+
+
+ 
+
+
+Item 3.
+
+
+
+If this statement is filed pursuant to Rules
+13d-1(b),
+ or
+13d-2(b)
+ or (c), check whether the person filing is a:
+
+ 
+
+
+(a)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+Broker or dealer registered under Section 15 of the Act;
+
+
+(b)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+Bank as defined in Section 3(a)(6) of the Act;
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 22
+ of 36 Pages
+
+ 
+
+
+(c)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+Insurance company as defined in Section 3(a)(19) of the Act;
+
+
+(d)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+Investment company registered under Section 8 of the Investment Company Act of 1940;
+
+
+(e)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+An investment adviser in accordance with Rule
+13d-1(b)(1)(ii)(E);
+
+
+(f)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+An employee benefit plan or endowment fund in accordance with Rule
+13d-1(b)(1)(ii)(F);
+
+
+(g)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+A parent holding company or control person in accordance with Rule
+13d-1(b)(1)(ii)(G);
+
+
+(h)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+
+
+(i)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940;
+
+
+(j)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+A
+non-U.S.
+ institution in accordance with Rule
+240.13d-1(b)(1)(ii)(J);
+
+
+(k)
+
+
+ 
+
+
+☐
+
+
+ 
+
+
+Group, in accordance with Rule
+240.13d-1(b)(1)(ii)(K).
+ If filing as a
+non-U.S.
+ institution in accordance with Rule
+
+240.13d-1(b)(1)(ii)(J),
+ please specify the type of institution:
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+If filing as a
+non-U.S.
+ institution in accordance with
+§240.13d-1(b)(1)(ii)(J),
+ please specify the type of institution:                 
+
+
+ 
+
+
+Item 4.
+
+
+
+Ownership.
+
+ 
+
+
+ 
+
+
+(a) and (b)
+
+
+
+Amount beneficially owned:
+
+
+ 
+
+
+ 
+
+
+(i)
+
+
+
+ICONIQ III directly owns 12,114,956 shares of Common Stock consisting of (i) 2,633,327 shares of Class A
+Common Stock and (ii) 9,481,629 shares of Class B Common Stock, which represents approximately 20.1% of the outstanding Class A Common Stock. Based on the aggregate number of shares of Class A Common Stock beneficially owned by the
+reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the
+Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule
+
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities under
+the Securities Exchange Act of 1934, as amended. The 2,633,327 shares of Class A Common Stock and the 9,481,629 shares of Class B Common Stock held by ICONIQ III represents 4.1% of the aggregate combined voting power of the Class A
+Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(ii)
+
+
+
+ICONIQ
+III-B
+ directly owns 12,944,986 shares of Common Stock consisting
+of (i) 2,813,743 shares of Class A Common Stock and (ii) 10,131,243 shares of Class B Common Stock, which represents approximately 21.3% of the outstanding Class A Common Stock. Based on the aggregate number of shares of Class A
+Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with
+Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities
+under the Securities Exchange Act of 1934, as amended. The 2,813,743 shares of Class A Common Stock and the 10,131,243 shares of Class B Common Stock held by ICONIQ
+III-B
+ represents 4.4% of the
+aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(iii)
+
+
+
+ICONIQ III
+Co-Invest
+ directly owns 6,421,439 shares of Common Stock
+consisting of (i) 1,395,774 shares of Class A Common Stock and (ii) 5,025,665 shares of Class B Common Stock, which represents approximately 11.5% of the outstanding Class A Common Stock. Based on the aggregate number of shares of
+Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 23
+ of 36 Pages
+
+ 
+
+
+ 
+
+
+percentage ownership of the reporting person. In accordance with Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the
+Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 1,395,774 shares of Class A Common Stock and the 5,025,665 shares
+of Class B Common Stock held by ICONIQ III
+Co-Invest
+ represents 2.2% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+ 
+
+
+ 
+
+
+(iv)
+
+
+
+ICONIQ III GP may be deemed to beneficially own 31,481,381 shares of Common Stock consisting of (i) 6,842,844
+shares of Class A Common Stock and (ii) 24,638,537 shares of Class B Common Stock, owned by the ICONIQ III Funds, which represents approximately 41.8% of the outstanding Class A Common Stock. Based on the aggregate number of shares of
+Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with
+Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities
+under the Securities Exchange Act of 1934, as amended. The 6,842,844 shares of Class A Common Stock and the 24,638,537 shares of Class B Common Stock held by the ICONIQ III Funds represents 10.7% of the aggregate combined voting power of
+the Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(v)
+
+
+
+ICONIQ III Parent GP may be deemed to beneficially own 31,481,381 shares of Common Stock consisting of (i)
+6,842,844 shares of Class A Common Stock and (ii) 24,638,537 shares of Class B Common Stock, owned by the ICONIQ III Funds, which represents approximately 41.8% of the outstanding Class A Common Stock. Based on the aggregate number of
+shares of Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant
+to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In
+accordance with Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting
+equity securities under the Securities Exchange Act of 1934, as amended. The 6,842,844 shares of Class A Common Stock and the 24,638,537 shares of Class B Common Stock held by the ICONIQ III Funds represents 10.7% of the aggregate combined
+voting power of the Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(vi)
+
+
+
+ICONIQ IV directly owns 418,033 shares of Common Stock consisting of (i) 163,788 shares of Class A Common
+Stock and (ii) 254,245 shares of Class B Common Stock, which represents approximately 0.8% of the outstanding Class A Common Stock. Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting
+person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities
+Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule
+13d-3,
+ the
+percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The
+163,788 shares of Class A Common Stock and the 254,245 shares of Class B Common Stock held by ICONIQ IV represents 0.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+ 
+
+
+ 
+
+
+(vii)
+
+
+
+ICONIQ
+IV-B
+ directly owns 692,634 shares of Common Stock consisting of
+(i) 271,378 shares of Class A Common Stock and (ii) 421,256 shares of Class B Common Stock, which represents approximately 1.4% of the outstanding Class A Common Stock. Based on the aggregate number of shares of Class A Common
+Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with
+Rule
+13d-3,
+ the percentage reported does not reflect
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 24
+ of 36 Pages
+
+ 
+
+
+ 
+
+
+the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of
+1934, as amended. The 271,378 shares of Class A Common Stock and the 421,256 shares of Class B Common Stock held by ICONIQ
+IV-B
+ represents 0.2% of the aggregate combined voting power of the
+Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(viii)
+
+
+
+ICONIQ IV GP may be deemed to beneficially own 1,110,667 shares of Common Stock consisting of (i) 435,166
+shares of Class A Common Stock and (ii) 675,501 shares of Class B Common Stock, owned by the ICONIQ IV Funds, which represents approximately 2.2% of the outstanding Class A Common Stock. Based on the aggregate number of shares of
+Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with
+Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities
+under the Securities Exchange Act of 1934, as amended. The 435,166 shares of Class A Common Stock and the 675,501 shares of Class B Common Stock held by the ICONIQ IV Funds represents 0.3% of the aggregate combined voting power of the
+Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(ix)
+
+
+
+ICONIQ IV Parent GP may be deemed to beneficially own 1,110,667 shares of Common Stock consisting of (i)
+435,166 shares of Class A Common Stock and (ii) 675,501 shares of Class B Common Stock, owned by the ICONIQ IV Funds, which represents approximately 2.2% of the outstanding Class A Common Stock. Based on the aggregate number of shares
+of Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance
+with Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity
+securities under the Securities Exchange Act of 1934, as amended. The 435,166 shares of Class A Common Stock and the 675,501 shares of Class B Common Stock held by the ICONIQ IV Funds represents 0.3% of the aggregate combined voting power
+of the Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(x)
+
+
+
+ICONIQ V directly owns 82,661 shares of Common Stock consisting of (i) 82,661 shares of Class A Common
+Stock and (ii) 0 shares of Class B Common Stock, which represents approximately 0.2% of the outstanding Class A Common Stock. Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person
+and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities
+Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with Rule
+13d-3,
+ the
+percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended. The
+82,661 shares of Class A Common Stock and the 0 shares of Class B Common Stock held by ICONIQ V represents less than 0.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+
+ 
+
+
+ 
+
+
+(xi)
+
+
+
+ICONIQ
+V-B
+ directly owns 127,339 shares of Common Stock consisting of
+(i) 127,339 shares of Class A Common Stock and (ii) 0 shares of Class B Common Stock, which represents approximately 0.3% of the outstanding Class A Common Stock. Based on the aggregate number of shares of Class A Common Stock
+beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with
+Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities
+under the Securities Exchange Act
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 25
+ of 36 Pages
+
+ 
+
+
+ 
+
+
+of 1934, as amended. The 127,339 shares of Class A Common Stock and the 0 shares of Class B Common Stock held by ICONIQ
+V-B
+ represents less than
+0.1% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(xii)
+
+
+
+ICONIQ V GP may be deemed to beneficially own 210,000 shares of Common Stock consisting of (i) 210,000 shares
+of Class A Common Stock and (ii) 0 shares of Class B Common Stock, owned by the ICONIQ V Funds, which represents approximately 0.4% of the outstanding Class A Common Stock. Based on the aggregate number of shares of Class A
+Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with
+Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities
+under the Securities Exchange Act of 1934, as amended. The 210,000 shares of Class A Common Stock and the 0 shares of Class B Common Stock held by the ICONIQ V Funds represents less than 0.1% of the aggregate combined voting power of the
+Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(xiii)
+
+
+
+ICONIQ V Parent GP may be deemed to beneficially own 210,000 shares of Common Stock consisting of (i) 210,000
+shares of Class A Common Stock and (ii) 0 shares of Class B Common Stock, owned by the ICONIQ V Funds, which represents approximately 0.4% of the outstanding Class A Common Stock. Based on the aggregate number of shares of
+Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting person. In accordance with
+Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities
+under the Securities Exchange Act of 1934, as amended. The 210,000 shares of Class A Common Stock and the 0 shares of Class B Common Stock held by the ICONIQ V Funds represents less than 0.1% of the aggregate combined voting power of the
+Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(xiv)
+
+
+
+Makan may be deemed to beneficially own 32,816,822 shares of Common Stock consisting of (i) 7,502,784 shares of
+Class A Common Stock and (ii) 25,314,038 shares of Class B Common Stock, owned by the ICONIQ III Funds, ICONIQ IV Funds, ICONIQ V Funds and Makan, which represents approximately 43.2% of the outstanding Class A Common Stock. Based on
+the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B
+Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the
+reporting person. In accordance with Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered
+class of voting equity securities under the Securities Exchange Act of 1934, as amended. The 7,502,784 shares of Class A Common Stock and the 25,314,038 shares of Class B Common Stock held by the ICONIQ III Funds, ICONIQ IV Funds, ICONIQ V
+Funds and Makan represents 11.0% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(xv)
+
+
+
+Griffith may be deemed to beneficially own 32,816,836 shares of Common Stock consisting of (i) 7,502,798 shares
+of Class A Common Stock and (ii) 25,314,038 shares of Class B Common Stock, owned by the ICONIQ III Funds, ICONIQ IV Funds, ICONIQ V Funds and Griffith, which represents approximately 43.2% of the outstanding Class A Common Stock.
+Based on the aggregate number of shares of Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the
+Class B Common Stock, pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage
+ownership of the reporting person. In accordance with Rule
+13d-3,
+
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 26
+ of 36 Pages
+
+ 
+
+
+ 
+
+
+the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities
+under the Securities Exchange Act of 1934, as amended. The 7,502,798 shares of Class A Common Stock and the 25,314,038 shares of Class B Common Stock held by the ICONIQ III Funds, ICONIQ IV Funds, ICONIQ V Funds and Griffith represents
+11.0% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+(xvi)
+
+
+
+Jacobson may be deemed to beneficially own 1,325,332 shares of Common Stock consisting of (i) 649,831 shares of
+Class A Common Stock and (ii) 675,501 shares of Class B Common Stock, owned by the ICONIQ IV Funds, ICONIQ V Funds and Jacobson, which represents approximately 2.6% of the outstanding Class A Common Stock. Based on the aggregate
+number of shares of Class A Common Stock beneficially owned by the reporting person and the aggregate number of shares of Class B Common Stock beneficially owned by the reporting person, which with respect to the Class B Common Stock,
+pursuant to Rule
+13d-3
+ of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the reporting
+person. In accordance with Rule
+13d-3,
+ the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of
+voting equity securities under the Securities Exchange Act of 1934, as amended. The 649,831 shares of Class A Common Stock and the 675,501 shares of Class B Common Stock held by the ICONIQ IV Funds, ICONIQ V Funds and Jacobson represent
+0.3% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+The percent of class and voting power were calculated based on (i) 50,700,000 shares of Class A Common
+Stock and (ii) 232,400,000 shares of Class B common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form
+10-Q
+ for the quarter ended September 30,
+2020, as filed with the Securities and Exchange Commission on December 3, 2020.
+
+ 
+
+
+ 
+
+
+(c)
+
+
+
+Number of shares as to which such person has:
+
+
+ 
+
+
+ 
+
+
+  
+
+
+Number of Class A Common Stock
+
+
+ 
+
+
+
+Reporting Person
+
+
+  
+
+
+(i)
+
+
+ 
+
+
+  
+
+
+(ii)
+
+
+ 
+
+
+  
+
+
+(iii)
+
+
+ 
+
+
+  
+
+
+(iv)
+
+
+ 
+
+
+
+ICONIQ III
+
+
+  
+
+
+ 
+
+
+12,114,956
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+12,114,956
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ
+III-B
+
+
+  
+
+
+ 
+
+
+12,944,986
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+12,944,986
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ III
+Co-Invest
+
+
+  
+
+
+ 
+
+
+6,421,439
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+6,421,439
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ III GP
+
+
+  
+
+
+ 
+
+
+31,481,381
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+31,481,381
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ III Parent GP
+
+
+  
+
+
+ 
+
+
+31,481,381
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+31,481,381
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ IV
+
+
+  
+
+
+ 
+
+
+418,033
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+418,033
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ
+IV-B
+
+
+  
+
+
+ 
+
+
+692,634
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+692,634
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ IV GP
+
+
+  
+
+
+ 
+
+
+1,110,667
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+1,110,667
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ IV Parent GP
+
+
+  
+
+
+ 
+
+
+1,110,667
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+1,110,667
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ V
+
+
+  
+
+
+ 
+
+
+82,661
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+82,661
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ
+V-B
+
+
+  
+
+
+ 
+
+
+127,339
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+127,339
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ V GP
+
+
+  
+
+
+ 
+
+
+210,000
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+210,000
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ICONIQ V Parent GP
+
+
+  
+
+
+ 
+
+
+210,000
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+210,000
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+Makan
+
+
+  
+
+
+ 
+
+
+32,816,822
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+32,816,822
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+Griffith
+
+
+  
+
+
+ 
+
+
+32,816,836
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+32,816,836
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+Jacobson
+
+
+  
+
+
+ 
+
+
+1,325,332
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+  
+
+
+ 
+
+
+1,325,332
+
+
+ 
+
+
+  
+
+
+ 
+
+
+0
+
+
+ 
+
+
+
+ 
+
+
+(i)
+
+
+
+Sole power to vote or direct the vote
+
+
+(ii)
+
+
+
+Shared power to vote or to direct the vote
+
+
+(iii)
+
+
+
+Sole power to dispose or to direct the disposition of
+
+
+(iv)
+
+
+
+Shared power to dispose or to direct the disposition of
+
+
+The percent of class was calculated based on (i) 50,700,000 shares of Class A Common Stock and (ii) 232,400,000 shares of Class B
+common stock outstanding as of November 25, 2020, as disclosed in the Issuer’s Quarterly Report on Form
+10-Q
+ for the quarter ended September 30, 2020, as filed with the Securities and Exchange
+Commission on December 3, 2020.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 27
+ of 36 Pages
+
+ 
+
+
+Item 5.
+
+
+
+Ownership of Five Percent or Less of a Class.
+
+
+If this statement is being filed to report the fact that as of the date hereof the reporting persons have ceased to be the beneficial owner of
+more than five percent of the class of securities, check the following.  ☐
+
+ 
+
+
+Item 6.
+
+
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+
+Not applicable.
+
+ 
+
+
+Item 7.
+
+
+
+Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on by the
+Parent Holding Company or Control Person.
+
+Not applicable.
+
+
+ 
+
+
+Item 8.
+
+
+
+Identification and Classification of Members of the Group.
+
+
+The Reporting Persons expressly disclaim membership in a “group” as used in Rule
+
+13d-5(b)(1)..
+
+
+ 
+
+
+Item 9.
+
+
+
+Notice of Dissolution of Group.
+
+
+Not applicable.
+
+ 
+
+
+Item 10.
+
+
+
+Certification.
+
+
+Not applicable.
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 28
+ of 36 Pages
+
+ 
+
+
+SIGNATURE
+
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true,
+complete and correct.
+
+Date: February 16, 2021
+
+ 
+
+
+ICONIQ Strategic Partners III, L.P., a Cayman
+
+
+Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners III GP, L.P., a
+
+
+ 
+
+
+Cayman Islands Exempted limited partner, its General Partner
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners III TT GP, Ltd, a
+
+
+ 
+
+
+Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners
+III-B,
+ L.P., a Cayman
+
+
+Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners III GP, L.P., a
+
+
+ 
+
+
+Cayman Islands exempted limited partnership, its General Partner
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners III TT GP, Ltd., a
+
+
+ 
+
+
+Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners III
+Co-Invest,
+ L.P., a
+
+
+Delaware series limited partnership, Series SF
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners III GP, L.P., a
+
+
+ 
+
+
+Cayman Islands exempted limited partnership, its General Partner
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners III TT GP, Ltd., a
+
+
+ 
+
+
+Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 29
+ of 36 Pages
+
+ 
+
+
+ICONIQ Strategic Partners IV, L.P., a Cayman
+
+
+Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners IV GP, L.P., a
+
+
+ 
+
+
+Cayman Islands exempted limited partnership, its General Partner
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners IV TT GP, Ltd., a
+
+
+ 
+
+
+Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners
+IV-B,
+ L.P., a Cayman Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners IV GP, L.P., a
+
+
+ 
+
+
+Cayman Islands exempted limited partnership, its General Partner
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners IV TT GP, Ltd.,
+
+
+ 
+
+
+a Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners V, L.P., a Cayman
+
+
+Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners V GP, L.P., a
+
+
+ 
+
+
+Cayman Islands exempted limited partnership, its General Partner
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners V TT GP, Ltd.,
+
+
+ 
+
+
+a Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 30
+ of 36 Pages
+
+ 
+
+
+ICONIQ Strategic Partners
+V-B,
+ L.P., a Cayman Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners V GP, L.P., a
+
+
+ 
+
+
+Cayman Islands exempted limited partnership, its General Partner
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners V TT GP, Ltd.,
+
+
+ 
+
+
+a Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners III GP, L.P., a Cayman Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners III TT GP, Ltd., a
+
+
+ 
+
+
+Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners III TT GP, Ltd., a Cayman Islands exempted company
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners IV GP, L.P., a Cayman Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners IV TT GP, Ltd.,
+
+
+ 
+
+
+a Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners IV TT GP, Ltd., a Cayman Islands exempted company
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+CUSIP No. 833445109
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ Page
+ 31
+ of 36 Pages
+
+ 
+
+
+ICONIQ Strategic Partners V GP, L.P., a
+
+
+Cayman Islands exempted limited partnership
+
+
+By:
+
+
+ 
+
+
+ICONIQ Strategic Partners V TT GP, Ltd.,
+
+
+a Cayman Islands exempted company, its General Partner
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+ICONIQ Strategic Partners V TT GP, Ltd., a
+
+
+Cayman Islands exempted company
+
+
+By:
+
+
+ 
+
+
+Kevin Foster
+
+
+Title:
+
+
+ 
+
+
+Authorized Person
+
+
+
+/s/ Kevin Foster
+
+
+Signature of Reporting Person
+
+
+Divesh Makan
+
+
+
+/s/ Divesh Makan
+
+
+Signature of Reporting Person
+
+
+William J.G. Griffith
+
+
+
+/s/ William J.G. Griffith
+
+
+Signature of Reporting Person
+
+
+Matthew Jacobson
+
+
+
+/s/ Matthew Jacobson
+
+
+Signature of Reporting Person
+
+

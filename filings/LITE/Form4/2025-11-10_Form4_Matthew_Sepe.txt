@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-10
+Transaction Date: 2025-11-07
+Person: Matthew Sepe — 
+Type: SELL
+Shares: 232 at $239.6274
+Shares After: 11
+=== TICKER: LITE ===
+===

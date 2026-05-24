@@ -1,0 +1,98 @@
+=== FILING DATE: 2025-06-05 ===
+=== PERIOD COVERED: 2025-05-11 ===
+=== SOURCE: 10-Q filed 2025-06-05 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: COST ===
+
+Item 8
+, Note 1 of our Annual Report on Form 10-K, for the fiscal year ended September 1, 2024.
+Provision for Income Taxes
+ 
+12 Weeks Ended
+36 Weeks Ended
+ 
+May 11,
+2025
+May 12,
+2024
+May 11,
+2025
+May 12,
+2024
+Provision for income taxes
+$
+677 
+$
+603 
+$
+1,819 
+$
+1,614 
+Effective tax rate
+26.2 
+%
+26.4 
+%
+24.9 
+%
+24.4 
+%
+The effective tax rate for the first thirty-six weeks of 2025
+
+was favorably impacted by discrete tax benefits of $100 related to stock compensation.
+The effective tax rate for the first thirty-six weeks of 2024 was favorably impacted by discrete tax benefits of $94 related to the portion of the special cash dividend payable through our 401(k) plan and $44 related to stock compensation.
+LIQUIDITY AND CAPITAL RESOURCES
+The following table summarizes our significant sources and uses of cash and cash equivalents:
+36 Weeks Ended
+May 11,
+2025
+May 12,
+2024
+Net cash provided by operating activities
+$
+9,468 
+$
+8,381 
+Net cash used in investing activities
+(3,343)
+(2,706)
+Net cash used in financing activities
+(2,182)
+(8,948)
+Our primary sources of liquidity are cash flows from operations, cash and cash equivalents, and short-term investments. Cash and cash equivalents and short-term investments were $14,850 and $11,144 at
+23
+Table of Contents
+May 11, 2025, and September 1, 2024. Of these balances, unsettled credit and debit card receivables represented approximately $2,587 and $2,519 at May 11, 2025, and September 1, 2024. These receivables generally settle within four days.
+Material contractual obligations arising in the normal course of business primarily consist of purchase obligations, long-term debt and related interest payments, leases, and construction and land purchase obligations. Purchase obligations consist of contracts primarily related to merchandise, equipment, and third-party services, the majority of which are due in the next 12 months. Construction and land-purchase obligations consist of contracts primarily related to the development and opening of new and relocated warehouses, the majority of which (other than leases) are due in the next 12 months.
+We believe that our cash and investment position and operating cash flow, with capacity under existing and available credit agreements, will be sufficient to meet our liquidity and capital requirements for the foreseeable future and that our U.S. current and projected asset position is sufficient to meet our U.S. liquidity requirements.
+Cash Flows from Operating Activities
+Net cash provided by operating activities totaled $9,468 in the first thirty-six weeks of 2025, compared to $8,381 in the first thirty-six weeks of 2024. Our cash flow provided by operations is primarily fr
+om net sales and membership fees. Cash flow used in operations generally consists of payments to mercha
+ndise suppliers, warehouse operating costs, including wages and employee benefits, utilities, credit and debit card processing fees, and operating leases. Cash used in operations also includes payments for income taxes. Changes in our net investment in merchandise inventories (the difference between merchandise inventories and accounts payable) is impacted by several factors, including inventory levels and turnover, payment terms with suppliers, and early payments to obtain discounts.
+Cash Flows from Investing Activities
+Net cash used in investing activities totaled $3,343 in the first thirty-six weeks of 2025, compared to $2,706 in the first thirty-six weeks of 2024, and is primarily related
+ to capital expenditures.
+Net cash from investing activities also includes purchases and maturities of short-term investments.
+Capital Expenditure Plans
+Our primary requirements for capital are acquiring land, buildings, and equipment for new and remodeled warehouses, information systems and manufacturing and distribution facilities. In the first thirty-six weeks of 2025, we spent $3,532 on capital expenditures, and it is our current intention to spend slightly over $5,000 during fiscal 2025. These expenditures are expected to be financed with cash from operations, cash and cash equivalents, and short-term investments. We opened
+ 17
+new warehouses, includ
+ing two relocations, in
+ the first thirty-six weeks of 2025 and plan to open ten additional new warehouses, including one relocation,
+in
+ the remainder of fiscal 2025. There can be no assurance that current expectations will be realized, and plans are subject to change upon further review of our capital expenditure needs and the economic environment.
+Cash Flows from Financing Activities
+Net cash used in financing activities totaled $2,182 in the first thirty-six weeks of 2025, compared to $8,948 in the first thirty-six weeks of 2024. Cash flow used in financing activities during the first thirty-six weeks of 2025 was primarily related to the
+ payment of dividends, repayments of short-term borrowings, repurchases of common stock, and withholding taxes on stock-based awards. Cash flow provided by financing activities included proceeds from short-term borrowings
+. In the first thirty-six weeks of 2024, cash flow used in financing was primarily due to the payment of a special dividend.
+Dividends
+A quarterly cash dividend of $1.30 per share was declared on April 16, 2025, and paid on May 16, 2025.
+24
+Table of Contents
+Share Repurchase Program
+On January 19, 2023, the Board of Directors authorized a share repurchase program in the amount of $4,000, which expires in January 2027. During the first thirty-six weeks of 2025 and 2024, we repurchased 658,000 and 749,000 shares of common stock, at an average price per share of $946.64 and $646.07, totaling approximately $623 and $484. These amounts may differ from the accompanying condensed consolidated statements of cash flows due to changes in unsettled repurchases at the end of a quarter. Purchases are made from time to time, as conditions warrant, in the open market or in block purchases, pursuant to plans under SEC Rule 10b5-1. Repurchased shares are retired, in accordance with the Washington Business Corporation Act. The remaining amount available to be purchased under our approved plan was $2,242 at the end of the third quarter.
+Bank Credit Facilities and Commercial Paper Programs
+We maintain bank credit facilities for working capital and general corporate purposes. At May 11, 2025, we had borrowing capacity under these facilities of $1,176. Our international operations maintain $681 of this capacity under bank credit facilities, of which $164 is guaranteed by the Company. Short-term borrowings outstanding under the bank credit facilities, which are included in other current liabilities on the consolidated balance sheets, were immaterial at the end of the third quarter of 2025 and at the end of 2024.
+We have letter of credit facilities, for commercial and standby letters of credit, totaling $228. The outstanding commitments under these facilities at the end of the third quarter of 2025 totaled $205, most of which were standby letters of credit that do not expire or have expiration dates within one year. The bank credit facilities have various expiration dates, most within one year, and we generally intend to renew these facilities. The amount of borrowings available at any time under our bank credit facilities is reduced by the amount of standby and commercial letters of credit outstanding.
+Critical Accounting Estimates
+The preparation of our consolidated financial statements in accordance with U.S. GAAP requires that we make estimates and judgments. We base these on historical experience and on assumptions that we believe to be reasonable. Our critical accounting policies are discussed in Part II,

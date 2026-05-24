@@ -1,0 +1,481 @@
+=== FILING DATE: 2025-09-26 ===
+=== PERIOD COVERED: 2025-09-26 ===
+=== SOURCE: 8-K filed 2025-09-26 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: COHR ===
+
+
+
+
+8-K
+
+
+
+
+
+false
+
+0000820318
+
+
+
+
+
+
+
+
+0000820318
+
+
+
+2025-09-26
+
+2025-09-26
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+ 
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+September 26, 2025
+
+ 
+
+
+ 
+
+COHERENT CORP.
+
+(Exact Name of Registrant as Specified in Charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Pennsylvania
+
+
+ 
+
+
+001-39375
+
+
+ 
+
+
+25-1214948
+
+
+
+(State or Other Jurisdiction
+
+of Incorporation)
+
+
+ 
+
+
+(Commission
+File Number)
+
+
+ 
+
+
+(IRS Employer
+Identification No.)
+
+ 
+
+
+375 Saxonburg Boulevard
+
+
+ 
+
+
+16056
+
+
+Saxonburg
+,
+Pennsylvania
+
+
+ 
+
+
+(Zip Code)
+
+
+(Address of principal executive offices)
+
+
+ 
+
+
+
+Registrant’s telephone number, including area code:
+(724)
+
+352-4455
+
+ 
+
+
+ 
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+General Instruction A.2. below):
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common Stock, no par value
+
+
+ 
+
+
+COHR
+
+
+ 
+
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+ of the Securities Exchange Act of 1934
+(§240.12b-2
+ of this chapter).
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 1.01.
+
+
+
+Entry into a Material Definitive Agreement.
+
+Refinancing Amendment, Incremental Assumption Agreement and Amendment No.
+ 4 to Credit Agreement.
+On September 26, 2025, Coherent Corp. (the “Company”) entered into that certain Refinancing Amendment, Incremental Assumption Agreement and Amendment No. 4 (“Amendment No. 4”) with JPMorgan Chase Bank, N.A., as administrative agent (the “Agent”), and the lenders and other parties thereto, which amended the Credit Agreement, dated as of July 1, 2022 (as previously amended, supplemented or modified, the “Credit Agreement”), between the Company, the Agent, and the lenders and other parties thereto.
+
+Pursuant to Amendment No. 4 (i) all existing revolving credit commitments under the Credit Agreement were refinanced and replaced with new senior secured revolving credit commitments, (ii) the Company obtained additional senior secured incremental revolving credit commitments, increasing the total revolving credit facility to $700 million (the “2025 Revolving Loans”), and (iii) the lenders provided a new tranche of senior secured incremental term A loans in an aggregate principal amount of $1.25 billion (the “2025 Incremental Term A Loans”), the proceeds of which were used, in part, to repay all outstanding principal, interest and fees under the initial term A loans. The 2025 Incremental Term A Loans constitute a new class of term loans under the Credit Agreement and will bear interest, at the Company’s option, at the adjusted term SOFR rate plus an applicable margin or the alternate base rate plus an applicable margin.
+
+The interest rate margin applicable to the 2025 Revolving Loans and the 2025 Incremental Term A Loans is initially 0.50%, in the case of base rate loans, and 1.50%, in the case of term benchmark loans, with step-downs and
+step-ups
+ based on the Company’s total net leverage ratio (determined pursuant to a five-tier total net leverage ratio grid). The credit spread adjustment was also eliminated. The unused fee rate applicable to the available unused commitments under the revolving facility is initially 0.20%, with step-downs and
+step-ups
+ based on the Company’s total net leverage ratio (determined pursuant to a five-tier total net leverage ratio grid).
+
+The 2025 Incremental Term A Loans amortizes quarterly at the rate of 0.625% of the original principal amount for the first four full fiscal quarters following the Amendment No. 4 effective date and 1.25% of the original principal amount per quarter thereafter, with the remaining unpaid balance due at maturity.
+
+The 2025 Revolving Loans and the 2025 Incremental Term A Loans mature on the earlier of September 26, 2030 or a “Springing Maturity Date,” which is a date that is 91 days prior to the stated maturity of either (i) the Company’s unsecured senior notes or (ii) the term B loans then outstanding if, on such 91st day, the applicable senior notes or term B loans remain outstanding and liquidity is less than (x) $250 million plus (y) the aggregate outstanding principal amount of such notes or term B loans, as applicable.
+
+Amendment No. 4 reset the total net leverage ratio financial covenant to a single maximum of 4.25 to 1.00, with a temporary
+step-up
+ to 4.75 to 1.00 for four quarters following a material acquisition, subject to certain limitations. The Company continues to be subject to a 2.50 to 1.00 interest coverage ratio financial covenant. The financial covenants continue to apply only to the revolving facility (including the 2025 Revolving Loans) and term A loans (including the 2025 Incremental Term A Loans)
+
+The Company used the proceeds of the 2025 Incremental Term A Loans (a) to repay in full the outstanding principal amount of its existing term A loans, together with all accrued and unpaid interest and fees thereon and (b) to make a voluntary prepayment of a portion of its term
+B-2
+ loans. Remaining proceeds of the 2025 Incremental Term A Loans were used to pay fees and expenses in connection with Amendment No. 4 and will be used for working capital and general corporate purposes.
+
+Amendment No.
+ 5 to Credit Agreement.
+On September 26, 2025, the Company also entered into that certain Amendment No. 5 (“Amendment No. 5”) with the Agent, and the lenders and other parties thereto, which further amended the Credit Agreement as amended by Amendment No. 4.
+
+Pursuant to Amendment No. 5, the entire aggregate principal amount of term
+B-2
+ loans (the “Term
+B-2
+ Loans”) outstanding under the Credit Agreement after giving effect to the prepayment of Term
+B-2
+ Loans contemplated by Amendment No. 4 were replaced with $1,080,000,000 of new term loans (the “Term
+B-3
+ Loans”) having substantially similar terms as the Term
+B-2
+ Loans, except with respect to the interest rate applicable to the Term
+B-3
+ Loans and certain other provisions. The interest rate margin applicable to the Term
+B-3
+ Loans is 0.75%, in the case of base rate loans, and 1.75%, in the case of term benchmark loans, with a term benchmark floor of 0.50%. The maturity of the Term
+B-3
+ Loans remains unchanged from the maturity of the Term
+B-2
+ Loans, and the respective maturities of the revolving credit facility and the outstanding term A loan facility remain unchanged.
+
+
+ 
+
+2
+
+
+
+
+
+These descriptions of Amendment No. 4 and Amendment No. 5 are not complete and are qualified in their entirety by reference to the full text of Amendment No. 4 and Amendment No. 5, copies of which are filed hereto as Exhibit 10.1 and Exhibit 10.2 and are incorporated by reference herein.
+
+ 
+
+
+Item 2.03.
+
+
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+ Sheet Arrangement of a Registrant.
+
+The information set forth in Item 1.01 of this Current Report on Form
+8-K
+ is hereby incorporated by reference into this Item 2.03.
+
+ 
+
+
+Item 9.01.
+
+
+
+Financial Statements and Exhibits.
+
+(d) 
+Exhibits
+.
+
+ 
+
+
+ 
+
+
+10.1
+
+
+
+Amendment No. 4, dated as of September 26, 2025, among Coherent Corp., JPMorgan Chase Bank, N.A., as administrative agent, the lenders party thereto, and the other parties party thereto.
+
+
+ 
+
+
+ 
+
+
+10.2
+
+
+
+Amendment No. 5, dated as of September 26, 2025, among Coherent Corp., JPMorgan Chase Bank, N.A., as administrative agent, the lenders party thereto, and the other parties party thereto.
+
+
+ 
+
+
+ 
+
+
+104
+
+
+
+Cover Page Interactive Data File (embedded within Inline XBRL document).
+
+
+ 
+
+3
+
+
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+ 
+
+
+ 
+
+
+COHERENT CORP.
+
+
+Date: September 26, 2025
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+ 
+
+
+
+/s/ Rob Beard
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Rob Beard
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Chief Legal and Global Affairs Officer
+
+
+ 
+
+4
+
+

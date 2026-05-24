@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-17
+Transaction Date: 2025-09-15
+Person: Coleman Amy — EVP, Chief Human Resources Off
+Type: BUY
+Shares: 4022 at $0
+Shares After: 45923.6373
+=== TICKER: MSFT ===
+===

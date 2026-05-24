@@ -1,0 +1,16 @@
+=== FILING DATE: 2025-09-03 ===
+=== PERIOD COVERED: 2025-07-31 ===
+=== SOURCE: 10-K filed 2025-09-03 ===
+=== SECTION: Item 9A — Controls and Procedures ===
+=== TICKER: INTU ===
+
+ITEM 9A
+ - CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+Based upon an evaluation of the effectiveness of disclosure controls and procedures, Intuit’s Chief Executive Officer (CEO) and Chief Financial Officer (CFO) have concluded that as of the end of the period covered by this Annual Report on Form 10-K our disclosure controls and procedures as defined under Exchange Act Rules 13a-15(e) and 15d-15(e) were effective to provide reasonable assurance that information required to be disclosed in our Exchange Act reports is recorded, processed, summarized, and reported within the time periods specified by the Securities and Exchange Commission and is accumulated and communicated to management, including the CEO and CFO, as appropriate to allow timely decisions regarding required disclosure.
+Management’s Report on Internal Control over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f). Under the supervision and with the participation of our management, including our CEO and CFO, we conducted an evaluation of the effectiveness of our internal control over financial reporting as of July 31, 2025 based on the guidelines established in
+Internal Control – Integrated Frame
+work issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (COSO).
+Based on the results of our evaluation, our management has concluded that our internal control over financial reporting was effective as of July 31, 2025 to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external reporting purposes in accordance with generally accepted accounting principles. We reviewed the results of management’s assessment with the Audit and Risk Committee of Intuit’s Board of Directors.
+Ernst & Young LLP, an independent registered public accounting firm, has audited the effectiveness of our internal control over financial reporting as of July 31, 2025. Their report is included in

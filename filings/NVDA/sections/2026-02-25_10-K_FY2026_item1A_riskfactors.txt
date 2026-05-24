@@ -1,0 +1,10 @@
+=== FILING DATE: 2026-02-25 ===
+=== PERIOD COVERED: 2026-01-25 ===
+=== SOURCE: 10-K filed 2026-02-25 ===
+=== SECTION: Item 1A — Risk Factors ===
+=== TICKER: NVDA ===
+
+Item 1A
+. Risk Factors for additional information regarding our investments.
+During fiscal year 2026 and fiscal year 2025, we spent $6.1 billion and $3.4 billion on capital expenditures, respectively. We expect to increase capital expenditures in fiscal year 2027 relative to fiscal year 2026 to support the future growth of our business.
+Unrecognized tax benefits of $4.0 billion, which includes related interest and penalties of $374 million, were recorded in non-current income tax payable at the end of fiscal year 2026. We are unable to estimate the timing of any potential tax liability, interest payments, or penalties in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such tax positions. We are currently under examination by the Internal Revenue Service for our fiscal years 2023 and 2024. Refer to Note 13 of the Notes to the Consolidated Financial Statements in Part IV,

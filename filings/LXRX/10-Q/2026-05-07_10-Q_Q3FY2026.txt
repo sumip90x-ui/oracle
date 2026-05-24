@@ -1,0 +1,2897 @@
+=== FILING DATE: 2026-05-07 ===
+=== PERIOD COVERED: 2026-03-31 ===
+=== SOURCE: 10-Q filed 2026-05-07 ===
+=== SECTION: Full 10-Q ===
+=== TICKER: LXRX ===
+
+
+
+lxrx-20260331
+Q1
+FALSE
+2026
+--12-31
+0001062822
+one
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+utr:Rate
+xbrli:pure
+lxrx:segment
+0001062822
+2026-01-01
+2026-03-31
+0001062822
+2026-05-04
+0001062822
+2026-03-31
+0001062822
+2025-12-31
+0001062822
+us-gaap:ProductMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:ProductMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:LicenseMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:LicenseMember
+2025-01-01
+2025-03-31
+0001062822
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:ResearchAndDevelopmentExpenseMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:CommonStockMember
+2024-12-31
+0001062822
+us-gaap:PreferredStockMember
+2024-12-31
+0001062822
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001062822
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001062822
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001062822
+2024-12-31
+0001062822
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:CommonStockMember
+2025-03-31
+0001062822
+us-gaap:PreferredStockMember
+2025-03-31
+0001062822
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001062822
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001062822
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001062822
+2025-03-31
+0001062822
+us-gaap:CommonStockMember
+2025-12-31
+0001062822
+us-gaap:PreferredStockMember
+2025-12-31
+0001062822
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0001062822
+us-gaap:RetainedEarningsMember
+2025-12-31
+0001062822
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+2025-12-31
+0001062822
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:PreferredStockMember
+us-gaap:PreferredStockMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:PreferredStockMember
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:PreferredStockMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:CommonStockMember
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:CommonStockMember
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:CommonStockMember
+2026-03-31
+0001062822
+us-gaap:PreferredStockMember
+2026-03-31
+0001062822
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0001062822
+us-gaap:RetainedEarningsMember
+2026-03-31
+0001062822
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0001062822
+us-gaap:TreasuryStockCommonMember
+2026-03-31
+0001062822
+us-gaap:CashMember
+2026-03-31
+0001062822
+lxrx:RestrictedCashMember
+2026-03-31
+0001062822
+lxrx:CashAndRestrictedCashMember
+2026-03-31
+0001062822
+us-gaap:USTreasurySecuritiesMember
+2026-03-31
+0001062822
+us-gaap:CorporateDebtSecuritiesMember
+2026-03-31
+0001062822
+us-gaap:ShortTermInvestmentsMember
+2026-03-31
+0001062822
+us-gaap:InvestmentsMember
+2026-03-31
+0001062822
+us-gaap:CashMember
+2025-12-31
+0001062822
+lxrx:RestrictedCashMember
+2025-12-31
+0001062822
+lxrx:CashAndRestrictedCashMember
+2025-12-31
+0001062822
+us-gaap:USTreasurySecuritiesMember
+2025-12-31
+0001062822
+us-gaap:CorporateDebtSecuritiesMember
+2025-12-31
+0001062822
+us-gaap:ShortTermInvestmentsMember
+2025-12-31
+0001062822
+us-gaap:InvestmentsMember
+2025-12-31
+0001062822
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001062822
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001062822
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001062822
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001062822
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001062822
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001062822
+srt:MinimumMember
+us-gaap:ComputerEquipmentMember
+2026-03-31
+0001062822
+srt:MaximumMember
+us-gaap:ComputerEquipmentMember
+2026-03-31
+0001062822
+us-gaap:ComputerEquipmentMember
+2026-03-31
+0001062822
+us-gaap:ComputerEquipmentMember
+2025-12-31
+0001062822
+srt:MinimumMember
+us-gaap:FurnitureAndFixturesMember
+2026-03-31
+0001062822
+srt:MaximumMember
+us-gaap:FurnitureAndFixturesMember
+2026-03-31
+0001062822
+us-gaap:FurnitureAndFixturesMember
+2026-03-31
+0001062822
+us-gaap:FurnitureAndFixturesMember
+2025-12-31
+0001062822
+srt:MinimumMember
+us-gaap:LeaseholdsAndLeaseholdImprovementsMember
+2026-03-31
+0001062822
+srt:MaximumMember
+us-gaap:LeaseholdsAndLeaseholdImprovementsMember
+2026-03-31
+0001062822
+us-gaap:LeaseholdsAndLeaseholdImprovementsMember
+2026-03-31
+0001062822
+us-gaap:LeaseholdsAndLeaseholdImprovementsMember
+2025-12-31
+0001062822
+lxrx:NovoNordiskMember
+us-gaap:LicenseMember
+2025-04-01
+2025-04-30
+0001062822
+us-gaap:LicenseMember
+lxrx:FirstNovoNordiskDevelopmentMilestoneMember
+lxrx:NovoNordiskMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:LicenseMember
+lxrx:SecondNovoNordiskDevelopmentMilestoneMember
+lxrx:NovoNordiskMember
+2026-01-01
+2026-03-31
+0001062822
+lxrx:NovoNordiskMember
+us-gaap:LicenseMember
+2026-03-31
+0001062822
+lxrx:ViatrisInc.Member
+us-gaap:LicenseMember
+2024-10-01
+2024-10-31
+0001062822
+lxrx:ViatrisInc.Member
+us-gaap:LicenseMember
+2026-03-31
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:HerculesCapitalInc.LoanFacilityMember
+us-gaap:LineOfCreditMember
+us-gaap:SubsequentEventMember
+2026-05-04
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:HerculesCapitalInc.LoanFacilityMember
+us-gaap:LineOfCreditMember
+us-gaap:SubsequentEventMember
+2026-05-04
+2026-05-04
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:HerculesCapitalInc.LoanFacilityMember
+us-gaap:SubsequentEventMember
+lxrx:DebtTrancheOneMember
+us-gaap:LineOfCreditMember
+2026-05-04
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:HerculesCapitalInc.LoanFacilityMember
+us-gaap:SubsequentEventMember
+lxrx:DebtTrancheTwoMember
+us-gaap:LineOfCreditMember
+2026-05-04
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:HerculesCapitalInc.LoanFacilityMember
+us-gaap:SubsequentEventMember
+lxrx:DebtTrancheThreeMember
+us-gaap:LineOfCreditMember
+2026-05-04
+0001062822
+us-gaap:SubsequentEventMember
+2026-05-04
+2026-05-04
+0001062822
+us-gaap:SubsequentEventMember
+2026-05-04
+0001062822
+lxrx:DebtTrancheOneMember
+us-gaap:SubsequentEventMember
+2026-05-04
+0001062822
+lxrx:DebtTrancheTwoMember
+us-gaap:SubsequentEventMember
+2026-05-04
+0001062822
+lxrx:DebtTrancheThreeMember
+us-gaap:SubsequentEventMember
+2026-05-04
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2025-04-01
+2025-04-30
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2025-12-01
+2025-12-31
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2026-02-01
+2026-02-28
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:DebtTrancheOneMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:DebtTrancheTwoMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:DebtTrancheOneMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:DebtTrancheTwoMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:DebtTrancheThreeMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:SecuredDebtMember
+lxrx:DebtTrancheThreeMember
+lxrx:OxfordFinanceLLCTermLoansMember
+us-gaap:LineOfCreditMember
+2026-03-31
+0001062822
+lxrx:EmployeesMember
+us-gaap:EmployeeStockOptionMember
+2026-01-01
+2026-03-31
+0001062822
+lxrx:OfficersAndNonEmployeeDirectorsMember
+us-gaap:EmployeeStockOptionMember
+2026-01-01
+2026-03-31
+0001062822
+lxrx:EmployeesMember
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-03-31
+0001062822
+lxrx:OfficersAndNonEmployeeDirectorsMember
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:EmployeeStockOptionMember
+2025-12-31
+0001062822
+us-gaap:EmployeeStockOptionMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:EmployeeStockOptionMember
+2026-03-31
+0001062822
+us-gaap:RestrictedStockUnitsRSUMember
+2025-12-31
+0001062822
+us-gaap:RestrictedStockUnitsRSUMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:RestrictedStockUnitsRSUMember
+2026-03-31
+0001062822
+us-gaap:CommonStockMember
+lxrx:PublicOfferingMember
+2026-02-01
+2026-02-28
+0001062822
+us-gaap:CommonStockMember
+lxrx:PublicOfferingMember
+2026-02-28
+0001062822
+us-gaap:CommonStockMember
+us-gaap:PrivatePlacementMember
+2026-02-01
+2026-02-28
+0001062822
+us-gaap:CommonStockMember
+us-gaap:PrivatePlacementMember
+2026-02-28
+0001062822
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PrivatePlacementMember
+2026-02-01
+2026-02-28
+0001062822
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PrivatePlacementMember
+2026-02-28
+0001062822
+us-gaap:PrivatePlacementMember
+2026-02-01
+2026-02-28
+0001062822
+us-gaap:SubsequentEventMember
+2026-04-30
+0001062822
+us-gaap:SubsequentEventMember
+2026-04-01
+2026-04-30
+0001062822
+us-gaap:ProductMember
+lxrx:ReportableSegmentMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:ProductMember
+lxrx:ReportableSegmentMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:LicenseMember
+lxrx:ReportableSegmentMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:LicenseMember
+lxrx:ReportableSegmentMember
+2025-01-01
+2025-03-31
+0001062822
+lxrx:ReportableSegmentMember
+2026-01-01
+2026-03-31
+0001062822
+lxrx:ReportableSegmentMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:ResearchAndDevelopmentExpenseMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:GeneralAndAdministrativeExpenseMember
+2026-01-01
+2026-03-31
+0001062822
+us-gaap:ResearchAndDevelopmentExpenseMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:SellingAndMarketingExpenseMember
+2025-01-01
+2025-03-31
+0001062822
+us-gaap:GeneralAndAdministrativeExpenseMember
+2025-01-01
+2025-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+ 
+(Mark One)
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the Quarterly Period Ended
+March 31, 2026
+
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the Transition Period from _____________ to _____________
+Commission File Number:  
+000-30111
+Lexicon Pharmaceuticals, Inc.
+(Exact Name of Registrant as Specified in its Charter)
+Delaware
+76-0474169
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(I.R.S. Employer
+Identification Number)
+2445 Technology Forest Blvd.
+11th Floor
+The Woodlands
+,
+Texas
+
+77381
+(Address of Principal Executive Offices and Zip Code)
+(
+281
+)
+863-3000
+(Registrant’s Telephone Number, Including Area Code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001
+LXRX
+The
+Nasdaq
+ Capital Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.    
+
+Yes
+☑
+ 
+No
+ 
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)
+
+Yes
+☑
+ 
+No
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+         
+        Accelerated filer
+       
+
+Non-accelerated filer
+
+  ☑       
+Smaller reporting company
+   
+☑
+      
+     Emerging growth company
+        
+If an emerging growth company, indicate by check mark if the registration has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+Yes
+☐
+ 
+No
+☑
+As of May 4, 2026,
+444,196,390
+ shares of the registrant’s common stock, par value $0.001 per share, were outstanding.
+Lexicon Pharmaceuticals, Inc.
+ 
+Table of Contents
+ 
+ 
+ 
+Page
+Factors Affecting Forward-Looking Statements
+2
+Part I – Financial Information
+3
+Item 1.
+Financial Statements
+3
+ 
+Condensed Consolidated Balance Sheets - March 31, 2026 (unaudited) and December 31, 2025
+3
+ 
+Condensed Consolidated Statements of Comprehensive Loss (unaudited) - Three Months Ended March 31, 2026 and 2025
+4
+ 
+Condensed Consolidated Statements of Stockholders’ Equity (unaudited) - Three Months Ended March 31, 2026 and 2025
+5
+Condensed Consolidated Statements of Cash Flows (unaudited) - Three Months Ended March 31, 2026 and 2025
+6
+ 
+Notes to Condensed Consolidated Financial Statements (unaudited)
+7
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+16
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+21
+Item 4.
+Controls and Procedures
+21
+Part II – Other Information
+23
+Item 1.
+Legal Proceedings
+23
+Item 1A.
+Risk Factors
+23
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+25
+Item 5.
+Other Information
+26
+Item 6.
+Exhibits
+27
+Signatures
+28
+The Lexicon name and logo, INPEFA
+®
+ and ZYNQUISTA
+®
+are registered trademarks of Lexicon Pharmaceuticals, Inc.
+——————
+Factors Affecting Forward Looking Statements
+This quarterly report on Form 10-Q contains forward-looking statements.  These statements relate to future events or our future financial performance. We have attempted to identify forward-looking statements by terminology including “anticipate,” “believe,” “can,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “should” or “will” or the negative of these terms or other comparable terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks outlined under “Part II, Item 1A. - Risk Factors” and in our annual report on Form 10-K for the year ended December 31, 2025, that may cause our or our industry’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels or activity, performance or achievements expressed or implied by these forward-looking statements.
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, future results, levels of activity, performance or achievements may vary materially from our expectations. We are not undertaking any duty to update any of the forward-looking statements after the date of this quarterly report on Form 10-Q to conform these statements to actual results, unless required by law.
+2
+Part I – Financial Information
+ 
+Item 1.  Financial Statements
+ 
+Lexicon Pharmaceuticals, Inc.
+Condensed Consolidated Balance Sheets
+(In thousands, except par value and share amounts)
+ 
+ 
+As of March 31,
+As of December 31,
+ 
+2026
+2025
+Assets
+(unaudited)
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+$
+38,089
+ 
+$
+34,326
+ 
+Short-term investments
+132,569
+ 
+61,904
+ 
+Accounts receivable, net
+11,779
+ 
+2,384
+ 
+Inventory
+276
+ 
+281
+ 
+Prepaid expenses and other current assets
+3,319
+ 
+3,000
+ 
+Total current assets
+186,032
+ 
+101,895
+ 
+Property and equipment, net
+1,753
+ 
+1,863
+ 
+Goodwill
+44,543
+ 
+44,543
+ 
+Operating lease right-of-use-assets
+7,123
+ 
+7,318
+ 
+Restricted cash
+29,000
+ 
+29,000
+ 
+Other assets
+368
+ 
+368
+ 
+Total assets
+$
+268,819
+ 
+$
+184,987
+ 
+Liabilities and Stockholders’ Equity
+ 
+ 
+Current liabilities:
+ 
+ 
+Accounts payable
+$
+2,996
+ 
+$
+3,083
+ 
+Accrued liabilities
+6,902
+ 
+13,189
+ 
+Current portion of long-term debt
+—
+ 
+4,595
+ 
+Total current liabilities
+9,898
+ 
+20,867
+ 
+Long-term debt, net
+49,684
+ 
+49,408
+ 
+Other long-term liabilities
+6,381
+ 
+7,174
+ 
+Total liabilities
+65,963
+ 
+77,449
+ 
+Commitments and contingencies (Note 7)
+Stockholders’ Equity:
+ 
+ 
+Convertible preferred stock, $
+0.01
+ par value;
+5,000,000
+ shares authorized
+2,712,582
+ and
+2,304,147
+ shares issued at March 31, 2026 and December 31, 2025, respectively;
+408,435
+ outstanding at March 31, 2026 and
+none
+ outstanding at December 31, 2025
+4
+ 
+—
+ 
+Common stock, $
+0.001
+ par value;
+450,000,000
+ shares authorized;
+425,708,402
+ and
+365,848,216
+ shares issued, respectively
+426
+ 
+366
+ 
+Additional paid-in capital
+2,224,025
+ 
+2,129,912
+ 
+Accumulated deficit
+(
+2,018,626
+)
+(
+2,017,583
+)
+Accumulated other comprehensive (loss) income
+(
+130
+)
+30
+ 
+Treasury stock, at cost,
+1,933,747
+ and
+2,381,939
+ shares, respectively
+(
+2,843
+)
+(
+5,187
+)
+Total stockholders’ equity
+202,856
+ 
+107,538
+ 
+Total liabilities and stockholders’ equity
+$
+268,819
+ 
+$
+184,987
+ 
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+ 
+3
+Lexicon Pharmaceuticals, Inc.
+Condensed Consolidated Statements of Comprehensive Loss
+(In thousands, except per share amounts)
+(Unaudited)
+ 
+ 
+Three Months Ended March 31,
+ 
+2026
+2025
+Revenues:
+Net product revenue
+$
+1,090
+ 
+$
+1,262
+ 
+Licensing and milestone revenue
+20,000
+ 
+—
+ 
+Royalties and other revenue
+12
+ 
+—
+ 
+Total revenues
+21,102
+ 
+1,262
+ 
+Operating expenses:
+Cost of sales
+108
+ 
+30
+ 
+Research and development, including stock-based compensation of $
+1,369
+ and $
+1,574
+, respectively
+12,756
+ 
+15,303
+ 
+Selling, general and administrative, including stock-based compensation of $
+1,709
+ and $
+1,469
+9,234
+ 
+11,608
+ 
+Total operating expenses
+22,098
+ 
+26,941
+ 
+Loss from operations
+(
+996
+)
+(
+25,679
+)
+Interest and other expense 
+(
+1,590
+)
+(
+1,835
+)
+Interest income and other
+1,543
+ 
+2,219
+ 
+Net loss
+$
+(
+1,043
+)
+$
+(
+25,295
+)
+Net loss per common share, basic and diluted
+$
+(
+—
+)
+$
+(
+0.07
+)
+Weighted average common shares outstanding, basic and diluted
+400,240
+ 
+362,073
+ 
+Other comprehensive loss:
+Unrealized loss on investments
+(
+160
+)
+(
+94
+)
+Comprehensive loss
+$
+(
+1,203
+)
+$
+(
+25,389
+)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+Lexicon Pharmaceuticals, Inc.
+Condensed Consolidated Statements of Stockholders’ Equity
+(In thousands)
+(Unaudited)
+Common Stock
+Preferred Stock
+Additional
+Accumulated Other
+Shares
+Par Value
+Shares
+Par Value
+Paid-In Capital
+Accumulated Deficit
+Comprehensive Income (Loss)
+Treasury Stock
+Total
+Balance at December 31, 2024
+363,020
+ 
+$
+363
+ 
+—
+ 
+$
+—
+ 
+$
+2,117,325
+ 
+$
+(
+1,967,242
+)
+$
+119
+ 
+$
+(
+4,615
+)
+$
+145,950
+ 
+Stock-based compensation expense
+— 
+— 
+— 
+— 
+3,043
+ 
+— 
+— 
+— 
+3,043
+ 
+Issuance of common stock under Equity Incentive Plans
+2,540
+ 
+3
+ 
+— 
+— 
+(
+3
+)
+— 
+— 
+— 
+—
+ 
+Payments for tax withholding on share-based compensation vesting
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+(
+572
+)
+(
+572
+)
+Net loss
+— 
+— 
+— 
+— 
+— 
+(
+25,295
+)
+— 
+— 
+(
+25,295
+)
+Unrealized loss on investments
+— 
+— 
+— 
+— 
+— 
+— 
+(
+94
+)
+— 
+(
+94
+)
+Balance at March 31, 2025
+365,560
+ 
+$
+366
+ 
+—
+ 
+$
+—
+ 
+$
+2,120,365
+ 
+$
+(
+1,992,537
+)
+$
+25
+ 
+$
+(
+5,187
+)
+$
+123,032
+ 
+Common Stock
+Preferred Stock
+Additional
+Accumulated Other
+Shares
+Par Value
+Shares
+Par Value
+Paid-In Capital
+Accumulated Deficit
+Comprehensive Income (Loss)
+Treasury Stock
+Total
+Balance at December 31, 2025
+365,848
+ 
+$
+366
+ 
+—
+ 
+$
+—
+ 
+$
+2,129,912
+ 
+$
+(
+2,017,583
+)
+$
+30
+ 
+$
+(
+5,187
+)
+$
+107,538
+ 
+Stock-based compensation expense
+— 
+— 
+— 
+— 
+3,078
+ 
+— 
+— 
+— 
+3,078
+ 
+Issuance of preferred stock, net of fees
+— 
+— 
+408
+ 
+4
+ 
+26,544
+ 
+— 
+— 
+— 
+26,548
+ 
+Issuance of common stock, net of fees
+56,489
+ 
+57
+ 
+— 
+— 
+69,616
+ 
+— 
+— 
+— 
+69,673
+ 
+Issuance of common stock under Equity Incentive Plans
+3,371
+ 
+3
+ 
+— 
+— 
+62
+ 
+— 
+— 
+— 
+65
+ 
+Issuance of treasury stock under Equity Incentive Plans
+— 
+— 
+— 
+— 
+(
+5,187
+)
+— 
+— 
+5,187
+ 
+—
+ 
+Payments for tax withholding on share-based compensation vesting
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+(
+2,843
+)
+(
+2,843
+)
+Net loss
+— 
+— 
+— 
+— 
+— 
+(
+1,043
+)
+— 
+— 
+(
+1,043
+)
+Unrealized loss on investments
+— 
+— 
+— 
+— 
+— 
+— 
+(
+160
+)
+— 
+(
+160
+)
+Balance at March 31, 2026
+425,708
+ 
+$
+426
+ 
+408
+ 
+$
+4
+ 
+$
+2,224,025
+ 
+$
+(
+2,018,626
+)
+$
+(
+130
+)
+$
+(
+2,843
+)
+$
+202,856
+ 
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+Lexicon Pharmaceuticals, Inc.
+ 
+Condensed Consolidated Statements of Cash Flows
+(In thousands)
+(Unaudited)
+ 
+Three Months Ended March 31,
+2026
+2025
+Cash flows from operating activities:
+Net loss
+$
+(
+1,043
+)
+$
+(
+25,295
+)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization
+110
+ 
+176
+ 
+Stock-based compensation
+3,078
+ 
+3,043
+ 
+Amortization of debt-related costs
+681
+ 
+401
+ 
+Accretion of marketable securities purchased at a discount
+(
+562
+)
+(
+1,326
+)
+Other non-cash adjustments
+(
+581
+)
+(
+1,540
+)
+Changes in operating assets and liabilities:
+(Increase) decrease in accounts receivable, net
+(
+9,395
+)
+1,026
+ 
+Decrease in inventories
+5
+ 
+30
+ 
+(Increase) decrease in prepaid expenses and other current assets
+(
+319
+)
+1,213
+ 
+Decrease in other long-term assets
+195
+ 
+186
+ 
+Decrease in accounts payable and other liabilities
+(
+6,899
+)
+(
+21,692
+)
+Net cash used in operating activities
+(
+14,730
+)
+(
+43,778
+)
+Cash flows from investing activities:
+Purchases of investments
+(
+105,960
+)
+(
+64,971
+)
+Maturities of investments
+35,697
+ 
+105,553
+ 
+Net cash (used in) provided by investing activities
+(
+70,263
+)
+40,582
+ 
+Cash flows from financing activities:
+Proceeds from issuance of common stock, net of fees
+69,986
+ 
+—
+ 
+Proceeds from issuance of preferred stock, net of fees
+26,548
+ 
+—
+ 
+Proceeds from issuance of common stock for equity incentive plans
+65
+ 
+—
+ 
+Payments for tax withholding on share-based compensation vesting
+(
+2,843
+)
+(
+572
+)
+Repayment of debt borrowings
+(
+5,000
+)
+—
+ 
+Net cash provided by (used in) financing activities
+88,756
+ 
+(
+572
+)
+Net increase (decrease) in cash, cash equivalents and restricted cash
+3,763
+ 
+(
+3,768
+)
+Cash, cash equivalents, and restricted cash at beginning of period
+63,326
+ 
+66,656
+ 
+Cash, cash equivalents, and restricted cash at end of period
+$
+67,089
+ 
+$
+62,888
+ 
+Supplemental disclosure of cash flow information:
+Cash paid for interest
+$
+1,477
+ 
+$
+2,968
+ 
+Supplemental disclosure of non-cash investing and financing activities:
+Accrued financing costs
+$
+313
+ 
+$
+—
+ 
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+6
+Lexicon Pharmaceuticals, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+1.           
+Summary of Significant Accounting Policies
+ 
+Basis of Presentation.
+ The accompanying unaudited condensed consolidated financial statements of Lexicon Pharmaceuticals, Inc. (“Lexicon” or the “Company”) include the accounts of Lexicon and its wholly-owned subsidiaries. Intercompany transactions and balances are eliminated in consolidation.  These unaudited condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles for interim financial information and pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”). Accordingly, they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring adjustments) considered necessary for a fair presentation have been included. Operating results for the three month period ended March 31, 2026 are not necessarily indicative of the results that may be expected for the year ended December 31, 2026. For further information, refer to the financial statements and footnotes thereto included in Lexicon’s annual report on Form 10-K for the year ended December 31, 2025, as filed with the SEC.
+ 
+Use of Estimates.
+ The preparation of financial statements in conformity with U.S. generally accepted accounting principles (“GAAP”) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the period. Actual results could differ from those estimates.
+ 
+Significant Accounting Policies.
+
+There have been no significant changes to our summary of significant policies discussed in our annual report on Form 10-K for the year ended December 31, 2025.
+Recent Accounting Pronouncements Issued But Not Yet Adopted
+.
+ In November 2024, the FASB issued ASU 2024-03,
+Income Statement-Reporting Comprehensive Income-Expense Disclosures (Subtopic 220-40) – Disaggregation of Income Statement Expenses
+, which is effective prospectively for annual periods beginning after December 15, 2026, and for interim periods beginning after December 15, 2027. The Company is evaluating the impact of adopting ASU 2024-03.
+
+7
+2.           
+Cash and Cash Equivalents, Restricted Cash and Investments
+The fair value of cash and cash equivalents, restricted cash and investments held are as follows:
+ 
+ 
+As of March 31, 2026
+ 
+Amortized Cost
+Gross Unrealized Gains
+Gross Unrealized Losses
+Estimated Fair Value
+ 
+(in thousands)
+Cash and cash equivalents
+$
+38,089
+ 
+$
+—
+ 
+$
+—
+ 
+$
+38,089
+ 
+Restricted cash
+29,000
+ 
+—
+ 
+—
+ 
+29,000
+ 
+Total cash and cash equivalents and restricted cash
+$
+67,089
+ 
+$
+—
+ 
+$
+—
+ 
+$
+67,089
+ 
+Securities maturing within one year:
+ 
+ 
+ 
+ 
+U.S. treasury securities
+104,959
+ 
+2
+ 
+(
+82
+)
+104,879
+ 
+Corporate debt securities
+27,739
+ 
+—
+ 
+(
+49
+)
+27,690
+ 
+Total short-term investments
+$
+132,698
+ 
+$
+2
+ 
+$
+(
+131
+)
+$
+132,569
+ 
+Total cash and cash equivalents, restricted cash and short-term investments
+$
+199,787
+ 
+$
+2
+ 
+$
+(
+131
+)
+$
+199,658
+ 
+ 
+As of December 31, 2025
+ 
+Amortized Cost
+Gross Unrealized Gains
+Gross Unrealized Losses
+Estimated Fair Value
+ 
+ 
+(in thousands)
+ 
+Cash and cash equivalents
+$
+34,326
+ 
+$
+—
+ 
+$
+—
+ 
+$
+34,326
+ 
+Restricted cash
+29,000
+ 
+—
+ 
+—
+ 
+29,000
+ 
+Total cash and cash equivalents and restricted cash
+$
+63,326
+ 
+$
+—
+ 
+$
+—
+ 
+$
+63,326
+ 
+Securities maturing within one year:
+ 
+ 
+ 
+ 
+U.S. treasury securities
+39,004
+ 
+22
+ 
+—
+ 
+39,026
+ 
+Corporate debt securities
+22,871
+ 
+8
+ 
+(
+1
+)
+22,878
+ 
+Total short-term investments
+$
+61,875
+ 
+$
+30
+ 
+$
+(
+1
+)
+$
+61,904
+ 
+Total cash and cash equivalents, restricted cash and short-term investments
+$
+125,201
+ 
+$
+30
+ 
+$
+(
+1
+)
+$
+125,230
+ 
+As of March 31, 2026 and December 31, 2025, Lexicon’s investments in an unrealized loss position had an estimated fair value of $
+123.1
+ million and $
+2.5
+ million, respectively. During the three month period ended March 31, 2026, there were less than $
+0.1
+ million in realized gains and no realized losses. There were
+no
+ realized gains or losses during the three month period ended March 31, 2025.
+
+3.            
+Fair Value Measurements
+ 
+The Company uses various inputs in determining the fair value of its investments and measures these assets on a recurring basis.  Assets and liabilities recorded at fair value in the condensed consolidated balance sheets are categorized by the level of objectivity associated with the inputs used to measure their fair value.  The following levels are directly related to the amount of subjectivity associated with the inputs to fair valuation of these assets and liabilities:
+•
+Level 1 - quoted prices in active markets for identical assets, which include U.S. treasury securities
+•
+Level 2 - other significant observable inputs (including quoted prices for similar investments, market corroborated inputs, etc.), which includes corporate debt securities
+•
+Level 3 - significant unobservable inputs
+8
+The inputs or methodology used for valuing securities are not necessarily an indication of the credit risk associated with investing in those securities.
+The following tables provide the fair value measurements of applicable Company assets that are measured at fair value on a recurring basis according to the fair value levels defined above. There were no transfers between Level 1 and Level 2 during the periods presented.
+ 
+Assets at Fair Value as of March 31, 2026
+ 
+Level 1
+Level 2
+Level 3
+Total
+(in thousands)
+Cash and cash equivalents
+$
+38,089
+ 
+$
+—
+ 
+$
+—
+ 
+$
+38,089
+ 
+Short-term investments
+104,879
+ 
+27,690
+ 
+—
+ 
+132,569
+ 
+Restricted cash
+29,000
+ 
+—
+ 
+—
+ 
+29,000
+ 
+Total cash and cash equivalents, short-term investments and restricted cash
+$
+171,968
+ 
+$
+27,690
+ 
+$
+—
+ 
+$
+199,658
+ 
+ 
+Assets at Fair Value as of December 31, 2025
+ 
+Level 1
+Level 2
+Level 3
+Total
+ 
+(in thousands)
+Cash and cash equivalents
+$
+34,326
+ 
+$
+—
+ 
+$
+—
+ 
+$
+34,326
+ 
+Short-term investments
+39,026
+ 
+22,878
+ 
+—
+ 
+61,904
+ 
+Restricted cash
+29,000
+ 
+—
+ 
+—
+ 
+$
+29,000
+ 
+Total cash and cash equivalents, short-term investments and restricted cash
+$
+102,352
+ 
+$
+22,878
+ 
+$
+—
+ 
+$
+125,230
+ 
+The carrying amount of prepaid expenses and other assets, accounts payable, and accrued expenses are generally considered to be representative of their respective fair values because of the short-term nature of those instruments. The fair value of the Oxford Term Loans (see Note 6,
+Debt Obligations
+) is determined under Level 2 in the fair value hierarchy and approximates carrying value as the loans bear interest at a rate that approximates prevailing market rates for instruments with similar characteristics.
+
+4.
+Supplemental Financial Information
+Property and Equipment.
+
+ 
+Estimated Useful Lives
+As of March 31,
+As of December 31,
+ 
+In Years
+2026
+2025
+ 
+(in thousands)
+Computers and software
+3
+-
+5
+$
+2,003
+ 
+$
+2,003
+ 
+Furniture and fixtures
+5
+-
+7
+389
+ 
+389
+ 
+Leasehold improvements
+3
+-
+7
+2,178
+ 
+2,178
+ 
+Total property and equipment
+ 
+4,570
+ 
+4,570
+ 
+Less: Accumulated depreciation and amortization
+ 
+(
+2,817
+)
+(
+2,707
+)
+Net property and equipment
+ 
+$
+1,753
+ 
+$
+1,863
+ 
+9
+Accrued Liabilities.
+As of March 31,
+As of December 31,
+2026
+2025
+(in thousands)
+Accrued research and development services
+$
+618
+ 
+$
+2,932
+ 
+Accrued compensation and benefits
+2,746
+ 
+6,415
+ 
+Short-term lease liability
+1,642
+ 
+1,642
+ 
+Other
+1,896
+ 
+2,200
+ 
+Total accrued liabilities
+$
+6,902
+ 
+$
+13,189
+ 
+Net Income (Loss) Per Share.
+Net income (loss) per common share is computed using the weighted average number of shares of common stock outstanding. Potentially dilutive shares associated with warrants, stock options and restricted stock units totaling
+8.7
+ million and
+0.3
+ million for the three months ended March 31, 2026 and 2025, respectively, and our convertible preferred shares further described in Note 9 were not included in the computation of diluted earnings per share because they are antidilutive due to the Company’s net loss in all periods presented.
+5.     
+Collaborations and Strategic Alliances
+Novo Nordisk
+.  In March 2025, the Company entered into an exclusive license agreement with Novo Nordisk A/S (“Novo Nordisk”) for the worldwide development, manufacturing and commercialization of LX9851, the Company’s preclinical drug candidate for obesity and associated cardiometabolic disorders.  Under the agreement, the Company received an upfront payment of $
+45
+ million in April 2025, achieved the first two development milestones of $
+10
+ million each during the three months ended March 2026 and is eligible to receive (a) up to an aggregate of $
+465
+ million upon the achievement of additional specified regulatory and commercial launch milestones and (b) up to an aggregate of $
+475
+ million upon the achievement of specified sales milestones.  The Company is also entitled to tiered, escalating royalties ranging from single-digit to low-double-digit percentages of annual net sales of LX9851, subject to customary royalty reduction provisions.
+Viatris
+.  In October 2024, the Company entered into an exclusive license agreement with Viatris Inc. (“Viatris”) for the development and commercialization of sotagliflozin in all markets outside of the United States and Europe (the “Licensed Territory”) pursuant to which the Company received an upfront payment of $
+25
+ million.  Lexicon also entered into a manufacturing and supply agreement with Viatris pursuant to which Lexicon supplies the development and commercial requirements of sotagliflozin of Viatris, and Viatris pays an agreed upon transfer price for such supply.  Lexicon is also eligible to receive (a) up to an aggregate of $
+12
+ million upon the achievement of specified regulatory milestones, (b) up to an aggregate of $
+185
+ million upon the achievement of specified sales milestones and (c) tiered royalties ranging from low double-digit to upper-teens percentages of annual net sales of sotagliflozin in the Licensed Territory.
+For additional information, please refer to the Company’s Annual Report on Form 10-K for the year ended December 31, 2025.
+6.          
+Debt Obligations
+Hercules Term Loans
+.  On May 4, 2026, the Company and its subsidiaries entered into a loan and security agreement with Hercules Capital, Inc. and certain of its affiliates (“Hercules”) that provides up to $
+100
+ million in borrowing capacity (the “Hercules Term Loans”) available in three tranches, each maturing in May 2030.  Monthly interest-only payments are due during an initial
+18
+-month period, which may be extended to
+24
+ months or
+30
+ months if specified performance milestones are achieved.  The interest-only period will be followed by an amortization period extending through the maturity date.
+The first $
+55
+ million tranche was funded at closing.  The second $
+20
+ million tranche is available for draw at the Company’s option by no later than June 15, 2028, subject to the achievement of specified performance milestones and certain additional timing restrictions.  The third $
+25
+ million tranche is available for draw at the Company’s option, subject to Hercules’s consent, at any time prior to the expiration of the interest-only payment period.  The Hercules Term Loans bear interest at a floating rate equal to the prime rate plus
+3.10
+%, but not less than
+9.85
+%.
+The Company may prepay the Hercules Term Loans in whole or in part at its option at any time. Any prepayment of the Hercules Term Loans is subject to prepayment fees equal to
+3.0
+% of the outstanding principal being repaid, subject to a
+10
+declining scale depending on when prepayment occurs relative to the applicable closing date.  A final payment equal to
+6.25
+% of the amount funded under the Hercules Term Loans is due upon prepayment or maturity.
+The Company’s obligations under the Hercules Term Loans are secured by a first lien security interest in all of the assets of the Company and its subsidiaries. Financial covenants include (a) a minimum cash covenant beginning on June 1, 2027, which will be extended to January 1, 2028 upon achievement of specified performance milestones and waived at any time the Company meets specified market capitalization requirements and (b) a minimum revenue covenant relating to net sales of its products beginning only at specified times after the Company draws the second or third tranche, which will be waived at any time the Company meets specified minimum cash and/or market capitalization requirements.
+In connection with the loan and security agreement, the Company agreed to grant Hercules warrants to purchase a number of shares of its common stock equal to
+2
+% of the aggregate principal amount of the Hercules Term Loans made and funded under the loan and security agreement at an exercise price of $
+1.59
+ per share.  Concurrent with the funding of the first tranche, the Company granted Hercules warrants to purchase
+691,823
+ shares of its common stock.  Upon funding of the second and third tranches, the Company will grant Hercules warrants to purchase an additional
+251,572
+ and
+314,465
+ shares of its common stock, respectively.  The warrants are exercisable for a
+five-year
+ period from the date of issuance and feature a net cashless exercise provision.
+Oxford Term Loans.
+ Concurrent with its execution of the loan and security agreement with Hercules, the Company repaid all amounts due under its loan and security agreement with Oxford Finance LLC and the lenders listed therein (“Oxford”), under which $
+100
+ million had been funded from inception through March 31, 2026 (the “Oxford Term Loans”). In April 2025, the Company repaid $
+45
+ million to Oxford, including pro-rata final payment exit fees equal to
+7
+% of the amount funded under the Oxford Term Loans.  In December 2025 and February 2026, the Company repaid an additional $
+3
+ million and $
+5
+ million to Oxford, respectively, including a pro-rata portion of the final payment exit fees.
+Under the Oxford loan and security agreement, the Oxford Term Loans were subject to a floating interest rate based on the sum of (a) the 1-month CME Term Secured Overnight Financing Rate (SOFR), (b)
+0.10
+%, and (c)
+7.90
+% for the first and second $
+25
+ million tranches and
+7.00
+% for the third $
+50
+ million tranche.  For the quarter ended March 31, 2026, the weighted average interest rate of the Oxford Term Loans was
+11.2
+%.
+As of March 31, 2026, the Company reflected the carrying value of the Oxford Term Loans of $
+49.7
+ million in long-term debt on the condensed consolidated balance sheet as a result of its execution of the loan and security agreement with Hercules. The carrying value above reflects an unamortized discount of $
+4.3
+ million to the face value of long-term debt related to debt issuance costs, the final payment exit fee, and the warrant fair value described below, which are amortized into interest and other expense.
+Under the Oxford loan and security agreement, among other covenants, the Company was subject to a financial covenant requiring it to maintain a minimum balance of unrestricted cash, cash equivalents, short-term investments, and restricted cash, including a required minimum amount of $
+29
+ million to be maintained in a blocked account, in an amount equal to not less than the greater of (a) fifty percent (
+50
+%) of the outstanding principal amount of the Oxford Term Loans and (b) the required minimum amount of $
+29
+ million. As of March 31, 2026, the Company reflected the $
+29
+ million minimum cash in the blocked account as restricted cash on the condensed consolidated balance sheet. The Company was in compliance with its debt covenants as of March 31, 2026.
+For additional information on the Company’s long-term debt obligations, refer to the Company’s Annual Report on Form 10-K for the year ended December 31, 2025.
+7.            
+Commitments and Contingencies
+ 
+Operating Lease Obligations.
+  Operating lease right-of-use assets and associated lease liabilities are recorded in the condensed consolidated balance sheet at the lease commencement date based on the present value of future lease payments to be made over the expected lease term. As the implicit rate is not determinable in its leases, Lexicon uses its incremental borrowing rate based on the information available at the commencement date to determine the present value of lease payments.  Lexicon does not apply this accounting to those leases with terms of twelve months or less.
+Lexicon’s operating leases include leases of office space in The Woodlands, Texas and Bridgewater, New Jersey that will expire in January 2031 and January 2034, respectively. As of March 31, 2026 and December 31, 2025, the right-of-use assets for the office space leases of $
+7.1
+ million and $
+7.3
+ million, respectively, are separately included in operating lease right-of-use-assets in the condensed consolidated balance sheet. Current liabilities relating to the leases are included in accrued
+11
+liabilities in the condensed consolidated balance sheet (as further described in Note 4) and long-term operating lease liabilities of $
+6.4
+ million and $
+6.6
+ million, respectively, as of March 31, 2026 and December 31, 2025 are included in other long-term liabilities in the condensed consolidated balance sheet.
+During the three months ended March 31, 2026 and 2025, the Company incurred lease expense of $
+0.5
+ million and $
+0.4
+ million, respectively. During the three months ended March 31, 2026 and 2025, the Company made cash payments for lease liabilities of $
+0.4
+ million and $
+0.3
+ million, respectively. As of March 31, 2026 and December 31, 2025, the weighted-average remaining lease terms were
+6.7
+ and
+7.0
+ years, respectively, with weighted-average discount rates of
+10.5
+% for each year.
+12
+The following table reconciles the undiscounted cash flows of the operating lease liability to the recorded lease liability at March 31, 2026:
+ 
+(in thousands)
+2026
+$
+1,223
+ 
+2027
+1,683
+ 
+2028
+1,718
+ 
+2029
+1,753
+ 
+2030
+1,863
+ 
+Thereafter
+2,979
+ 
+Total undiscounted operating lease liability
+11,219
+ 
+Less: amount of lease payments representing interest
+(
+3,196
+)
+Present value of future lease payments
+8,023
+ 
+Less: short-term operating lease liability
+(
+1,642
+)
+Long-term operating lease liability
+$
+6,381
+ 
+Legal Proceedings.
+  Lexicon is from time to time party to claims and legal proceedings that arise in the normal course of its business and that it believes will not have, individually or in the aggregate, a material adverse effect on its results of operations, financial condition or liquidity.
+8.
+     
+Equity Incentive Awards
+Stock-Based Compensation.
+  The Company has stockholder-approved equity incentive plans that permit the grant of stock options, restricted stock units, and other stock-based awards to employees, directors, and consultants of the Company. Compensation expense related to stock options and restricted stock units (“RSUs”) is determined based on the fair value of the award on the date of the grant and is recognized on a straight-line basis over the vesting period in which an employee is required to provide service. Compensation expense for the three months ended March 31, 2026 and 2025 of $
+3.1
+ million and $
+3.0
+ million, respectively, is recorded separately in research and development expense and selling, general, and administrative expense as noted on the Company’s condensed consolidated statements of comprehensive loss.   
+ 
+The fair value of stock options is estimated at the date of grant using the Black-Scholes method requiring the input of subjective assumptions. Because the Company’s employee stock options have characteristics significantly different from those of traded options, and because changes in the subjective input assumptions can materially affect the fair value estimate, in management’s opinion, the existing models do not necessarily provide a reliable single measure of the fair value of its employee stock options. For purposes of determining the fair value of stock options, the Company segregates its options into two homogeneous groups, based on exercise and post-vesting employment termination behaviors, resulting in different assumptions used for expected option lives.  Historical data is used to estimate the expected option life for each group.  Expected volatility is based on the historical volatility in the Company’s stock price. 
+The following weighted-average assumptions were used for stock options granted in the three months ended March 31, 2026 and 2025:
+ 
+Expected Volatility
+Risk-free Interest Rate
+Expected Term
+Dividend
+Rate
+Three Months Ended March 31, 2026
+ 
+ 
+ 
+ 
+Employees
+(1)
+—
+ 
+%
+—
+ 
+%
+— 
+—
+ 
+%
+Officers and non-employee directors
+104
+ 
+%
+3.8
+ 
+%
+6
+—
+ 
+%
+Three Months Ended March 31, 2025
+Employees
+(1)
+—
+ 
+%
+—
+ 
+%
+— 
+—
+ 
+%
+Officers and non-employee directors
+115
+ 
+%
+4.3
+ 
+%
+6
+—
+ 
+%
+(1) For the three months ended March 31, 2026 and 2025, there were no stock options granted to non-officer employees.
+13
+The following is a summary of stock option activity under Lexicon’s stock-based compensation plans:
+ 
+Stock Options
+Weighted Average Exercise Price
+ 
+(in thousands)
+ 
+Outstanding at December 31, 2025
+20,738
+ 
+$
+1.96
+ 
+Granted
+4,929
+ 
+1.37
+ 
+Exercised
+(
+94
+)
+0.70
+ 
+Expired
+(
+184
+)
+8.24
+ 
+Forfeited
+(
+107
+)
+2.31
+ 
+Outstanding at March 31, 2026
+25,282
+ 
+1.80
+ 
+Exercisable at March 31, 2026
+10,239
+ 
+$
+2.78
+ 
+The following is a summary of restricted stock unit activity under Lexicon’s stock-based compensation plans:
+ 
+RSU’s
+Weighted Average Grant Date
+Fair Value
+ 
+(in thousands)
+ 
+Outstanding at December 31, 2025
+15,469
+ 
+$
+0.96
+ 
+Granted
+6,488
+ 
+1.37
+ 
+Vested
+(
+5,659
+)
+1.16
+ 
+Forfeited
+(
+142
+)
+0.70
+ 
+Outstanding at March 31, 2026
+16,156
+ 
+$
+1.06
+ 
+During the three months ended March 31, 2026, the Company issued treasury shares totaling $
+5.2
+ million in lieu of issuing additional authorized common shares in order to satisfy the annual vesting of restricted stock units for its employees and officers.
+
+9.
+     
+Other Capital Agreements
+ 
+2026 Common and Series B Preferred Stock Issuance.
+In February 2026, Lexicon sold
+34,089,403
+ shares of its common stock in an underwritten public offering for $
+1.30
+ per share resulting in net proceeds of approximately $
+40.6
+ million (after deducting underwriting discounts and commissions and other offering expenses).
+Concurrent with the underwritten public offering, Lexicon sold to certain affiliates of Invus, L.P. in a concurrent private placement (a)
+22,400,000
+ shares of its common stock for $
+1.30
+ per share and (b)
+408,434.70
+ shares of its Series B Convertible Preferred Stock for $
+65.00
+ per share, which were convertible into
+20,421,735
+ shares of common stock, resulting in aggregate gross proceeds of approximately $
+55.6
+ million.
+ In April 2026, following the approval by the Company’s shareholders of the Seventh Amended and Restated Certificate of Incorporation which increased the total authorized shares of common stock from
+450,000,000
+ to
+900,000,000
+ and the filing and acceptance of the Seventh Amended and Restated Certificate of Incorporation by the Secretary of State of Delaware, each share of preferred stock was converted into
+50
+ shares of common stock at par value, or
+20,421,735
+ shares in the aggregate.
+
+14
+10.
+Segment Information
+Lexicon operates as a single reportable segment, primarily focusing on the discovery, development and commercialization of pharmaceutical products for the treatment of human disease. Substantially all of the Company’s revenues have been derived from drug discovery alliances, target validation collaborations for the development and, in some cases, analysis of the physiological effects of genes altered in knockout mice, technology licenses, subscriptions to its databases, product sales, government grants and contracts and compound library sales, as well as from commercial sales of its approved drug product.
+The chief operating decision maker (“CODM”) is the Company’s chief executive officer (“CEO”). The CEO manages and allocates resources on a total company basis by assessing the overall level of resources available and how to best deploy these resources across research and development projects in line with the Company’s long-term company-wide strategic goals.
+The CEO evaluates single-segment consolidated financial information against budget for purposes of making operating decisions, planning and forecasting for future periods, and deciding the level of investment in the Company’s various operating activities and other capital allocation activities. The CODM assesses financial performance based on consolidated net loss (as reported on the consolidated statement of comprehensive loss).  The CEO also uses consolidated cash and cash equivalents and short-term investments (which can be found on our Consolidated Balance Sheets) as a measure of segment assets for allocating resources.
+Summary of segment net loss, including segment expenses were as follows:
+
+Three Months Ended March 31,
+2026
+2025
+(in thousands)
+Revenues:
+Net product revenue
+$
+1,090
+ 
+$
+1,262
+ 
+Licensing and milestone revenue
+20,000
+ 
+—
+ 
+Royalties and other revenue
+12
+ 
+—
+ 
+Total revenues
+21,102
+ 
+1,262
+ 
+Operating expenses:
+Cost of sales
+108
+ 
+30
+ 
+Research and development
+11,387
+ 
+13,609
+ 
+Sales and marketing
+1,081
+ 
+2,674
+ 
+General and administrative
+6,444
+ 
+7,826
+ 
+Other segment expense
+(1)
+3,078
+ 
+2,802
+ 
+Total operating expenses
+22,098
+ 
+26,941
+ 
+Loss from operations
+(
+996
+)
+(
+25,679
+)
+Interest and other expense
+(
+1,590
+)
+(
+1,835
+)
+Interest income and other
+1,543
+ 
+2,219
+ 
+Net loss
+$
+(
+1,043
+)
+$
+(
+25,295
+)
+(1) For the three months ended March 31, 2026, other segment expense includes stock compensation of  (i) $
+1.4
+ million related to research and development personnel and (ii) $
+1.7
+ million related to general and administrative personnel.  For the three months ended March 31, 2025, other segment expense primarily includes, among other items, stock compensation of (i) $
+1.6
+ million related to research and development personnel, (ii) $
+0.04
+ million
+
+related to sales and marketing personnel and (iii) $
+1.4
+ million related to general and administrative personnel.
+
+15
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ 
+Overview
+ 
+We are a biopharmaceutical company with a mission of pioneering medicines that transform patients’ lives. We are devoting most of our resources to the research and development of our most advanced drug candidates and the commercialization of our approved drug, INPEFA
+®
+ (sotagliflozin):
+•
+We are developing sotagliflozin, an orally-delivered small molecule drug candidate, as a treatment for hypertrophic cardiomyopathy, or HCM, and are conducting the SONATA-HCM pivotal Phase 3 clinical trial of sotagliflozin in that indication.
+•
+We are separately pursuing regulatory approval of ZYNQUISTA
+®
+ (sotagliflozin) as a treatment for type 1 diabetes. The U.S. Food and Drug Administration, or FDA, issued complete response letters regarding our New Drug Application, or NDA, for ZYNQUISTA in type 1 diabetes in March 2019 and December 2024. At our request, the FDA has issued a public Notice of Opportunity for Hearing, or NOOH, on whether there are grounds for denying approval of our NDA and those proceedings are ongoing.
+The FDA has separately provided feedback that a third-party-funded, investigator-initiated study of sotagliflozin appears to be of adequate design and employs sufficient data collection methods to provide viable evidence of the incidence of diabetic ketoacidosis, or DKA, with adequate safety data, prior to its completion, to support review of a resubmission of the NDA.
+
+We are preparing to potentially resubmit the NDA for ZYNQUISTA in type 1 diabetes if supported by patient exposure and safety data from such study.
+•
+We are developing pilavapadin, an orally-delivered small molecule drug candidate, as a treatment for neuropathic pain. We have completed two Phase 2 clinical trials evaluating the safety and tolerability of pilavapadin and its effects on diabetic peripheral neuropathic pain, or DPNP. We have reported results from our PROGRESS Phase 2b clinical trial of pilavapadin in DPNP, which demonstrated clear evidence of effect at the 10 mg dose, and positive results from our RELIEF-DPN-1 Phase 2a clinical trial of pilavapadin in DPNP.  We have received Fast Track designation from the FDA for development of pilavapadin in that indication and are currently advancing third party collaboration discussions for its further development and commercialization.
+•
+We developed LX9851, an orally-delivered small molecule drug candidate, as a treatment for obesity and associated cardiometabolic disorders. We have granted Novo Nordisk an exclusive, worldwide, royalty-bearing license to develop, manufacture and commercialize LX9851 and Novo Nordisk is currently conducting Phase 1 development.
+•
+We continue to make INPEFA (sotagliflozin) commercially available in the United States. INPEFA is approved to reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visits in adults with heart failure or type 2 diabetes mellitus, chronic kidney disease, or CKD, and other cardiovascular risk factors.
+•
+We are conducting preclinical research and development of compounds from a number of additional drug programs originating from our internal drug discovery efforts.
+Sotagliflozin, LX9851 and compounds from a number of additional drug programs originated from our own internal drug discovery efforts and pilavapadin originated from our collaborative neuroscience drug discovery efforts with Bristol-Myers Squibb. Our efforts were driven by a systematic, target biology-driven approach in which we used gene knockout technologies and an integrated platform of advanced medical technologies to systematically study the physiological and behavioral functions of almost 5,000 genes in mice and assessed the utility of the proteins encoded by the corresponding human genes as potential drug targets. We have identified and validated in living animals, or in vivo, more than 100 targets with promising profiles for drug discovery.
+     We have worked both independently and through collaborations and strategic alliances with third parties to capitalize on our drug target discoveries and research and development programs.  We seek to retain exclusive or co-exclusive rights to the benefits of certain research and development programs by developing and commercializing drug candidates from those programs internally, particularly in the United States for indications treated by specialist physicians.  We seek to collaborate with other pharmaceutical and biotechnology companies with respect to the research, development and commercialization of certain of our drug candidates, particularly with respect to commercialization in territories outside the United States or commercialization in the United States for indications treated by primary care physicians, or when the collaboration may otherwise provide us with access to expertise and resources that we do not possess internally or are complementary to our own.
+16
+We have derived substantially all of our revenues from strategic collaborations and other research and development collaborations and technology licenses, as well as from commercial sales of our approved drug products. To date, we have generated a substantial portion of our revenues from a limited number of sources.
+ 
+Our operating results and, in particular, our ability to generate additional revenues are dependent on many factors, including the success of our ongoing research and development efforts and the ability to obtain necessary regulatory approvals of the drug candidates which are the subject of such efforts; our success in establishing new collaborations and licenses and our receipt of milestones, royalties and other payments under such arrangements; and general and industry-specific economic conditions which may affect research, development and commercialization expenditures.
+Our ability to secure future revenue-generating agreements will depend upon our ability to address the needs of our potential future collaborators and licensees, and to negotiate agreements that we believe are in our long-term best interests.  We may determine, as we have with sotagliflozin in the United States and Europe, that our interests are better served by retaining rights to our discoveries and advancing our therapeutic programs to a later stage, which could limit our near-term revenues and increase expenses.  Because of these and other factors, our operating results have fluctuated in the past and are likely to do so in the future, and we do not believe that period-to-period comparisons of our operating results are a good indication of our future performance.
+ 
+Since our inception, we have incurred significant losses and, as of March 31, 2026, we had an accumulated deficit of approximately $2.0 billion. Our losses have resulted principally from costs incurred in research and development, selling, general and administrative costs associated with our operations, and non-cash stock-based compensation expenses associated with stock options and restricted stock units granted to employees and consultants.  Research and development expenses consist primarily of salaries and related personnel costs, external research and material costs related to our nonclinical efforts and clinical trials, and other expenses related to our drug discovery and development programs. Selling, general and administrative expenses consist primarily of salaries and related expenses for executive, sales and marketing, and administrative personnel, professional fees and other corporate expenses, including information technology, facilities costs and general legal activities.  We expect to continue to incur significant research and development costs in connection with the continuing research and development of our drug candidates.  As a result, we will need to generate significantly higher revenues to achieve profitability.
+Critical Accounting Policies
+The preparation of financial statements in conformity with generally accepted accounting principles requires us to make judgments, estimates and assumptions in the preparation of our condensed consolidated financial statements and accompanying notes.  Actual results could differ from those estimates.  We believe there have been no significant changes in our critical accounting policies as discussed in our Annual Report on Form 10-K for the year ended December 31, 2025.
+Results of Operations
+ 
+Revenues
+Revenues were $21.1 million and $1.3 million, respectively, for the three months ended March 31, 2026 and 2025. Revenues for the three months ended March 31, 2026 included $20.0 million in development milestone revenue recognized from the Novo Nordisk licensing agreement. See Note 5,
+Collaborations and Strategic Alliances
+, for further information. Total revenues for each of the periods presented also include product revenues from sales of INPEFA.
+
+17
+Cost of Sales
+ 
+Cost of sales during the three months ended March 31, 2026 and 2025 were $0.1 million and $0.03 million, respectively,  and primarily consist of third-party manufacturing costs and freight associated with sales of INPEFA. Prior to receiving regulatory approval of INPEFA in May 2023, we had completed or begun the manufacturing of certain INPEFA raw materials. These raw materials were either received at “zero-cost” to us in conjunction with a terminated agreement in 2019 or recorded as research and development expense. Based on our expectations for future manufacturing costs, we estimate these amounts totaled approximately $39.0 million. We began capitalizing inventory manufactured subsequent to regulatory approval of INPEFA as the related costs were expected to be recoverable through the commercialization of the product. At March 31, 2026, substantially all of the “zero-cost” INPEFA raw materials remains available to us. However, the time period over which this inventory is consumed will depend on a number of factors, including the amount of future INPEFA sales, use of this inventory to satisfy manufacturing and supply agreements associated with strategic alliances (for further information, see our Annual Report on Form 10-K for the year ended December 31, 2025) or in clinical development or other research activities, production lead times, and/or the ability to utilize inventory prior to its expiration date. Any future sales of INPEFA will utilize this “zero-cost” inventory and will result in a lower average per unit cost of materials during that period. We estimate our cost of goods sold as a percentage of net product revenue will be less than 10% subsequent to the utilization of all of the remaining “zero-cost” inventory.
+Research and Development Expenses
+ 
+Research and development expenses and dollar and percentage changes as compared to the corresponding period in the prior year are as follows (dollar amounts are presented in millions):
+ 
+ 
+Three Months Ended March 31,
+ 
+2026
+2025
+Total research and development expense
+$
+12.8 
+$
+15.3 
+Dollar decrease
+$
+(2.5)
+Percentage decrease
+(16)
+%
+Research and development expenses consist primarily of third-party services primarily including external research costs related to our nonclinical and clinical efforts and material costs, salaries and related personnel costs, stock-based compensation and facilities, equipment and other costs related to our drug discovery and development programs each of which are described below. 
+ 
+•
+Third-party services –
+ Third-party services relate principally to our clinical trial and related development activities, such as preclinical and clinical studies and contract manufacturing.  Overall, third-party services for the three months ended March 31, 2026 decreased 29% to $5.7 million from $8.0 million as compared to the corresponding period in 2025 primarily driven by lower clinical and preclinical external research expense associated with our current drug candidates.
+•
+Personnel –
+ Salaries, bonuses, employee benefits, payroll taxes and recruiting costs are included in personnel costs. Personnel costs for the three months ended March 31, 2026 decreased 2% to $4.3 million from $4.4 million as compared to the corresponding period in 2025.
+•
+Stock-based compensation
+ – Stock-based compensation expenses for the three months ended March 31, 2026 decreased 13% to $1.4 million from $1.6 million as compared to the corresponding period in 2025.
+•
+Facilities, equipment, and other –
+Facilities, equipment, and other costs relate primarily to rent, insurance, travel and training, and software licensing costs. Facilities, equipment, and other costs for the three months ended March 31, 2026 increased 8% to $1.4 million from $1.3 million as compared to the corresponding period in 2025.
+18
+Selling, General and Administrative Expenses
+ 
+Selling, general and administrative expenses and dollar and percentage changes as compared to the corresponding periods in the prior year are as follows (dollar amounts are presented in millions):
+Three Months Ended March 31,
+ 
+2026
+2025
+Total selling, general and administrative expense
+$
+9.2 
+$
+11.6 
+Dollar decrease
+$
+(2.4)
+Percentage decrease
+(21)
+%
+Selling, general and administrative expenses consist primarily of personnel costs to support the continued commercialization of INPEFA and support of our research and development activities, professional and consulting fees, stock-based compensation expense, and facilities, equipment and other costs, each of which are described further below.
+•
+Personnel
+ – Salaries, bonuses, employee benefits, payroll taxes, recruiting and relocation costs are included in personnel costs. Personnel costs for the three months ended March 31, 2026 decreased 38% to $3.1 million from $5.0 million as compared to the corresponding period in 2025, primarily due to decreased headcount.
+•
+Professional and consulting fees
+ – Professional and consulting fees for the three months ended March 31, 2026 decreased 21% to $3.1 million from $3.9 million as compared to the corresponding period in 2025, primarily due to lower marketing costs.
+•
+Stock-based compensation
+ – Stock-based compensation expenses for the three months ended March 31, 2026 increased 13% to $1.7 million from $1.5 million as compared to the corresponding period in 2025.
+•
+Facilities, equipment, and other
+ – Facilities, equipment, and other costs relate primarily to rent, insurance, travel and training, and software licensing costs. Facilities, equipment, and other costs for the three months ended March 31, 2026 increased 8% to $1.3 million from $1.2 million as compared to the corresponding period in 2025.
+Interest and Other Expense
+Interest and Other Expense.
+Interest on the outstanding debt principal, amortization/accretion of debt issuance cost and discount and other related items are included in interest and other expense. Interest and other expense for the three months ended March 31, 2026 decreased to $1.6 million from $1.8 million as compared to the corresponding period in 2025 reflecting the repayment of $3 million and $5 million to Oxford, our lenders, in December 2025 and February 2026, respectively.
+Interest Income and Other
+Interest Income and Other.
+ Interest earned on cash, cash equivalents and short-term investments is included in interest income and other. Interest income and other for the three months ended March 31, 2026 decreased to $1.5 million from $2.2 million as compared to the corresponding period in 2025.
+Net Loss and Net Loss per Common Share
+Net loss was $1.0 million, or less than $0.01 per share, in the three months ended March 31, 2026 as compared to a net loss of $25.3 million, or $0.07 per share, in the corresponding period in 2025.
+Our quarterly operating results have fluctuated in the past and are likely to do so in the future, and we believe that quarter-to-quarter comparisons of our operating results are not a good indication of our future performance.
+Liquidity and Capital Resources
+We have financed our operations from inception primarily through sales of common and preferred stock, contract and milestone payments we received under our collaborations and strategic licenses, target validation, database subscription and technology license agreements, government grants and contracts, and financing under debt, lease and other project financing arrangements, as well as from commercial sales of our approved drug products.
+As of March 31, 2026 and December 31, 2025, total cash, cash equivalents, short-term investments and restricted cash were $199.7 million and $125.2 million, respectively. These balances include $29 million in restricted cash as further described
+19
+below. We used cash of $14.7 million from operations in the three months ended March 31, 2026, primarily reflective of the net loss for the period of $1.0 million (which included total non-cash stock-based compensation expense of $3.1 million) and working capital changes. Investing activities used cash of $70.3 million in the three months ended March 31, 2026, primarily due to net purchases of investments. Financing activities provided cash of $88.8 million, primarily due to the common and preferred stock issuance as further described below.
+Common and Preferred Stock Issuance.
+ In February 2026, we received approximately $96.5 million in net cash proceeds from the issuance of our common and preferred stock as follows:
+•
+34,089,403 shares of our common stock sold in an underwritten public offering for $1.30 per share, resulting in net cash proceeds of approximately $40.9 million (after deducting underwriting discounts and commissions and other offering expenses); and
+•
+22,400,000 shares of our common stock and 408,434.7 shares of our Series B Convertible Preferred Stock sold to affiliates of Invus, L.P. for $1.30 per share and $65.00 per share, respectively, resulting in aggregate gross cash proceeds of $55.6 million. In April 2026, each share of preferred stock was converted into 50 shares of our common stock, or into 20,421,735 shares in the aggregate following the satisfaction of certain conditions.
+For further details, please see Note 9 of the Notes to Condensed Consolidated Financial Statements.
+Open Market Sale Agreement
+. In December 2023, we entered into an Open Market Sale Agreement
+SM
+ with Jefferies LLC pursuant to which we may offer and sell shares of our common stock having an aggregate sales price of up to $75 million from time to time through Jefferies as sales agent. As of March 31, 2026, the full amount is still available for issuance under the agreement.
+Financing Obligations.
+ On May 4, 2026, we entered into a loan and security agreement with Hercules Capital, Inc. and certain of its affiliates that provides up to $100 million in borrowing capacity available in three tranches, each maturing in May 2030.  Monthly interest-only payments are due during an initial 18-month period, which may be extended to 24 or 30 months if specified performance milestones are achieved.  The interest-only period will be followed by an amortization period extending through the maturity date.
+The first $55 million tranche was funded at closing.  The second $20 million tranche is available for draw at our option by no later than June 15, 2028, subject to the achievement of specified performance milestones and certain additional timing restrictions.  The third $25 million tranche is available for draw at our option, subject to Hercules’s consent, at any time prior to the expiration of the interest-only payment period.  The amounts funded under the Hercules term loans bear interest at a floating rate equal to the prime rate plus 3.10%, but not less than 9.85%.
+We may prepay the Hercules term loans in whole or in part at our option at any time. Any prepayment of the Hercules term loans is subject to prepayment fees equal to 3.0% of the outstanding principal being repaid, subject to a declining scale depending on when prepayment occurs relative to the applicable closing date.  A final payment equal to 6.25% of the amount funded under the Hercules term loans is due upon prepayment or maturity.
+Our obligations under the Hercules term loans are secured by a first lien security interest in all of our assets. Financial covenants include (a) a minimum cash covenant beginning on June 1, 2027, which will be extended to January 1, 2028 upon achievement of specified performance milestones and waived at any time we meet specified market capitalization requirements and (b) a minimum revenue covenant relating to net sales of our products beginning only at specified times after we draw the second or third tranche, which will be waived at any time we meet specified minimum cash and/or market capitalization requirements.
+Concurrent with our execution of the loan and security agreement with Hercules, we repaid all amounts due under our previous loan and security agreement with Oxford Finance LLC, under which $100 million had been funded from inception through March 31, 2026. In April 2025, we repaid $45 million to Oxford, including pro-rata final payment exit fees equal to 7% of the amount funded under the Oxford term loans.  In December 2025 and February 2026, we repaid an additional $3 million and $5 million to Oxford, respectively, including a pro-rata portion of the final payment exit fees.
+Under the Oxford loan and security agreement, we were subject to a financial covenant requiring us to maintain a minimum balance of unrestricted cash, cash equivalents, short-term investments, and restricted cash, including a required minimum amount of $29 million to be maintained in a blocked account, in an amount equal to not less than the greater of (a) fifty percent (50%) of the outstanding principal amount of the Oxford Term Loans and (b) the required minimum amount of $29 million. As of March 31, 2026, we maintained $29 million in the blocked account and were in compliance with our debt covenants under the Oxford loan and security agreement.
+20
+Collaborations and Strategic Alliances.
+In March 2025, we entered into an exclusive license agreement with Novo Nordisk A/S for the worldwide development, manufacture and commercialization of LX9851, our preclinical drug candidate for obesity and associated cardiometabolic disorders, pursuant to which we received an upfront payment of $45 million in April 2025 and development milestone payments of $10 million each in February and April 2026.  For additional information on our exclusive license agreement with Novo Nordisk, refer to Note 5 of the Notes to Condensed Consolidated Financial Statements
+.
+In October 2024, we entered into an exclusive license agreement with Viatris for the development and commercialization of sotagliflozin in all markets outside of the United States and Europe, pursuant to which we received an upfront payment of $25 million. For additional information on our exclusive license agreement with Viatris, please refer to  Note 5 of the Notes to Condensed Consolidated Financial Statements.
+Other commitments.
+Upon the regulatory approval of sotagliflozin for the treatment of type 1 diabetes in a major market, we will be required to make certain royalty payments, totaling $4.5 million, in three equal annual installments of $1.5 million. Under our drug discovery alliance with Bristol-Myers Squibb, we will be required to make a milestone payment of $5 million upon dosing of the first patient in a Phase 3 clinical trial of pilavapadin.
+For a further discussion of our commitments and contingencies see Note 7 of the Notes to Condensed Consolidated Financial Statements
+.
+Outlook
+.  Our future capital requirements will be substantial and will depend on many factors, including the success of our ongoing research and development efforts and the ability to obtain necessary regulatory approvals of the drug candidates which are the subject of such efforts; our success in establishing new collaborations and licenses and our receipt of milestones, royalties and other payments under such arrangements; the amount and timing of our research, development and commercialization expenditures; the resources we devote to commercializing, developing and supporting our products and other factors.  Our capital requirements will also be affected by any expenditures we make in connection with license agreements and acquisitions of and investments in complementary technologies and businesses.
+We expect to continue to devote substantial capital resources to the research and development of our drug candidates and for other general corporate activities. We believe that our current unrestricted cash and investment balances and cash and revenues we expect to derive from strategic and other collaborations and other sources will be sufficient to fund our currently planned operations for at least the next 12 months from the date of this report.
+In future periods, if cash on hand or generated by operations is insufficient to satisfy our liquidity requirements, we will need to obtain additional liquidity through future strategic and other collaborations or sell additional equity or debt securities or obtain additional credit arrangements.  Additional financing may not be available on terms acceptable to us or at all, and the sale of additional equity or convertible debt securities may result in additional dilution to our stockholders.  If we are unable to obtain adequate financing when needed, we may have to delay or reduce the scope of our commercialization efforts or one or more of our clinical trials and other research and development programs.
+Disclosure about Market Risk
+ 
+We are exposed to limited market and credit risk on our cash equivalents which have maturities of three months or less at the time of purchase. We had approximately $199.7 million in cash and cash equivalents, short-term investments and  restricted cash as of March 31, 2026. We maintain a short-term investment portfolio which consists of U.S. Treasury bills and corporate debt securities that mature three to 12 months from the time of purchase, which we believe are subject to limited market and credit risk. We currently do not hedge interest rate exposure or hold any derivative financial instruments in our investment portfolio.
+ As of March 31, 2026, we are subject to interest rate sensitivity on our outstanding Oxford Term Loans which bear interest at a floating rate equal to the 1-month CME Term SOFR rate. For further details see Note 6 of the Notes to Condensed Consolidated Financial Statements
+.
+We have operated primarily in the United States and substantially all sales to date have been made in U.S. dollars. Accordingly, we have not had any material exposure to foreign currency rate fluctuations.
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk
+See “Disclosure about Market Risk” under “Item 2. Management’s Discussion and Analysis
+ 
+of Financial Condition and Results of Operations” for quantitative and qualitative disclosures about market risk.
+21
+Item 4.  Controls and Procedures
+Our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures (as defined in rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) are effective to ensure that the information required to be disclosed by us in the reports we file under the Securities Exchange Act is gathered, analyzed and disclosed with adequate timeliness, accuracy and completeness, based on an evaluation of such controls and procedures as of the end of the period covered by this report. There have been no changes in our internal control over financial reporting during the three months ended March 31, 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+22
+Part II -- Other Information 
+Item 1.  Legal Proceedings
+ 
+We are from time to time party to claims and legal proceedings that arise in the normal course of our business and that we believe will not have, individually or in the aggregate, a material adverse effect on our results of operations, financial condition or liquidity.
+ Item 1A.  Risk Factors
+The following risks and uncertainties are important factors that could cause actual results or events to differ materially from those indicated by forward-looking statements.  The factors described below are not the only ones we face and additional risks and uncertainties not presently known to us or that we currently deem immaterial also may impair our business operations.
+Risks Related to Our Business and Industry
+•
+We depend heavily on our ability to successfully complete the ongoing research and development of our drug programs.
+
+If we fail to successfully complete and gain positive results from such research and development efforts, our business will suffer and our stock price will likely decline.
+•
+Clinical testing of our drug candidates in humans is an inherently risky and time-consuming process that may fail to demonstrate safety and efficacy, which could result in the delay, limitation or prevention of regulatory approval.
+•
+Our drug candidates are subject to a lengthy and uncertain regulatory process that may not result in the necessary regulatory approvals, which could adversely affect our and our collaborators’ ability to commercialize products.
+•
+The commercial success of any products that we or our collaborators may develop will depend upon the degree of market acceptance among physicians, patients, health care payers and the medical community.
+•
+If we are unable to establish an effectiv
+e sales force, m
+arketing infrastructure and distribution capabilities, we will not be able to successfully commercialize any products that we or our collaborators may develop.
+•
+If we are unable to establish adequate coverage and reimbursement from third-party payers for any products that we or our collaborators may develop, our revenues and prospects for profitability will suffer.
+•
+We may not be able to manufacture products that we or our collaborators may develop in commercial quantities, which would impair our ability to commercialize such products.
+•
+We and our collaborators are subject to extensive and rigorous ongoing regulation relating to any products that we or our collaborators may develop.
+•
+We are subject to certain healthcare laws, regulation and enforcement; our failure to comply with those laws could have a material adverse effect on our results of operations and financial condition.
+•
+Current healthcare laws and regulations and future legislative or regulatory reforms to the healthcare system may negatively affect our revenues and prospects for profitability.
+•
+Our competitors may develop products that impair the value of any products that we or our collaborators may develop.
+•
+The outbreak of the novel coronavirus, or COVID-19, had an adverse impact on our business operations and clinical trials and another novel coronavirus could adversely affect our business in the future.
+•
+Changes in government trade policies including tariffs, sanctions and trade barriers could disrupt our supply chain or increase the costs of our clinical and commercial supply, negatively impacting our ability to conduct our clinical and
+23
+commercial operations, price our commercial product competitively and conduct clinical development in a cost effective manner.
+ Risks Related to Our Capital Requirements and Financial Results
+•
+We will need additional capital in the future and, if it is unavailable, we will be forced to delay, reduce or eliminate our research and development programs.  If additional capital is not available on reasonable terms, we will be forced to obtain funds, if at all, by entering into financing agreements on unattractive terms.
+•
+We do not have sufficient capital to support Phase 3 development of pilavapadin in DPNP or in neuropathic pain broadly.
+
+If we are unable to establish a strategic collaboration or other arrangement for that purpose, our capital needs will be substantially higher and we may be unable to obtain financing sufficient to fund Phase 3 development of pilavapadin on acceptable terms, or at all, and may be required to forego or reduce the scope of any such Phase 3 development program.
+•
+We have a history of net losses, and we expect to continue to incur net losses and may not achieve or maintain profitability.
+•
+Our operating results have fluctuated and likely will continue to fluctuate, and we believe that period-to-period comparisons of our operating results are not a good indication of our future performance.
+•
+We have substantial indebtedness that may limit cash flow available to invest in the ongoing needs of our business.
+•
+If we do not effectively manage our affirmative and restrictive covenants under the Oxford Term Loans, our financial condition and results of operations could be adversely affected.
+Risks Related to Our Relationships with Third Parties
+•
+We depend on our ability to establish collabora
+tions or other arrangements with phar
+maceutical and biotechnology companies for the development and commercialization of our drug candidates. If we are unable to establish such collaborations or arrangements, or if pharmaceutical products are not successfully and timely developed and commercialized under such collaborations or arrangements, our opportunities to generate revenues from milestones and royalties or our other drug candidates will be greatly reduced.
+•
+Conflicts with our collaborators could jeopardize the success of our collaborative agreements and harm our product development efforts.
+•
+We rely on third parties to carry out our preclinical studies and clinical trials, which may harm or delay our research and development efforts.
+•
+We lack the capability to manufacture commercial supplies of INPEFA and any other products which gain regulatory approval and other materials for our research and development activities relating to our drug candidates. Our reliance on third parties to manufacture our drugs and drug candidates may harm or delay our research, development and commercialization efforts.
+Risks Related to Our Intellectual Property
+•
+If we are unable to adequately protect our intellectual property, third parties may be able to use our products and technologies, which could adversely affect our ability to compete in the market.
+•
+We may be involved in patent litigation and other disputes regarding intellectual property rights and may require licenses from third parties for our planned research, development and commercialization activities.  We may not prevail in any such litigation or other dispute or be able to obtain required licenses.
+24
+•
+Data breaches and cyber-attacks could compromise our intellectual property or other sensitive information and cause significant damage to our business, reputational harm and financial loss.
+•
+We may be subject to damages resulting from claims that we, our employees or independent contractors have wrongfully used or disclosed alleged trade secrets of their former employers.
+Risks Related to Our Employees and Facilities
+•
+If we are unable to manage our business, financial condition, results of operations and prospects may be adversely affected.
+•
+The loss of key personnel or the inability to attract and retain additional personnel could impair our ability to operate and expand our operations.
+•
+Our facilities are located near coastal zones, and the occurrence of a hurricane or other disaster could damage our facilities and equipment, which could harm our operations.
+Risks Related to Environmental and Product Liability
+
+•    We have used hazardous chemicals and radioactive and biological substances in our business. Any claims relating to improper handling, storage or disposal of these substances could be time consuming and costly.
+•
+Our business has a substantial risk of product liability and we face potential product liability exposure far in excess of our limited insurance coverage.
+
+Risks Related to Our Common Stock
+
+•
+Invus, L.P. and its affiliates own a substantial interest in our outstanding common stock and may have interests which conflict with those of our other stockholders.
+•
+Invus has additional rights under its stockholders’ agreement relating to the membership of our board of directors and under our certificate of incorporation relating to preemptive and consent rights, which provide Invus with substantial influence over significant corporate matters.
+•
+Our stock price may be extremely volatile.
+•
+Future issuances or sales of our common stock, or the perception that such issuances or sales may occur, may depress our stock price.
+•
+If securities or industry analysts do not publish research or publish inaccurate or unfavorable research about our business, our stock price and trading volume could decline.
+•
+If we are unable to meet Nasdaq continued listing requirements in the future, including minimum trading price, Nasdaq may take action to delist our common stock.
+For additional discussion of the risks and uncertainties that affect our business, see “Item 1A. Risk Factors” included in our annual report on Form 10-K for the year ended December 31, 2025 as filed with the Securities and Exchange Commission.
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds
+The following table provides information about our purchases of shares of our common stock during the three months ended March 31, 2026:
+25
+Period
+Total Number of Shares Purchased
+Average Price Paid Per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Maximum Number of Shares that May Yet be Purchased Under the Plans or Programs
+(3)
+January 1-31, 2026
+—
+$
+— 
+—
+—
+February 1-28, 2026
+1,933,747 
+(1)
+$
+1.47 
+(2)
+—
+—
+March 1-31, 2026
+—
+$
+— 
+—
+—
+(1)     Represents shares retained by us in satisfaction of the tax withholding obligations of recipients of restricted stock units granted in February 2023, February 2024 and February 2025 under our 2017 Equity Incentive Plan with respect to the vesting of such restricted stock units.
+(2)    Represents the market price of our common stock on the date of vesting of such restricted stock units, calculated in accordance with the process for determination of fair market value under our 2017 Equity Incentive Plan.
+(3)     In the future, we may grant additional equity securities under our 2017 Equity Incentive Plan for which the recipient's tax withholding obligations with respect to the grant or vesting of such securities may be satisfied by our retention of a portion of such securities.  Further, for any such equity securities which are subject to vesting conditions, the number of equity securities which we may retain in satisfaction of the recipient's tax withholding obligations may be dependent on the continued employment of such recipient or other performance-based conditions.  Accordingly, we cannot predict with any certainty either the total amount of equity securities or the approximate dollar value of such securities that we may purchase in future years.
+Item 5. Other Information
+Insider Trading Arrangements
+During the three months ended March 31, 2026,
+none of our directors or executive officers adopted or terminated
+ a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+26
+Item 6.  Exhibits
+Exhibit No.
+ 
+Description
+*31.1
+—
+Certification of Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+*31.2
+—
+Certification of Principal Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+*32.1
+—
+Certification of Principal Executive and Principal Financial Officers Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS
+—
+XBRL Instance Document
+101.SCH
+—
+XBRL Taxonomy Extension Schema Document
+101.CAL
+—
+XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF
+—
+XBRL Taxonomy Extension  Definition Linkbase Document
+101.LAB
+—
+XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+—
+XBRL Taxonomy Extension Presentation Linkbase Document
+104
+—
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+_____________________
+*
+Filed herewith.
+27
+Signatures
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+Lexicon Pharmaceuticals, Inc.
+ 
+ 
+ 
+Date:
+May 7, 2026
+By:
+/s/ Michael S. Exton
+ 
+ 
+Michael S. Exton, Ph.D.
+ 
+ 
+Chief Executive Officer
+Date:
+May 7, 2026
+By:
+/s/ Scott M. Coiante
+ 
+ 
+Scott M. Coiante
+ 
+ 
+Senior Vice President and Chief Financial Officer
+28
+

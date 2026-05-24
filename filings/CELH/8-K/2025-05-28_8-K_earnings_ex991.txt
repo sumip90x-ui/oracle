@@ -1,0 +1,369 @@
+=== FILING DATE: 2025-05-28 ===
+=== PERIOD COVERED: 2025-05-28 ===
+=== SOURCE: 8-K Exhibit 99.1 filed 2025-05-28 ===
+=== SECTION: 8-K Exhibit 99.1 — earnings ===
+=== TICKER: CELH ===
+
+
+
+EX-99.1
+
+2
+
+d61641dex991.htm
+
+EX-99.1
+
+
+EX-99.1
+
+
+
+ MAY 28, 2025 PRO FORMA AND MODELING
+Exhibit 99.1
+
+
+
+
+
+
+
+
+
+ safe harbor & non-GAAP measures
+​Forward-Looking Statements​ This presentation contains statements by Celsius Holdings, Inc. (“Celsius”, “we”, “us”, “our” or the “Company”) that are not historical facts and
+are considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements may address, among other things, our prospects, plans, business strategy and expected financial
+and operational results. You can identify these statements by the use of words such as “anticipate,” “forecast,” “believe,” “could,” “estimate,” “expect,” “intend,”
+“may,” “should,” “will,” “would”, ”could”, ”project”, ”plan”, “potential”, ”designed”, “seek”, “target”, variations
+of these terms, the negatives of such terms and similar expressions. These statements are based on certain assumptions that we have made in light of our experience in the industry as well as our perceptions of historical trends, current conditions,
+expected future developments and other factors we believe are appropriate in these circumstances.  These forward-looking statements are based on our current expectations and beliefs concerning future developments and their potential effect on
+us.  You should not rely on forward-looking statements because our actual results may differ materially from those indicated by forward-looking statements as a result of a number of important factors. These factors include, but are not limited
+to:  changes to our commercial agreements with PepsiCo, Inc.; management’s plans and objectives for international expansion and global operations; general economic and business conditions; our business strategy for expanding our presence
+in our industry; our expectations of revenue; operating costs and profitability; our expectations regarding our strategy and investments; our ability to successfully integrate business that we acquire, including Alani Nu; our ability to achieve the
+benefits that we expect to realize as a result of our acquisitions, including Alani Nu; the potential negative impact on our financial condition and results of operations if we fail to achieve the benefits that we expect to realize as a result of
+our business acquisitions, including Alani Nu; liabilities of the businesses that we acquire that are not known to us; our expectations regarding our business, including market opportunity, consumer demand and our competitive advantage; anticipated
+trends in our financial condition and results of operation; the impact of competition and technology change; existing and future regulations affecting our business; the Company’s ability to comply with the rules and regulations of the
+Securities and Exchange Commission (the “SEC”); and those other risks and uncertainties discussed in the reports we have filed with the SEC, such as our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on
+Form 8-K. Forward-looking statements speak only as of the date the statements were made. We do not undertake any obligation to update forward-looking information, except to the extent required by applicable law.​ Use of Non-GAAP
+Measures​ Celsius defines Adjusted EBITDA as net income before net interest (income) expense, income tax expense (benefit), and depreciation and amortization expense, further adjusted by excluding stock-based compensation, foreign exchange
+gains or losses, legal settlement costs, acquisition and reorganization costs, penalties, distributor termination fees and other adjustments. Adjusted EBITDA Margin is the ratio between the Company’s Adjusted EBITDA and net revenue, expressed
+as a percentage. Adjusted Selling, General and Administration (SGA) costs is defined as SGA adjusted by legal settlement costs, acquisition costs, reorganization costs and penalties. Adjusted SGA as a percentage of revenue is the ratio between the
+Company’s Adjusted SGA and net revenue, expressed as a percentage. Adjusted EBITDA, Adjusted EBITDA Margin, Adjusted SGA, and Adjusted SGA as a percentage of revenue are non-GAAP financial measures.​ Celsius uses Adjusted EBITDA,
+Adjusted EBITDA Margin, Adjusted SGA and Adjusted SGA as a percentage of revenue for operational and financial decision-making and believes these measures are useful in evaluating its performance because they eliminate certain items that management
+does not consider indicators of Celsius’ operating performance. Adjusted EBITDA, Adjusted EBITDA Margin, Adjusted SGA and Adjusted SGA as a percentage of revenue may also be used by many of Celsius’ investors, securities analysts, and
+other interested parties in evaluating its operational and financial performance across reporting periods. Celsius believes that the presentation of Adjusted EBITDA, Adjusted EBITDA Margin, Adjusted SGA and Adjusted SGA as a percentage of revenue,
+provides useful information to investors by allowing an understanding of measures that it uses internally for operational decision-making, budgeting and assessing operating performance.​ Adjusted EBITDA, Adjusted EBITDA Margin, Adjusted SGA
+and Adjusted SGA as a percentage of revenue are not recognized terms under GAAP and should not be considered as a substitute for net income or any other financial measure presented in accordance with GAAP. Non-GAAP financial measures have
+limitations as analytical tools and should not be considered in isolation or as substitutes for analysis of Celsius’ results as reported under GAAP. Celsius strongly encourages investors to review its financial statements and publicly filed
+reports in their entirety and not to rely on any single financial measure.​ Because non-GAAP financial measures are not standardized, Adjusted EBITDA, Adjusted EBITDA Margin, Adjusted SGA and Adjusted SGA as a percentage of revenue, as defined
+by Celsius, may not be comparable to similarly titled measures reported by other companies. It therefore may not be possible to compare Celsius’ use of these non-GAAP financial measures with those used by other companies.​ With respect
+to our expectations of performance of Alani as it is being integrated, reconciliations of future EBITDA and adjusted EBITDA are not available, as we are unable to quantify certain amounts that would be required to be included in the relevant GAAP
+measures without unreasonable effort. We expect that the unavailable reconciling items, which primarily include timing of integration costs, final purchase accounting entries, phasing of tax projections, variability of interest expense, could
+significantly affect our financial results. These items depend on variable factors and any such reconciliations would imply a degree of precision that would be confusing or misleading to investors. We expect the variability of these factors to have
+a significant, and potentially unpredictable, impact on our future GAAP financial results.​ No Offer or Solicitation​ This presentation shall not constitute or form part of an offer to sell or the solicitation of an offer to buy any
+securities of the Company, nor shall there be any sale of any securities of the Company in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any
+such state or jurisdiction.​ Industry and Market Data​ Unless otherwise indicated, information contained in this presentation concerning our industry, competitive position and the markets in which we operate is based on information from
+independent industry and research organizations, other third-party sources and management estimates. Management estimates are derived from publicly available information released by third-party sources, as well as data from our internal research,
+and are based on assumptions made by us upon reviewing such data, and our experience in, and knowledge of, such industry and markets, which we believe to be reasonable, but we have not independently verified the accuracy of this information. Any
+industry forecasts are based on data (including third-party data), models and experience of various professionals and are based on various assumptions, all of which are subject to change without notice. In addition, projections, assumptions and
+estimates of the future performance of the industry in which we operate and our future performance are necessarily subject to uncertainty and risk due to a variety of factors, including those described in “Forward-Looking Statements.”
+These and other factors could cause results to differ materially from those expressed in the estimates made by the independent parties and by us.​ ​ ​
+
+
+
+
+
+
+
+
+
+ today’s agenda Alani Nu
+Transaction Highlights Pro Forma Data​ 2025 Profile​
+
+
+
+
+
+
+
+
+
+ Alani Nu transaction highlights
+SECTION 1
+
+
+
+
+
+
+
+
+
+ Alani Nu at a glance Founded in 2018,
+Alani Nu is a premium energy drink, supplement, health and nutrition company​ Alani Nu is the #4 energy drink in the U.S. with a brand and products created with female consumers and their health and wellness needs in mind1 ​ Diverse
+portfolio of RTD energy drinks, pre-workouts, stick packs, supplements and protein ​ Has garnered a loyal following, driven predominately by female consumers, with ~65% repeat buyers1​ Partners across the U.S. including, among others,
+Vitamin Shoppe, Albertson's, Kroger, GNC, HEB, Target, Costco, BJ’s, CVS and more, with clear, actionable near-term opportunities ​ Strong marketing campaigns have utilized celebrity partnerships with popular figures such as Kim
+Kardashian, Paris Hilton, Brittany Mahomes and Emily Ratajkowski​ Currently distributes internationally through Canada, with other actionable countries in the pipeline business overview business mix 1. Circana US MULOC RTD Energy LTM as of
+February 2025​ 2. Based on Gross Sales​ 3. Includes sales from coffee and gummies discontinued in 2024​ 4. Include protein bars, essentials, whey protein, merchandise, BCAA, creatine, and plant protein​ 5. See non-GAAP
+reconciliation ​ Source: Company financials, Circana US MULOC RTD Energy​ ​By Product2 historical financial profile ​By Channel2 2022 – 2024 CAGR: 49% key financial metrics $605M 2024 Net Sales 15%5 2024 Adj. EBITDA
+Margin $88M5 2024 Adj. EBITDA (2024 Sales) ($M)
+
+
+
+
+
+
+
+
+
+ Alani Nu’s energy-led portfolio
+spans categories Diverse product portfolio that has multiple potential growth vectors and ample whitespace 15 flavors launched in 2020 Lightly carbonated, zero sugar, with 200mg of caffeine for a smooth energy boost without the crash Infused with
+vitamin B to support metabolism and endurance Formulated with 200mg of caffeine, beta-alanine, and L-theanine to enhance focus, endurance, and performance while minimizing jitters Available in various flavors Convenient on-the-go energy packed with
+key nutrients to fuel workouts Easy to mix with water for a refreshing boost Ready-to-drink, high-protein shakes with 30g of protein per serving to support muscle recovery and satiety Low in sugar and smooth in texture for an easy post-workout or
+meal replacement option Includes protein bars, gummies, essentials, whey protein, and others Guilt-free treats designed to satisfy cravings while providing a balanced mix of protein, fiber, and low sugar to stay fueled throughout the day 7 flavors2
+launched in 2021 8 flavors launched in 2018 8 categories launched in 2020 8 flavors launched in 2022 Source: Company financials Notes: Product mix based on 2024 gross sales 1. Includes gummies, protein bars, essentials, whey protein, merchandise,
+BCAA, creatine, and plant protein 2. Includes four flavors of coffee Energy (83% of 2024 Sales) Shakes (6% of 2024 Sales) Pre-Workout (4% of 2024 Sales) Snacks & Other1 (4% of 2024 Sales) Stick Packs (3% of 2024 Sales)
+
+
+
+
+
+
+
+
+
+ Alani Nu is a female-centric lifestyle
+brand complementary to CELSIUS’ positioning Uniquely positioned brand that has garnered a loyal following from an active, female demographic brand positioning More than 90% of social media followers are females Bright, fun, and female-centric
+branding Focused on sugar-free options with vibrant, unique flavors that resonate with 18-24-year-old consumers Playful and approachable, appealing to consumers prioritizing health & wellness lifestyles past brand activation examples 92% female
+social media followers1 49% of customers aged 25-341 65% repeat buyers2 19.5% household penetration3 1.4M+ social media followers1 Source: Company information, Numerator Notes: 1. Company Information; Instagram insights 2. Circana US MULOC RTD
+Energy LTM as of February 2025 3. Circana Syndicated Panel Energy LTM as of February 2025
+
+
+
+
+
+
+
+
+
+ compelling strategic rationale Notes:
+1. Source: audited financial statements. Represents 2024 pro forma net sales of $1.36B for Celsius and $605M for Alani Nu. 2. Global market size sourced from Euromonitor data Creates a leading better-for-you, functional lifestyle platform at the
+intersection of consumer megatrends With the addition of Alani Nu, the combined and differentiated Celsius portfolio is expected to drive ~$2 billion1 in sales and is firmly aligned with the ongoing consumer shift towards premium, functional
+beverage options that cater to health, wellness and active lifestyles. Combines two growing, scaled energy brands with clear category tailwinds The transaction enhances Celsius’ position as an innovative leader in the large, growing global
+energy category, which is projected to grow at a 10%2 CAGR from 2024 to 2029, with a scaled, on-trend, sugar-free portfolio. Complementary brand positioning and attractive consumer demographics, expected to drive incremental category growth Alani Nu
+provides Celsius with expanded access to a fast-growing, wellness-focused audience that is driving incremental category growth. Leverages combined strengths and capabilities to drive the next phase of growth The added breadth of the Celsius platform
+is expected to further strengthen the company’s position with ample resources for ongoing growth investment. Both brands will be well positioned on the Celsius platform to drive continued distribution gains, access consumers in growing
+adjacencies, drive innovation and brand awareness, achieve incremental category growth and propel further global expansion. Enhances topline growth algorithm and is expected to be cash EPS accretive in year one with meaningful synergy opportunity
+The acquisition of Alani Nu is expected to add significant topline scale and growth and is expected to be accretive to cash EPS in the first full year of ownership; $50 million of run-rate cost synergies are expected to be achieved over two years
+post close, contributing to strong pro forma profitability and significant cash flow generation.
+
+
+
+
+
+
+
+
+
+ pioneering modern energy with zero
+sugar, functional beverages CELSIUS and Alani Nu are leaders in zero sugar, functional energy which is poised to continue driving category growth Combined portfolio sits at nexus of health and functional energy best positioned to benefit from
+category tailwinds Source: Circana Total MULOC Notes: 1. Circana US MULO+ W/C, RTD Energy full years 2019-2024 2. Circana Scan Panel Total U.S. Omnichannel Building Year Ending 12/28/2025; Data through 4.20.25 Premium Brands Functional Ingredients
+Health & Wellness Lifestyle Refreshing Energy Drinks Loyal Consumer Bases Segment aligned with consumer shift towards health & wellness key to driving category growth CELSIUS & Alani Nu are attracting new users to the energy drink
+category 2025 YTD $ change v YA from new to category consumers2 Contribution to category growth by year1 CELSIUS Alani Nu
+
+
+
+
+
+
+
+
+
+ zero sugar, functional beverages
+disrupted energy drink category and continue to drive growth + 37% 28% 16% 12% 4% 3% 3% 3% 3% 2% 2% LTM Tracked Retail Sales ($M)1 LTM Category Share: #1 #2 #3 #4 #5 #6 #7 #8 #9 #10 2024 YoY Growth ($M) LTM category rank: CELSIUS and Alani Nu drove
+50% of total energy category growth2 Source: Circana US MULOC RTD Energy Notes: Only includes brands with more than $500mm in tracked retail sales in 2024 based on Circana data (many brands excluded); Third-party brand names, logos, and trademarks
+appearing in this presentation are the property of their respective owners. Their use is for informational and comparative purposes only and does not imply endorsement, affiliation, or sponsorship by or with Celsius Holdings, Inc. 1. Based on
+Circana, MULO+ W/C RTD Energy LTM as of February 2025 2. Combined company portfolio 2024 Abs $ Growth based on Circana, MULO+ W/C RTD Energy
+
+
+
+
+
+
+
+
+
+ a leading better-for-you,
+functional lifestyle platform at the intersection of consumer megatrends DIFFERENTIATED PORTFOLIO in the attractive energy category FASTEST GROWING portfolio of scale3 16% category share2 ~$2B sales platform1 attractive consumer demographics driving
+incremental category growth over-indexed to younger, affluent and female consumers Source: Company financials, Quality of Earnings, Circana 1. Represents 2024 pro forma Net Sales of $1.36B for Celsius and $605M for Alani Nu. 2. Combined company pro
+forma category share based on Circana, MULO+ W/C RTD Energy LTM Ending 5/18/2025 3. Based on Top 10 brands in Circana US MULOC RTD Energy 2024; represents pro forma growth rate
+
+
+
+
+
+
+
+
+
+ Target Audience Gender-neutral,
+performance driven with broad appeal for everyday energy and beyond Female-focused, lifestyle-oriented for consumers seeking a fun, approachable brand Brand Audience Functionality for individuals with active, healthy lifestyles Centered around
+community, empowerment, and wellness for young women Flavor Innovation Diverse portfolio of fruit-forward, refreshing flavors Bright, playful flavors complementary brand positioning and attractive consumer demographics expected to drive incremental
+category growth Aesthetic Sleek, minimalist design with broad consumer appeal Vibrant, pastel color palette and feminine design 73% Repeat Buyers3 65% Repeat Buyers3 Higher Household Income than Category2 49% of Customers Aged 25-344 54% Female 46%
+Male1 92% Female Social Media Followers4 Source: 1. Yougov Celsius Current Consumer Panel 2. Circana Syndicated Omnichannel Panel SS ENERGY DRINKS NON-ASEPTIC L52W Ended 12/29/24 3. Circana US MULOC RTD Energy LTM Ending 2/25/2025 4. Company
+Information; Instagram insights
+
+
+
+
+
+
+
+
+
+ Pro forma data SECTION 2
+
+
+
+
+
+
+
+
+
+ CELSIUS and Alani Nu combination
+overview​ Source: Company financials, Quality of Earnings, Circana US MULOC RTD Energy​ Notes:​ ​ 1. Based on Circana, MULO+ W/C RTD Energy LTM as of February 2025​ 2. Based on Gross Sales​ 3. Includes energy
+stick packs and hydration stick packs​ 4. Includes sales from coffee​ 5. Includes gummies, protein bars, essentials, whey protein, merchandise, BCAA, creatine, and plant protein ​ Highly Attractive Platform Dynamics Diversified
+Business Portfolio Poised to Drive Energy (2024 Sales) By Product 2 #3 LTM PF Category Rank¹
+
+
+
+
+
+
+
+
+
+ Celsius and Alani Nu Pro Forma
+Financials 2023​ 14 CELH FY23 Audited Alani Nu FY23 Audited Consolidated SUMMARY FINANCIALS Net Revenue $1,318 $413 $1,731 Gross Profit % of Revenue SG&A as % of Revenue Income/(Loss) from Operations % of Revenue 48% 40% 46% 28% 29% 28%
+20% 11% 18% (Millions except for percentages)
+
+
+
+
+
+
+
+
+
+ Celsius and Alani Nu Pro Forma
+Financials 2024​ 15 CELH FY24 Audited Alani Nu FY24 Audited Consolidated SUMMARY FINANCIALS Net Revenue $1,356 $6051 $1,961 Gross Profit % of Revenue SG&A as % of Revenue Income/(Loss) from Operations % of Revenue 1. Includes discontinued
+SKU’s such as gummies and coffee. 2. In 2024, Celsius reported SG&A as a % of Revenue of 39%. Excluding legal fees, acquisition costs, reorganization costs and penalties, the pro forma result would have resulted in an SG&A content of
+33% of Net Revenue and consolidated 32% of pro forma Consolidated Revenue. See non-GAAP reconciliation.​ 50% 42% 48% 39%2 30% 36% 11% 12% 12% (Millions except for percentages)
+
+
+
+
+
+
+
+
+
+ Alani Nu net revenue growth by
+quarter 16 Net Rev Period Q1-23 $86 Q2-23 $104 Q3-23 $119 Q4-23 $103 FY 2023 $413 Millions except for percentages Note – Circana data is for the 13-week period associated with the quarter noted. Circana does not include all channels and the
+timing of customer scans within Circana data can vary from sales recognized by Alani Nu as Alani recognizes sales upon delivery to a variety of locations including to the distribution centers of retailers, delivery to consumers, and delivery to
+distributors as examples. Q1 ‘24 Q2 ‘24 Q3 ‘24 Alani Nu RTD Energy - Alani 104.3% 57.8% 41.7% RTD Energy - Circana 66.7% 62.9% 55.9% RTD Delta 37.6% -5.1% -14.2% Net Rev Period Q1-24 $136 Q2-24 $146 Q3-24 $166 Q4-24 $157 FY 2024
+$605 Y/Y Growth 57% 41% 39% 53% 46% Q4 ‘24 Q1 ‘25 90.5% 77.8% 69.8% 89.2% 20.7% -11.4%
+
+
+
+
+
+
+
+
+
+ 2025 Profile SECTION 3
+
+
+
+
+
+
+
+
+
+ Celsius and Alani Nu combined 20251
+profile (Millions except for percentages) FY ‘25 Forecast Gross Profit % of Revenue 47-49%2 Source: Company information, Synergy analysis SG&A as % of Revenue 32-34%3 Non-GAAP Adjusted EBITDA % of Net Revenue 17-20% Income Tax Expense
+25-26% Interest Expense $57.0 Human Resources Q1 2025 excludes Alani Nu results. See Celsius Holdings, Inc., earnings release furnished as Exhibit 99.1 to Celsius' Form 8-K filed with the SEC on May 6, 2025 for Adjusted EBITDA non-GAAP
+reconciliation. Includes $15M of one-time purchase accounting inventory step up for 2025. Estimated to be $12M Impacting Q2, $3M Impacting Q3. Includes $7M in quarterly customer list amortization from Q2 to Q4 2025. Impact on a full-year basis is
+approximately 1%.
+
+
+
+
+
+
+
+
+
+ synergies overview RR Savings ($M)
+Description Commercial $31.0 Over the last few years, Celsius expanded and built a sales and commercial team that can scale and absorb additional products, whether from innovation or acquisitions. Source: Company information, Synergy analysis
+Marketing $5.0 Utilization of Celsius field marketing resources, media spend and eCommerce infrastructure. Executive & Other $3.5 Utilization of Celsius leadership team, consultants and professional services. Finance & Administration $3.5
+Utilization of Celsius finance and accounting team as well as professional service providers. Legal $(0.5) Increased legal team associated with IP and compliance. Human Resources $1.5 Absorbing recruiting and HR services into Celsius. Information
+Technology $(3.0) Incremental IT needs. Operations $9.0 Alani Nu’s packaging and co-manufacturing will transition into existing Celsius relationships. Estimated Total Net Synergies $50.0 Celsius has identified $50M+ in estimated run-rate cost
+synergies to be achieved over two years post-close (excluding cost to achieve)
+
+
+
+
+
+
+
+
+
+ Celsius and Alani Nu –
+expected integration and synergy capture Ongoing expected net integration benefit from April 2026 onwards: $4.2M monthly ($50M annually) $50M cumulative synergies expected to be achieved by the end of January 2027 Synergy savings: Direct savings
+realized by eliminating TSA-related expenses, reducing operational redundancies, and optimizing shared resources across Celsius and Alani Nu. Integration benefits: Net financial gains after accounting for incremental integration costs
+(labor/non-labor), one-time costs, and realized operational gains, representing the overall value-added post integration. TSA Period: TSA Period: 04/01/2025 – 03/31/2026. Annualized Synergy Benefit (Millions)
+
+
+
+
+
+
+
+
+
+ Non-GAAP EBITDA reconciliation
+Celsius Alani Nu Pro Forma Adj. EBITDA Reconciliation Dollars in Millions Net income (GAAP measure) $145.1 $64.0 $209.1 Net interest (income) expense (39.3) 4.9 (34.4) Depreciation and amortization expense 7.3 5.6 12.8 Income tax expense (benefit)
+50 2.9 52.8 Non-GAAP EBITDA $163.1 $77.3 $240.4 1 Stock-based compensation 19.6 - 19.6 Penalties 2 Acquisition & Reorganization costs 8.0 - 8.0 3 Legal settlement costs 54.0 - 54.0 4 Foreign exchange gains or losses 1.7 - 1.7 FY: 12/31/2024 FY:
+12/31/2024 Stock-based compensation: Stock-based compensation expense consists of non-cash charges for the estimated fair value of unvested restricted share unit and stock option awards granted to employees and directors. Acquisition &
+reorganization costs: Represents one-time costs related to the Alani Nu acquisition and restructuring fees. Legal settlement costs: Related to ongoing litigation and SEC settlement during the quarter ended December 31, 2024. Foreign exchange gains
+or losses: Represents all non-cash adjustments made to translate foreign assets and liabilities for changes in foreign exchange rates. Penalties: Represents non-recurring, one-time adjustments related to contractual co-packer obligations.
+Distributor termination fees: Termination fees paid to end certain distributor relationships. 1 2 3 4 5 6 5 Penalties 9.3 - 9.3 6 Distributor termination fees - 10.7 10.7 Non-GAAP Adj. EBITDA $255.7 $88.0 $343.7 Adj. EBITDA Margin 18.9% 14.5% 17.5%
+Add Back / (Deduct) Adjustments Source: Company financials, Quality of Earnings Note: The company reports financial results in accordance with generally accepted accounting principles in the United States (“GAAP”), but management
+believes that disclosure of EBITDA, Adjusted EBITDA and Adjusted EBITDA Margin, which are non-GAAP financial measures that management uses to assess our performance, may provide users with additional insights into operating performance.
+
+
+
+
+
+
+
+
+
+ Non-GAAP reconciliation: adjusted
+SG&A as a percentage of revenue Revenue Celsius Alani Nu Combined SG&A SG&A as % of Revenue Legal Settlements Reorganization Penalties FY 2024 $1,356 $524 39% $605 $179 30% $1,961 $704 36% Penalties Acquisition Costs Adjusted SG&A
+SG&A Addbacks Adjusted SG&A as % of Revenue (54) (6) (9) - - - (54) (6) (9) (2) $453 33% - $179 30% (2) $633 32% Dollars in Millions
+
+
+
+
+
+
+
+
+
+
+

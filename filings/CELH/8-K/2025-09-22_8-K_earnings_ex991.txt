@@ -1,0 +1,26 @@
+=== FILING DATE: 2025-09-22 ===
+=== PERIOD COVERED: 2025-09-22 ===
+=== SOURCE: 8-K Exhibit 99.1 filed 2025-09-22 ===
+=== SECTION: 8-K Exhibit 99.1 — earnings ===
+=== TICKER: CELH ===
+
+
+
+EX-99.1
+
+2
+
+celsius_lenderpresentati.htm
+
+EX-99.1
+
+
+celsius_lenderpresentati
+
+
+0 Adjustment Detail  Stock-based compensation: Selling, general and  administrative expenses related to employee non-cash stock- based compensation expense. Stock-based compensation  expense consists of non-cash charges for the estimated fair  value of unvested restricted share unit and stock option awards  granted to employees and directors. The Company believes  that the exclusion provides a more accurate comparison of  operating results and is useful to investors to understand the  impact that stock-based compensation expense has on its  operating results Acquisition & Reorganization costs: Fees and professional  services related to acquisition activity and impairment charges  for the Fast brand in the EMEA region Legal settlement costs: Related to ongoing litigation and SEC  settlement during the quarter ended December 31, 2024. 2023  legal class action settlement pertained to the McCallion vs  Celsius Holdings class action lawsuit, which the company  settled during the quarter ended June 30, 2023 Foreign exchange gains or losses: Represents all non-cash  adjustments made to translate foreign assets and liabilities for  changes in foreign exchange rates Penalties: Accrued expenses related to contractual co-packer  obligations  Inventory step-up adjustments: Represents non-cash  inventory valuation step-up from the Alani Nu acquisition which  was recognized as an adjustment to the cost of revenue Unrealized Synergies: Total estimated run-rate cost synergies  of $50M less $1.8M of realized synergies as of LTM 6/30/2025 Adj. EBITDA Reconciliation1 Pro Forma LTM ($M) 06/30/2025 Net (loss) income (GAAP measure) $245.9 Add back/(Deduct): Net interest (income) expense 61.6 Depreciation and amortization expense 21.3 Income tax expense (benefit) (9.9) Non-GAAP EBITDA $318.8 Adjustments Stock-based compensation 22.7 Acquisition & Reorganization costs 47.4 Legal settlement costs 54.0 Foreign exchange gains or losses (0.6) Penalties 10.1 Inventory step-up adjustments 21.7 Non-GAAP Adj. EBITDA $474.1 Unrealized Synergies 48.2 Pro Forma Adj. EBITDA $522.3 Non-GAAP LTM Pro Forma EBITDA Reconciliation 1 2 3 4 5 6 1 2 3 4 5 6 Source: Company financials Note: The company reports financial results in accordance with generally accepted accounting principles in the United States (“GAAP”), but management believes that disclosure of  Adjusted EBITDA and Adjusted EBITDA Margin, non-GAAP financial measures that management uses to assess our performance, may provide users with additional insights into  operating performance. 1. LTM Jun-25 Compliance Certificate EBITDA varies due to differences between addbacks included within the Compliance Certificate and publicly available Adjusted EBITDA 7 7
+
+
+ 
+
+

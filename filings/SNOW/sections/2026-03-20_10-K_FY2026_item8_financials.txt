@@ -1,0 +1,267 @@
+=== FILING DATE: 2026-03-20 ===
+=== PERIOD COVERED: 2026-01-31 ===
+=== SOURCE: 10-K filed 2026-03-20 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: SNOW ===
+
+Item 8
+. Financial Statements and Supplementary Data.”
+c.
+Exhibits
+The exhibits listed in the following Exhibit Index are filed, furnished, or incorporated by reference as part of this Annual Report on Form 10-K.
+Exhibit
+Number
+Description
+Form
+File No.
+Exhibit
+Filing Date
+Filed Herewith
+3.1
+Amended and Restated Certificate of Incorporation of Snowflake Inc.
+8-K
+001-39504
+3.1
+7/3/2025
+3.2
+Amended and Restated Bylaws of Snowflake Inc.
+8-K
+001-39504
+3.1
+11/29/2023
+4.1
+Form of Common Stock Certificate.
+10-Q
+001-39504
+4.1
+9/5/2025
+4.2
+Description of Securities.
+X
+4.3
+Indenture, dated as of September 27, 2024, by and between Snowflake Inc. and U.S. Bank Trust Company, National Association, as Trustee.
+8-K
+001-39504
+4.1
+9/27/2024
+4.4
+First Supplemental Indenture, dated as of November 22, 2024, by and between Snowflake Inc. and U.S. Bank Trust Company, National Association, as Trustee.
+10-Q
+001-39504
+4.5
+11/27/2024
+4.5
+Second Supplemental Indenture, dated as of July 3, 2025, by and between Snowflake Inc. and U.S. Bank Trust Company, National Association, as Trustee.
+10-Q
+001-39504
+4.2
+9/5/2025
+4.6
+Form of Global Note, representing Snowflake Inc.’s 0% Convertible Senior Notes due 2027 (included as Exhibit A to the Indenture filed as Exhibit 4.3).
+8-K
+001-39504
+4.2
+9/27/2024
+4.7
+Indenture, dated as of September 27, 2024, by and between Snowflake Inc. and U.S. Bank Trust Company, National Association, as Trustee.
+8-K
+001-39504
+4.3
+9/27/2024
+4.8
+First Supplemental Indenture, dated as of November 22, 2024, by and between Snowflake Inc. and U.S. Bank Trust Company, National Association, as Trustee.
+10-Q
+001-39504
+4.6
+11/27/2024
+4.9
+Second Supplemental Indenture, dated as of July 3, 2025, by and between Snowflake Inc. and U.S. Bank Trust Company, National Association, as Trustee.
+10-Q
+001-39504
+4.3
+9/5/2025
+4.10
+Form of Global Note, representing Snowflake Inc.’s 0% Convertible Senior Notes due 2029 (included as Exhibit A to the Indenture filed as Exhibit 4.7).
+8-K
+001-39504
+4.4
+9/27/2024
+10.1
++
+Snowflake Inc. 2012 Equity Incentive Plan.
+S-1
+333-248280
+10.3
+8/24/2020
+10.2
++
+Forms of Option Agreement, Stock Option Grant Notice, and Notice of Exercise under 2012 Equity Incentive Plan.
+S-1
+333-248280
+10.4
+8/24/2020
+143
+Tabl
+e of Contents
+10.3
++
+Forms of Restricted Stock Unit Grant Notice and Restricted Stock Unit Award Agreement under 2012 Equity Incentive Plan.
+S-1
+333-248280
+10.5
+8/24/2020
+10.4
++
+Snowflake Inc. 2020 Equity Incentive Plan.
+S-1/A
+333-248280
+10.6
+9/8/2020
+10.5
++
+Forms of Notice of Stock Option Grant, Global Stock Option Agreement, and Exercise Notice under 2020 Equity Incentive Plan.
+10-Q
+001-39504
+10.2
+9/5/2025
+10.6
++
+Forms of Global RSU Award Grant Notice and Global Restricted Stock Unit Award Agreement under 2020 Equity Incentive Plan.
+X
+10.7
++
+Snowflake Inc. 2020 Employee Stock Purchase Plan.
+S-1/A
+333-248280
+10.9
+9/8/2020
+10.8
++
+Form of Indemnification Agreement entered into by and between Snowflake and each director and executive officer.
+S-1
+333-248280
+10.10
+8/24/2020
+10.9
++
+Amended and Restated Offer Letter by and between Snowflake Inc. and Sridhar Ramaswamy, dated February 27, 2024
+.
+8-K
+001-39504
+10.1
+2/28/2024
+10.10
++
+Confirmatory Offer Letter by and between Snowflake Inc. and Benoit Dageville, dated August 23, 2023.
+8-K
+001-39504
+10.4
+8/23/2023
+10.11
++
+Confirmatory Offer Letter by and between Snowflake Inc. and Christian Kleinerman, dated August 23, 2023.
+8-K
+001-39504
+10.6
+8/23/2023
+10.12
++
+Confirmatory Offer Letter by and between Snowflake Inc. and Vivek Raghunathan, dated September 26, 2024.
+10-Q
+001-39504
+10.2
+11/27/2024
+10.13
++
+Offer Letter by and between Snowflake Inc. and Michael Gannon, dated March 4, 2025.
+10-K
+001-39504
+10.16
+3/21/2025
+10.14
++
+Offer
+Le
+tter by and between Snowflake Inc. and Brian Robins, da
+ted August 2
+7, 2025.
+8-K
+001-39504
+10.1
+9/3/2025
+10.15
++
+Severance and Change in Control Plan and related participation agreement.
+8-K
+001-39504
+10.7
+8/23/2023
+10.16
++
+Cash Incentive Bonus Plan.
+10-Q
+001-39504
+10.3
+9/5/2025
+10.17
++
+Amended and Restated Non-Employee Director Compensation Policy.
+10-Q
+001-39504
+10.1
+8/29/2024
+10.18
++
+Consulting Agreement between Snowflake Inc. and Michael P. Scarpelli, dated February 25, 2025.
+8-K
+001-39504
+10.1
+2/26/2025
+10.19
+Form of Confirmation for Capped Call Transactions.
+8-K
+001-39504
+10.1
+9/27/2024
+19.1
+Insider Trading Policy
+X
+21.1
+List of Subsidiaries of Snowflake Inc.
+X
+23.1
+Consent of PricewaterhouseCoopers LLP, independent registered public accounting firm.
+X
+24.1
+Power of Attorney (included on signature page).
+X
+31.1
+Certification of Principal Executive Officer pursuant to Exchange Act Rules 13a-14(a) or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+X
+31.2
+Certification of Principal Financial Officer pursuant to Exchange Act Rules 13a-14(a) or 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+X
+32.1*
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+32.2*
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+97.1
+Incentive Compensation Recoupment Policy
+.
+10-K
+001-39504
+97.1
+3/26/2024
+144
+Tabl
+e of Contents
+101
+The following financial information from Snowflake Inc.’s Annual Report on Form 10-K for the fiscal year ended January 31, 2026 formatted in Inline XBRL (Extensible Business Reporting Language) includes: (i) the Consolidated Balance Sheets, (ii) the Consolidated Statements of Operations, (iii) the Consolidated Statements of Comprehensive Loss, (iv) the Consolidated Statements of Stockholders’ Equity, (v) the Consolidated Statements of Cash Flows, and (vi) Notes to the Consolidated Financial Statements.
+X
+104
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibits 101).
+X
++ Management contract or compensatory plan or arrangement.
+* The certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Annual Report on Form 10-K and are not deemed “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall they be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act, irrespective of any general incorporation language contained in such filing.

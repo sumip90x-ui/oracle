@@ -1,0 +1,219 @@
+=== FILING DATE: 2025-11-20 ===
+=== PERIOD COVERED: 2025-10-31 ===
+=== SOURCE: 10-Q filed 2025-11-20 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: INTU ===
+
+Item 8
+ of our Annual Report on Form 10-K for the fiscal year ended July 31, 2025 and in Note 1,
+"Description of Business and Summary of Significant Accounting Policies – Significant Accounting Policies"
+ in this Quarterly Report on Form 10-Q. Except for goodwill and acquired intangible assets, we do not generally track
+ Intuit
+ Q1 Fiscal 2026 Form 10-Q
+27
+Table of Contents
+assets by reportable segment and, consequently, we do not disclose total assets by reportable segment.
+The following table shows our financial results by reportable segment for the periods indicated.
+ 
+Three Months Ended
+(In millions)
+October 31,
+2025
+October 31,
+2024
+Net revenue:
+ 
+ 
+Global Business Solutions
+$
+2,991
+ 
+$
+2,544
+ 
+Consumer
+894
+ 
+739
+ 
+Total net revenue
+$
+3,885
+ 
+$
+3,283
+ 
+Segment cost of revenue and operating expenses
+(1)
+:
+Global Business Solutions
+$
+657
+ 
+$
+542
+ 
+Consumer
+310
+ 
+311
+ 
+Total segment cost of revenues and operating expenses
+$
+967
+ 
+$
+853
+ 
+Operating income:
+ 
+ 
+Global Business Solutions
+$
+2,334
+ 
+$
+2,002
+ 
+Consumer
+584
+ 
+428
+ 
+Total segment operating income
+2,918
+ 
+2,430
+ 
+Unallocated corporate items:
+ 
+ 
+Share-based compensation expense
+(
+543
+)
+(
+511
+)
+Other corporate expenses
+(
+1,676
+)
+(
+1,482
+)
+Amortization of acquired technology
+(
+44
+)
+(
+37
+)
+Amortization of other acquired intangible assets
+(
+121
+)
+(
+120
+)
+Restructuring
+—
+ 
+(
+9
+)
+Total unallocated corporate items
+(
+2,384
+)
+(
+2,159
+)
+Total operating income
+$
+534
+ 
+$
+271
+ 
+(1)
+Cost of revenues and operating expenses primarily include direct expenses related to selling and marketing, direct costs associated with our product and services offerings, certain data science and analytics related costs, and certain design and product management related costs. They exclude expenses that are recorded within unallocated corporate items, such as certain technology and customer success costs that support and benefit the overall platform and are managed at the corporate level.
+Revenue classified by significant service and product offerings was as follows:
+ 
+Three Months Ended
+(In millions)
+October 31,
+2025
+October 31,
+2024
+Net revenue:
+ 
+ 
+QuickBooks Online Accounting
+$
+1,206
+ 
+$
+965
+ 
+Online Services
+1,145
+ 
+978
+ 
+Total Online Ecosystem
+2,351
+ 
+1,943
+ 
+QuickBooks Desktop Accounting
+356
+ 
+329
+ 
+Desktop Services and Supplies
+284
+ 
+272
+ 
+Total Desktop Ecosystem
+640
+ 
+601
+ 
+Global Business Solutions
+2,991
+ 
+2,544
+ 
+TurboTax
+198
+ 
+187
+ 
+Credit Karma
+651
+ 
+513
+ 
+ProTax
+45
+ 
+39
+ 
+Consumer
+894
+ 
+739
+ 
+Total net revenue
+$
+3,885
+ 
+$
+3,283
+ 
+ Intuit
+ Q1 Fiscal 2026 Form 10-Q
+28
+Table of Contents

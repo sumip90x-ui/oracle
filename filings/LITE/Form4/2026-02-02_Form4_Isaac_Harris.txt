@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-02
+Transaction Date: 2026-01-30
+Person: Isaac Harris — 
+Type: BUY
+Shares: 225 at $0
+Shares After: 01
+=== TICKER: LITE ===
+===

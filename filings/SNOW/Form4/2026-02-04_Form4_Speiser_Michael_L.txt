@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-04
+Transaction Date: 2026-02-02
+Person: Speiser Michael L — Insider
+Type: BUY
+Shares: 872467 at $N/A
+Shares After: 24121
+=== TICKER: SNOW ===
+===

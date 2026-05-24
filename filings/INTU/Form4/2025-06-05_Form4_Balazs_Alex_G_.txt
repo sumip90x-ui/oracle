@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-05
+Transaction Date: 2025-06-05
+Person: Balazs Alex G. — EVP, Chief Technology Officer
+Type: SELL
+Shares: 1458 at $768.9312
+Shares After: 0
+=== TICKER: INTU ===
+===

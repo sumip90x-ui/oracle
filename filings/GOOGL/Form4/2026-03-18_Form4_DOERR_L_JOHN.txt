@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-18
+Transaction Date: 2026-03-16
+Person: DOERR L JOHN — Insider
+Type: BUY
+Shares: 3 at $0
+Shares After: 22348940
+=== TICKER: GOOGL ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-31
+Transaction Date: 2025-12-29
+Person: POLIT JAVIER — Executive Vice President
+Type: SELL
+Shares: 2607 at $867.2054
+Shares After: 10189.592
+=== TICKER: COST ===
+===

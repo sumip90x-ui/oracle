@@ -1,0 +1,2128 @@
+=== FILING DATE: 2006-03-09 ===
+=== PERIOD COVERED: 2006-03-09 ===
+=== SOURCE: SC13G filed 2006-03-09 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: LXRX ===
+
+
+
+SC 13G
+
+1
+
+dsc13g.htm
+
+SCHEDULE 13G
+
+
+Schedule 13G
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+SCHEDULE 13G
+
+(Rule 13d – 102)
+
+ 
+
+INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT TO
+
+RULES 13d -1(b), (c) AND (d) AND AMENDMENTS
+
+THERETO FILED PURSUANT TO RULE 13d - 2
+
+
+(Amendment No.
+    
+)*
+
+ 
+
+ 
+
+Lexicon
+Genetics Incorporated
+
+(Name of Issuer)
+
+Common Stock, $0.001 par value per share
+
+(Title of Class of Securities)
+
+528872104
+
+                                    (CUSIP
+Number)                                    
+
+February 28, 2006
+
+(Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to
+which this Schedule is filed:
+
+ 
+
+
+¨
+
+
+Rule 13d-1(b)
+
+ 
+
+
+x
+
+
+Rule 13d-1(c)
+
+ 
+
+
+¨
+
+
+Rule 13d-1(d)
+
+ 
+
+
+*
+
+
+ 
+
+
+The remainder of this cover page shall be filled out for a reporting person’s initial filing on this form with respect to the subject class of securities, and for any
+subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
+
+The information required in
+the remainder of this cover page shall not be deemed to be “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities of that section of the Act but shall be
+subject to all other provisions of the Act (however, see the Notes).
+
+
+CUSIP No. 528872104
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+ Page
+ 2
+ of 8
+
+
+
+ 
+
+
+  1.
+
+
+ 
+
+
+
+Names of Reporting Persons
+
+I.R.S. Identification No. of above persons (entities only)
+
+ 
+
+            Invus Public Equities, L.P. 98-0420215
+
+
+ 
+
+
+ 
+
+
+  2.
+
+
+ 
+
+
+
+Check the Appropriate Box if a Member of a Group (See Instructions)
+
+(a)  
+¨
+
+(b)  
+¨
+
+
+ 
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+SEC Use Only
+
+ 
+
+
+ 
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+Citizenship or Place of Organization
+
+ 
+
+            Bermuda
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+Number of
+
+Shares
+
+Beneficially
+
+Owned By
+
+Each
+
+Reporting
+
+Person
+
+With:
+
+ 
+
+
+ 
+
+
+
+  5.    Sole Voting Power
+
+ 
+
+                0
+
+
+ 
+
+
+
+  6.    Shared Voting Power
+
+ 
+
+                3,300,600
+
+
+ 
+
+
+
+  7.    Sole Dispositive Power
+
+ 
+
+                0
+
+
+ 
+
+
+
+  8.    Shared Dispositive Power
+
+ 
+
+                3,300,600
+
+
+  9.
+
+
+ 
+
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+
+ 
+
+            3,300,600
+
+
+ 
+
+
+ 
+
+
+10.
+
+
+ 
+
+
+
+Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares (See Instructions)
+
+ 
+
+¨
+
+
+ 
+
+
+ 
+
+
+11.
+
+
+ 
+
+
+
+Percent of Class Represented by Amount in Row (9)
+
+ 
+
+            5.11%
+
+
+ 
+
+
+ 
+
+
+12.
+
+
+ 
+
+
+
+Type of Reporting Person (See Instructions)
+
+ 
+
+            PN
+
+
+ 
+
+
+ 
+
+
+CUSIP No. 528872104
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+ Page
+ 3
+ of 8
+
+
+
+ 
+
+
+  1.
+
+
+ 
+
+
+
+Names of Reporting Persons
+
+I.R.S. Identification No. of above persons (entities only)
+
+ 
+
+            Invus Public Equities Advisors, L.L.C. 98-0420201
+
+
+ 
+
+
+ 
+
+
+  2.
+
+
+ 
+
+
+
+Check the Appropriate Box if a Member of a Group (See Instructions)
+
+(a)  
+¨
+
+(b)  
+¨
+
+
+ 
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+SEC Use Only
+
+ 
+
+
+ 
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+Citizenship or Place of Organization
+
+ 
+
+            Delaware
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+Number of
+
+Shares
+
+Beneficially
+
+Owned By
+
+Each
+
+Reporting
+
+Person
+
+With:
+
+ 
+
+
+ 
+
+
+
+  5.    Sole Voting Power
+
+ 
+
+                0
+
+
+ 
+
+
+
+  6.    Shared Voting Power
+
+ 
+
+                3,300,600
+
+
+ 
+
+
+
+  7.    Sole Dispositive Power
+
+ 
+
+                0
+
+
+ 
+
+
+
+  8.    Shared Dispositive Power
+
+ 
+
+                3,300,600
+
+
+  9.
+
+
+ 
+
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+
+ 
+
+            3,300,600
+
+
+ 
+
+
+ 
+
+
+10.
+
+
+ 
+
+
+
+Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares (See Instructions)
+
+ 
+
+¨
+
+
+ 
+
+
+ 
+
+
+11.
+
+
+ 
+
+
+
+Percent of Class Represented by Amount in Row (9)
+
+ 
+
+            5.11%
+
+
+ 
+
+
+ 
+
+
+12.
+
+
+ 
+
+
+
+Type of Reporting Person (See Instructions)
+
+ 
+
+            OO
+
+
+ 
+
+
+ 
+
+
+CUSIP No. 528872104
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+ Page
+ 4
+ of 8
+
+
+
+ 
+
+
+  1.
+
+
+ 
+
+
+
+Names of Reporting Persons
+
+I.R.S. Identification No. of above persons (entities only)
+
+ 
+
+            Ulys, L.L.C. 83-0359139
+
+
+ 
+
+
+ 
+
+
+  2.
+
+
+ 
+
+
+
+Check the Appropriate Box if a Member of a Group (See Instructions)
+
+(a)  
+¨
+
+(b)  
+¨
+
+
+ 
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+SEC Use Only
+
+ 
+
+
+ 
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+Citizenship or Place of Organization
+
+ 
+
+            Delaware
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+Number of
+
+Shares
+
+Beneficially
+
+Owned By
+
+Each
+
+Reporting
+
+Person
+
+With:
+
+ 
+
+
+ 
+
+
+
+  5.    Sole Voting Power
+
+ 
+
+                0
+
+
+ 
+
+
+
+  6.    Shared Voting Power
+
+ 
+
+                3,300,600
+
+
+ 
+
+
+
+  7.    Sole Dispositive Power
+
+ 
+
+                0
+
+
+ 
+
+
+
+  8.    Shared Dispositive Power
+
+ 
+
+                3,300,600
+
+
+  9.
+
+
+ 
+
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+
+ 
+
+            3,300,600
+
+
+ 
+
+
+ 
+
+
+10.
+
+
+ 
+
+
+
+Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares (See Instructions)
+
+ 
+
+¨
+
+
+ 
+
+
+ 
+
+
+11.
+
+
+ 
+
+
+
+Percent of Class Represented by Amount in Row (9)
+
+ 
+
+            5.11%
+
+
+ 
+
+
+ 
+
+
+12.
+
+
+ 
+
+
+
+Type of Reporting Person (See Instructions)
+
+ 
+
+            OO
+
+
+ 
+
+
+ 
+
+
+CUSIP No. 528872104
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+ Page
+ 5
+ of 8
+
+
+
+ 
+
+
+  1.
+
+
+ 
+
+
+
+Names of Reporting Persons
+
+I.R.S. Identification No. of above persons (entities only)
+
+ 
+
+            Raymond Debbane
+
+
+ 
+
+
+ 
+
+
+  2.
+
+
+ 
+
+
+
+Check the Appropriate Box if a Member of a Group (See Instructions)
+
+(a)  
+¨
+
+(b)  
+¨
+
+
+ 
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+SEC Use Only
+
+ 
+
+
+ 
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+Citizenship or Place of Organization
+
+ 
+
+            Panama
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+Number of
+
+Shares
+
+Beneficially
+
+Owned By
+
+Each
+
+Reporting
+
+Person
+
+With:
+
+ 
+
+
+ 
+
+
+
+  5.    Sole Voting Power.
+
+ 
+
+                0
+
+
+ 
+
+
+
+  6.    Shared Voting Power
+
+ 
+
+                3,300,600
+
+
+ 
+
+
+
+  7.    Sole Dispositive Power
+
+ 
+
+                0
+
+
+ 
+
+
+
+  8.    Shared Dispositive Power
+
+ 
+
+                3,300,600
+
+
+  9.
+
+
+ 
+
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+
+ 
+
+            3,300,600
+
+
+ 
+
+
+ 
+
+
+10.
+
+
+ 
+
+
+
+Check Box if the Aggregate Amount in Row (9) Excludes Certain Shares (See Instructions)
+
+ 
+
+¨
+
+
+ 
+
+
+ 
+
+
+11.
+
+
+ 
+
+
+
+Percent of Class Represented by Amount in Row (9)
+
+ 
+
+            5.11%
+
+
+ 
+
+
+ 
+
+
+12.
+
+
+ 
+
+
+
+Type of Reporting Person (See Instructions)
+
+ 
+
+            IN
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ Page
+ 6
+ of 8
+
+
+
+ 
+
+
+
+Item 1
+
+
+ 
+
+
+
+(a).
+
+
+ 
+
+
+
+Name of Issuer:
+
+ 
+
+Lexicon Genetics, Inc.
+
+
+  
+
+
+  
+
+
+
+Item 1
+
+
+ 
+
+
+
+(b).
+
+
+ 
+
+
+
+Address of Issuer’s Principal Executive Offices
+:
+
+ 
+
+8800 Technology Forest Place
+
+The Woodlands, Texas 77381
+
+
+  
+
+
+  
+
+
+
+Item 2
+
+
+ 
+
+
+
+(a)
+.
+
+
+ 
+
+
+
+Name of Person Filing:
+
+ 
+
+
+  
+
+
+  
+
+
+
+Item 2
+
+
+ 
+
+
+
+(b)
+.
+
+
+ 
+
+
+
+Address of Principal Business Office or, if none, Residence:
+
+ 
+
+
+  
+
+
+  
+
+
+
+Item 2
+
+
+ 
+
+
+
+(c)
+.
+
+
+ 
+
+
+
+Citizenship:
+
+ 
+
+Invus Public Equities, L.P.
+
+135 East
+57
+th
+ Street
+
+30
+th
+ Floor
+
+New York, New York 10022
+
+Bermuda
+
+ 
+
+Invus Public Equities Advisors, L.L.C.
+
+135 East 57
+th
+
+Street
+
+30
+th
+ Floor
+
+New York, New York 10022
+
+Delaware
+
+ 
+
+Ulys, L.L.C.
+
+135 East 57
+th
+
+Street
+
+30
+th
+ Floor
+
+New York, New York 10022
+
+Delaware
+
+ 
+
+Raymond Debbane
+
+
+c/o Ulys, L.L.C.
+
+135 East
+57
+th
+ Street
+
+30
+th
+ Floor
+
+New York, New York 10022
+
+Panama
+
+
+  
+
+
+  
+
+
+
+Item 2
+
+
+ 
+
+
+
+(d)
+.
+
+
+ 
+
+
+
+Title of Class of Securities:
+
+ 
+
+Common Stock, $0.001 par value per share
+
+
+  
+
+
+  
+
+
+
+Item 2
+
+
+ 
+
+
+
+(e)
+.
+
+
+ 
+
+
+
+CUSIP Number:    
+
+ 
+
+528872104
+
+
+  
+
+
+  
+
+
+ 
+
+
+ 
+
+
+ Page
+ 7
+ of 8
+
+
+
+ 
+
+
+
+Item 3.
+
+
+ 
+
+
+If this statement is filed pursuant to §§240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:
+
+
+ 
+
+
+(a)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o);
+
+
+ 
+
+
+(b)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c);
+
+
+ 
+
+
+(c)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c);
+
+
+ 
+
+
+(d)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.0 80a-8);
+
+
+ 
+
+
+(e)
+
+
+  
+
+
+¨
+
+
+  
+
+
+An investment adviser in accordance with §240.13d-l(b)(1)(ii)(E);
+
+
+ 
+
+
+(f)
+
+
+  
+
+
+¨
+
+
+  
+
+
+An employee benefit plan or endowment fund in accordance with §240.13d-1(b)(1)(ii)(F);
+
+
+ 
+
+
+(g)
+
+
+  
+
+
+¨
+
+
+  
+
+
+A parent holding company or control person in accordance with § 240.13d-l(b)(1)(ii)(G);
+
+
+ 
+
+
+(h)
+
+
+  
+
+
+¨
+
+
+  
+
+
+A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+
+
+ 
+
+
+(i)
+
+
+  
+
+
+¨
+
+
+  
+
+
+A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C. 80a-3);
+
+
+ 
+
+
+(j)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Group, in accordance with §240.13d-1(b)(1)(ii)(J).
+
+
+
+Item 4.
+
+
+  
+
+
+Ownership.
+
+
+  
+
+
+  
+
+
+  
+
+
+(a)
+
+
+  
+
+
+
+Amount beneficially owned:
+
+ 
+
+3,300,600 common shares
+
+
+  
+
+
+  
+
+
+  
+
+
+(b)
+
+
+  
+
+
+
+Percent of class:
+
+ 
+
+5.11%
+
+
+  
+
+
+  
+
+
+  
+
+
+(c)
+
+
+  
+
+
+
+Number of shares as to which the person has:
+
+ 
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+(i)
+
+
+  
+
+
+
+Sole power to vote or to direct the vote
+
+ 
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+(ii)
+
+
+  
+
+
+
+Shared power to vote or to direct the vote 3,300,600 common shares
+
+ 
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+(iii)
+
+
+  
+
+
+
+Sole power to dispose or to direct the disposition of
+
+ 
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+(iv)
+
+
+  
+
+
+
+Shared power to dispose or to direct the disposition of 3,300,600 common shares
+
+ 
+
+
+  
+
+
+  
+
+
+
+Item 5.
+
+
+  
+
+
+
+Ownership of Five Percent or Less of a Class.
+
+ 
+
+
+If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more
+than five percent of the class of securities, check the following
+¨
+.
+
+
+  
+
+
+
+Item 6.
+
+
+  
+
+
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+ 
+
+Not Applicable
+
+
+  
+
+
+  
+
+
+
+Item 7.
+
+
+  
+
+
+
+Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding
+Company.
+
+ 
+
+Not
+Applicable
+
+
+
+Item 8.
+
+
+  
+
+
+
+Identification and Classification of Members of the Group.
+
+ 
+
+Not Applicable
+
+
+  
+
+
+  
+
+
+ 
+
+
+ 
+
+
+ Page
+ 8
+ of 8
+
+
+
+ 
+
+
+
+Item 9.
+
+
+ 
+
+
+
+Notice of Dissolution of Group.
+
+ 
+
+Not Applicable
+
+
+  
+
+
+  
+
+
+
+Item 10.
+
+
+ 
+
+
+
+Certification.
+
+ 
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the
+purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.
+
+
+  
+
+
+  
+
+
+
+SIGNATURE
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+ 
+
+
+INVUS PUBLIC EQUITIES, L.P.
+
+
+By:
+
+
+ 
+
+
+Invus Public Equities Advisors, L.L.C.,
+
+
+ 
+
+
+As General Partner
+
+
+By:
+
+
+ 
+
+
+
+/s/    Raymond Debbane
+
+
+ 
+
+
+Raymond Debbane, President
+
+
+INVUS PUBLIC EQUITIES ADVISORS, L.L.C.
+
+
+By:
+
+
+ 
+
+
+
+/s/    Raymond Debbane
+
+
+ 
+
+
+Raymond Debbane, President
+
+
+ULYS, L.L.C.
+
+
+By:
+
+
+ 
+
+
+
+/s/    Raymond Debbane
+
+
+ 
+
+
+Raymond Debbane, President
+
+
+RAYMOND DEBBANE
+
+
+By:
+
+
+ 
+
+
+
+/s/    Raymond Debbane
+
+
+ 
+
+
+Raymond Debbane
+
+
+Exhibit A
+
+JOINT FILING AGREEMENT
+
+JOINT FILING AGREEMENT, dated as of the 8
+th
+ day of March, 2006, among INVUS PUBLIC EQUITIES, L.P., INVUS PUBLIC EQUITIES ADVISORS, LLC, ULYS, LLC, AND RAYMOND DEBBANE (COLLECTIVELY, THE “JOINT
+FILERS”).
+
+WHEREAS, pursuant to Rule 13d-1(b)(1)(ii)(K) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), the
+parties hereto desire to satisfy any filing obligation under Section 13(g) of the Exchange Act by a single joint filing;
+
+NOW, THEREFORE, in
+consideration of the premises and the mutual covenants herein contained, the Joint Filers hereby agree and represent as follows:
+
+1. Exhibit
+A to the Schedule 13G with respect to the Common Stock, par value $.001 per share, of Lexicon Genetics Incorporated (to which this Joint Filing Agreement is an exhibit) is filed on behalf of each of the Joint Filers.
+
+2. Each of the Joint Filers is eligible to use Schedule 13G for the filing of information therein.
+
+3. Each of the Joint Filers is responsible for the timely filing of Schedule 13G and any amendments thereto, and for the completeness and accuracy of the
+information concerning such person contained therein, provided that each such person is not responsible for the completeness or accuracy of the information concerning the other persons making the filing, unless such person knows or has reason to
+believe that such information is inaccurate.
+
+[SIGNATURES APPEAR ON FOLLOWING PAGE]
+
+
+IN WITNESS WHEREOF, each of the undersigned has caused this Joint Filing Agreement to be duly executed
+and delivered as of the date first above written.
+
+Dated: March 8, 2006
+
+ 
+
+
+INVUS PUBLIC EQUITIES, L.P.
+
+
+By:
+
+
+ 
+
+
+Invus Public Equities Advisors, LLC
+
+
+ 
+
+
+As General Partner
+
+
+By:
+
+
+ 
+
+
+
+/s/ Raymond Debbane
+
+
+ 
+
+
+Raymond Debbane, President
+
+
+INVUS PUBLIC EQUITIES ADVISORS, LLC
+
+
+By:
+
+
+ 
+
+
+
+/s/ Raymond Debbane
+
+
+ 
+
+
+Raymond Debbane, President
+
+
+ULYS, LLC
+
+
+By:
+
+
+ 
+
+
+
+/s/ Raymond Debbane
+
+
+ 
+
+
+Raymond Debbane, President
+
+
+RAYMOND DEBBANE
+
+
+ 
+
+
+
+/s/ Raymond Debbane
+
+

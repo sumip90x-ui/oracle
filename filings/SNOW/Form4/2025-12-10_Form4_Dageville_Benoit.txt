@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-10
+Transaction Date: 2025-12-08
+Person: Dageville Benoit — Founder and Chief Architect
+Type: OTHER
+Shares: 1647 at $228.79
+Shares After: 3051555
+=== TICKER: SNOW ===
+===

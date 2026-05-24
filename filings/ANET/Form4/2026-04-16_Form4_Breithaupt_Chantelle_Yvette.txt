@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-04-16
+Transaction Date: 2026-04-14
+Person: Breithaupt Chantelle Yvette — Senior Vice President, CFO
+Type: SELL
+Shares: 8890 at $155.0241
+Shares After: 60734
+=== TICKER: ANET ===
+===

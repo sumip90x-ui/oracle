@@ -1,0 +1,13 @@
+=== FILING DATE: 2025-08-08 ===
+=== PERIOD COVERED: 2025-06-30 ===
+=== SOURCE: 10-Q filed 2025-08-08 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: CELH ===
+
+Item 7
+,
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+ included in our 2024 Annual Report.
+Business Combinations
+We account for acquisitions using the acquisition method, under which, upon obtaining control, we recognize each identifiable asset acquired and liability assumed at its acquisition date fair value. The determination of those fair values requires significant judgment and the use of valuation techniques when observable market inputs are unavailable. We value intangible assets using models such as the income approach (relief-from-royalty model) and other cost-based techniques. Key unobservable inputs include forecasted revenue growth rates, discount rates, royalty rates and estimated useful lives. We engage third-party valuation specialists to review these critical assumptions and prepare detailed fair value analyses for material acquisitions.
+Any excess of the purchase price over the fair values of identifiable net assets is recorded as goodwill. During the measurement period, up to one year from the acquisition date, significant provisional amounts are adjusted with a corresponding offset to goodwill.

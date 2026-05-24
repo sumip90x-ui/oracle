@@ -1,0 +1,56 @@
+=== FILING DATE: 2025-09-03 ===
+=== PERIOD COVERED: 2025-07-31 ===
+=== SOURCE: 10-K filed 2025-09-03 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: INTU ===
+
+Item 7
+, our business is subject to significant seasonality. The balance of our cash, cash equivalents, and investments generally fluctuates with that seasonal pattern. We believe the seasonality of our business is likely to continue in the future.
+The following table summarizes selected measures of our liquidity and capital resources at the dates indicated:
+(Dollars in millions)
+July 31,
+2025
+July 31,
+2024
+$
+Change
+%
+Change
+Cash, cash equivalents, and investments
+$
+4,552 
+$
+4,074 
+$
+478 
+12 
+%
+Long-term investments
+94 
+131 
+(37)
+(28)
+%
+Short-term debt
+— 
+499 
+(499)
+(100)
+%
+Long-term debt
+5,973 
+5,539 
+434 
+8 
+%
+Working capital
+3,737 
+2,187 
+1,550 
+71 
+%
+Ratio of current assets to current liabilities
+1.4 : 1
+1.3 : 1
+We have historically generated significant cash from operations, and we expect to continue to do so during fiscal 2026. Our cash, cash equivalents, and investments totaled $4.6 billion at July 31, 2025. None of those funds were restricted, and approximately 91% of those funds were located in the U.S.
+Our unsecured revolving credit facility and commercial paper program are available to us for general corporate purposes. At July 31, 2025, no amounts were outstanding under the unsecured revolving credit facility or the commercial paper program. See Note 7 to the consolidated financial statements in

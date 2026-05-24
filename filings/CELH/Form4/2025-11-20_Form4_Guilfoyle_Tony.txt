@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-20
+Transaction Date: 2025-11-19
+Person: Guilfoyle Tony — Chief Commercial Officer
+Type: OTHER
+Shares: 10832 at $41.20
+Shares After: 80202
+=== TICKER: CELH ===
+===

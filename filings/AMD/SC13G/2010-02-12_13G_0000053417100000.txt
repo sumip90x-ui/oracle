@@ -1,0 +1,312 @@
+=== FILING DATE: 2010-02-12 ===
+=== PERIOD COVERED: 2010-02-12 ===
+=== SOURCE: SC13G filed 2010-02-12 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: AMD ===
+
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>amd1209.txt
+<DESCRIPTION>ADVANCED MICRO DEVICES ANNUAL 13G FILING
+<TEXT>
+                 Securities and Exchange Commission
+
+                     Washington, D.C.  20549
+
+                          Schedule 13G
+
+            Under the Securities Exchange Act of 1934
+
+                        (Amendment No. 0)*
+
+December 31, 2009
+(Date of event which requires filing of this statement)
+
+Check the appropriate box to designate the rule pursuant to which
+
+this schedule is filed:
+
+  (X) Rule 13d-1(b)
+
+  ( ) Rule 13d-1(c)
+
+  ( ) Rule 13d-1(d)
+
+
+Name of Issuer: Advanced Micro Devices Inc
+
+Title of Class of Securities: Common
+
+CUSIP Number: 007903107
+
+
+*The remainder of this cover page shall be filled out for a
+
+reporting person's initial filing on this form with respect to
+
+the subject class of securities, and for any subsequent
+
+amendment containing information which would alter the
+
+disclosures provided in a prior cover page.
+
+
+The information required in the remainder of this cover page
+
+shall not be deemed to be "filed" for the purpose of Section 18
+
+of the Securities Exchange Act of 1934 ("Act") or otherwise
+
+subject to the liabilities of that section of the Act but shall
+
+be subject to all other provisions of the Act (however, see the
+
+Notes).
+
+
+CUSIP Number: 007903107
+
+1. Name of Reporting Person: Jennison Associates LLC
+
+S.S. or I.R.S. Identification No. of Above Person: IRS
+
+Identification #52-2069785 (formerly 13-2631108)
+
+2. Check the Appropriate Box if a Member of a Group:  Not
+
+Applicable
+
+3. SEC Use Only
+
+4. Citizenship or Place of Organization: Delaware
+
+Number of Shares Beneficially Owned By Each Reporting Person
+
+With:
+
+5. Sole Voting Power: 33,022,127 shares
+
+6. Shared Voting Power: 0 shares
+
+7. Sole Dispositive Power: 0 shares
+
+8. Shared Dispositive Power: 34,041,376 shares
+
+9. Aggregate Amount Beneficially Owned by Each Reporting
+
+Person: 34,041,376 shares
+
+10. Check Box if the Aggregate Amount in Row 9 Excludes
+
+Certain Shares: ( )
+
+11. Percent of Class Represented by Amount in Row 9: 5.08%
+
+12. Type of Reporting Person*: IA
+
+
+Item 1(a) Name of Issuer: Advanced Micro Devices Inc
+
+Item 1(b) Address of Issuer's Principal Executive Offices:
+
+One AMD PL, MS 68
+Sunnyvale, CA 94088
+
+Item 2(a) Name of Person Filing:  Jennison Associates LLC
+
+Item 2(b) Address of Principal Business Office or Residence:
+
+466 Lexington Avenue
+New York, NY  10017
+
+Item 2(c) Citizenship: Delaware
+
+Item 2(d) Title of Class of Securities: Common
+
+Item 2(e) CUSIP Number: 007903107
+
+
+Item 3 If this statement is filed pursuant to Rules 13d-1(b),
+
+or 13d-2(b), or (c) check whether the person filing is a:
+
+(a) ( ) Broker or Dealer registered under Section 15 of the Act
+
+(b) ( ) Bank as defined in Section 3(a) (6) of the Act
+
+(c) ( ) Insurance Company as defined in Section 3(a) (19) of
+
+the Act
+
+(d) ( ) Investment Company registered under Section 8 of the
+
+Investment Company Act
+
+(e) (X) Investment Adviser in accordance with Section
+
+240.13d-1(b) (1) (ii) (E)
+
+(f) ( ) Employee Benefit Plan, Pension Fund which is subject
+
+to the provision of the Employee Retirement Income Security
+
+Act of 1974 or Endowment Fund in accordance with Section
+
+240.13d-1(b) (ii) (F)
+
+(g) ( ) Parent Holding Company or control person, in accordance
+
+with Section 240.13(b) (ii) (G)
+
+(h) ( ) A savings association as defined by Section 3(b) of the
+
+Federal Deposit Insurance Act
+
+(i)( ) A church plan that is excluded from the definition of an
+
+investment company under Section 3(c) (4) of the Investment Company
+
+Act of 1940.
+
+(j)( ) Group, in accordance with Section 240.13d-1(b) (1) (ii) (J).
+
+If this statement is filed pursuant to Section 240.13d-1(c), check
+
+this box. ( )
+
+
+Item 4 Ownership:
+
+Provide the following information regarding the aggregate number
+
+and percentage of the class of securities of the issuer identified
+
+in Item 1.
+
+(a) Amount Beneficially Owned: 34,041,376
+
+(b) Percent of Class: 5.08%
+
+(c) Number of shares as to which the person has:
+
+(i) sole power to vote or to direct the vote: 33,022,127
+
+(ii) shared power to vote or to direct the vote: 0
+
+(iii) sole power to dispose or to direct the disposition of: 0
+
+(iv) shared power to dispose or to direct the disposition of: 34,041,376
+
+
+Jennison Associates LLC ("Jennison") furnishes
+
+investment advice to several investment companies,
+
+insurance separate accounts, and institutional clients ("Managed
+
+Portfolios"). As a result of its role as investment adviser of
+
+the Managed Portfolios, Jennison may be deemed to be the
+
+beneficial owner of the shares of the Issuer's Common Stock
+
+held by such Managed Portfolios.  Prudential Financial, Inc.
+
+("Prudential") indirectly owns 100% of equity interests of
+
+Jennison.  As a result, Prudential may be deemed to have the
+
+power to exercise or to direct the exercise of such voting
+
+and/or dispositive power that Jennison may have with respect to
+
+the Issuer's Common Stock held by the Managed Portfolios.
+
+Jennison does not file jointly with Prudential, as such, shares
+
+of the Issuer's Common Stock reported on Jennison's 13G may be
+
+included in the shares reported on the 13G filed by Prudential.
+
+These shares were acquired in the ordinary course of business,
+
+and not with the purpose or effect of changing or influencing
+
+control of the Issuer.  The filing of this statement should not
+
+be construed as an admission that Jennison is, for the purposes
+
+of Sections 13 or 16 of the Securities Exchange Act of 1934,
+
+the beneficial owner of these shares.
+
+
+Item 5 Ownership of Five Percent or Less of a Class:
+
+If this statement is being filed to report the fact that as of
+
+the date hereof the reporting person has ceased to be the
+
+beneficial owner of more than five percent of the securities,
+
+check the following ( ).
+
+
+Item 6 Ownership of More than Five Percent on Behalf of
+
+Another Person:
+
+Our clients have the right to receive or the power to direct
+
+the receipt of dividends or the profits from the sale of such
+
+securities.  No one client owns more than 5% of such security
+
+class.
+
+
+Item 7 Identification and Classification of the Subsidiary
+
+which Acquired the Security being Reported on by the Parent
+
+Holding Company: Not Applicable
+
+
+Item 8 Identification and Classification of Members of the
+
+Group: Not Applicable
+
+
+Item 9 Notice of Dissolution of Group: Not Applicable
+
+
+Item 10 Certification:
+
+By signing below I certify that, to the best of my knowledge
+
+and belief, the securities referred to above were acquired and are
+
+in held the ordinary course of business and were not acquired and
+
+are not held for the purpose of and do not have the effect of
+
+changing or influencing the control of the issuer of the securities
+
+and were not acquired and are not held in connection with or as a
+
+participant in any transaction having that purpose or effect.
+
+After reasonable inquiry and to the best of my knowledge and
+
+belief, I certify that the correct information set forth in
+
+this statement is true, complete and correct.
+
+
+February 12, 2009
+
+
+Janet Early, Vice President
+</TEXT>
+</DOCUMENT>

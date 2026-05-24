@@ -1,0 +1,9 @@
+=== FILING DATE: 2026-02-25 ===
+=== PERIOD COVERED: 2026-01-25 ===
+=== SOURCE: 10-K filed 2026-02-25 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: NVDA ===
+
+Item 2
+. Properties
+Our headquarters is in Santa Clara, California. We own and lease approximately 3 million square feet of office and building space for our corporate headquarters. In addition, we lease data center space in Santa Clara, California. We also own and lease facilities for data centers, research and development, and/or sales and administrative purposes throughout the U.S. and in various international locations, primarily in China, India, Israel, and Taiwan. We believe our existing facilities, both owned and leased, are in good condition and suitable for the conduct of our business. We do not identify or allocate assets by operating segment. For additional information regarding obligations under leases, refer to Note 17 of the Notes to the Consolidated Financial Statements in Part IV,

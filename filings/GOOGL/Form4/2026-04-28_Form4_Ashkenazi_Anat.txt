@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-04-28
+Transaction Date: 2026-04-25
+Person: Ashkenazi Anat — SVP, Chief Financial Officer
+Type: OTHER
+Shares: 21219 at $0
+Shares After: 59820
+=== TICKER: GOOGL ===
+===

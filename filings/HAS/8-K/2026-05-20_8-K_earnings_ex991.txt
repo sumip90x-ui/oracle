@@ -1,0 +1,1069 @@
+=== FILING DATE: 2026-05-20 ===
+=== PERIOD COVERED: 2026-05-20 ===
+=== SOURCE: 8-K Exhibit 99.1 filed 2026-05-20 ===
+=== SECTION: 8-K Exhibit 99.1 — earnings ===
+=== TICKER: HAS ===
+
+
+
+EX-99.1
+
+2
+
+exhibit991q12026.htm
+
+EX-99.1
+
+
+Document
+
+
+For Immediate Release
+Hasbro Reports First Quarter 2026 Financial Results
+MAGIC: THE GATHERING Drives Growth in Revenue, Operating Profit and Net Earnings
+Reiterates 2026 Guidance and Declares Dividend
+Pawtucket, R.I., May 20, 2026
+--
+Hasbro, Inc. (NASDAQ: HAS), a leading games, IP, and toy company, today reported financial results for the first quarter 2026.
+“The first quarter was a strong start to the year and reflects tailwinds from our Playing to Win strategy,” said Chris Cocks, Hasbro Chief Executive Officer. “Wizards continues to break records, supported by MAGIC: THE GATHERING’s flywheel of player growth and expanded distribution. In Consumer Products, we delivered another quarter of growth in our toy and game business, and remain on track to grow the entire segment for the full year 2026.”
+"Our first quarter results demonstrate continued top-line momentum and disciplined execution,” said Gina Goetter, Hasbro Chief Financial Officer and Chief Operating Officer. “We remain focused on delivering our annual objectives by driving operating leverage, investing behind our highest-return brands, and returning cash to shareholders as we build on this solid start to the year.”
+First
+ Quarter 2026 Results
+•
+Hasbro, Inc.'s revenue increased 13% vs. LY, driven by growth in Wizards and Digital Gaming (+26%) and flat Consumer Products revenues, partially offset by a decline in Entertainment (-24%).
+•
+Operating profit was $270 million (+58% vs. LY) and Adjusted operating profit was $287 million, (+29% vs. LY) reflecting a strong topline and favorable mix.
+•
+Reported net earnings were $1.39 per diluted share and Adjusted net earnings per diluted share were $1.47.
+•
+Returned $106 million to shareholders through the quarterly dividend and share repurchases.
+•
+During the quarter, the Company deployed $96 million toward debt reduction including the issuance of $400 million of new notes. The proceeds of which will be used to fully repay its November 2026 maturities, with the balance applied to the repurchase of higher-rate, longer-dated securities.
+First
+ Quarter 2026 Segment Details
+•
+Wizards and Digital Gaming Segment
+•
+Revenue increased 26%, led by MAGIC: THE GATHERING (+36%). Digital and licensed gaming grew 3%.
+•
+MAGIC: THE GATHERING growth was fueled by Q1 releases of Lorwyn Eclipsed and Teenage Mutant Ninja Turtles Universes Beyond, along with continued strength in backlist titles.
+•
+Monopoly Go! contributed $41 million of revenue in the first quarter.
+•
+Operating profit of $298 million (+29% vs. LY), with a 51% operating margin, reflects the benefit of scale and favorable business mix.
+•
+Consumer Products Segment
+•
+Revenues were flat
+and reflect share growth in key GEM
+2
+categories offset by challenging licensing compares in the prior year.
+•
+Q1 highlights include growth in Star Wars toys and games with momentum building ahead of
+The Mandalorian and Grogu
+movie.
+•
+Operating loss of $48 million and Adjusted operating loss of $41 million (-31% vs. LY) reflects normal seasonality, incremental tariff expense and challenging licensing compares in the prior year.
+•
+Entertainment Segment
+•
+Revenue decline of 24% related to the nature and timing of deals.
+•
+Operating profit of $17 million and Adjusted operating profit of $20 million up 17% due to lower royalty expense.
+
+See the financial tables accompanying the press release for a reconciliation of GAAP to non-GAAP financial measures.
+2026 Company Outlook and Capital Allocation
+
+For the full year, the Company continues to expect:
+•
+Total Hasbro revenue up 3-5% in constant currency.
+•
+Adjusted operating margin of 24-25%.
+•
+Adjusted EBITDA of $1.40 billion to $1.45 billion.
+2026 Capital Allocation priorities:
+•
+Invest in core business.
+•
+Return cash to shareholders through dividends and share repurchases.
+•
+Continue to pay down debt.
+Previously Disclosed Unauthorized Network Access
+In late March 2026, we identified unauthorized access to our network. Based on analysis with the  assistance of outside cybersecurity experts and information to date, we believe that the unauthorized access has been contained and we are continuing to make progress in fully restoring our systems and operations.
+During the second quarter of 2026, we began incurring costs related to the unauthorized network access, including legal and remediation costs. The full scope of the costs and related impacts has not been determined.
+We plan to seek reimbursement of certain costs, expenses and losses related to the unauthorized network access by submitting claims to our cybersecurity insurers. While the receipt, timing and amount of any such reimbursements is not known at this time, we are currently in the process of documenting our claims. The timing of recognizing insurance recoveries may differ from the timing of recognizing the associated expenses
+.
+Dividend Announcement
+During the first quarter, the Company paid $99 million in cash dividends to shareholders. The Board of Directors has declared a quarterly cash dividend of $0.70 per common share payable on June 11, 2026, to shareholders of record at the close of business on June 1, 2026.
+Conference Call Webcast
+Hasbro will webcast its first quarter 2026 earnings conference call at 8:30 a.m. Eastern Time today. To listen to the live webcast and access the accompanying presentation slides, please go to https://investor.hasbro.com. The replay of the call will be available on Hasbro’s website approximately 2 hours following completion of the call
+.
+About Hasbro
+Hasbro is a leading games, IP and toy company whose mission is to create joy and community through the magic of play. Hasbro delivers groundbreaking play experiences for fans of all ages around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more.
+Through its franchise-first approach, Hasbro unlocks value from both new and legacy IP, including MAGIC: THE GATHERING, DUNGEONS & DRAGONS, MONOPOLY, HASBRO GAMES, NERF, TRANSFORMERS, PLAY-DOH and PEPPA PIG, as well as premier partner brands. Powered by its portfolio of thousands of iconic marks and a diversified network of partners and subsidiary studios, Hasbro brings fans together wherever they are, from tabletop to screen.
+For more than a decade, Hasbro has been consistently recognized for its corporate citizenship, including being named one of the 100 Best Corporate Citizens by 3BL Media.
+
+© 2026 Hasbro, Inc. All Rights Reserved.
+Forward Looking Statement Safe Harbor
+Certain statements in this press release contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These statements, which may be identified by the use of forward-looking words or phrases, include statements relating to: our business strategies and plans; products, gaming and entertainment; anticipated cost savings; expected debt repayments and share repurchases; expected impact of tariffs or refunds thereof; anticipated impact of moving our Rhode Island operations to Boston, Massachusetts; expectations relating to the impact of unauthorized access to the Company’s network, including on our financial condition and results of operations, findings from our investigation into the unauthorized access, including identification of data that may have been impacted, and the effectiveness of our containment and remediation efforts; expected impact of newly issued accounting pronouncements and tax legislation; financial targets; and expectations for our future performance. Our actual actions or results may differ materially from those expected or anticipated in the forward-looking statements due to both known and unknown risks and uncertainties.
+Factors that might cause such a difference include, but are not limited to:
+•
+our ability to successfully implement and execute on our
+Playing to Win
+ business strategy;
+•
+our ability to successfully compete in the play industry and further develop our digital gaming, licensing and consumer products businesses and partnerships;
+•
+our ability to continually introduce new and innovative products that are accepted by consumers, particularly for brands such as MAGIC: THE GATHERING in which we have seen an increasing concentration of our sales and profits;
+•
+risks associated with the imposition, threat, or uncertainty of tariffs, including any possible refunds of tariffs, in markets in which we operate; imposition of tariffs could increase our product costs and other costs of doing business, result in higher prices of our products, impact consumer spending, lower our revenues, result in delays or reductions in purchases from our customers, result in goodwill impairments, reduce earnings and otherwise have an adverse impact on our business;
+•
+risks associated with international operations, such as: conflict in territories in which we operate or which affect areas in which operate such as the current activities in Iran; currency conversion; currency fluctuations; quotas; shipping delays or difficulties; border adjustment taxes or other protectionist measures; and other challenges in the territories in which we operate;
+•
+risk or disruption to our business or ability to protect our assets and intellectual property, including as a result of infringement, theft, misappropriation, cyber-attacks or other acts compromising the integrity of our assets or intellectual property or systems;
+•
+risks associated with unauthorized access to our network we recently experienced, including the duration and magnitude of operational disruption; the effectiveness of our response to such unauthorized access and the business continuity plans and the ongoing assessment of the impact of such unauthorized access on our business, operations, financial results, and financial reporting; and any further business disruptions from such unauthorized access and increased costs relating to such unauthorized access, including from any legal proceedings;
+•
+risks related to political, economic and public health conditions or regulatory changes in the markets in which we and our customers, partners, licensees, suppliers and manufacturers operate, such as inflation, fluctuating interest rates, tariffs, higher commodity prices, labor strikes, labor costs or transportation costs, or outbreaks of illness or disease, the occurrence of which could create work slowdowns, delays or shortages in production or shipment of products, increases in costs, reduced purchasing power or less discretionary income, or losses and delays in revenue and earnings;
+•
+uncertain and unpredictable global and regional economic conditions impacting one or more of the markets in which we sell products, which can result in higher prices for our products or consumer necessities and can otherwise negatively impact our customers and consumers, result in lower employment levels, consumer discretionary income, retailer inventories and spending, including lower spending on purchases of our products;
+•
+our ability to transform our business and capabilities to address the changing global consumer landscape, including evolving demographics for our products and advancements in emerging technologies, such as the integration of artificial intelligence into our product development, marketing strategies, and consumer engagement, and the associated risks such as ethical concerns, evolving regulatory standards, implementation challenges, and third-party dependencies on such technologies;
+•
+our ability to design, develop, manufacture, and ship products on a timely, cost-effective and profitable basis;
+•
+the concentration of our customers, potentially increasing the negative impact to our business of difficulties experienced by any of our customers or changes in their purchasing or selling patterns;
+•
+our dependence on third-party relationships, including with third-party partners, manufacturers, distributors, studios, content producers, licensors, licensees, and outsourcers, which creates reliance on others and loss of control;
+•
+risks relating to the concentration of manufacturing for many of our products in the People’s Republic of China, which include the risks associated with increased tariffs imposed on trade
+between China and the U.S., and our ability to successfully diversify sourcing of our products to reduce reliance on sources of supply in China;
+•
+the success of our key partner brands, including the ability to secure, maintain and extend agreements with our key partners or the risk of delays, increased costs or difficulties associated with any of our or our partners’ planned digital applications or media initiatives;
+•
+our ability to attract and retain talented and diverse employees;
+•
+our business could be adversely affected by challenges and disruptions arising from the loss of skills, knowledge or expertise, and from uncertainty regarding the continued employment of key personnel, particularly as a result of recent workforce reductions and the planned relocation of our Rhode Island operations to Boston, Massachusetts;
+•
+our ability to realize the benefits of cost-savings and efficiency and/or revenue and operating profit enhancing initiatives;
+•
+risks relating to the impairment and/or write-offs related to businesses, products and/or content we acquire and/or produce;
+•
+the risk that acquisitions, dispositions and other investments we complete may not provide us with the benefits we expect, or the realization of such benefits may be significantly delayed or reduced;
+•
+fluctuations in our business due to seasonality;
+•
+the risk of product recalls or product liability suits and costs associated with product safety regulations;
+•
+the impact of litigation or arbitration decisions or settlement actions;
+•
+the bankruptcy or other lack of success of one or more of our significant retailers, licensees and other partners; and
+•
+other risks and uncertainties as may be detailed in our public announcements and U.S. Securities and Exchange Commission (“SEC”) filings.
+The statements contained herein are based on our current beliefs and expectations. We undertake no obligation to make any revisions to the forward-looking statements contained in this press release or to update them to reflect events or circumstances occurring after the date of this press release.
+Non-GAAP Financial Measures
+The financial tables accompanying this press release include non-GAAP financial measures as defined under SEC rules, specifically Adjusted operating profit, Adjusted operating margin, Adjusted net earnings and Adjusted net earnings per diluted share, which exclude, where applicable, acquired intangible amortization, strategic transformation initiatives, restructuring and severance costs, loss on disposal of business, and eOne Film and TV business divestiture related costs. Also included in this press release are the non-GAAP financial measures of EBITDA and Adjusted EBITDA. EBITDA represents net earnings attributable to Hasbro, Inc. excluding interest expense, income tax expense, net earnings attributable to noncontrolling interests, depreciation and amortization of intangibles. Adjusted EBITDA also excludes strategic transformation initiatives, restructuring and severance costs, loss on disposal of business, eOne Film and TV business divestiture related costs, and the impact of stock compensation. As required by SEC rules, we have provided reconciliations on the attached schedules of these measures to the most directly comparable GAAP measure. Management believes that Adjusted net earnings, Adjusted net earnings per diluted share, Adjusted operating profit and Adjusted operating margin provide investors with an understanding of the underlying performance of our business absent unusual events. Management believes that EBITDA and Adjusted EBITDA are appropriate measures for evaluating the operating performance of our business because they reflect the resources available for strategic opportunities including, among others, to invest in the business, strengthen the balance sheet and make strategic acquisitions. The Company is not able to reconcile its forward-looking non-GAAP adjusted operating margin and adjusted EBITDA measures because the Company cannot predict with certainty the timing and amounts of discrete items such as charges associated with its cost-savings program, which could impact GAAP results. Constant currency is also a non-GAAP financial measure. The impact of changes
+in foreign currency exchange rates used to translate the consolidated statements of operations is quantified by translating the current or future period revenues at the prior period exchange rates and comparing this amount to the prior period reported revenues. The Company believes that the presentation of the impact of changes in exchange rates, which are beyond the Company’s control, is helpful to an investor’s understanding of the performance of the underlying business. These non-GAAP measures should be considered in addition to, not as a substitute for, or superior to, net earnings or other measures of financial performance prepared in accordance with GAAP as more fully discussed in our consolidated financial statements and filings with the SEC. As used herein, "GAAP" refers to accounting principles generally accepted in the United States of America.
+HAS-E
+Investors: Fred Wightman | Hasbro, Inc. | hasbro_investor_relations@hasbro.com
+Media: Abby Hodes | Hasbro, Inc. | communications@hasbro.com
+# # #
+(Tables Attached)
+HASBRO, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(1)
+(Unaudited)
+(Millions of Dollars)
+March 29, 2026
+March 30, 2025
+ASSETS
+Current Assets:
+Cash and cash equivalents
+$
+857.1 
+$
+621.1 
+Short-term investments
+498.2 
+— 
+Accounts receivable, net
+712.6 
+656.6 
+Inventories
+280.5 
+295.8 
+Prepaid expenses and other current assets
+416.6 
+339.3 
+  Total current assets
+2,765.0 
+1,912.8 
+Property, plant and equipment, net
+393.9 
+293.6 
+Goodwill
+1,256.5 
+2,278.4 
+Other intangible assets, net
+441.2 
+503.1 
+Other assets
+1,073.7 
+1,052.1 
+  Total assets
+$
+5,930.3 
+$
+6,040.0 
+LIABILITIES, NONCONTROLLING INTERESTS AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+Current portion of long-term debt
+$
+497.0 
+$
+— 
+Accounts payable
+280.7 
+284.8 
+Accrued liabilities
+893.7 
+871.2 
+  Total current liabilities
+1,671.4 
+1,156.0 
+Long-term debt
+3,094.9 
+3,331.5 
+Other liabilities
+489.8 
+355.0 
+  Total liabilities
+5,256.1 
+4,842.5 
+Total shareholders' equity
+674.2 
+1,197.5 
+  Total liabilities, noncontrolling interests and shareholders' equity
+$
+5,930.3 
+$
+6,040.0 
+(1)
+ Amounts may not sum due to rounding
+HASBRO, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(1)
+(Unaudited)
+(Millions of Dollars and Shares Except Per Share Data)
+Three Months Ended
+March 29, 2026
+March 30, 2025
+Amount
+% of Net Revenues
+Amount
+% of Net Revenues
+Net revenues
+$
+1,000.2 
+100.0 
+%
+$
+887.1 
+100.0 
+%
+Costs and expenses:
+Cost of sales
+236.1 
+23.6 
+%
+204.5 
+23.1 
+%
+Program cost amortization
+4.0 
+0.4 
+%
+7.4 
+0.8 
+%
+Royalties
+77.7 
+7.8 
+%
+57.0 
+6.4 
+%
+Product development
+78.0 
+7.8 
+%
+80.5 
+9.1 
+%
+Advertising
+60.4 
+6.0 
+%
+55.4 
+6.2 
+%
+Amortization of intangible assets
+14.6 
+1.5 
+%
+17.0 
+1.9 
+%
+Loss on disposal of business
+— 
+— 
+%
+25.0 
+2.8 
+%
+Selling, distribution and administration
+259.1 
+25.9 
+%
+269.6 
+30.4 
+%
+Total costs and expenses
+729.9 
+73.0 
+%
+716.4 
+80.8 
+%
+Operating profit
+270.3 
+27.0 
+%
+170.7 
+19.2 
+%
+Non-operating expense:
+Interest expense
+41.8 
+4.2 
+%
+41.6 
+4.7 
+%
+Interest income
+(10.1)
+(1.0)
+%
+(8.9)
+(1.0)
+%
+Other (income) expense, net
+(5.5)
+(0.5)
+%
+1.4 
+0.2 
+%
+Total non-operating expense, net
+26.2 
+2.6 
+%
+34.1 
+3.8 
+%
+Earnings before income taxes
+244.1 
+24.4 
+%
+136.6 
+15.4 
+%
+Income tax expense
+44.6 
+4.5 
+%
+37.1 
+4.2 
+%
+Net earnings
+199.5 
+19.9 
+%
+99.5 
+11.2 
+%
+Net earnings attributable to noncontrolling interests
+1.1 
+0.1 
+%
+0.9 
+0.1 
+%
+Net earnings attributable to Hasbro, Inc.
+$
+198.4 
+19.8 
+%
+$
+98.6 
+11.1 
+%
+Net earnings per common share:
+Basic
+$
+1.41 
+$
+0.71 
+Diluted
+$
+1.39 
+$
+0.70 
+Cash dividends declared per common share
+$
+0.70 
+$
+0.70 
+Weighted average number of shares
+Basic
+140.8 
+139.8 
+Diluted
+143.2 
+141.0 
+(1)
+ Amounts may not sum due to rounding
+HASBRO, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(1)
+(Unaudited)
+(Millions of Dollars)
+Three months ended
+March 29, 2026
+March 30, 2025
+Cash flows from operating activities:
+  Net earnings
+$
+199.5 
+$
+99.5 
+  Loss on disposal of business
+— 
+25.0 
+  Other non-cash adjustments
+72.8 
+77.9 
+  Changes in operating assets and liabilities
+65.4 
+(64.3)
+    Net cash provided by operating activities
+337.7 
+138.1 
+Cash flows from investing activities:
+  Additions to property, plant and equipment
+(22.2)
+(13.8)
+  Additions to software development
+(27.7)
+(29.4)
+  Purchase of investments
+(423.0)
+(10.0)
+  Other
+0.8 
+0.8 
+    Net cash utilized by investing activities
+(472.1)
+(52.4)
+Cash flows from financing activities:
+  Proceeds from borrowings
+399.4 
+— 
+  Repayments of borrowings
+(68.4)
+(49.2)
+Repurchases of common stock
+(7.7)
+— 
+  Share-based compensation transactions
+37.7 
+3.8 
+  Dividends paid
+(98.5)
+(97.9)
+  Payments related to tax withholding for share-based compensation
+(41.5)
+(17.7)
+  Payments of financing costs
+(4.1)
+— 
+  Other
+(1.8)
+(1.4)
+    Net cash provided (utilized) by financing activities
+215.1 
+(162.4)
+Effect of exchange rate changes on cash
+(0.2)
+2.8 
+Net  increase (decrease) in cash, cash equivalents and restricted cash
+80.5 
+(73.9)
+Cash, cash equivalents and restricted cash at beginning of year
+776.6 
+695.0 
+Cash, cash equivalents and restricted cash at end of period
+$
+857.1 
+$
+621.1 
+(1)
+ Amounts may not sum due to rounding
+HASBRO, INC.
+SEGMENT RESULTS - AS REPORTED AND AS ADJUSTED
+(1)
+(Unaudited)
+(Millions of Dollars)
+Three Months Ended March 29, 2026
+Three Months Ended March 30, 2025
+Operating Results:
+As Reported
+Non-GAAP Adjustments
+Adjusted
+As Reported
+Non-GAAP Adjustments
+Adjusted
+% Change
+Total Company Results:
+External Net Revenues
+$
+1,000.2 
+$
+— 
+$
+1,000.2 
+$
+887.1 
+$
+— 
+$
+887.1 
+13%
+Operating Profit
+$
+270.3 
+$
+16.7 
+$
+287.0 
+$
+170.7 
+$
+51.7 
+$
+222.4 
+29%
+Operating Margin
+27.0 
+%
+1.7 
+%
+28.7 
+%
+19.2 
+%
+5.8 
+%
+25.1 
+%
+Segment Results:
+Wizards of the Coast and Digital Gaming:
+External Net Revenues
+$
+582.0 
+$
+— 
+$
+582.0 
+$
+462.1 
+$
+— 
+$
+462.1 
+26%
+Operating Profit
+$
+297.7 
+$
+— 
+$
+297.7 
+$
+230.0 
+— 
+$
+230.0 
+29%
+Operating Margin
+51.2 
+%
+— 
+51.2 
+%
+49.8 
+%
+— 
+49.8 
+%
+Consumer Products:
+External Net Revenues
+$
+397.9 
+$
+— 
+$
+397.9 
+$
+398.3 
+$
+— 
+$
+398.3 
+0%
+Operating Loss
+$
+(47.5)
+$
+7.0 
+$
+(40.5)
+$
+(43.9)
+$
+12.9 
+$
+(31.0)
+-31%
+Operating Margin
+-11.9 
+%
+1.8 
+%
+-10.2 
+%
+-11.0 
+%
+3.2 
+%
+-7.8 
+%
+Entertainment:
+External Net Revenues
+$
+20.3 
+$
+— 
+$
+20.3 
+$
+26.7 
+$
+— 
+$
+26.7 
+-24%
+Operating Profit (Loss)
+$
+17.3 
+$
+3.0 
+$
+20.3 
+$
+(11.2)
+$
+28.6 
+$
+17.4 
+17%
+Operating Margin
+85.2 
+%
+14.8 
+%
+100.0 
+%
+-41.9 
+%
+>100%
+65.2 
+%
+Corporate and Other:
+Operating Profit (Loss)
+$
+2.8 
+$
+6.7 
+$
+9.5 
+$
+(4.2)
+$
+10.2 
+$
+6.0 
+58%
+(1)
+ Amounts may not sum due to rounding
+
+Three Months Ended
+Wizards of the Coast and Digital Gaming Net Revenues by Category:
+March 29, 2026
+March 30, 2025
+% Change
+Tabletop Gaming
+$
+460.7 
+$
+343.8 
+34 
+%
+Digital and Licensed Gaming
+121.3 
+118.3 
+3 
+%
+Net revenues
+$
+582.0 
+$
+462.1 
+26 
+%
+Three Months Ended
+Consumer Products Segment Net Revenues by Major Geographic Region:
+March 29, 2026
+March 30, 2025
+% Change
+North America
+$
+215.4 
+$
+231.4 
+-7 
+%
+Europe
+99.6 
+85.0 
+17 
+%
+Asia Pacific
+53.8 
+53.8 
+0 
+%
+Latin America
+29.1 
+28.1 
+4 
+%
+Net revenues
+$
+397.9 
+$
+398.3 
+0 
+%
+Three Months Ended
+Entertainment Segment Net Revenues by Category:
+March 29, 2026
+March 30, 2025
+% Change
+Family Brands
+$
+18.6 
+$
+22.4 
+-17 
+%
+Film and TV
+1.7 
+4.3 
+-60 
+%
+Net revenues
+$
+20.3 
+$
+26.7 
+-24 
+%
+Three Months Ended
+Supplementary Hasbro Gaming Information:
+March 29, 2026
+March 30, 2025
+% Change
+MAGIC: THE GATHERING
+$
+469.6 
+$
+346.3 
+36 
+%
+Hasbro Total Gaming
+ (1)
+$
+663.9 
+$
+550.1 
+21 
+%
+(1)
+ Hasbro Total Gaming includes all gaming revenue, most notably DUNGEONS & DRAGONS, MAGIC: THE GATHERING and Hasbro Gaming.
+HASBRO, INC.
+NON-GAAP RECONCILIATION
+(Unaudited)
+(Millions of Dollars)
+Three Months Ended
+Reconciliation of EBITDA and Adjusted EBITDA:
+(1)
+March 29,
+2026
+March 30,
+2025
+Net earnings attributable to Hasbro, Inc.
+$
+198.4 
+$
+98.6 
+Interest expense
+41.8 
+41.6 
+Income tax expense
+44.6 
+37.1 
+Net earnings attributable to noncontrolling interests
+1.1 
+0.9 
+Depreciation expense
+11.3 
+17.2 
+Amortization of intangibles
+14.6 
+17.0 
+EBITDA
+311.8 
+212.4 
+Share-based compensation
+20.9 
+18.4 
+Strategic transformation initiatives
+(2)
+1.1 
+7.2 
+Restructuring and severance costs
+(3)
+5.6 
+5.9 
+Loss on disposal of business
+(4)
+— 
+25.0 
+eOne Film and TV business divestiture related costs
+(5)
+— 
+5.4 
+Adjusted EBITDA
+$
+339.4 
+$
+274.3 
+(1)
+Amounts may not sum due to rounding
+(2)
+Strategic transformation initiatives costs represent non-recurring expenses for strategic projects with anticipated long-term benefits to support the organization in identifying, realizing and capturing savings to create efficiencies and improve business processes and operations.
+(3)
+Restructuring and severance associated with cost-savings initiatives across the Company.
+(4)
+ Loss on disposal of a business related to the sale of the eOne Film and TV business executed on December 27, 2023. The costs are included in Loss on disposal of business within the Entertainment segment.
+(5)
+ eOne Film and TV business divestiture related costs as a result of the sale of the eOne Film and TV business and certain retained liabilities.
+HASBRO, INC.
+NON-GAAP RECONCILIATION
+(Unaudited)
+(Millions of Dollars)
+Three Months Ended
+Reconciliation of Adjusted Operating Profit:
+
+(1)
+March 29,
+2026
+March 30,
+2025
+Operating Profit (Loss):
+$
+270.3
+ 
+$
+170.7
+ 
+Wizards of the Coast and Digital Gaming
+297.7 
+230.0 
+Consumer Products
+(47.5)
+(43.9)
+Entertainment
+17.3 
+(11.2)
+Corporate and Other
+2.8 
+(4.2)
+Non-GAAP Adjustments:
+$
+16.7
+ 
+$
+51.7
+ 
+Consumer Products
+7.0 
+12.9 
+Entertainment
+3.0 
+28.6 
+Corporate and Other
+6.7 
+10.2 
+Adjusted Operating Profit (Loss):
+$
+287.0
+ 
+$
+222.4
+ 
+Wizards of the Coast and Digital Gaming
+297.7 
+230.0 
+Consumer Products
+(40.5)
+(31.0)
+Entertainment
+20.3 
+17.4 
+Corporate and Other
+9.5 
+6.0 
+Non-GAAP Adjustments include the following:
+Acquired intangible amortization
+(2)
+10.0 
+12.4 
+Strategic transformation initiatives
+(3)
+1.1 
+7.2 
+Restructuring and severance costs
+(4)
+5.6 
+5.9 
+Loss on disposal of business
+(5)
+— 
+25.0 
+eOne Film and TV business divestiture related costs
+(6)
+— 
+1.2 
+Total
+$
+16.7 
+$
+51.7 
+(1)
+Amounts may not sum due to rounding
+(2)
+Represents intangible amortization costs related to the intangible assets acquired in the eOne acquisition. The Company has allocated certain of these intangible amortization costs between the Consumer Products and Entertainment segments, to match the revenue generated from such intangible assets. While amortization of acquired intangibles is being excluded from the related GAAP financial measure, the revenue of the acquired company is reflected within the Company's operating results to which these assets contribute.
+(3)
+Strategic transformation initiatives costs represent non-recurring expenses for strategic projects with anticipated long-term benefits to support the organization in identifying, realizing and capturing savings to create efficiencies and improve business processes and operations.
+(4)
+Restructuring and severance costs associated with cost-savings initiatives across the Company.
+(5)
+ Loss on disposal of a business related to the sale of the eOne Film and TV business executed on December 27, 2023. The costs are included in Loss on disposal of business within the Entertainment segment.
+(6)
+ eOne Film and TV business divestiture related costs as a result of the sale of the eOne Film and TV business and certain retained liabilities.
+HASBRO, INC.
+NON-GAAP RECONCILIATION
+(Unaudited)
+(Millions of Dollars and Shares, Except Per Share Data)
+Reconciliation of Net Earnings and Earnings per Share:
+
+(1)
+Three Months Ended
+March 29, 2026
+Diluted Per Share Amount
+March 30, 2025
+Diluted Per Share Amount
+Net earnings attributable to Hasbro
+$
+198.4 
+$
+1.39 
+$
+98.6 
+$
+0.70 
+Acquired intangible amortization
+ (2)
+7.5 
+0.05
+9.3 
+0.07 
+Strategic transformation initiatives
+ (3)
+0.8 
+0.01 
+5.5 
+0.04 
+Restructuring and severance costs
+(4)
+4.3 
+0.03 
+4.5 
+0.03 
+Loss on disposal of business
+(5)
+— 
+— 
+25.0 
+0.18 
+eOne Film and TV divestiture related costs
+(6)
+— 
+— 
+4.1 
+0.03 
+Net earnings attributable to Hasbro as adjusted
+$
+211.0 
+$
+1.47 
+$
+147.0 
+$
+1.04 
+(1)
+Amounts may not sum due to rounding
+(2)
+Represents intangible amortization costs related to the intangible assets acquired in the eOne acquisition. The Company has allocated certain of these intangible amortization costs between the Consumer Products and Entertainment segments, to match the revenue generated from such intangible assets. While amortization of acquired intangibles is being excluded from the related GAAP financial measure, the revenue of the acquired company is reflected within the Company's operating results to which these assets contribute.
+(3)
+Strategic transformation initiatives costs represent non-recurring expenses for strategic projects with anticipated long-term benefits to support the organization in identifying, realizing and capturing savings to create efficiencies and improve business processes and operations. These costs primarily consist of third party consulting of $1.1 ($0.8 after-tax) and $7.2 ($5.5 after-tax) for the three months ended March 29, 2026 and March 30, 2025, respectively.
+(4)
+Restructuring and severance costs of $5.6 ($4.3 after-tax) and $5.9 ($4.5 after-tax) for the three months ended March 29, 2026 and March 30, 2025, respectively, associated with cost-savings initiatives across the Company.
+(5)
+ Loss on disposal of a business of $25.0 ($25.0 after-tax) for the three months ended March 30, 2025 related to the sale of the eOne Film and TV business executed on December 27, 2023. The costs are included in Loss on Disposal of Business within the Entertainment segment.
+(6)
+ eOne Film and TV business divestiture related costs of $5.4 ($4.1 after tax) for the three months ended March 30, 2025 as a result of the sale of the eOne Film and TV business and certain retained liabilities.
+
+

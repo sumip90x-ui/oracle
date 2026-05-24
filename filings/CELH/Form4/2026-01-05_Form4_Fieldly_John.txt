@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-05
+Transaction Date: 2026-01-01
+Person: Fieldly John — Chief Executive Officer
+Type: OTHER
+Shares: 6453 at $45.74
+Shares After: 900210
+=== TICKER: CELH ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-10
+Transaction Date: 2025-09-08
+Person: Ramaswamy Sridhar — Chief Executive Officer
+Type: OTHER
+Shares: 1334 at $225.58
+Shares After: 1923
+=== TICKER: SNOW ===
+===

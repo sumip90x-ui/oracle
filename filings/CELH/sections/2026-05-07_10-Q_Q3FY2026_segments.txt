@@ -1,0 +1,66 @@
+=== FILING DATE: 2026-05-07 ===
+=== PERIOD COVERED: 2026-03-31 ===
+=== SOURCE: 10-Q filed 2026-05-07 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: CELH ===
+
+o market demands and to focus our resources on innovation, marketing and expanding our distribution channels. We continuously assess and work to optimize our supply chain to ensure quality, consistency and timely delivery to our customers.
+Building on the long-term distribution arrangement that we originally established with Pepsi in August 2022, we entered into a series of transactions on the Closing Date of the Pepsi Transactions that expanded our strategic partnership. These included (i) the Rockstar Acquisition, (ii) the issuance of Series B Preferred Stock and amendment of the existing Series A Preferred Stock and (iii) the execution of the A&R Distribution Agreements, which designate Pepsi as the primary distributor of our Alani Nu and Rockstar products in the U.S. and Canada. Under the enhanced commercial arrangement, Pepsi has agreed to use its commercially reasonable efforts to sell and distribute our full portfolio of products in the U.S. in accordance with the Captaincy.
+Impact of Macroeconomic Trends
+The imposition of tariffs, including U.S. tariffs imposed or threatened to be imposed on other countries and any tariffs imposed by such countries, have impacted and could continue to impact our supply chain, including the cost of certain raw materials and packaging, including aluminum. In February 2026, the U.S. Supreme Court ruled that tariffs imposed under the International Emergency Economic Powers Act were unlawful, and those duties were subsequently terminated. While this may present a potential refund opportunity, the pathway and timing of any such refunds remain uncertain. The current administration has since imposed alternative tariffs under other statutory authority, and we continue to monitor developments. Any supply chain constraints, inflationary impacts, or reduced consumer demand as a result of such tariffs or ongoing macroeconomic uncertainty could impact our results.
+Similarly, the ongoing conflict in the Middle East, including tensions involving Iran, has impacted and could continue to impact our operations through increased fuel, energy and transportation costs, as well as supply chain disruptions and increased cost of aluminum. Although we sell products in the Middle East, revenue from that region is not material to our overall results, and we do not anticipate the conflict to have a meaningful direct impact on our net sales.
+The rapidly changing nature of global trade policies, tariff regulations, geopolitical developments and other aspects of the macroeconomic environment make it difficult to reasonably estimate potential future impacts on our cost structure and results of operations.
+39
+Impact of One Big Beautiful Bill Act
+On July 4, 2025, the OBBBA was signed into law in the U.S. The legislation introduced a wide array of changes to the U.S. corporate tax system, including permanent extensions of certain provisions of the Tax Cuts and Jobs Act of 2017 and substantial modifications to the international tax regime applicable to U.S. multinational corporations. Significant provisions include the permanent restoration of 100% bonus depreciation for qualifying property, changes to the global intangible low-taxed income regime, now referred to as net CFC tested income, the treatment of foreign tax credits, and the foreign-derived intangible income deduction. We evaluated the applicable OBBBA provisions and incorporated their impact into our March 31, 2026 financial statements. The impact of the OBBBA provisions is not expected to have a material impact on our 2026 annual effective tax rate.
+Results of Operations
+Three months ended March 31, 2026 compared to three months ended March 31, 2025
+Revenue
+For the three months ended March 31, 2026, revenue was approximately $782.6 million, an increase of $453.3 million or 137.7%, from $329.3 million for the three months ended March 31, 2025.
+For the three months ended March 31, 2026, revenue in North America increased by $440.8 million, or 143.8%, compared to the three months ended March 31, 2025. The increase was driven primarily by the Alani Nu Acquisition, which contributed approximately $368.1 million. Approximately $66.6 million of the increase was attributable to the Rockstar Acquisition.
+European revenues for the three months ended March 31, 2026 were approximately $25.4 million, representing an increase of $6.7 million, or 35.9%, compared to the three months ended March 31, 2025. Asia-Pacific revenues generated approximately $7.0 million for the three months ended March 31, 2026, with other international markets contributing an additional $3.0 million in revenue for the same period. Our international markets have continued to expand, driven by new market launches and continued investment in distribution, marketing and strategic partnerships to support long-term growth.
+The following table sets forth revenue by geographical location:
+Three Months Ended March 31,
+2026
+2025
+ Change
+North America
+$
+747,316 
+$
+306,534 
+143.8 
+%
+Europe
+25,354 
+18,659 
+35.9 
+%
+Asia-Pacific
+6,995 
+2,244 
+211.7 
+%
+Other
+2,950 
+1,839 
+60.4 
+%
+Revenue
+$
+782,615
+ 
+$
+329,276
+ 
+137.7 
+%
+Gross Profit
+For the three months ended March 31, 2026, gross profit increased by $205.7 million to $378.1 million, an increase of 119.3%, from $172.4 million for the three months ended March 31, 2025. Gross profit margin decreased to 48.3% for the three months ended March 31, 2026 from 52.3% for the three months ended March 31, 2025. The decrease in gross profit margin was primarily driven by increased promotional activity as a percentage of revenue and increased aluminum costs. Freight costs also contributed to margin compression, driven by integration-related freight disruptions, increased freeze protection and tariffs.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses for the three months ended March 31, 2026 were $234.6 million, an increase of $114.3 million, or 95.0%, from $120.3 million for the three months ended March 31, 2025. The increase was primarily driven by incremental costs associated with the expansion of our portfolio from one brand to three brands, including increased investment in brand awareness and marketing initiatives, higher employee and professional service costs and other expenses associated with supporting and marketing three brands. The current period also included acquisition-related transition, integration, and intangible asset amortization costs that were not present in the prior year period. Additionally, the current period reflected charges of $25.5 million related to an ongoing legal matter. These increases were partially offset by a decrease in deal and transaction costs that were higher in the prior year in connection with completing the Alani acquisition.
+40
+Distributor Termination Fees
+For the three months ended March 31, 2026, we recorded $4.4 million of distributor termination fees related to the termination of certain former Alani Nu distributors, primarily reflecting adjustments to previously accrued amounts based on information that was not available as of December 31, 2025. There were no such expenses for the three months ended March 31, 2025.
+Other (Expense) Income
+Total other expense was $1.5 million for the three months ended March 31, 2026, compared to total other income of $9.0 million for the three months ended March 31, 2025, reflecting an expense increase of $10.5 million. The changes in total other (expense) income reflect an $11.8 million increase in interest expense related to our outstanding debt, whereas no such debt existed in the prior-year period, and a $4.9 million decrease in interest income as a result of lower average cash balances as we utilized our cash reserves for strategic investments and share repurchase activities. These changes were partially offset by a $6.2 million increase in other income, net, primarily reflecting sales of Rockstar products for which we acted as an agent under a transition services agreeme

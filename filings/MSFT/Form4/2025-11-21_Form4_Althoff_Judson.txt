@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-21
+Transaction Date: 2025-11-20
+Person: Althoff Judson — CEO, Microsoft Commercial
+Type: OTHER
+Shares: 3463 at $0
+Shares After: 142098.681
+=== TICKER: MSFT ===
+===

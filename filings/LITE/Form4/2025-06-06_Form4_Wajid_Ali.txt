@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-06
+Transaction Date: 2025-06-04
+Person: Wajid Ali — 
+Type: SELL
+Shares: 2222 at $83.58
+Shares After: 06
+=== TICKER: LITE ===
+===

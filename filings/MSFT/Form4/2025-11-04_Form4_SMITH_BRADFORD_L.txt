@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-04
+Transaction Date: 2025-11-03
+Person: SMITH BRADFORD L — Vice Chair and President
+Type: SELL
+Shares: 38500 at $518.4907
+Shares After: 461596.7633
+=== TICKER: MSFT ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-17
+Transaction Date: 2025-09-15
+Person: Numoto Takeshi — EVP, Chief Marketing Officer
+Type: BUY
+Shares: 11583 at $0
+Shares After: 58631.5495
+=== TICKER: MSFT ===
+===

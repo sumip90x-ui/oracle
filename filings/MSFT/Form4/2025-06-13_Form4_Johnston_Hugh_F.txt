@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-13
+Transaction Date: 2025-06-12
+Person: Johnston Hugh F — Director
+Type: BUY
+Shares: 2 at $0
+Shares After: 1200.689
+=== TICKER: MSFT ===
+===

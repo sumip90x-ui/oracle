@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-24
+Transaction Date: 2026-03-20
+Person: Raghunathan Vivek — SVP, Engineering and Support
+Type: OTHER
+Shares: 37776 at $175.40
+Shares After: 277199
+=== TICKER: SNOW ===
+===

@@ -1,0 +1,50 @@
+=== FILING DATE: 2025-09-03 ===
+=== PERIOD COVERED: 2025-07-31 ===
+=== SOURCE: 10-K filed 2025-09-03 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: INTU ===
+
+nd on retailer websites. In Canada, we also rely on distributors who sell products into the retail channel.
+COMPETITION
+We face intense competition in all aspects of our businesses across all of our offerings. Competition is rapidly evolving, fragmented, and involves complex interdependencies with many businesses. Competitive pressures in many of the market segments we serve have grown markedly over the past few years, and the marketing and distribution channels continue to evolve. We expect these trends to continue. Our competitors may introduce superior products and services, successfully use and deploy new technologies such as AI that may reduce customer demand for our products or services, reduce prices, have greater technical, marketing, and other resources, have greater brand recognition, have larger installed bases of customers, have well-established relationships with our current and potential customers and partners, advertise aggressively, or beat us to market with new products and services.
+The competitive landscape is constantly evolving. This occurs as we expand into new market segments and geographic regions and extend our capabilities, as well as when new companies emerge or existing companies extend their capabilities (either directly or through acquisitions or partnerships) to include the market segments and geographic regions in which we operate. Given the breadth of the products and services that we offer as a global financial technology company and the customer problems that we aim to solve, we compete with offerings from a variety of organizations across a range of industries, including large global companies, smaller geographically focused companies, startups, and professional services. Entities that offer or provide access to offerings that we may compete with include:
+•
+business software providers, including industry-specific vertical software providers and embedded software providers, that offer solutions such as accounting, business management and financial software, marketing automation, customer relationship management, inventory management, payroll and workforce management;
+•
+private and publicly-funded tax preparation and filing service providers, including embedded software providers;
+•
+accounting, consulting, and tax firms;
+•
+companies and banks that provide money services, including merchant payment processing, bill pay, checking and savings accounts, financing and point of sale devices;
+•
+companies that provide personal finance management products and tools, including access to credit scores, credit and identity monitoring, credit-building tools, and tools to help understand net worth and make financial progress;
+•
+companies that provide a marketplace of consumer financial offerings;
+•
+financial institutions;
+•
+credit bureaus; and
+•
+platform companies that could develop competing technology solutions to any of the problems that our customers may face.
+We believe our most important competitive factors are our innovation and technology capabilities, functionality, ease of use, and security of our offerings, the integration of our offerings with each other and third-party offerings, brand recognition and reputation, quality of support, and cost. We believe that we compete favorably based on these factors and our ability to remain competitive will largely depend on our ongoing performance.
+ Intuit
+ Fiscal 2025 Form 10-K
+9
+Table
+ of Contents
+CUSTOMER SUCCESS
+For many of our offerings, we provide support through multiple channels including telephone, email, online and video chat, text messaging, our customer support websites, self-help assets embedded in our products, and online communities where consumers can share knowledge and product advice with each other.
+We also provide access to experts, through our TurboTax and QuickBooks Live offerings, who provide tax advice, tax preparation, and bookkeeping services.
+Our customer success staff predominantly consists of Intuit-employed and outsourced experts. We supplement with seasonal employees and additional outsourcing during periods of peak call volumes, such as during the tax return filing season or following a major product launch. We augment the services we provide with outsourced partnerships domestically and internationally. A majority of our outsourced customer success personnel are based domestically, with additional international teams located primarily in the Philippines and Canada.
+We also source staff through our Prosperity Hub program, which is designed to spark economic prosperity in underserved communities. One part of this program is our socially responsible sourcing model, where we both directly and through customer success partner-employers, hire, train, and retain workers who deliver support and services for our customers.
+Self-help information is offered for free in-product and on our support websites for many of our offerings. Support alternatives and fees vary by product. For example, some product subscriptions receive 24/7 support and additional contact channel options.
+MANUFACTURING AND DISTRIBUTION
+Online Products and Services
+Our online offerings include QuickBooks Online, Intuit Enterprise Suite, online payroll services, merchant payment processing and bill pay services, Mailchimp’s marketing automation and customer relationship offerings, TurboTax Online, ProConnect Tax Online, consumer and professional electronic tax filing services, and Credit Karma offerings. We use public cloud providers, such as Amazon Web Services and Google Cloud Platform, for most of our systems, networks, and databases used to operate these online offerings.
+Desktop Software and Supplies
+Our desktop software customers generally electronically download software as demand for physical packaged products has declined. When supplies are ordered, we typically ship the physical product within a few days of receiving an order, and backlog is minimal.
+PRIVACY AND SECURITY
+We host, collect, process, use, and retain large amounts of sensitive and personal data from our customers, users, workforce, and third-party partners. We are stewards of this data and have designed data stewardship principles to align our organization in collecting, using, and protecting such information. As we believe strongly in these principles, we operate our program to comply with laws and regulations that govern our use, sharing, and protection of personal information, including, for example, laws related to financial services and the handling of tax data. We have established guidelines and practices to help ensure members of our workforce are aware of our program and the role they play in protecting this data. Our privacy statements provide notice of our privacy practices, and provide the opportunity for impacted parties to exercise their rights with respect to their personal information. We participate in industry groups whose purpose is to develop or shape industry best practices, and to inform public policy for privacy and security.
+We use security safeguards to help protect the systems and the information that is given to us from loss, misuse, and unauthorized alteration. We use technical and procedural measures designed to help detect and prevent fraud and misuse of data. Whenever sensitive information, such as credit card information or tax return data, is transmitted to us through one of our websites or products, we follow current industry standards to encrypt the data as it is transmitted to us, and when we store it at rest. We routinely patch our systems with security updates and work to protect our systems from unauthorized internal or external access using numerous commercially available computer security products, as well as internally developed technology, security procedures, and practices.
+GOVERNMENT REGULATION
+We are subject to federal, state, local, and international laws and regulations that add compliance costs, affect how we operate, and may impact our ability to compete. For example,

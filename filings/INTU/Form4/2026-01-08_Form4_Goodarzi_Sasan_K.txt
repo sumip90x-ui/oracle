@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-08
+Transaction Date: 2026-01-07
+Person: Goodarzi Sasan K — CEO, President and Director
+Type: SELL
+Shares: 41000 at $650.0957
+Shares After: 13611.428
+=== TICKER: INTU ===
+===

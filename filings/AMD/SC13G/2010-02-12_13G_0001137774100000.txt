@@ -1,0 +1,390 @@
+=== FILING DATE: 2010-02-12 ===
+=== PERIOD COVERED: 2010-02-12 ===
+=== SOURCE: SC13G filed 2010-02-12 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: AMD ===
+
+
+
+SC 13G
+
+1
+
+adva.htm
+
+
+13G HTML File
+
+
+DOCUMENT TYPE             SC 13G
+
+TEXT
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington,  D.C.    20549
+
+
+SCHEDULE 13G
+
+Under the Securities Exchange Act of 1934
+
+
+Name of Issuer:       ADVANCED MICRO DEVICES INC
+
+_____________________________________________________
+
+
+Title of Class
+
+of Securities:  Common Stock
+
+
+CUSIP Number:    007903107
+
+
+1)  NAME AND I.R.S. IDENTIFICATION NO. OF REPORTING PERSON
+
+
+	Prudential Financial, Inc.	    22-3703799
+
+
+2.) MEMBER OF A GROUP: 	(a)  N/A
+
+					(b)  N/A
+
+
+3)  SEC USE ONLY:
+
+
+4)  PLACE OF ORGANIZATION:	New Jersey
+
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY REPORTING PERSON WITH:
+
+
+5)  Sole Voting Power:		4,068,759			See
+Exhibit A
+
+6)  Shared Voting Power:	14,143,001		See Exhibit A
+
+7)  Sole Dispositive Power:	4,068,759		See Exhibit A
+
+8)  Shared Dispositive Power:	30,853,579		See Exhibit
+A
+
+
+9)  AGGREGATE AMOUNT BENEFICIALLY OWNED:
+
+			34,922,338	See Exhibit A
+
+
+10)  AGGREGATE AMOUNT IN ROW (9) EXCLUDES SHARES:	Not Applicable
+
+
+11) PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9):
+
+			5.2 See Exhibit A
+
+
+12) TYPE OF REPORTING PERSON:  HC
+
+
+ITEM 1(a).  NAME OF ISSUER:
+
+
+                      ADVANCED MICRO DEVICES INC
+
+
+ITEM 1(b).  ADDRESS OF ISSUER'S EXECUTIVE OFFICES:
+
+
+                      ADVANCED MICRO DEVICES INC
+One AMD Place
+PO Box 3453
+Sunnyvale, CA  94088
+
+
+ITEM 2(a).  NAME OF PERSON FILING:
+
+
+		 Prudential Financial, Inc.
+
+
+ITEM 2(b).  ADDRESS OF PRINCIPAL BUSINESS OFFICE:
+
+
+			751 Broad Street
+
+			Newark, New Jersey  07102-3777
+
+
+ITEM 2(c).  CITIZENSHIP:
+
+
+			New Jersey
+
+
+ITEM 2(d).  TITLE OF CLASS OF SECURITIES:
+
+
+			Common Stock
+
+
+ITEM 2(e).  CUSIP NUMBER:
+
+
+			007903107
+
+
+ITEM 3.		The Person filing this statement is a Parent Holding
+Company as
+
+                defined in Section 240.13d-1(b)(1)(ii)(G) of the Securities
+Exchange
+
+                Act of 1934.
+
+
+ITEM 4.  OWNERSHIP:
+
+
+		(a) Number of Shares
+
+		      Beneficially Owned:		34,922,338  See
+Exhibit A
+
+
+		(b) Percent of Class:		5.2
+
+
+(c) Powers                No. Of Shares
+
+   -----------           --------------------
+
+Sole power to vote or    4,068,759  See Exhibit A
+to direct the vote
+
+Shared power to vote or   14,143,001  See Exhibit A
+to direct the vote
+
+Sole power to dispose or  4,068,759 See Exhibit A
+to direct disposition
+
+Shared power to dispose   30,853,579  See Exhibit A
+or to direct disposition
+
+
+ITEM 5.  OWNERSHIP OF 5% OR LESS OF A CLASS:
+
+
+		Not Applicable
+
+
+ITEM 6.  OWNERSHIP OF MORE THAN 5% ON BEHALF OF
+
+	 ANOTHER PERSON:
+
+
+		See Exhibit A
+
+
+ITEM 7.	IDENTIFICATION AND CLASSIFICATION OF THE
+
+	SUBSIDIARY WHICH ACQUIRED THE SECURITY BEING
+
+	REPORTED ON BY THE ULTIMATE PARENT COMPANY:
+
+
+		See Exhibit A
+
+
+ITEM 8.  IDENTIFICATION AND CLASSIFICATION OF
+
+	 MEMBERS OF THE GROUP:
+
+
+		Not Applicable
+
+
+ITEM 9.  NOTICE OF DISSOLUTION OF GROUP:
+
+
+		Not Applicable
+
+
+ITEM 10.  CERTIFICATION:
+
+
+By signing below, Prudential Financial, Inc. certifies that, to the best of
+its
+
+knowledge and belief, the securities referred to above were acquired
+
+and are held in the ordinary course of business and were not acquired
+
+and are not held for the purpose of or with the effect of changing or
+
+influencing the control of the issuer of the securities and were not
+acquired
+
+and are not held in connection with or as a participant in any transaction
+
+having that purpose or effect.
+
+
+The filing of this statement should not be construed as an admission that
+
+Prudential Financial, Inc. is, for purposes of Sections 13 or 16 of the
+Securities
+
+Exchange Act of 1934, the beneficial owner of such shares.
+
+				SIGNATURE
+
+
+	After reasonable inquiry and to the best of its knowledge and
+belief,
+
+Prudential Financial, Inc. certifies that the information set forth in this
+
+statement is true, complete and correct.
+
+
+PRUDENTIAL FINANCIAL, INC.
+
+
+	By:	Richard Baker
+
+		Second Vice President
+
+
+	Date:	02/12/2010
+
+	As of:	12/31/2009
+
+
+				Exhibit A
+
+				--------------
+
+
+ITEM 6.	 OWNERSHIP:
+
+
+Prudential Financial, Inc. may be deemed the beneficial owner of securities
+beneficially owned by the Item 7 listed entities and may have direct or
+indirect voting and/or investment discretion over 34,922,338 shares which are
+held for it's own benefit or for the benefit of its clients by its separate
+accounts, externally managed accounts, registered investment companies,
+subsidiaries and/or other affiliates.  Prudential Financial, Inc.  is reporting
+the combined holdings of these entities for the purpose of administrative
+convenience.
+
+These shares were acquired in the ordinary course of business, and not with the
+purpose or effect of changing or influencing control of the Issuer.  The filing
+of this statement should not be construed as an admission that Prudential
+Financial, Inc. is, for the purposes of Sections 13 or 16 of the Securities
+Exchange Act of 1934, the beneficial owner of these shares.
+
+
+ITEM 7.		IDENTIFICATION/CLASSIFICATION:
+
+
+Prudential Financial, Inc. is a Parent Holding Company and the direct or
+indirect parent of the following Registered Investment Advisers and Broker
+Dealers:
+
+
+ The Prudential Insurance Company of America
+
+
+ IC,IA
+
+
+  Prudential Investment Management, Inc.
+
+
+ IA
+
+
+ Jennison Associates LLC
+
+
+ IA
+
+
+  Prudential Bache Asset Management, Inc.
+
+
+ IA
+
+
+ Prudential Investments LLC
+
+
+ IA
+
+
+  Prudential Private Placement Investors, L.P.
+
+
+ IA,PN
+
+
+ Pruco Securities, LLC
+
+
+ IA,BD
+
+
+  Prudential Investment Management Services LLC
+
+
+ BD
+
+
+ AST Investment Services, Inc.
+
+
+ IA
+
+
+  Prudential Annuities Distributors, Inc.
+
+
+ BD
+
+
+ Quantitative Management Associates LLC
+
+
+ IA
+
+
+  Prudential International Investments Advisers, LLC
+
+
+ IA
+
+
+ Global Portfolio Strategies, Inc.
+
+
+ IA
+
+
+  Prudential Bache Securities, LLC
+
+
+ BD
+
+
+ Prudential Bache Commodities, LLC
+
+
+ BD
+
+

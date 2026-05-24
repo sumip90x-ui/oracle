@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-12
+Transaction Date: 2025-08-08
+Person: O'BRIEN DEIRDRE — Senior Vice President
+Type: SELL
+Shares: 34821 at $223.20
+Shares After: 136687
+=== TICKER: AAPL ===
+===

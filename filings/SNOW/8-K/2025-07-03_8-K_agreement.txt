@@ -1,0 +1,179 @@
+=== FILING DATE: 2025-07-03 ===
+=== PERIOD COVERED: 2025-07-02 ===
+=== SOURCE: 8-K filed 2025-07-03 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: SNOW ===
+
+
+
+snow-20250702
+0001640147
+--01-31
+false
+0001640147
+2025-07-02
+2025-07-02
+0001640147
+dei:FormerAddressMember
+2025-07-02
+2025-07-02
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+July 2, 2025
+SNOWFLAKE INC.
+
+(Exact name of registrant as specified in its charter)
+Delaware
+001-39504
+46-0636374
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(IRS Employer Identification No.)
+Suite 3A, 106 East Babcock Street
+59715
+Bozeman,
+Montana
+(Address of Principal Executive Offices)
+1
+(Zip Code)
+(
+844
+)
+766-9355
+
+(Registrant's telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.0001 par value
+SNOW
+The New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+1
+The Company is a Delaware corporation with a globally distributed workforce and no corporate headquarters. Under the Securities and Exchange Commission's rules, the Company is required to designate a “principal executive office.” For purposes of this report, it has designated its office in Bozeman, Montana as its principal executive office.
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+On July 2, 2025, Snowflake Inc. (the “
+Company
+”) held its 2025 Annual Meeting of Stockholders (the “
+Annual Meeting
+”) virtually via live webcast. At the Annual Meeting, the Company’s stockholders approved an amendment to the Company’s Amended and Restated Certificate of Incorporation, as amended (the “
+Certificate of Incorporation
+”), to eliminate the Company’s Class B common stock, par value $0.0001 per share (the “
+Class B Common Stock
+”), and all references thereto, rename the Company’s Class A common stock, par value $0.0001 per share (the “
+Class A Common Stock
+”), to “Common Stock,” and make other conforming changes with respect to the same, as described in more detail in
+Proposal 5
+ in the Company’s Definitive Proxy Statement on Schedule 14A filed with the U.S. Securities and Exchange Commission on May 21, 2025 (collectively, the “
+Amendment
+”), which description is incorporated herein by reference.
+On July 3, 2025, the Company filed an Amended and Restated Certificate of Incorporation (as so amended and restated, the “
+Amended Certificate
+”) with the Secretary of State of the State of Delaware to effect the Amendment, which became effective immediately upon such filing.
+The foregoing summary of the Amended Certificate does not purport to be complete and is qualified in its entirety by reference to the full text of the Amended Certificate, which is attached as Exhibit 3.1 to this Current Report on Form 8-K and incorporated herein by reference.
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+As of the close of business on May 8, 2025, the record date for the Annual Meeting, there were 333,657,993 shares of Class A Common Stock and 0 shares of Class B Common Stock entitled to vote at the meeting. The following proposals were voted upon at the Annual Meeting, and the final voting results with respect to each such proposal are set forth below.
+Proposal 1 — Election of Directors
+. The Company’s stockholders elected the following Class II director nominees to serve until the Company’s Annual Meeting of Stockholders in 2028 and until his or her successor is duly elected and qualified, or until his or her earlier death, resignation, or removal. The results of such vote were:
+Nominee
+For
+Withheld
+Broker Non-Votes
+Kelly A. Kramer
+197,220,638
+13,598,569
+67,912,281
+Frank Slootman
+195,440,712
+15,378,495
+67,912,281
+Michael L. Speiser
+124,965,054
+85,854,153
+67,912,281
+Proposal 2 — Non-binding Advisory Vote to Approve the Compensation of the Company’s Named Executive Officers
+. The Company’s stockholders did not approve, on a non-binding advisory basis, the compensation of the Company’s named executive officers. The results of such vote were:
+For
+Against
+Abstain
+Broker Non-Votes
+63,012,394
+145,942,393
+1,864,420
+67,912,281
+Proposal 3 — Ratification of Independent Registered Public Accounting Firm
+. The Company’s stockholders ratified the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for the fiscal year ending January 31, 2026. The results of such vote were:
+For
+Against
+Abstain
+Broker Non-Votes
+277,770,124
+547,091
+414,273
+—
+Proposal 4 — Amendment to the Certificate of Incorporation to Declassify the Board of Directors
+. The Company’s stockholders did not approve an amendment to the Certificate of Incorporation to declassify the Company’s Board of Directors. The results of such vote were:
+For
+Against
+Abstain
+Broker Non-Votes
+209,013,663
+553,255
+1,252,289
+67,912,281
+Proposal 5 — Amendment to the Certificate of Incorporation to Remove Class B Common Stock and Rename Class A Common Stock
+. The Company’s stockholders approved an amendment to the Certificate of Incorporation to remove references to Class B Common Stock and rename Class A Common Stock to “Common Stock.” The results of such vote were:
+For
+Against
+Abstain
+Broker Non-Votes
+209,462,453
+155,411
+1,201,343
+67,912,281
+No other matters were submitted for stockholder action at the Annual Meeting.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+3.1
+Amended and Restated Certificate of Incorporation of Snowflake Inc.
+104
+Cover Page Interactive Data File – the cover page XBRL tags are embedded within the Inline XBRL document.
+SIGNATURES
+            Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Snowflake Inc.
+Date: July 3, 2025
+By:
+/s/ Michael P. Scarpelli
+Michael P. Scarpelli
+Chief Financial Officer
+

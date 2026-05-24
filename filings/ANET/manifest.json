@@ -1,0 +1,866 @@
+{
+  "ticker": "ANET",
+  "company_name": "Arista Networks, Inc.",
+  "cik": "0001596532",
+  "sic": "3576",
+  "industry": "Computer Communications Equipment",
+  "fiscal_year_end": "1231",
+  "last_checked": "2026-05-16T23:09:48.516440",
+  "newest_filing_date": "2026-05-06",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-05",
+      "oldest_included": "2025-06-03",
+      "count": 7,
+      "files": [
+        {
+          "filing_date": "2026-05-05",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/ANET/8-K/2026-05-05_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/ANET/8-K/2026-05-05_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/ANET/8-K/2026-02-12_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/ANET/8-K/2026-02-12_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/ANET/8-K/2025-11-04_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/ANET/8-K/2025-11-04_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-09-08",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/ANET/8-K/2025-09-08_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/ANET/8-K/2025-08-05_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/ANET/8-K/2025-08-05_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-06-16",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/ANET/8-K/2025-06-16_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/ANET/8-K/2025-06-03_8-K_agreement.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-05",
+      "count": 110,
+      "transactions": [
+        {
+          "filing_date": "2026-05-05",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "173.3876"
+        },
+        {
+          "filing_date": "2026-04-24",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "428000",
+          "price": "177.2759"
+        },
+        {
+          "filing_date": "2026-04-23",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "93861",
+          "price": "167.6403"
+        },
+        {
+          "filing_date": "2026-04-22",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "306139",
+          "price": "167.312"
+        },
+        {
+          "filing_date": "2026-04-21",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "122000",
+          "price": "15.2625"
+        },
+        {
+          "filing_date": "2026-04-20",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "350000",
+          "price": "159.2037"
+        },
+        {
+          "filing_date": "2026-04-17",
+          "person": "Wassenaar Yvonne",
+          "type": "SELL",
+          "shares": "1395",
+          "price": "151.0697"
+        },
+        {
+          "filing_date": "2026-04-16",
+          "person": "Breithaupt Chantelle Yvette",
+          "type": "SELL",
+          "shares": "8890",
+          "price": "155.0241"
+        },
+        {
+          "filing_date": "2026-04-15",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "112812",
+          "price": "150.1141"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "125.3808"
+        },
+        {
+          "filing_date": "2026-03-19",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "122000",
+          "price": "15.2625"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Wassenaar Yvonne",
+          "type": "SELL",
+          "shares": "1395",
+          "price": "132.6904"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "223256",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "127.9014"
+        },
+        {
+          "filing_date": "2026-02-27",
+          "person": "Wassenaar Yvonne",
+          "type": "SELL",
+          "shares": "1815",
+          "price": "129.407"
+        },
+        {
+          "filing_date": "2026-02-25",
+          "person": "Battles Kelly Bodnar",
+          "type": "SELL",
+          "shares": "422",
+          "price": "126.8497"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Wassenaar Yvonne",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "TEMPLETON MARK B",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Scheinman Daniel",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Lavender Robert G",
+          "type": "OTHER",
+          "shares": "1616",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Giancarlo Charles H",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "CHEW LEWIS",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Battles Kelly Bodnar",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Ullal Jayshree",
+          "type": "OTHER",
+          "shares": "601480",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Nightingale Todd",
+          "type": "OTHER",
+          "shares": "35312",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "351531",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Breithaupt Chantelle Yvette",
+          "type": "OTHER",
+          "shares": "135637",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-19",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "122000",
+          "price": "15.2625"
+        },
+        {
+          "filing_date": "2026-02-17",
+          "person": "Breithaupt Chantelle Yvette",
+          "type": "BUY",
+          "shares": "19170",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2026-02-04",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "138.9082"
+        },
+        {
+          "filing_date": "2026-01-22",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "116000",
+          "price": "3.515"
+        },
+        {
+          "filing_date": "2026-01-06",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "132.9695"
+        },
+        {
+          "filing_date": "2025-12-19",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "116000",
+          "price": "3.515"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "300000",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-12-03",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "126.928"
+        },
+        {
+          "filing_date": "2025-11-28",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "24042",
+          "price": "123.198"
+        },
+        {
+          "filing_date": "2025-11-28",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "316296",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-25",
+          "person": "Battles Kelly Bodnar",
+          "type": "SELL",
+          "shares": "422",
+          "price": "115.3"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "Ullal Jayshree",
+          "type": "OTHER",
+          "shares": "120738",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "88556",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "Breithaupt Chantelle Yvette",
+          "type": "OTHER",
+          "shares": "27289",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "Wassenaar Yvonne",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "TEMPLETON MARK B",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "Scheinman Daniel",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "Lavender Robert G",
+          "type": "OTHER",
+          "shares": "1614",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "Giancarlo Charles H",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "CHEW LEWIS",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "person": "Battles Kelly Bodnar",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-19",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "116000",
+          "price": "3.515"
+        },
+        {
+          "filing_date": "2025-11-18",
+          "person": "Ullal Jayshree",
+          "type": "OTHER",
+          "shares": "935000",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-11-05",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "156.3252"
+        },
+        {
+          "filing_date": "2025-10-21",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "116000",
+          "price": "3.515"
+        },
+        {
+          "filing_date": "2025-10-03",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "144.3372"
+        },
+        {
+          "filing_date": "2025-09-23",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "58000",
+          "price": "147.3363"
+        },
+        {
+          "filing_date": "2025-09-19",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "116000",
+          "price": "3.515"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "1247688",
+          "price": "145.2161"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "56548",
+          "price": "143.5038"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "300000",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-09-09",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "438764",
+          "price": "143.2081"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "251860",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-27",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "24040",
+          "price": "131.0369"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Ullal Jayshree",
+          "type": "OTHER",
+          "shares": "120728",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "38970",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Breithaupt Chantelle Yvette",
+          "type": "OTHER",
+          "shares": "27295",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Wassenaar Yvonne",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "TEMPLETON MARK B",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Scheinman Daniel",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Lavender Robert G",
+          "type": "OTHER",
+          "shares": "1616",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Giancarlo Charles H",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "CHEW LEWIS",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Battles Kelly Bodnar",
+          "type": "OTHER",
+          "shares": "1942",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "person": "Wassenaar Yvonne",
+          "type": "OTHER",
+          "shares": "1000",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-08-20",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "116000",
+          "price": "3.515"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "192979",
+          "price": "139.6707"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "345856",
+          "price": "139.7422"
+        },
+        {
+          "filing_date": "2025-08-08",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "1785165",
+          "price": "134.6988"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "116.0858"
+        },
+        {
+          "filing_date": "2025-08-04",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "880180",
+          "price": "122.6014"
+        },
+        {
+          "filing_date": "2025-08-01",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "288820",
+          "price": "122.1878"
+        },
+        {
+          "filing_date": "2025-07-31",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "588000",
+          "price": "119.0589"
+        },
+        {
+          "filing_date": "2025-07-30",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "527302",
+          "price": "115.5839"
+        },
+        {
+          "filing_date": "2025-07-29",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "60698",
+          "price": "115.0209"
+        },
+        {
+          "filing_date": "2025-07-29",
+          "person": "Battles Kelly Bodnar",
+          "type": "SELL",
+          "shares": "864",
+          "price": "114.4016"
+        },
+        {
+          "filing_date": "2025-07-21",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "116000",
+          "price": "3.515"
+        },
+        {
+          "filing_date": "2025-07-15",
+          "person": "Nightingale Todd",
+          "type": "BUY",
+          "shares": "466060",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "98.1965"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "841912",
+          "price": "102.4047"
+        },
+        {
+          "filing_date": "2025-07-01",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "2016",
+          "price": "101.9921"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "Ullal Jayshree",
+          "type": "SELL",
+          "shares": "117782",
+          "price": "102.0324"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "116000",
+          "price": "3.515"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Giancarlo Charles H",
+          "type": "OTHER",
+          "shares": "100000",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "600000",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "Giancarlo Charles H",
+          "type": "SELL",
+          "shares": "8000",
+          "price": "86.9208"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Wassenaar Yvonne",
+          "type": "BUY",
+          "shares": "3884",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "TEMPLETON MARK B",
+          "type": "BUY",
+          "shares": "3884",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Scheinman Daniel",
+          "type": "BUY",
+          "shares": "3884",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Giancarlo Charles H",
+          "type": "BUY",
+          "shares": "3884",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "CHEW LEWIS",
+          "type": "BUY",
+          "shares": "3884",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Battles Kelly Bodnar",
+          "type": "BUY",
+          "shares": "3884",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Wassenaar Yvonne",
+          "type": "SELL",
+          "shares": "168",
+          "price": "92.6771"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Scheinman Daniel",
+          "type": "OTHER",
+          "shares": "1688",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Wassenaar Yvonne",
+          "type": "OTHER",
+          "shares": "1688",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Ullal Jayshree",
+          "type": "OTHER",
+          "shares": "120738",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "TEMPLETON MARK B",
+          "type": "OTHER",
+          "shares": "1688",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Lavender Robert G",
+          "type": "OTHER",
+          "shares": "1620",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Giancarlo Charles H",
+          "type": "OTHER",
+          "shares": "1688",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Duda Kenneth",
+          "type": "OTHER",
+          "shares": "38970",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "CHEW LEWIS",
+          "type": "OTHER",
+          "shares": "1688",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Breithaupt Chantelle Yvette",
+          "type": "OTHER",
+          "shares": "27310",
+          "price": "0.0"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Battles Kelly Bodnar",
+          "type": "OTHER",
+          "shares": "1688",
+          "price": "0.0"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-05-06",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q1FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/ANET/10-Q/2026-05-06_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/ANET/10-Q/2025-11-05_10-Q_Q1FY2025.txt",
+        "/home/sumith/ORACLE/filings/ANET/10-Q/2025-08-06_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-06-30"
+    },
+    "10-K": {
+      "newest_filing_date": "2026-02-17",
+      "period_covered": "2025-12-31",
+      "local_path": "/home/sumith/ORACLE/filings/ANET/10-K/2026-02-17_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2026-04-16",
+      "local_path": "/home/sumith/ORACLE/filings/ANET/DEF14A/2026-04-16_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/ANET/sections/2026-02-17_10-K_FY2025_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/ANET/sections/2026-05-06_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/ANET/sections/2026-02-17_10-K_FY2025_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/ANET/sections/2026-05-06_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/ANET/8-K/2026-05-05_8-K_earnings_ex991.txt"
+  },
+  "failed_downloads": []
+}

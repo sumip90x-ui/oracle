@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-18
+Transaction Date: 2025-08-15
+Person: Shriram Kavitark Ram — Insider
+Type: SELL
+Shares: 26000 at $205
+Shares After: 1974
+=== TICKER: GOOGL ===
+===

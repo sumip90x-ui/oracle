@@ -1,0 +1,86 @@
+=== FILING DATE: 2025-07-28 ===
+=== PERIOD COVERED: 2025-07-23 ===
+=== SOURCE: 8-K filed 2025-07-28 ===
+=== SECTION: 8-K Event — personnel ===
+=== TICKER: LXRX ===
+
+
+
+lxrx-20250723
+0001062822
+FALSE
+0001062822
+2025-07-23
+2025-07-23
+0001062822
+2024-11-22
+2024-11-22
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________
+FORM
+8-K
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+July 23, 2025
+Lexicon Pharmaceuticals, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+000-30111
+76-0474169
+(State or other jurisdiction of
+incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer
+Identification Number)
+2445 Technology Forest Blvd., 11th Floor
+
+The Woodlands
+,
+Texas
+
+77381
+(Address of principal executive offices and Zip Code)
+(
+281
+)
+863-3000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001
+LXRX
+The Nasdaq Global Select Market
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+☐
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 8.01
+       Other Events
+On July 23, 2025, we received a letter from the Listing Qualifications staff of The NASDAQ Stock Market LLC (“Nasdaq”) indicating that we have regained compliance with Nasdaq's minimum $1 bid price requirement for our common stock and that the matter relating to our previous failure to meet such requirement is now closed.
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Lexicon Pharmaceuticals, Inc.
+Date:   July 28, 2025
+By:
+/s/ Brian T. Crum
+Brian T. Crum
+Senior Vice
+
+President and General Counsel
+

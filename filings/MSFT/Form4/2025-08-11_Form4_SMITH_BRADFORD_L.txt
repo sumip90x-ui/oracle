@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-11
+Transaction Date: 2025-08-11
+Person: SMITH BRADFORD L — Vice Chair and President
+Type: OTHER
+Shares: 20000 at $0
+Shares After: 451060.9943
+=== TICKER: MSFT ===
+===

@@ -1,0 +1,209 @@
+=== FILING DATE: 2026-03-02 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-03-02 ===
+=== SECTION: Item 1 — Business ===
+=== TICKER: CELH ===
+
+Item 1
+.
+Business
+, and Note 14.
+Mezzanine Equity
+ to our Consolidated Financial Statements contained elsewhere in this Report.
+Key Drivers of our Financial Success and Market Presence
+ - Much of our financial success is dependent on our ability to market and connect with a diverse consumer base, including wellness-focused consumers, fitness enthusiasts and consumers looking for more functionality in their beverage consumption. We believe that our strategic marketing initiatives, aimed at different demographics and lifestyle segments, contribute to revenue growth and market share expansion. We continually adapt our marketing mix to align with changing consumer preferences, leveraging digital and social media channels for broader reach and engagement. Furthermore, we have designed our focus on product innovation to meet the evolving demands of health-conscious consumers, while maintaining appeal to a general consumer base seeking quality and convenience, thereby enhancing our competitive position and financial performance. Our approach is to create a brand experience that is both inclusive and appealing to a wide range of consumers, fostering loyalty and driving sustainable growth. We believe that our multifaceted approach is crucial for driving enduring revenue growth and maintaining a strong market presence in the energy drink industry.
+Our Business Risks
+Our management has identified certain material opportunities, challenges and risks applicable to our business.
+Brand Reputation and Consumer Trust Risks -
+Our success relies on maintaining a strong brand reputation and consumer trust. In the fast-paced consumer packaged goods industry, public perception can shift rapidly due to various factors, including product quality issues, negative publicity, social media trends and changing consumer preferences. A tarnished brand image, whether through real or perceived issues, can result in decreased customer loyalty, reduced sales and ultimately, a negative impact on our financial performance.
+To mitigate these risks, we have committed to maintaining high standards in product quality, engaging in responsible marketing practices and actively managing public relations. We continuously monitor consumer feedback and respond swiftly to any concerns. Our management team is equipped to handle potential public relations challenges proactively to safeguard our brand image. However, despite these efforts, there is always a risk of unforeseen events that could harm our brand reputation.
+Reliance on Key Partnership with Pepsi
+Our business operations and financial results are significantly influenced by our strategic partnership with Pepsi, which plays a central role in the distribution and commercialization of our products and also in generating a substantial portion of our sales and accounts receivable. While this partnership has been instrumental in expanding our market reach and accelerating revenue growth, it also presents concentration risk. See Note 2.
+ Basis of Presentation and Summary of Significant Accounting Policies
+ to our Consolidated Financial Statements included elsewhere in this Report.
+The substantial portion of our sales attributed to Pepsi underscores our reliance on their distribution network. Any disruption in Pepsi's operations, shifts in their strategic focus, reduction in service levels or support for our products or changes in the terms of our partnership could directly impact our sales performance and revenue streams. This reliance also extends to our accounts receivable, a significant portion of which is derived from Pepsi. Delays or defaults in these receivables could adversely affect our cash flow and financial planning. Although there is concentration risk with Pepsi as our partner, Pepsi is a large, well-capitalized public company operating across consumer goods and beverage markets, thereby mitigating some of the potential exposures that may be more pronounced when relying on smaller or less established partners. However, fluctuations in Pepsi's inventory management strategies, such as adjustments to inventories, have had and may continue to have the potential to reduce order volumes and materially impact our sales.
+32
+The expansion of our commercial relationship with Pepsi in the U.S. has resulted in increased integration with Pepsi’s distribution systems, sales execution and operational processes. As a result, our performance is increasingly dependent on effective coordination, alignment and execution with Pepsi. While we believe this relationship provides meaningful scale, efficiency and market access benefits, it also reduces our flexibility to rapidly transition to alternative distribution arrangements and increases our exposure to changes in Pepsi’s operational or strategic decisions.
+We recognize the critical importance of Pepsi to our current business model, and management continually evaluates this relationship. So long as the relationship continues to align with our long-term growth strategies, we expect to continue to foster the partnership.
+Market Competition Risks
+The energy drink industry is characterized by intense competition, involving a diverse array of competitors with varying market strategies and product offerings. This includes well-established companies with strong brand recognition, as well as emerging competitors that may introduce innovative approaches or specialized products. The entry of new or strengthening competitors who employ aggressive pricing strategies can significantly impact our market share and profitability. Additionally, continuing shifts in consumer preferences towards healthier alternatives or different beverage categories could intensify competition as new entrants expand into our categories.
+To address these challenges, we continuously innovate our product line, leveraging consumer insights through various channels, including customer feedback and social media trends, to ensure an understanding of our market and refine our marketing strategies. We also monitor the competitive landscape to anticipate and react to changes in competitor strategies, as the dynamic nature of our market means that we must constantly adapt to maintain our competitive edge. Changes in the competitive landscape could materially impact our results of operations and market position.
+Market Expansion Risks
+Part of our strategic growth plan includes expanding into new geographic markets. This is key to increasing our worldwide market share and driving revenue growth. However, it also introduces inherent risks that could adversely impact our business operations and financial health. Successfully entering and thriving in new markets is contingent upon our understanding and adaptation to local consumer preferences, which may vary significantly from those in our current markets. A failure to accurately gauge these preferences could result in reduced product acceptance and lower sales in these regions.
+Moreover, each new market, including internationally, presents unique regulatory challenges. Navigating varying regulatory landscapes and ensuring compliance is crucial. Non-compliance or changes in regulatory frameworks could lead to legal ramifications, increased operational costs and potential delays in market entry.
+Furthermore, as we expand into new territories, we encounter competition not only from well-established local brands but also from other global entities. This heightened competition can affect our market positioning, influence our pricing strategies and ultimately impact our profitability in these new markets.
+To mitigate these risks, we engage in market analysis to gain insights into local consumer trends and preferences. Collaborating closely with regulatory consultants, we aim to ensure full compliance with all regional legal and regulatory requirements. Additionally, we formulate and implement competitive strategies tailored to effectively contend with local and global competitors in these new markets.
+Impact of Tariffs and Macroeconomic Trends
+The imposition of tariffs including U.S. tariffs imposed or threatened to be imposed on other countries and any tariffs imposed by such countries have impacted and could continue to impact our supply chain, including the cost of certain raw materials and packaging, including aluminum. In addition, any supply chain constraints, inflationary impacts or reduced consumer demand for our products as a result of such tariffs or ongoing macroeconomic uncertainty could impact our results. The rapidly changing nature of global trade policies and tariff regulations introduces uncertainty, making it difficult to reasonably estimate potential future impacts from such policies and regulations.
+33
+Comparability with Prior Year
+Our financial condition as of December 31, 2025 reflected significant changes compared to the year ended December 31, 2024, primarily driven by the Alani Nu Acquisition and the transactions entered into on the Closing Date of the Pepsi Transactions. As a result of the A&R Distribution Agreements, primarily due to the transition of Alani Nu distribution to Pepsi, we recognized significant costs related to the termination of those distributors in 2025 in our Consolidated Financial Statements.
+Collectively, these events materially increased total assets and liabilities and significantly changed the composition of the balance sheet, including higher balances related to intangible assets, deferred other costs, deferred revenue, acquisition-related liabilities, accrued termination fees and working capital assets. Refer to
+Liquidity and Capital Resources
+below for a discussion of changes in cash and cash equivalents and debt.
+Total assets increased to approximately $5,119.6 million at December 31, 2025 from $1,766.9 million at December 31, 2024, primarily as a result of the Alani Nu Acquisition and the Rockstar Acquisition. These transactions resulted in the recognition of material goodwill and identifiable intangible assets primarily related to brands which was recorded at the estimated fair value as of each respective acquisition dates. As of December 31, 2025, goodwill totaled approximately $917.6 million, compared to $71.6 million at December 31, 2024, and net intangible assets totaled approximately $1,391.9 million compared to $12.2 million at December 31, 2024. In addition, in connection with the Alani Nu Acquisition, the Company recorded contingent consideration of $25.0 million as of December 31, 2025, reflecting the achievement of the agreed-upon revenue earnout targets for calendar year 2025. The contingent consideration is classified as a current liability and is expected to be paid in the first quarter of 2026.
+Pepsi Transactions and A&R Distribution Agreements
+These arrangements resulted in several significant balance sheet impacts (comparisons are to the year ended December 31, 2024):
+•
+Restricted cash increased by $141.1 million at December 31, 2025, primarily reflecting the $210.8 million cash received from Pepsi related to reimbursements for distributor termination fees offset by $69.6 million in termination fee payments made as of December 31, 2025;
+•
+Prepaid expenses and other current assets increased by $110.0 million, primarily driven by $64.2 million in expected cash remaining to be received from Pepsi related to distributor termination fees, subject to contractual caps, and a $21.7 million prepaid income tax balance due to increased inventory activity following the Alani Nu Acquisition;
+•
+Deferred other costs (current and non-current) increased by $572.5 million, primarily reflecting the implicit upfront payment of $598.8 million recorded for the Captaincy, partially offset by subsequent amortization. Deferred other costs are amortized as a reduction of revenue over the approximate 17-year term of the A&R U.S. Distribution Agreement;
+•
+Deferred revenue (current and non-current) increased by $260.9 million primarily related to the reimbursements for distributor termination fees recorded in connection with the A&R Distribution Agreements, partially offset by subsequent amortization. Deferred revenue is amortized over the approximate 17-year term of the A&R U.S. Distribution Agreement;
+•
+Accrued distributor termination fees increased by $264.1 million, primarily attributable to the estimated amounts expected to be paid to former distributors for the transition of Alani Nu distribution to Pepsi, partially offset by payments made as of December 31, 2025; and
+•
+Mezzanine equity increased by $935.5 million as a result of the issuance of Series B Preferred Stock and the modification of Series A Preferred Stock to, in part, form the overall consideration exchanged in connection with the Pepsi Transactions which included the Rockstar Acquisition and the implicit upfront payment to Pepsi.
+34
+Results of Operations
+Year ended December 31, 2025 compared to year ended December 31, 2024
+Revenue
+For the year ended December 31, 2025, revenue was approximately $2,515.3 million, an increase of $1,159.6 million or 85.5%, from $1,355.6 million for the year ended December 31, 2024.
+For the year ended December 31, 2025, revenue in North America increased by $1,141.6 million, or 89.1%, compared to the year ended December 31, 2024.
+
+The increase was driven primarily by the Alani Nu Acquisition, which contributed approximately $1,001.9 million. This contribution included initial inventory purchases by Pepsi in connection with the transition to its distribution network. Approximately $55.6 million of the increase was attributable to the Rockstar Acquisition, with the remainder reflecting higher revenue for the Celsius brand driven by expanded distribution, new product innovation and broader brand awareness.
+European revenues for the year ended December 31, 2025 were approximately $72.5 million, representing an increase of $10.8 million, or 17.6%, from the year ended December 31, 2024. Asia-Pacific revenues generated approximately $13.0 million for the year ended December 31, 2025, with other international markets contributing an additional $7.3 million in revenue for the same period. The international markets continued to expand during the year, driven by new market launches and continued investment in distribution, marketing and strategic partnerships to support long-term growth.
+The following table sets forth the amount of revenue by geographical location:
+For the years ended December 31,
+2025
+2024
+ Change
+North America
+$
+2,422,490 
+$
+1,280,894 
+89.1 
+%
+Europe
+72,544 
+61,696 
+17.6 
+%
+Asia-Pacific
+12,971 
+5,658 
+129.3 
+%
+Other
+7,264 
+7,382 
+(1.6)
+%
+Revenue
+$
+2,515,269
+ 
+$
+1,355,630
+ 
+85.5 
+%
+Gross Profit
+For the year ended December 31, 2025, gross profit increased by $587.1 million to $1,267.3 million, an increase of 86.3%, from $680.2 million for the year ended December 31, 2024. Gross profit margin increased to 50.4% for the year ended December 31, 2025 from 50.2% for the year ended December 31, 2024. For the year ended December 31, 2025, gross profit margin reflected a balanced mix of factors, including comparatively lower margin contributions from Alani Nu and Rockstar, offset by product and pack mix, as well as ongoing improvements made to cost of goods sold.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses for the year ended December 31, 2025 were $798.8 million, an increase of $274.3 million, or 52.3%, from $524.5 million for the year ended December 31, 2024. The change in selling, general and administrative expenses included:
+An increase of $73.7 million in general and administrative expenses. This increase was primarily due to:
+•
+$53.4 million attributable to Alani Nu, primarily related to administrative employee costs, amortization of intangible assets and other general administrative expenses;
+•
+$44.9 million in acquisition and integration-related costs, primarily consisting of legal and professional service fees incurred in connection with the Alani Nu Acquisition and the Rockstar Acquisition and the integration of those businesses into our operations;
+•
+$13.8 million due to the remeasurement of contingent consideration related to the Alani Nu Acquisition, reflecting stronger-than-expected revenue performance; and
+•
+$7.6 million in other general administrative costs, including legal, consulting, professional service expenses and administrative employee costs; partially offset by
+•
+$46.0 million from a net decrease related to an ongoing legal matter, reflecting the initial recognition of a loss contingency in the prior year when it became probable, compared to continued accrual of interest and legal fees in the current year.
+35
+An increase of $200.6 million in marketing and selling expenses. This increase was primarily due to:
+•
+$76.6 million in marketing expense, reflecting this year's execution of the "Live. Fit. Go." campaign, which launched early in 2025 and has remained our largest marketing initiative to date;
+•
+$65.0 million attributable to Alani Nu, primarily related to sales and marketing employee costs, marketing investments to support brand growth and storage and distribution expenses associated with the brand’s commercial expansion;
+•
+$29.1 million in employee-related costs, primarily reflecting the expansion of our workforce through continued investment in sales and marketing personnel to support our strategic growth initiatives; and
+•
+$29.9 million in other selling expenses, including storage costs, market analytics and customer support.
+Distributor Termination Fees
+We incurred termination fees of $327.5 million for the year ended December 31, 2025 due to the termination of certain former Alani Nu distributors. There were no such expenses in 2024.
+Other (Expense) Income, Net
+Total other expense, net was $16.0 million for the year ended December 31, 2025, compared to other income, net of $39.3 million for the year ended December 31, 2024, reflecting a net expense increase of $55.3 million.
+The changes in other (expense) income included:
+•
+$49.0 million increase in interest expense related to our outstanding debt, whereas no such debt existed in the prior-year;
+•
+$18.2 million decrease in interest income compared to the prior period, primarily as a result of lower average cash balances as we utilized our cash reserves for strategic investments and share repurchase activities;
+•
+$12.6 million increase in other income recognized in connection with sales of Rockstar products under a transition services agreement entered into with Pepsi, for which we acted as an agent following the closing of the Pepsi Transactions; and
+•
+$0.7 million increase in other expense, net, driven by, among other items, expenses related to the current-year debt extinguishment and foreign currency gains.
+Net Income Attributable to Common Stockholders
+Net income attributed to common stockholders for the year ended December 31, 2025 was $63.8 million, representing basic EPS of $0.25 based on a basic weighted average of 252.3 million shares outstanding. In comparison, for the year ended December 31, 2024 our net income attributed to common stockholders was $107.5 million, representing basic EPS of $0.46 based on a weighted average of 233.7 million shares outstanding. Diluted EPS was $0.25 and $0.45 for the years ended December 31, 2025 and 2024, respectively.
+The decrease in net income attributable to common stockholders for the year ended December 31, 2025 was primarily driven by distributor termination fees incurred in connection with transitioning Alani Nu distribution to the Pepsi distribution network and higher interest expense related to newly incurred debt. This impact was partially offset by a legal accrual which reduced net income and EPS for the year ended December 31, 2024. Additionally, basic and diluted EPS for the year ended December 31, 2025 were impacted by an increase in weighted average shares outstanding, primarily as a result of Common Stock issued in connection with the Alani Nu Acquisition.
+36
+Liquidity and Capital Resources
+General
+As of December 31, 2025, we had unrestricted cash and cash equivalents of approximately $398.9 million, restricted cash of $141.1 million and net working capital of $732.4 million.
+Our primary sources of liquidity are cash flows from operations and our existing cash balances. We expect that purchases of inventories, increases in accounts receivable and other assets, equipment purchases, advances to certain co-packers and distributors, payments of accounts payable, income taxes, dividends paid on our Preferred Stock, debt repayments and stock repurchases will remain our principal recurring uses of cash.
+We believe that cash available from operations, together with our $100.0 million Revolving Credit Facility, will be sufficient for our working capital needs, including purchase commitments for raw materials and inventory, increases in accounts receivable and other assets, and purchases of capital assets and equipment for the next twelve months and beyond.
+On the Closing Date of Alani Nu, we completed the Alani Nu Acquisition for total consideration comprising (i) $1,275.0 million in cash paid at closing, subject to adjustment as set forth in the related membership interest purchase agreement, (ii) an aggregate of 22,451,224 shares of our Common Stock, and (iii) a single payment of $25.0 million in additional cash consideration, payable only if revenue from Alani Nu’s products met or exceeded an agreed-upon target for 2025. If the target were not achieved, then no consideration would have been payable. As of December 31, 2025, the applicable revenue target had been achieved, and we expect to pay the contingent consideration in the first quarter of 2026. See Note 5.
+Acquisitions
+ in the notes to our Consolidated Financial Statements included elsewhere in this Report.
+In connection with the Alani Nu Acquisition, we, together with certain of our subsidiaries as guarantors, entered into the Credit Agreement, which we amended on October 2, 2025, pursuant to the First Refinancing Amendment. The amendment reduced the applicable interest rates on both the Term Loan Facility and the Revolving Credit Facility by 75 basis points, with all other material terms remaining unchanged. In connection with the amendment, we refinanced the remaining outstanding balance of the $900.0 million Term Loan Facility using approximately $197.8 million of cash on hand and proceeds from a new $700.0 million term loan under the Term Loan Facility at the reduced interest rate. No prepayment penalties were incurred in connection with the refinancing. See Note 11.
+Debt
+ in the notes to our Consolidated Financial Statements included elsewhere in this Report.
+Cash flows for the years ended December 31, 2025 and 2024
+Cash flows provided by operating activities
+Cash flows provided by operating activities totaled $359.4 million for the year ended December 31, 2025, which compares to $262.9 million cash provided by operating activities for the year ended December 31, 2024. The $96.5 million increase was primarily driven by strong operational performance, with a significant contribution from the Alani Nu Acquisition. This increase was partially offset by higher accounts receivable, as certain customers delayed payments in connection with anticipated distributor terminations under the A&R Distribution Agreements.
+Cash flows used in investing activities
+Cash flows used in investing activities totaled $1,295.7 million for the year ended December 31, 2025, compared to cash used in investing activities of $101.7 million for the year ended December 31, 2024. The $1,194.0 million increase was primarily attributable to cash paid as part of the Alani Nu Acquisition, strategic investments in non-marketable securities, as well as increased capital expenditures related to investment in machinery and equipment at our wholly owned manufacturing facility, Big Beverages.
+Cash flows provided by financing activities
+Cash flows provided by financing activities totaled $582.8 million for the year ended December 31, 2025, compared to $26.0 million cash flows used in financing activities for the same period in 2024, representing a $608.8 million increase. The increase was primarily driven by debt incurred in connection with the Alani Nu Acquisition. The increase was partially offset by cash outflows from a partial debt extinguishment, dividends paid on Preferred Stock and share repurchases.
+37
+Income taxes
+Cash payments for income taxes approximated $64.2 million and $99.1 million, net of refunds, for the years ended December 31, 2025 and December 31, 2024, respectively. Income tax expense was $17.0 million and $50.0 million for the years ended December 31, 2025 and December 31, 2024, respectively. We estimate cash payments for income taxes to exceed income tax expense for the year ending December 31, 2026, primarily due to timing differences arising from one-time events, including the Pepsi distributor termination reimbursement and an income tax payment deferral in certain foreign jurisdictions in which we operate.
+Off Balance Sheet Arrangements
+As of December 31, 2025 and December 31, 2024, we had no off balance sheet arrangements.
+38
+Critical Accounting Policies and Estimates
+Our Consolidated Financial Statements are prepared in accordance with U.S. GAAP, which requires us to make estimates and assumptions that affect the reported amounts in our Consolidated Financial Statements. Critical accounting policies and estimates are those that management believes are the most important to the portrayal of our financial condition, results of operations and cash flows, and require the most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and that have had, or are reasonably likely to have, a material impact on our financial condition or results of operations. Judgments and uncertainties may result in materially different amounts being reported under different conditions or using different assumptions. We have identified the accounting estimates below as critical to understanding and evaluating the financial results reported in our Consolidated Financial Statements.
+The following accounting policies and estimates should be read in conjunction with the descriptions of our significant accounting policies and recent accounting pronouncements, contained in Note 2.
+Basis of Presentation and Summary of Significant Accounting Policies
+ to our Consolidated Financial Statements set forth elsewhere in this Report.
+Revenue Recognition - Promotional (Billbacks) Allowance
+The Company’s promotional allowance programs with its distributors or retailers are executed through separate agreements in the ordinary course of business (variable consideration). These agreements provide for one or more arrangements that are of varying durations. The Company’s billbacks are calculated based on various programs with distributors and retail customers and accruals are established for the Company’s anticipated liabilities. These accruals are based on agreed upon terms as well as the Company’s historical experience with similar programs and require management’s judgment with respect to estimating consumer participation and the performance of distributors and retail customers. Differences between estimated and actual promotional and other allowances are recognized in the period such differences are determined.
+The Company conducts regular reviews of promotional activities and related financial data, including final invoicing for previous periods. Such reviews are essential for ensuring the accuracy of accounting estimates related to accrued promotional allowances for the Company's customers.
+Promotional allowances are recorded as reductions to revenue and primarily include consideration given to the Company’s distributors or retail customers including, but not limited to the following:
+•
+discounts from list prices to support price promotions to end-consumers by retailers;
+•
+reimbursements given to the Company’s distributors for agreed portions of their promotional spend with retailers, including slotting, shelf space allowances and other fees for both new and existing products;
+•
+the Company’s agreed share of fees given to distributors and/or directly to retailers for advertising, in-store marketing and promotional activities that cannot be separated from the transaction price;
+•
+the Company’s agreed share of slotting, shelf space allowances and other fees given directly to retailers, club stores and/or wholesalers;
+•
+incentives given to the Company’s distributors and/or retailers for achieving or exceeding certain predetermined volume goals or other incentive targets;
+•
+discounted products;
+•
+contractual fees given to distributors for items sold below defined pricing targets; and
+•
+contractual fees given to the Company’s distributors related to sales made directly by the Company to certain customers that fall within the distributors’ sales territories.
+Business Combinations
+We account for acquisitions using the acquisition method, under which, upon obtaining control, we recognize each identifiable asset acquired and liability assumed at its acquisition date fair value. The determination of those fair values requires significant judgment and the use of valuation techniques when observable market inputs are unavailable. We value intangible assets using models such as the income approach (relief-from-royalty model) and other cost-based techniques. Key unobservable inputs include, but are not limited to, forecasted revenue growth rates, discount rates, royalty rates and estimated useful lives. We engage third-party valuation specialists to review these critical assumptions and prepare detailed fair value analyses for material acquisitions.
+Any excess of the purchase consideration over the fair value of identifiable net assets is recorded as goodwill. During the measurement period, up to one year from the acquisition date, significant provisional amounts are adjusted with a corresponding offset to goodwill.
+39
+We engaged third-party valuation specialists to review critical assumptions and prepare a detailed fair value analysis. Key assumptions included forecasted revenue growth rates, discount rates, royalty rates and estimated useful lives. These estimates were judgmental and could materially affect results.
+ASC 606 Implicit Upfront Payments to Customers
+When a transaction includes both the acquisition of a business within the scope of ASC 805 and an implicit payment to a customer within the scope of ASC 606, we allocate the total consideration transferred between the business acquired and the payment to the customer. The implicit upfront payment is measured at fair value using appropriate valuation techniques. The determination of fair value requires significant judgment, particularly when observable market inputs are not available.
+We estimate fair value of implicit upfront payments using an income approach, such as the discounted cash flow methodology. Key unobservable inputs include, but are not limited to, forecasted revenue growth rates, EBITDA margins, discount rates, long-term growth rates and terminal period assumptions. A significant component of the analysis involves estimating the incremental net revenues expected to be generated as a result of the underlying arrangement.
+We engaged third-party valuation specialists to assist in evaluating critical assumptions and in preparing the detailed fair value analyses for material arrangements. These estimates require significant judgment and could materially affect the results.
+Goodwill and Intangible Assets
+We record goodwill and intangible assets in connection with business combinations. In a business combination, the purchase consideration is allocated to identifiable tangible and intangible assets acquired and liabilities assumed based on their estimated fair values as of the acquisition date, with any excess recorded as goodwill. Identifiable intangible assets primarily consist of brand names and customer relationships. The determination of fair value requires significant judgment and estimates, including assumptions related to forecasted revenue and cash flows, discount rates, royalty rates, expected useful lives and broader macroeconomic conditions. These estimates are inherently subjective and could change as a result of new information, changes in operating performance or shifts in market conditions.
+Goodwill and indefinite-lived intangible assets, primarily certain brand assets, are not amortized and are assessed for impairment at least annually, or more frequently if events or changes in circumstances indicate that the carrying value may not be recoverable. We perform our annual impairment assessment during the fourth quarter using either a qualitative or quantitative approach. When performing a qualitative assessment, we evaluate factors including overall financial performance, brand performance, changes in market conditions, competitive dynamics and macroeconomic trends. If these factors indicate that it is more likely than not that an impairment exists, a quantitative assessment is performed. Quantitative impairment testing requires estimates of fair value using discounted cash flow models that incorporate assumptions regarding future growth rates, operating margins, terminal values and discount rates. Definite-lived intangible assets are amortized over their estimated useful lives and are evaluated for impairment when events or circumstances indicate that their carrying amounts may not be recoverable. Changes in these estimates or assumptions could result in future impairment charges that could be material to our results of operations.
+Preferred Stock
+On the Closing Date of the Pepsi Transactions, we measured the fair value of our Preferred Stock using a Monte Carlo simulation because these instruments include path dependent features, multiple redemption and conversion decision dates, an automatic conversion and a 10-day VWAP test. The model used observable market data at the measurement date, such as the price of our Common Stock. Since the valuation also required significant unobservable inputs, including the probability of meeting certain triggering conditions, equity volatility and discount rates for redemption cash flows, the measurement is classified within Level 3 of the fair value hierarchy.
+We engaged third-party valuation specialists to review these critical assumptions and prepare detailed fair value analyses for our Preferred Stock. Key assumptions included the probability of meeting triggering conditions, equity volatility, the time horizon to decision dates and discount rates. These estimates were judgmental and could materially affect results.

@@ -3,7 +3,7 @@
 ORACLE Data Layer — oracle_data.py
 ===================================
 Single interface for all market data in the ORACLE system.
-All other modules call this. Nothing calls yfinance directly.
+Uses Alpaca live market data API. NO Yahoo Finance / yfinance.
 
 Cache layout (~/ORACLE/cache/):
   prices_YYYYMMDD.json        — intraday price snapshots, keyed by today's date
@@ -12,8 +12,41 @@ Cache layout (~/ORACLE/cache/):
 
 import os, json, datetime, time
 from pathlib import Path
+from dotenv import load_dotenv
+
+_HOME_ENV = Path(os.path.expanduser("~/.env"))
+load_dotenv(dotenv_path=_HOME_ENV)
 
 CACHE_DIR = Path(os.path.expanduser("~/ORACLE/cache"))
+
+def _read_home_env_value(name: str) -> str:
+    """Fallback parser for ~/.env when python-dotenv was not able to hydrate os.environ."""
+    try:
+        for line in _HOME_ENV.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            if key.strip() == name:
+                return value.strip().strip('"').strip("'")
+    except Exception:
+        pass
+    return ""
+
+
+# Alpaca live keys
+_ALPACA_KEY = (
+    os.getenv("ALPACA_LIVE_KEY")
+    or os.getenv("ALPACA_API_KEY")
+    or _read_home_env_value("ALPACA_LIVE_KEY")
+    or _read_home_env_value("ALPACA_API_KEY")
+)
+_ALPACA_SECRET = (
+    os.getenv("ALPACA_LIVE_SECRET")
+    or os.getenv("ALPACA_SECRET_KEY")
+    or _read_home_env_value("ALPACA_LIVE_SECRET")
+    or _read_home_env_value("ALPACA_SECRET_KEY")
+)
 
 
 def _today_str() -> str:
@@ -22,6 +55,68 @@ def _today_str() -> str:
 
 def _today_iso() -> str:
     return datetime.date.today().isoformat()
+
+
+# ── Alpaca client (lazy singleton) ────────────────────────────────────────────
+
+_alpaca_client = None
+
+def _get_alpaca_client():
+    global _alpaca_client
+    if _alpaca_client is None:
+        from alpaca.data.historical import StockHistoricalDataClient
+        _alpaca_client = StockHistoricalDataClient(_ALPACA_KEY, _ALPACA_SECRET)
+    return _alpaca_client
+
+
+def _fetch_price_alpaca(ticker: str) -> float | None:
+    """Fetch latest trade price from Alpaca. Returns float or None."""
+    try:
+        from alpaca.data.requests import StockLatestTradeRequest
+        client = _get_alpaca_client()
+        req = StockLatestTradeRequest(symbol_or_symbols=ticker.upper())
+        trade = client.get_stock_latest_trade(req)
+        t = trade.get(ticker.upper())
+        if t and hasattr(t, "price"):
+            return float(t.price)
+        return None
+    except Exception as e:
+        print(f"  [Alpaca price] {ticker}: {e}")
+        return None
+
+
+def _fetch_snapshot_alpaca(ticker: str) -> dict | None:
+    """
+    Fetch snapshot (quote + trade + daily bar) from Alpaca.
+    Returns dict with price, open, high, low, prev_close, volume or None.
+    """
+    try:
+        from alpaca.data.requests import StockSnapshotRequest
+        client = _get_alpaca_client()
+        req = StockSnapshotRequest(symbol_or_symbols=ticker.upper())
+        snaps = client.get_stock_snapshot(req)
+        snap = snaps.get(ticker.upper())
+        if snap is None:
+            return None
+        result = {}
+        # Latest trade
+        if hasattr(snap, "latest_trade") and snap.latest_trade:
+            result["price"] = float(snap.latest_trade.price)
+        # Daily bar
+        if hasattr(snap, "daily_bar") and snap.daily_bar:
+            bar = snap.daily_bar
+            result.setdefault("price", float(bar.close))
+            result["open"]   = float(bar.open)
+            result["high"]   = float(bar.high)
+            result["low"]    = float(bar.low)
+            result["volume"] = float(bar.volume)
+        # Prev daily bar
+        if hasattr(snap, "prev_daily_bar") and snap.prev_daily_bar:
+            result["prev_close"] = float(snap.prev_daily_bar.close)
+        return result if result.get("price") else None
+    except Exception as e:
+        print(f"  [Alpaca snapshot] {ticker}: {e}")
+        return None
 
 
 # ── Price cache ───────────────────────────────────────────────────────────────
@@ -49,7 +144,7 @@ def get_price(ticker: str, fresh: bool = False) -> dict:
     """
     Return {"ticker", "price", "timestamp", "source"} or
            {"ticker", "price": None, "error": "fetch_failed"}.
-    Checks today's prices_YYYYMMDD.json cache first.
+    Uses Alpaca live data. Caches in today's prices_YYYYMMDD.json.
     """
     ticker = ticker.upper()
     cache = _load_price_cache()
@@ -57,27 +152,19 @@ def get_price(ticker: str, fresh: bool = False) -> dict:
     if not fresh and ticker in cache and cache[ticker].get("price"):
         return cache[ticker]
 
-    try:
-        import yfinance as yf
-        info = yf.Ticker(ticker).info
-        price = info.get("currentPrice") or info.get("regularMarketPrice")
-        if not price:
-            fi = yf.Ticker(ticker).fast_info
-            price = getattr(fi, "last_price", None)
-        if not price:
-            return {"ticker": ticker, "price": None, "error": "fetch_failed"}
-
-        result = {
-            "ticker":    ticker,
-            "price":     float(price),
-            "timestamp": datetime.datetime.now().isoformat(),
-            "source":    "yfinance_info",
-        }
-        cache[ticker] = result
-        _save_price_cache(cache)
-        return result
-    except Exception:
+    price = _fetch_price_alpaca(ticker)
+    if price is None:
         return {"ticker": ticker, "price": None, "error": "fetch_failed"}
+
+    result = {
+        "ticker":    ticker,
+        "price":     price,
+        "timestamp": datetime.datetime.now().isoformat(),
+        "source":    "alpaca_live",
+    }
+    cache[ticker] = result
+    _save_price_cache(cache)
+    return result
 
 
 # ── Fundamentals cache ────────────────────────────────────────────────────────
@@ -91,10 +178,8 @@ def _load_fund_cache() -> dict:
     if path.exists():
         try:
             raw = json.loads(path.read_text())
-            # New format: {"generated": ..., "ttl_hours": 24, "data": {...}}
             if isinstance(raw, dict) and "data" in raw:
                 return raw["data"]
-            # Old flat format — migrate transparently
             return raw
         except Exception:
             pass
@@ -109,11 +194,10 @@ def _save_fund_cache(data: dict) -> None:
 
 def get_fundamentals(ticker: str, fresh: bool = False) -> dict:
     """
-    Return dict with: ticker, price, market_cap, revenue_growth_yoy, eps_ttm,
-    eps_forward, week52_high, week52_low, analyst_target, short_interest_pct,
-    sector, industry.
-    Graceful None for missing fields. Never crashes.
-    Cache: fundamentals_YYYYMMDD.json (24hr TTL by date in filename).
+    Return dict with: ticker, price, open, high, low, prev_close, volume,
+    market_cap (None — not available from Alpaca basic), sector (None),
+    week52_high, week52_low from historical bars, analyst_target (None).
+    Uses Alpaca snapshot for price/OHLCV. No Yahoo Finance.
     """
     ticker = ticker.upper()
     cache = _load_fund_cache()
@@ -121,66 +205,65 @@ def get_fundamentals(ticker: str, fresh: bool = False) -> dict:
     if not fresh and ticker in cache and not cache[ticker].get("error"):
         return cache[ticker]
 
-    try:
-        import yfinance as yf
-        tkr = yf.Ticker(ticker)
-        info = tkr.info
-
-        price = info.get("currentPrice") or info.get("regularMarketPrice")
-        if not price:
-            fi = tkr.fast_info
-            price = getattr(fi, "last_price", None)
-        if not price:
-            cache[ticker] = {"ticker": ticker, "error": True}
-            _save_fund_cache(cache)
-            return {"ticker": ticker, "price": None, "error": "fetch_failed"}
-
-        price = float(price)
-
-        # Revenue growth: quarterly YoY (iloc[0] vs iloc[4]).
-        # NEVER use info["revenueGrowth"] — it uses stale annual data.
-        rev_growth = None
-        try:
-            q_fin = tkr.quarterly_income_stmt
-            if q_fin is not None and not q_fin.empty:
-                for label in ("Total Revenue", "Revenue"):
-                    if label in q_fin.index:
-                        rev_row = q_fin.loc[label].dropna().sort_index(ascending=False)
-                        if len(rev_row) >= 5:
-                            r0 = float(rev_row.iloc[0])
-                            r4 = float(rev_row.iloc[4])
-                            if r4 and abs(r4) > 0:
-                                rev_growth = (r0 - r4) / abs(r4) * 100
-                        break
-        except Exception:
-            pass
-
-        short_raw = info.get("shortPercentOfFloat")
-        if short_raw is not None:
-            short_pct = short_raw * 100 if short_raw <= 1.0 else float(short_raw)
-        else:
-            short_pct = None
-
-        result = {
-            "ticker":             ticker,
-            "price":              price,
-            "market_cap":         info.get("marketCap"),
-            "revenue_growth_yoy": rev_growth,
-            "eps_ttm":            info.get("trailingEps"),
-            "eps_forward":        info.get("forwardEps"),
-            "week52_high":        info.get("fiftyTwoWeekHigh"),
-            "week52_low":         info.get("fiftyTwoWeekLow"),
-            "analyst_target":     info.get("targetMeanPrice"),
-            "short_interest_pct": short_pct,
-            "sector":             info.get("sector"),
-            "industry":           info.get("industry"),
-        }
+    snap = _fetch_snapshot_alpaca(ticker)
+    if snap is None or not snap.get("price"):
+        result = {"ticker": ticker, "price": None, "error": "fetch_failed"}
         cache[ticker] = result
         _save_fund_cache(cache)
         return result
 
-    except Exception:
-        return {"ticker": ticker, "price": None, "error": "fetch_failed"}
+    # Get 52-week high/low from historical bars
+    week52_high = None
+    week52_low = None
+    try:
+        from alpaca.data.requests import StockBarsRequest
+        from alpaca.data.timeframe import TimeFrame
+        end   = datetime.datetime.now()
+        start = end - datetime.timedelta(days=365)
+        client = _get_alpaca_client()
+        bar_req = StockBarsRequest(
+            symbol_or_symbols=ticker,
+            timeframe=TimeFrame.Day,
+            start=start,
+            end=end,
+        )
+        bars_resp = client.get_stock_bars(bar_req)
+        try:
+            bars = bars_resp[ticker]
+        except (KeyError, TypeError):
+            bars = list(getattr(bars_resp, 'data', {}).get(ticker, []))
+        if bars:
+            highs = [b.high for b in bars]
+            lows  = [b.low  for b in bars]
+            week52_high = float(max(highs))
+            week52_low  = float(min(lows))
+    except Exception as e:
+        print(f"  [Alpaca bars 52w] {ticker}: {e}")
+
+    result = {
+        "ticker":             ticker,
+        "price":              snap.get("price"),
+        "open":               snap.get("open"),
+        "high":               snap.get("high"),
+        "low":                snap.get("low"),
+        "prev_close":         snap.get("prev_close"),
+        "volume":             snap.get("volume"),
+        "market_cap":         None,   # not in Alpaca basic
+        "revenue_growth_yoy": None,   # not in Alpaca basic
+        "eps_ttm":            None,   # not in Alpaca basic
+        "eps_forward":        None,   # not in Alpaca basic
+        "week52_high":        week52_high,
+        "week52_low":         week52_low,
+        "analyst_target":     None,   # not in Alpaca basic
+        "short_interest_pct": None,   # not in Alpaca basic
+        "sector":             None,
+        "industry":           None,
+        "source":             "alpaca_live",
+        "timestamp":          datetime.datetime.now().isoformat(),
+    }
+    cache[ticker] = result
+    _save_fund_cache(cache)
+    return result
 
 
 def get_fundamentals_batch(tickers: list, fresh: bool = False) -> dict:
@@ -190,45 +273,70 @@ def get_fundamentals_batch(tickers: list, fresh: bool = False) -> dict:
     """
     results = {}
     for ticker in tickers:
-        print(f"  Fetching {ticker}...")
+        print(f"Fetching {ticker}...")
         results[ticker] = get_fundamentals(ticker, fresh=fresh)
-        time.sleep(0.3)
+        time.sleep(0.1)
     return results
+
+
+# ── Formatting ────────────────────────────────────────────────────────────────
+
+def format_fundamentals_block(ticker: str, data: dict) -> str:
+    """Return a formatted text block for one stock."""
+    if not data or data.get("error") or data.get("price") is None:
+        return f"{ticker} - price unavailable — proceed with training knowledge, flag figures as unverified"
+
+    price = data["price"]
+
+    hi52  = data.get("week52_high")
+    lo52  = data.get("week52_low")
+    rng_str = f"${lo52:.2f} - ${hi52:.2f}" if (hi52 and lo52) else "N/A"
+
+    prev  = data.get("prev_close")
+    chg_str = ""
+    if prev and price:
+        chg = (price - prev) / prev * 100
+        chg_str = f" ({chg:+.2f}% vs prev close)"
+
+    vol   = data.get("volume")
+    vol_str = f"{vol:,.0f}" if vol else "N/A"
+
+    open_ = data.get("open")
+    high_ = data.get("high")
+    low_  = data.get("low")
+    day_str = f"O${open_:.2f} H${high_:.2f} L${low_:.2f}" if (open_ and high_ and low_) else "N/A"
+
+    return (
+        f"{ticker} - ${price:.2f}{chg_str}\n"
+        f"Today: {day_str} | Volume: {vol_str}\n"
+        f"52-week range: {rng_str}\n"
+        f"Source: Alpaca live data"
+    )
+
+
+def format_fundamentals_batch(tickers: list, fresh: bool = False) -> str:
+    """
+    Fetches all tickers via Alpaca, returns joined text blocks.
+    Drop-in for the oracle-think-tank seed generation.
+    """
+    batch = get_fundamentals_batch(tickers, fresh=fresh)
+    blocks = [format_fundamentals_block(t, batch.get(t, {})) for t in tickers]
+    return "\n\n".join(blocks)
 
 
 # ── News ──────────────────────────────────────────────────────────────────────
 
 def get_news(ticker: str, max_headlines: int = 3) -> list:
     """
-    Fetch recent news headlines (last 30 days). No caching — always live.
-    Returns [] gracefully on any failure.
+    No news source wired yet without Yahoo Finance.
+    Returns empty list — agents use EDGAR links from seed doc instead.
     """
-    try:
-        import yfinance as yf
-        cutoff = datetime.datetime.now() - datetime.timedelta(days=30)
-        news = yf.Ticker(ticker.upper()).news or []
-        headlines = []
-        for item in news:
-            ts = item.get("providerPublishTime", 0)
-            if ts and datetime.datetime.fromtimestamp(ts) < cutoff:
-                continue
-            title = item.get("title", "").strip()
-            if title:
-                headlines.append(title)
-            if len(headlines) >= max_headlines:
-                break
-        return headlines
-    except Exception:
-        return []
+    return []
 
 
 # ── Validation ────────────────────────────────────────────────────────────────
 
 def validate_price_vs_screener(ticker: str, screener_price: float, fundamentals: dict) -> bool:
-    """
-    Returns False if |screener_price - fundamentals["price"]| / screener_price > 10%.
-    Returns True if within 10% or no data available to compare.
-    """
     if not fundamentals or not isinstance(fundamentals, dict):
         return True
     fund_price = fundamentals.get("price")
@@ -237,85 +345,5 @@ def validate_price_vs_screener(ticker: str, screener_price: float, fundamentals:
     return abs(screener_price - fund_price) / screener_price <= 0.10
 
 
-# ── Formatting ────────────────────────────────────────────────────────────────
-
-def format_fundamentals_block(ticker: str, data: dict) -> str:
-    """Return a formatted text block for one stock (drop-in for Think Tank context)."""
-    if not data or data.get("error") or data.get("price") is None:
-        return f"{ticker} - yfinance unavailable for {ticker} — using limited data"
-
-    price = data.get("price", 0)
-
-    mkt_cap = data.get("market_cap")
-    cap_str = f"${mkt_cap / 1e9:.1f}B" if mkt_cap else "N/A"
-
-    rev_g = data.get("revenue_growth_yoy")
-    rev_str = f"{rev_g:+.1f}%" if rev_g is not None else "N/A"
-
-    eps_ttm = data.get("eps_ttm")
-    eps_fwd = data.get("eps_forward")
-    eps_str = f"${eps_ttm:.2f}" if eps_ttm is not None else "N/A"
-    fwd_str = f"${eps_fwd:.2f}" if eps_fwd is not None else "N/A"
-
-    hi = data.get("week52_high")
-    lo = data.get("week52_low")
-    rng_str = f"${lo:.2f} - ${hi:.2f}" if (hi and lo) else "N/A"
-
-    target = data.get("analyst_target")
-    if target and price:
-        upside = (target - price) / price * 100
-        tgt_str = f"${target:.2f} ({upside:+.0f}% upside)"
-    else:
-        tgt_str = "N/A"
-
-    short = data.get("short_interest_pct")
-    short_str = f"{short:.1f}%" if short is not None else "N/A"
-
-    sector = data.get("sector") or "N/A"
-
-    return (
-        f"{ticker} - ${price:.2f} ({cap_str})\n"
-        f"Revenue Growth (YoY MRQ): {rev_str}\n"
-        f"EPS TTM: {eps_str} | Forward EPS: {fwd_str}\n"
-        f"52-week range: {rng_str}\n"
-        f"Analyst target: {tgt_str}\n"
-        f"Short interest: {short_str}\n"
-        f"Sector: {sector}"
-    )
-
-
-def format_fundamentals_batch(tickers: list, fresh: bool = False) -> str:
-    """
-    Drop-in replacement for get_fundamentals() in oracle_think_tank.py.
-    Fetches all tickers, returns joined text blocks.
-    """
-    batch = get_fundamentals_batch(tickers, fresh=fresh)
-    blocks = [format_fundamentals_block(t, batch.get(t, {})) for t in tickers]
-    return "\n\n".join(blocks)
-
-
-# ── Problem stock news ────────────────────────────────────────────────────────
-
 def check_problem_stock_news(ticker: str, fundamentals: dict) -> str:
-    """
-    For stocks with short_interest > 20% or analyst_target < price * 0.5,
-    fetch recent headlines and return a formatted string, or "" if clean.
-    Fixes BUG #4: stale qualitative thesis for problem stocks.
-    """
-    if not fundamentals or fundamentals.get("error") or fundamentals.get("price") is None:
-        return ""
-
-    price = fundamentals.get("price") or 0
-    short = fundamentals.get("short_interest_pct") or 0
-    target = fundamentals.get("analyst_target")
-
-    is_problem = short > 20 or (target and price and target < price * 0.5)
-    if not is_problem:
-        return ""
-
-    headlines = get_news(ticker)
-    if not headlines:
-        return ""
-
-    lines = "\n".join(f"- {h}" for h in headlines)
-    return f"RECENT NEWS for {ticker}:\n{lines}"
+    return ""

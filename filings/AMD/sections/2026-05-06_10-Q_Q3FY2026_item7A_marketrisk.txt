@@ -1,0 +1,9 @@
+=== FILING DATE: 2026-05-06 ===
+=== PERIOD COVERED: 2026-03-28 ===
+=== SOURCE: 10-Q filed 2026-05-06 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: AMD ===
+
+Item 7A
+, Quantitative and Qualitative Disclosures About Market Risk,” in our Annual Report on Form 10-K for the fiscal year ended December 27, 2025.
+There have not been any material changes in interest rate risk, default risk or foreign exchange risk since December 27, 2025.

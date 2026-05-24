@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-05-29
+Transaction Date: 2025-05-27
+Person: FENNELL LAURA A — EVP, People and Places
+Type: OTHER
+Shares: 123702 at $303.94
+Shares After: 6666
+=== TICKER: INTU ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-26
+Transaction Date: 2025-08-25
+Person: COOK SCOTT D — Insider
+Type: SELL
+Shares: 529 at $664.99
+Shares After: 6162547
+=== TICKER: INTU ===
+===

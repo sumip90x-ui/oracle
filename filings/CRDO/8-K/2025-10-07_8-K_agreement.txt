@@ -1,0 +1,102 @@
+=== FILING DATE: 2025-10-07 ===
+=== PERIOD COVERED: 2025-10-06 ===
+=== SOURCE: 8-K filed 2025-10-07 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: CRDO ===
+
+
+
+crdo-20251006
+0001807794
+false
+0001807794
+2025-10-06
+2025-10-06
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 6, 2025
+Credo Technology Group Holding Ltd
+(Exact name of registrant as specified in its charter)
+Cayman Islands
+001-41249
+N/A
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+c/o
+Maples Corporate Services, Limited
+,
+PO Box 309, Ugland House
+Grand Cayman
+,
+KY1-1104
+,
+Cayman Islands
+N/A
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code: (
+408
+)
+664-9329
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Ordinary shares, par value $0.00005 per share
+CRDO
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 8.01    Other Events
+On October 6, 2025, Credo Technology Group Holding Ltd, a Cayman Islands exempted company (the “Company”), entered into an equity distribution agreement (the “Equity Distribution Agreement”) with Goldman Sachs & Co. LLC (the “Manager”) related to the sale from time to time of the Company’s ordinary shares, par value $0.00005 per share (the “Ordinary Shares”), up to an aggregate offering price of up to $750,000,000.
+Sales of the Ordinary Shares, if any, under the Equity Distribution Agreement will be made in sales deemed to be an “at the market offering” as defined in Rule 415 promulgated under the Securities Act of 1933, as amended (the “Securities Act”), in ordinary brokers’ transactions, to or through a market maker, on or through the Nasdaq Global Select Market or any other market venue where the securities may be traded, in the over-the-counter market, or through a combination of any such methods of sale. The Manager may also sell our ordinary shares by any other method permitted by law.
+The foregoing description of the Equity Distribution Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Equity Distribution Agreement, a copy of which is filed as Exhibit 1.1 to this Current Report and is incorporated herein by reference.
+Item 9.01    Financial Statements and Exhibits.
+(d)    Exhibits
+Exhibit Number
+Description of Exhibit
+1.1
+Equity Distribution Agreement, dated October
+6
+, 2025 between Credo Technology Group Holding Ltd. and Goldman Sachs & Co. LLC
+5.1
+Opinion of Maples and Calder (Cayman) LLP
+23.1
+Consent of Maples and Calder (Cayman) LLP (included in their opinion filed as Exhibit 5.
+1
+)
+104
+Cover Page Interactive Data File (embedded with Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Credo Technology Group Holding Ltd
+Date: October 6, 2025
+/s/ William Brennan
+William Brennan
+President and Chief Executive Officer
+

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-12
+Transaction Date: 2025-12-10
+Person: Su Lisa T — Chair, President & CEO
+Type: OTHER
+Shares: 324577 at $0
+Shares After: 3277476
+=== TICKER: AMD ===
+===

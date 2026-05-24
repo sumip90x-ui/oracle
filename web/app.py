@@ -701,6 +701,335 @@ def get_rounds(run_id):
     return jsonify(sorted(rounds, key=lambda x: x["round"]))
 
 
+@app.route("/api/analyze_and_run", methods=["POST"])
+def analyze_and_run():
+    """
+    ORACLE V2: One-click analyze + simulate.
+    1. Generates Claude fundamental analysis for the ticker
+    2. Formats it as a simulation seed/report
+    3. Starts the simulation with that seed as context
+
+    Request body: {"ticker": "SNOW", "rounds": 6}
+    Returns: {"run_id": "...", "status": "started", "ticker": "..."}
+    """
+    body    = request.get_json(force=True) or {}
+    ticker  = body.get("ticker", "").upper().strip()
+    rounds  = int(body.get("rounds", 6))
+
+    if not ticker:
+        return jsonify({"error": "ticker required"}), 400
+
+    if not re.match(r'^[A-Z]{1,5}$', ticker):
+        return jsonify({"error": f"Invalid ticker format: {ticker}"}), 400
+
+    today   = datetime.date.today().strftime("%Y%m%d")
+    run_id  = f"v2_{today}_{ticker}"
+
+    _sim_queues[run_id]  = queue.Queue()
+    _sim_replays[run_id] = []
+    save_web_state("sim_run_id", run_id)
+
+    def cb(event):
+        q = _sim_queues.get(run_id)
+        if q:
+            q.put(event)
+        if run_id in _sim_replays:
+            _sim_replays[run_id].append(event)
+
+    def run_v2_pipeline():
+        try:
+            # ── PHASE 1: Claude Fundamental Analysis ──────────────────
+            cb({"type": "sim_log", "msg": f"⟳ Generating fundamental analysis for {ticker}...", "level": "active"})
+
+            analysis_text = _generate_claude_analysis(ticker, cb)
+
+            if not analysis_text:
+                cb({"type": "sim_log", "msg": f"✗ Analysis generation failed for {ticker}", "level": "error"})
+                cb({"type": "sim_complete", "error": "Analysis failed"})
+                return
+
+            cb({"type": "sim_log", "msg": f"✓ Fundamental analysis complete ({len(analysis_text)} chars)", "level": "success"})
+
+            # ── PHASE 2: Format as seed/report ────────────────────────
+            cb({"type": "sim_log", "msg": "⟳ Formatting analysis as simulation seed...", "level": "active"})
+
+            report_path = _format_as_seed_report(ticker, analysis_text, run_id)
+
+            cb({"type": "sim_log", "msg": f"✓ Seed ready: {report_path}", "level": "success"})
+
+            # ── PHASE 3: Load fundamentals and run simulation ─────────
+            cb({"type": "sim_log", "msg": f"⟳ Fetching live market data for {ticker}...", "level": "active"})
+
+            time.sleep(2)  # Give browser time to connect to SSE
+
+            _run_sim_thread(run_id, [ticker], rounds, False, report_path)
+
+        except Exception as e:
+            import traceback
+            cb({"type": "sim_log", "msg": f"✗ Pipeline error: {e}", "level": "error"})
+            cb({"type": "sim_log", "msg": traceback.format_exc()[:300], "level": "error"})
+
+    t = threading.Thread(target=run_v2_pipeline, daemon=True)
+    t.start()
+
+    return jsonify({"run_id": run_id, "status": "started", "ticker": ticker})
+
+
+def _generate_claude_analysis(ticker: str, cb) -> str:
+    """
+    Generate a comprehensive fundamental analysis for the ticker using Claude.
+    Uses oracle_factsheet.py data pipeline — NOT raw yfinance.
+    The factsheet pipeline has all the fixes: commodity anchor, AISC extractor,
+    6-K handler for foreign filers, material events, permit deadlines etc.
+    """
+    import requests as _req
+
+    # ── Use the existing fixed factsheet pipeline ──────────────────────────────
+    # This avoids ALL the known yfinance/EDGAR problems:
+    # - Stale gold prices ($2,700 vs actual $4,553)
+    # - Wrong AISC for miners
+    # - Missing 6-K events for foreign filers (BTG, AEM)
+    # - Missing material events (Goose Mine fire, CEO transitions)
+    # - Forward EPS not calibrated to current commodity price
+    market_data = ""
+    sector      = ""
+    industry    = ""
+    val_mode_override = None
+
+    try:
+        sys.path.insert(0, os.path.expanduser("~/ORACLE"))
+        sys.path.insert(0, os.path.expanduser("~/ORACLE/engine"))
+        sys.path.insert(0, os.path.expanduser("~/ORACLE/data"))
+
+        # Use format_fundamentals_batch — the fixed data layer
+        from data.oracle_data import format_fundamentals_batch, get_fundamentals
+        cb({"type": "sim_log", "msg": f"  Using ORACLE data pipeline for {ticker}...", "level": "active"})
+
+        market_data = format_fundamentals_batch([ticker], fresh=True)
+
+        # Also get structured fundamentals for valuation mode detection
+        fund = get_fundamentals(ticker, fresh=True)
+        sector   = fund.get("sector", "") or ""
+        industry = fund.get("industry", "") or ""
+
+        # Check ticker_names.json for explicit valuation_mode override
+        names_path = Path.home() / "ORACLE" / "data" / "ticker_names.json"
+        if names_path.exists():
+            known = json.loads(names_path.read_text())
+            entry = known.get(ticker.upper(), {})
+            if isinstance(entry, dict):
+                val_mode_override = entry.get("valuation_mode")
+                if not sector:
+                    sector = entry.get("sector", "")
+
+        cb({"type": "sim_log", "msg": f"  ORACLE data loaded for {ticker} ({len(market_data)} chars)", "level": "active"})
+
+    except Exception as e:
+        cb({"type": "sim_log", "msg": f"  Factsheet pipeline failed ({e}), falling back to yfinance", "level": "active"})
+        # Fallback: basic yfinance — better than nothing but known to have issues
+        try:
+            import yfinance as yf
+            info    = yf.Ticker(ticker).info or {}
+            sector  = info.get("sector", "")
+            industry = info.get("industry", "")
+            price   = info.get("currentPrice") or info.get("regularMarketPrice", 0)
+            high52  = info.get("fiftyTwoWeekHigh", 0)
+            mktcap  = info.get("marketCap", 0)
+            rev_ttm = info.get("totalRevenue", 0)
+            market_data = (
+                f"MARKET DATA (yfinance fallback — verify against SEC filings):\n"
+                f"- {ticker}: ${price:,.2f} | 52wk high ${high52:,.2f} | "
+                f"Cap ${mktcap/1e9:.1f}B | Rev ${rev_ttm/1e9:.2f}B\n"
+                f"- Sector: {sector} | Industry: {industry}\n"
+                f"NOTE: This is fallback data. Verify all figures against SEC EDGAR before trading.\n"
+            )
+        except Exception as e2:
+            market_data = f"Data fetch failed: {e} / {e2}. Proceed with caution.\n"
+
+    cb({"type": "sim_log", "msg": f"  Data ready for {ticker}", "level": "active"})
+
+    sector_lower   = sector.lower() if sector else ""
+    industry_lower = industry.lower() if industry else ""
+
+    # ticker_names.json override takes priority
+    if val_mode_override:
+        mode_map = {
+            "platform_compounder":        ("PLATFORM COMPOUNDER",        "DO NOT use EPV — it assumes zero growth and is wrong for platforms. Primary metrics: NRR, RPO, ARPU trajectory, platform asset growth, Rule of 40. Margin of safety = 20% discount to DCF fair value, not EPV."),
+            "commodity_producer":         ("COMMODITY PRODUCER",         "Use NAV as primary valuation anchor, not EPV. All margin calculations use CURRENT commodity spot price shown in the data. Report AISC vs current commodity price and P/NAV ratio."),
+            "inflection_stage":           ("INFLECTION STAGE",           "Use probability-weighted scenario analysis. Identify specific catalyst (FDA date, Phase 3 readout) and timeline. State your p_success estimate explicitly."),
+            "defense_government_services":("DEFENSE / GOVERNMENT SERVICES","Primary metrics: backlog coverage ratio, book-to-burn, contract duration. Regulatory risk is structural and priced — focus on contract pipeline."),
+            "cyclical_recovery":          ("CYCLICAL RECOVERY",          "Use normalized mid-cycle earnings, not trough earnings. Identify cycle position. Balance sheet must survive trough."),
+            "mature_stalwart":            ("MATURE STALWART",            "Use EPV, earnings yield vs T-bill rate, Klarman margin of safety. Require 30%+ discount to intrinsic value."),
+        }
+        val_mode, val_guidance = mode_map.get(val_mode_override, ("MATURE STALWART", "Apply appropriate framework."))
+    elif any(w in industry_lower for w in ["gold", "silver", "copper", "mining", "oil", "gas", "petroleum"]):
+        val_mode = "COMMODITY PRODUCER"
+        val_guidance = (
+            "Use NAV as primary valuation anchor, not EPV. "
+            "All margin calculations use current commodity spot price. "
+            "Report AISC vs current commodity price and P/NAV ratio."
+        )
+    elif any(w in industry_lower for w in ["software", "internet", "fintech", "exchange", "marketplace", "saas"]):
+        val_mode = "PLATFORM COMPOUNDER"
+        val_guidance = (
+            "DO NOT use EPV — it assumes zero growth and is wrong for platforms. "
+            "Primary metrics: NRR, RPO, ARPU trajectory, platform asset growth, Rule of 40. "
+            "Margin of safety = 20% discount to DCF fair value, not EPV."
+        )
+    elif any(w in industry_lower for w in ["biotechnology", "pharmaceutical", "drug", "clinical"]):
+        val_mode = "INFLECTION STAGE"
+        val_guidance = (
+            "Use probability-weighted scenario analysis. "
+            "Identify specific catalyst (FDA date, Phase 3 readout) and timeline. "
+            "State your p_success estimate explicitly."
+        )
+    elif any(w in industry_lower for w in ["defense", "government", "aerospace"]):
+        val_mode = "DEFENSE / GOVERNMENT SERVICES"
+        val_guidance = (
+            "Primary metrics: backlog coverage ratio, book-to-burn, contract duration. "
+            "Regulatory risk is structural and priced — focus on contract pipeline."
+        )
+    elif any(w in industry_lower for w in ["semiconductor", "memory", "steel", "chemical"]):
+        val_mode = "CYCLICAL RECOVERY"
+        val_guidance = (
+            "Use normalized mid-cycle earnings, not trough earnings. "
+            "Identify cycle position. Balance sheet must survive trough."
+        )
+    else:
+        val_mode = "MATURE STALWART"
+        val_guidance = (
+            "Use EPV, earnings yield vs T-bill rate, Klarman margin of safety. "
+            "Require 30%+ discount to intrinsic value."
+        )
+
+    system_prompt = f"""You are a senior portfolio manager producing a comprehensive fundamental analysis memo.
+Your style is modeled after David Einhorn (Greenlight Capital) and Bill Ackman (Pershing Square) —
+precise, analytical, deeply researched, with specific numbers and genuine conviction.
+
+VALUATION MODE: {val_mode}
+{val_guidance}
+
+You will produce a full fundamental analysis with these sections:
+
+1. COMPANY CONFIRMED — identity, exchange, what the business actually does
+2. VERIFIED DATA BLOCK — all key financial metrics with specific numbers
+3. WHAT THIS COMPANY ACTUALLY IS — business model explanation in plain English
+4. THE CORE THESIS — bull case built from data
+5. KEY RISKS — bear case, specific and quantified where possible
+6. VALUATION — apply the correct framework for {val_mode}
+7. VERDICT — BUY/WATCH/PASS with conviction 1-10 and position sizing
+
+Be specific. Use numbers. Every claim must be supported by data.
+State your VALUATION MODE at the top.
+Do not hedge. Take a position and defend it."""
+
+    user_prompt = f"""Produce a comprehensive fundamental analysis for {ticker}.
+
+{market_data}
+
+Apply the {val_mode} analytical framework.
+
+Write the complete analysis now. Include all 7 sections.
+Be specific with numbers. No hedging. Take a position."""
+
+    api_key = os.environ.get("OPENROUTER_API_KEY", "")
+    if not api_key:
+        try:
+            raw = open(os.path.expanduser("~/.hermes/.env")).read()
+            for line in raw.splitlines():
+                if line.startswith("OPENROUTER_API_KEY="):
+                    api_key = line.split("=", 1)[1].strip()
+                    break
+        except Exception:
+            pass
+
+    try:
+        resp = _req.post(
+            "https://openrouter.ai/api/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://oracle.local",
+                "X-Title": "ORACLE V2 Analysis",
+            },
+            json={
+                "model": "anthropic/claude-sonnet-4-6",
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user",   "content": user_prompt},
+                ],
+                "temperature": 0.2,
+                "max_tokens": 4000,
+            },
+            timeout=120,
+        )
+        if resp.status_code == 200:
+            data = resp.json()
+            return data["choices"][0]["message"]["content"]
+        else:
+            cb({"type": "sim_log", "msg": f"  API error {resp.status_code}: {resp.text[:200]}", "level": "error"})
+            return ""
+    except Exception as e:
+        cb({"type": "sim_log", "msg": f"  Claude API call failed: {e}", "level": "error"})
+        return ""
+
+
+def _format_as_seed_report(ticker: str, analysis_text: str, run_id: str) -> str:
+    """
+    Format Claude's analysis as a markdown report file that the sim uses as context.
+    Saves to ~/ORACLE/reports/ and returns the path.
+    """
+    today = datetime.date.today().strftime("%Y%m%d")
+    reports_dir = Path.home() / "ORACLE" / "reports"
+    reports_dir.mkdir(parents=True, exist_ok=True)
+
+    report_content = f"""# ORACLE V2 FUNDAMENTAL ANALYSIS: {ticker}
+## Generated by Claude | Run ID: {run_id} | Date: {today}
+
+---
+
+## AGENT INSTRUCTIONS
+
+This analysis was produced by Claude's fundamental research engine.
+You are simulation agents. Your job is to:
+1. Read Claude's analysis below carefully
+2. Verify key claims against EDGAR and public data where possible
+3. Challenge any claims you find contradicting evidence for
+4. Form your own conviction and trade the prediction market accordingly
+
+The prediction market reflects collective verified consensus.
+Evidence you find beats unsupported claims.
+EDGAR data beats analyst estimates.
+
+---
+
+{analysis_text}
+
+---
+
+## VERIFICATION TARGETS FOR AGENTS
+
+Search EDGAR for {ticker}:
+- Latest 10-K/10-Q: https://efts.sec.gov/LATEST/search-index?q=%22{ticker}%22&dateRange=custom&startdt=2025-01-01
+- Form 4 (insider transactions): https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={ticker}&type=4&count=10
+- 8-K filings (monthly data): https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={ticker}&type=8-K&count=5
+
+If Claude stated specific revenue, EPS, or growth figures — verify them.
+If Claude stated competitive claims — search for counter-evidence.
+Post your findings and adjust your conviction accordingly.
+"""
+
+    report_path = reports_dir / f"ORACLE_{ticker}_{today}_v2_composite.md"
+    report_path.write_text(report_content)
+
+    seeds_dir = Path.home() / "ORACLE" / "mirofish_seeds"
+    seeds_dir.mkdir(parents=True, exist_ok=True)
+    seed_path = seeds_dir / f"{ticker}_{today}_seed.md"
+    seed_path.write_text(report_content)
+
+    return str(report_path)
+
+
 @app.route("/api/run", methods=["POST"])
 def run_sim():
     body      = request.get_json(force=True) or {}

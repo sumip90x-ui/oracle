@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-10-15
+Transaction Date: 2025-10-10
+Person: Milmoe William H. — 10%+ Owner
+Type: SELL
+Shares: 40000 at $62.50
+Shares After: 221245
+=== TICKER: CELH ===
+===

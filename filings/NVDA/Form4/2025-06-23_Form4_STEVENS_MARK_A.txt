@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-23
+Transaction Date: 2025-06-18
+Person: STEVENS MARK A — Director
+Type: SELL
+Shares: 608248 at $145.2633
+Shares After: 11541602
+=== TICKER: NVDA ===
+===

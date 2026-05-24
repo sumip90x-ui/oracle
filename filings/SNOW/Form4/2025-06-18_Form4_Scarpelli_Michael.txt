@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-18
+Transaction Date: 2025-06-16
+Person: Scarpelli Michael — Chief Financial Officer
+Type: OTHER
+Shares: 3050 at $208.18
+Shares After: 69569
+=== TICKER: SNOW ===
+===

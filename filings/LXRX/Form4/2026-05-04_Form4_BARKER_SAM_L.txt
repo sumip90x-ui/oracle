@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-05-04
+Transaction Date: 2026-05-01
+Person: BARKER SAM L — Director
+Type: BUY
+Shares: 79192 at $0
+Shares After: 43478
+=== TICKER: LXRX ===
+===

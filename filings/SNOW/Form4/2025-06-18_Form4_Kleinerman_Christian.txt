@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-18
+Transaction Date: 2025-06-16
+Person: Kleinerman Christian — EVP, Product Management
+Type: OTHER
+Shares: 6008 at $208.18
+Shares After: 53568
+=== TICKER: SNOW ===
+===

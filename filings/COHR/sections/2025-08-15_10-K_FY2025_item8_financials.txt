@@ -1,0 +1,372 @@
+=== FILING DATE: 2025-08-15 ===
+=== PERIOD COVERED: 2025-06-30 ===
+=== SOURCE: 10-K filed 2025-08-15 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: COHR ===
+
+Item 8
+ of this Annual Report on Form 10-K.
+Financial statements, financial statement schedules and exhibits not listed have been omitted where the required information is included in the Consolidated Financial Statements or notes thereto, or is not applicable or required.
+Incorporated herein by reference
+Exhibit No.
+Description
+Form
+Exhibit No.
+Filing Date
+File No.
+2.01
+Agreement and Plan of Merger, dated as of March 25, 2021, by and among II-VI Incorporated, Watson Merger Sub Inc. and Coherent, Inc.
+8-K
+2.1
+March 26, 2021
+001-39375
+3.01
+Amended and Restated Articles of Incorporation of II-VI Incorporated
+8-K
+3.1
+November 8, 2011
+000-16195
+3.02
+Articles of Amendment to Amended and Restated Articles of Incorporation
+8-K
+3.1
+September 8, 2022
+001-39375
+3.03
+Amended and Restated By-Laws of Coherent Corp. as amended and restated effective September 8, 2022
+8-K
+3.2
+September 8, 2022
+001-39375
+3.04
+Statement with Respect to Shares, filed with the Pennsylvania Department of State Corporations Bureau and effective July 6, 2020
+10-K
+3.03
+August 26, 2020
+001-39375
+3.05
+Statement with Respect to Shares, filed with the Pennsylvania Department of State Corporations Bureau and effective March 30, 2021
+8-K
+3.1
+March 31, 2021
+001-39375
+4.01
++
+Description of Coherent Corp.'s Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934
+4.02
+Indenture, dated as of December 10, 2021, among Coherent Corp., the guarantors party thereto and U.S. Bank National Association, as trustee
+8-K
+4.1
+December 10, 2021
+001-39375
+4.03
+Form of 5.000% Senior Notes due 2029
+8-K
+4.2 (included in Exhibit 4.1)
+December 10, 2021
+001-39375
+4.04
+First Supplemental Indenture, dated as of July 1, 2022, among Coherent Corp., the guarantors party thereto and U.S. Bank National Association, as Trustee
+10-K
+4.05
+August 18, 2023
+001-39375
+4.05
+Second Supplemental Indenture, dated as of May 5, 2023, among Coherent Corp., the guarantors party thereto and U.S. Bank National Association, as Trustee
+10-Q
+4.01
+May 10, 2023
+001-39375
+4.06
+Third Supplemental Indenture, dated as of May 31, 2023, among Coherent Corp., the guarantors party thereto and U.S. Bank National Association, as Trustee
+10-K
+4.07
+August 18, 2023
+001-39375
+93
+4.07
++
+Fourth Supplemental Indenture, dated as of May 31, 2023, among Coherent Corp., the guarantors party thereto and U.S. Bank National Association, as Trustee
+4.08
+Registration Rights Agreement, dated March 31, 2021, by and between II-VI Incorporated and BCPE Watson (DE) SPV, LP.
+Schedule
+13D
+D
+July 11, 2022
+005-39319
+10.01*
+Credit Agreement, dated as of July 1, 2022, by and among II-VI Incorporated, the lenders and other parties from time to time party thereto and JPMorgan Chase Bank, N.A., as administrative agent
+8-K
+10.1
+July 1, 2022
+001-39375
+10.02
+Amendment No. 1 to Credit Agreement, dated as of March 31, 2023, by and among Coherent Corp., JPMorgan Chase Bank, N.A., as administrative agent and collateral agent, and the lenders party thereto
+10-Q
+10.1
+May 10, 2023
+001-39375
+10.03
+Amendment No. 2 to Credit Agreement, dated April 2, 2024, among Coherent Corp., JPMorgan Chase Bank, N.A., as administrative agent, the lenders party thereto and the other parties party thereto
+8-K
+10.1
+April 3, 2024
+001-39375
+10.04
+Amendment No. 3 to Credit Agreement, dated January 2, 2025, among Coherent Corp., JPMorgan Chase Bank, N.A., as administrative agent, the lenders party thereto and the other parties party thereto
+8-K
+10.1
+January 7, 2025
+001-39375
+10.05
+Investment Agreement, dated as of October 10, 2023 by and between Silicon Carbide LLC and Denso Corporation
+8-K
+10.1
+October 10, 2023
+001-39375
+10.06
+Investment Agreement, dated as of October 10, 2023 by and between Silicon Carbide LLC and Mitsubishi Electric Corporation
+8-K
+10.2
+October 10, 2023
+001-39375
+10.07
+Form of Indemnification Agreement between II-VI Incorporated and its directors and officers
+10-K
+10.15
+August 28, 2018
+000-16195
+10.08**
+Amended and Restated II-VI Incorporated Deferred Compensation Plan (applicable to periods prior to January 1, 2015)
+10-K
+10.17
+August 28, 2015
+000-16195
+10.09**
+Amended and Restated II-VI Incorporated Deferred Compensation Plan (applicable to periods after January 1, 2015)
+10-K
+10.18
+August 28, 2015
+000-16195
+10.10**
+II-VI Incorporated Amended and Restated 2012 Omnibus Incentive Plan
+S-8
+10.1
+November 4, 2014
+333-199855
+10.11**
+Form of Nonqualified Stock Option Agreement under the II-VI Incorporated Amended and Restated 2012 Omnibus Incentive Plan
+10-K
+10.30
+August 28, 2013
+000-16195
+10.12**
+II-VI Incorporated Second Amended and Restated 2012 Omnibus Incentive Plan
+10-Q
+10.01
+February 8, 2016
+000-16195
+10.13**
+Form of Nonqualified Stock Option Agreement under the II-VI Incorporated Second Amended and Restated 2012 Omnibus Incentive Plan
+10-Q
+10.03
+November 8, 2016
+000-16195
+10.14**
+II-VI Incorporated Amended and Restated 2018 Omnibus Incentive Plan
+S-8
+99.1
+November 10, 2020
+333-249995
+94
+10.15**
+Form of Nonqualified Stock Option Agreement under the II-VI Incorporated Amended and Restated 2018 Omnibus Incentive Plan
+10-Q
+10.01
+February 8, 2019
+000-16195
+10.16**
+2005 Deferred Compensation Plan
+10-K/A
+10.6
+February 1, 2021
+001-33962
+10.17**
+Coherent Corp. Omnibus Incentive Plan
+8-K
+10.1
+November 18, 2024
+001-39375
+10.18**
+Form of Restricted Share Unit Settled in Shares Award Agreement under the Coherent Corp. Omnibus Incentive Plan (FY24 Award)
+10-Q
+10.05
+February 6, 2024
+001-39375
+10.19**
+Form of Performance Share Unit Award Agreement (Cash Flow; Share-Settled) under the Coherent Corp. Omnibus Incentive Plan (FY24 Award)
+10-Q
+10.06
+February 6, 2024
+001-39375
+10.20**
+Form of Performance Share Unit Award Agreement (Relative TSR; Share-Settled) under the Coherent Corp. Omnibus Incentive Plan (FY24 Award)
+10-Q
+10.07
+February 6, 2024
+001-39375
+10.21**
++
+Form of Restricted Share Unit Settled in Shares Award Agreement under the Coherent Corp. Omnibus Incentive Plan (FY25 Award)
+10.22**
++
+Form of Performance Share Unit Award Agreement (Relative TSR; Share-Settled) under the Coherent Corp. Omnibus Incentive Plan (FY25 Award)
+10.23**
+Description of Incentive Programs
+10-K
+10.25
+August 16, 2024
+001-39375
+10.24**
+Coherent Corp. Employee Stock Purchase Plan
+8-K
+10.2
+November 13, 2023
+001-39375
+10.25**
+Coherent Corp. Revised Executive Severance Plan
+10-Q
+10.03
+May 7, 2024
+001-39375
+10.26**
+Form of Participation Agreement for the Coherent Corp. Revised Executive Severance Plan
+10-Q
+10.04
+May 7, 2024
+001-39375
+10.27**
+Employment Agreement, dated October 3, 2012, by and between II-VI Incorporated and Giovanni Barbarossa
+10-K
+10.07
+August 28, 2015
+000-16195
+10.28**
+Agreement, dated October 4, 2018, by and between II-VI Incorporated and Walter R. Bashaw II
+10-K
+10.26
+August 18, 2023
+001-39375
+10.29**
+Amended and Restated Employment Agreement, effective August 23, 2022, by and between II-VI Incorporated and Vincent D. Mattera, Jr.
+8-K
+10.1
+August 23, 2022
+001-39375
+10.30**
+CEO Succession and Retirement Agreement, dated February 17, 2024, by and between Coherent Corp. and Dr. Vincent D. Mattera, Jr.
+8-K
+10.1
+February 20, 2024
+001-39375
+10.31**
+Transition Services and Final Agreement, dated September 13, 2023, by and between Coherent Corp. and Mary Jane Raymond
+8-K
+10.1
+September 15, 2023
+001-39375
+10.32**
+Transition Acknowledgment Letter, dated October 3, 2024, by and between Coherent Corp. and Ronald Basso
+10-Q
+10.1
+February 5, 2025
+001-39375
+10.33**
+Offer Letter between James R. Anderson and Coherent Corp. dated May 31, 2024
+8-K
+10.1
+June 3, 2024
+001-39375
+10.34**
+Offer Letter between Sherri R. Luther and Coherent Corp. dated October 8, 2024
+8-K
+10.1
+October 11, 2024
+001-39375
+10.35**
+CEO Award Agreement for Inducement RSUs
+8-K
+10.2
+June 3, 2024
+001-39375
+95
+10.36**
+CEO Award Agreement for Inducement PSUs
+8-K
+10.3
+June 3, 2024
+001-39375
+10.37**
+CFO Award Agreement for Inducement RSUs (3-year vest)
+8-K
+10.1
+October 16, 2024
+001-39375
+10.38**
+CFO Award Agreement for Inducement RSUs (2-year vest)
+8-K
+10.2
+October 16, 2024
+001-39375
+10.39**
+CFO Award Agreement for Inducement PSUs
+8-K
+10.3
+October 16, 2024
+001-39375
+19.01
++
+Coherent Corp. and its subsidiaries Insider Trading and Tipping Policy, effective September 25, 2018 and revised December 31, 2024
+21.01
++
+List of Subsidiaries of Coherent Corp.
+23.01
++
+Consent of Ernst & Young LLP
+31.01
++
+Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended, and Section 302 of the Sarbanes-Oxley Act of 2002
+31.02
++
+Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended, and Section 302 of the Sarbanes-Oxley Act of 2002
+32.01
++
+Certification of the Chief Executive Officer pursuant to Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, and 18 U.S.C. § 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.02
++
+Certification of the Chief Financial Officer pursuant to Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, and 18 U.S.C. § 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+97.01
+Coherent Corp. Compensation Recovery ("Clawback") Policy
+10-K
+97.01
+August 16, 2024
+001-39375
+101
+Interactive Data File
+(101.INS)
+Inline XBRL Instance Document
+(101.SCH)
+Inline XBRL Taxonomy Extension Schema Document
+(101.CAL)
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+(101.DEF)
+Inline XBRL Taxonomy Definition Linkbase
+(101.LAB)
+Inline XBRL Taxonomy Extension Label Linkbase Document
+(101.PRE)
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
++    
+Filed herewith
+*    Certain schedules and exhibits have been omitted pursuant to

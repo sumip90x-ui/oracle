@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-26
+Transaction Date: 2026-01-22
+Person: Vazquez Raul — Director
+Type: OTHER
+Shares: 1191 at $0
+Shares After: 497
+=== TICKER: INTU ===
+===

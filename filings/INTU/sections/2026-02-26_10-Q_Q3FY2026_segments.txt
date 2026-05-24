@@ -1,0 +1,354 @@
+=== FILING DATE: 2026-02-26 ===
+=== PERIOD COVERED: 2026-01-31 ===
+=== SOURCE: 10-Q filed 2026-02-26 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: INTU ===
+
+ss Solutions
+$
+761
+ 
+$
+619
+ 
+$
+1,418
+ 
+$
+1,161
+ 
+Consumer
+589
+ 
+497
+ 
+899
+ 
+808
+ 
+Total segment cost of revenue and operating expenses
+$
+1,350
+ 
+$
+1,116
+ 
+$
+2,317
+ 
+$
+1,969
+ 
+Operating income:
+ 
+ 
+Global Business Solutions
+$
+2,403
+ 
+$
+2,052
+ 
+$
+4,737
+ 
+$
+4,054
+ 
+Consumer
+898
+ 
+795
+ 
+1,482
+ 
+1,223
+ 
+Total segment operating income
+3,301
+ 
+2,847
+ 
+6,219
+ 
+5,277
+ 
+Unallocated corporate items:
+ 
+ 
+Share-based compensation expense
+(
+521
+)
+(
+498
+)
+(
+1,064
+)
+(
+1,009
+)
+Other corporate expenses
+(
+1,760
+)
+(
+1,595
+)
+(
+3,436
+)
+(
+3,077
+)
+Amortization of acquired technology
+(
+44
+)
+(
+37
+)
+(
+88
+)
+(
+74
+)
+Amortization of other acquired intangible assets
+(
+121
+)
+(
+120
+)
+(
+242
+)
+(
+240
+)
+Restructuring
+—
+ 
+(
+4
+)
+—
+ 
+(
+13
+)
+Total unallocated corporate items
+(
+2,446
+)
+(
+2,254
+)
+(
+4,830
+)
+(
+4,413
+)
+Total operating income
+$
+855
+ 
+$
+593
+ 
+$
+1,389
+ 
+$
+864
+ 
+(1)
+Cost of revenue and operating expenses primarily include direct expenses related to selling and marketing, direct costs associated with our product and services offerings, certain data science and analytics related costs, and certain design and product management related costs. They exclude expenses that are recorded within unallocated corporate items, such as certain technology and customer success costs that support and benefit the overall platform and are managed at the corporate level.
+Revenue classified by significant service and product offerings was as follows:
+ 
+Three Months Ended
+Six Months Ended
+(In millions)
+January 31,
+2026
+January 31,
+2025
+January 31,
+2026
+January 31,
+2025
+Net revenue:
+ 
+ 
+QuickBooks Online Accounting
+$
+1,248
+ 
+$
+1,008
+ 
+$
+2,454
+ 
+$
+1,973
+ 
+Online Services
+1,219
+ 
+1,030
+ 
+2,364
+ 
+2,008
+ 
+Total Online Ecosystem
+2,467
+ 
+2,038
+ 
+4,818
+ 
+3,981
+ 
+QuickBooks Desktop Accounting
+408
+ 
+355
+ 
+764
+ 
+684
+ 
+Desktop Services and Supplies
+289
+ 
+278
+ 
+573
+ 
+550
+ 
+Total Desktop Ecosystem
+697
+ 
+633
+ 
+1,337
+ 
+1,234
+ 
+Global Business Solutions
+3,164
+ 
+2,671
+ 
+6,155
+ 
+5,215
+ 
+TurboTax
+581
+ 
+520
+ 
+779
+ 
+707
+ 
+Credit Karma
+616
+ 
+500
+ 
+1,267
+ 
+1,013
+ 
+ProTax
+290
+ 
+272
+ 
+335
+ 
+311
+ 
+Consumer
+1,487
+ 
+1,292
+ 
+2,381
+ 
+2,031
+ 
+Total net revenue
+$
+4,651
+ 
+$
+3,963
+ 
+$
+8,536
+ 
+$
+7,246
+ 
+ Intuit
+ Q2 Fiscal 2026 Form 10-Q
+30
+Table of Contents
+ITEM 2 - MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to provide readers of our condensed consolidated financial statements with the perspectives of management. This should allow the readers of this report to obtain a comprehensive understanding of our businesses, strategies, current trends, and future prospects. Our MD&A includes the following sections:
+•
+
+Executive Overview:
+
+High-level discussion of our operating results and some of the trends that affect our business.
+•
+
+Critical Accounting Estimates:
+ Significant changes since our most recent Annual Report on Form 10-K that we believe are important to understanding the assumptions and judgments underlying our financial statements.
+•
+
+Results of Operations:
+ A more detailed discussion of our revenue and expenses.
+•
+
+Liquidity and Capital Resources:
+
+Discussion of key aspects of our condensed consolidated statements of cash flows, changes in our condensed consolidated balance sheets, and our financial commitments.
+You should note that this MD&A contains forward-looking statements that involve risks and uncertainties. Please see the section entitled
+“Forward-Looking Statements”
+immediately preceding Part I of this Quarterly Report for important information to consider when evaluating such statements.
+You should read this MD&A in conjunction with the financial statements and related notes in Part I, Item 1 of this Quarterly Report and our Annual Report on Form 10-K for the fiscal year ended July 31, 2025.
+In the Results of Operations section of this MD&A, where we describe two or more factors that contributed to changes in revenue and operating income, we have, where possible, quantified the impact of those factors. Where a change is the result of multiple factors that are interrelated and cannot be separately quantified, we have identified the interrelated factors without quantifying them.
+Effective August 1, 2025, we combined our Consumer, Credit Karma, and ProTax businesses into a single Consumer segment in order to better serve the diverse financial needs of our customers as one consumer platform. Our chief operating decision maker allocates resources and assesses segment performance using regularly provided segment revenue and segment operating income information under this updated segment structure. To align results under this segment change, certain selling and marketing, product development, and general and administrative expenses for Credit Karma that were managed at the segment level are now managed at the platform level and are included in other corporate expenses rather than in segment expenses. Also on August 1, 2025, we reorganized certain marketing, communications, and customer success functions in our Global Business Solutions segment that support and benefit our overall platform and are managed at that level rather than at the segment level. Additionally, certain data science and analytics teams that were managed at the platform level are now managed at the segment level. We have recast certain previously reported amounts to conform to these segment changes. As a result of these changes, for the three and six months ended January 31, 2025, we reclassified expenses totaling $3 million and $6 million from Global Business Solutions and $149 million and $301 million from Consumer to other corporate expenses, respectively, to conform to the current presentation.
+See Note 12,
+"Segment Information
+,
+"
+ for more information.
+
+EXECUTIVE OVERVIEW
+This overview provides a high-level discussion of our operating results and some of the trends that affect our business. We believe that an understanding of these trends is important in order to understand our financial results, as well as our future prospects. This summary is not intended to be exhaustive, nor is it a substitute for the detailed discussion and analysis provided elsewhere in this Quarterly Report on Form 10-Q.
+ Intuit
+ Q2 Fiscal 2026 Form 10-Q
+31
+Table of Contents
+About Intuit
+Intuit helps consumers and small and mid-market businesses prosper by delivering financial management, compliance, and marketing products and services. We also provide specialized tax products to accounting professionals. We organize our businesses into two reportable segments – Global Business Solutions and Consumer.
+Global Business Solutions
+:
+
+This segment serves small and mid-market businesses around the world, and the accounting professionals who assist and advise them. QuickBooks and Intuit Enterprise Suite are offerings powered by our all-in-one business platform which includes financial management services, human capital management solutions such as payroll and time tracking, money solutions, such as merchant payment processing, bill pay, checking accounts through an FDIC-member bank partner, and financing for small and mid-market businesses. Intuit Enterprise Suite provides mid-market businesses with a configurable, AI-powered solution that includes multi-entity and multi-dimensional financial management capabilities designed to seamlessly scale and enhance productivity and profitability for more complex businesses to streamline operations. Mailchimp offerings include marketing automation and customer relationship tools.
+Consumer
+:
+
+This segment primarily serves consumers and professional accountants.
+Our TurboTax offerings primarily help consumers complete their taxes with confidence and maximize their financial outcomes—whether they do it themselves or with the help of an AI-enabled human expert. TurboTax delivers do-it-yourself and assisted income tax preparation products and services sold in the United States (U.S.) and Canada. We offer a v

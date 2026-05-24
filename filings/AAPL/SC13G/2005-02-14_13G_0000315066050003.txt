@@ -1,0 +1,398 @@
+=== FILING DATE: 2005-02-14 ===
+=== PERIOD COVERED: 2005-02-14 ===
+=== SOURCE: SC13G filed 2005-02-14 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: AAPL ===
+
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>filing.txt
+<DESCRIPTION>DOC ONE
+<TEXT>
+
+SCHEDULE 13G
+
+Amendment No. 0
+Apple Computer Incorporated
+Common Stock
+Cusip #037833100
+
+
+Cusip #037833100
+Item 1:	Reporting Person - FMR Corp.
+Item 4:	Delaware
+Item 5:	2,641,914
+Item 6:	0
+Item 7:	22,532,595
+Item 8:	0
+Item 9:	22,532,595
+Item 11:	5.604%
+Item 12:	    HC
+
+
+Cusip #037833100
+Item 1:	Reporting Person - Edward C. Johnson 3d
+Item 4:	United States of America
+Item 5:	160,500
+Item 6:	0
+Item 7:	22,532,595
+Item 8:	0
+Item 9:	22,532,595
+Item 11:	5.604%
+Item 12:	IN
+
+
+Cusip #037833100
+Item 1:	Reporting Person - Abigail P. Johnson
+Item 4:	United States of America
+Item 5:	0
+Item 6:	0
+Item 7:	22,532,595
+Item 8:	0
+Item 9:	22,532,595
+Item 11:	5.604%
+Item 12:	    IN
+
+
+	SCHEDULE 13G - TO BE INCLUDED IN
+STATEMENTS
+	FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+
+
+Item 1(a).	Name of Issuer:
+
+		Apple Computer Incorporated
+
+Item 1(b).	Name of Issuer's Principal Executive Offices:
+
+		1 Infinite Loop
+		Cupertino, CA  95014
+
+
+Item 2(a).	Name of Person Filing:
+
+		FMR Corp.
+
+Item 2(b).	Address or Principal Business Office or, if None,
+Residence:
+
+		82 Devonshire Street, Boston,
+Massachusetts  02109
+
+Item 2(c).	Citizenship:
+
+		Not applicable
+
+Item 2(d).	Title of Class of Securities:
+
+		Common Stock
+
+Item 2(e).	CUSIP Number:
+
+		037833100
+
+Item 3.	This statement is filed pursuant to Rule 13d-1(b) or 13d-2(b)
+and the person filing, FMR Corp., is a parent holding company
+in accordance with Section 240.13d-1(b)(ii)(G).  (Note:  See
+Item 7).
+
+Item 4.	Ownership
+
+	(a)	Amount Beneficially Owned:	22,532,595
+
+	(b)	Percent of Class:	5.604%
+
+	(c)	Number of shares as to which such
+person has:
+
+	(i)	sole power to vote or to direct
+the vote:	2,641,914
+
+	(ii)	shared power to vote or to
+direct the vote:	0
+
+	(iii)	sole power to dispose or to
+direct the disposition of:	22,532,595
+
+	(iv)	shared power to dispose or to
+direct the disposition of:	0
+
+
+Item 5.	Ownership of Five Percent or Less of a Class.
+
+	Not applicable.
+
+Item 6.	Ownership of More than Five Percent on Behalf of Another
+Person.
+
+	Various persons have the right to receive or the power to
+direct the receipt of dividends from, or the proceeds from the
+sale of, the Common Stock of Apple Computer Incorporated.
+No one person's interest in the Common Stock of Apple
+Computer Incorporated is more than five percent of the total
+outstanding Common Stock.
+
+Item 7.	Identification and Classification of the Subsidiary Which
+Acquired the Security Being Reported on By the Parent
+Holding Company.
+
+	See attached Exhibit(s) A, B, and C.
+
+Item 8.	Identification and Classification of Members of
+the Group.
+
+	Not Applicable. See attached Exhibit A.
+
+Item 9.	Notice of Dissolution of Group.
+
+	Not applicable.
+
+Item 10.	Certification.
+
+	By signing below I certify that, to the best of my knowledge
+and belief, the securities referred to above were acquired in the
+ordinary course of business and were not acquired for the
+purpose of and do not have the effect of changing or
+influencing the control of the issuer of such securities and
+were not acquired in connection with or as a participant in any
+transaction having such purpose or effect.
+
+Signature
+
+	After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this Schedule
+13G in connection with FMR Corp.'s beneficial ownership of
+the Common Stock of Apple Computer Incorporated at
+December 31, 2004 is true, complete and correct.
+
+February 14, 2005
+Date
+
+/s/Eric D. Roiter
+Signature
+
+Eric D. Roiter
+Duly authorized under Power of Attorney
+dated December 30, 1997 by and on behalf
+of FMR Corp. and its direct and indirect
+subsidiaries
+
+
+	SCHEDULE 13G - TO BE INCLUDED IN
+STATEMENTS
+	FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+
+
+	Pursuant to the instructions in Item 7 of Schedule
+13G, Fidelity Management & Research Company
+("Fidelity"), 82 Devonshire Street, Boston, Massachusetts
+02109, a wholly-owned subsidiary of FMR Corp. and an
+investment adviser registered under Section 203 of the
+Investment Advisers Act of 1940, is the beneficial owner of
+19,604,301 shares or 4.876% of the Common Stock
+outstanding of Apple Computer Incorporated  ("the
+Company") as a result of acting as investment adviser to
+various investment companies registered under Section 8 of
+the Investment Company Act of 1940.
+
+	Edward C. Johnson 3d, FMR Corp., through its
+control of Fidelity, and the funds each has sole power to
+dispose of the 19,604,301 shares owned by the Funds.
+
+	Neither FMR Corp. nor Edward C. Johnson 3d,
+Chairman of FMR Corp., has the sole power to vote or direct
+the voting of the shares owned directly by the Fidelity Funds,
+which power resides with the Funds' Boards of Trustees.
+Fidelity carries out the voting of the shares under written
+guidelines established by the Funds' Boards of Trustees.
+
+	Fidelity Management Trust Company, 82 Devonshire
+Street, Boston, Massachusetts 02109, a wholly-owned
+subsidiary of FMR Corp. and a bank as defined in Section
+3(a)(6) of the Securities Exchange Act of 1934, is the
+beneficial owner of  1,335,053 shares or 0.332% of the
+Common Stock outstanding of the Company as a result of its
+serving as investment manager of the institutional account(s).
+
+	Edward C. Johnson 3d and FMR Corp., through its
+control of Fidelity Management Trust Company, each has
+sole dispositive power over 1,335,053 shares and sole power
+to vote or to direct the voting of 1,048,353 shares, and no
+power to vote or to direct the voting of 286,700 shares of
+Common Stock owned by the institutional account(s) as
+reported above.
+
+	Strategic Advisers, Inc., 82 Devonshire Street,
+Boston, MA 02109, a wholly-owned subsidiary of FMR
+Corp. and an investment adviser registered under Section 203
+of the Investment Advisers Act of 1940, provides investment
+advisory services to individuals.  As such, FMR Corp.'s
+beneficial ownership includes 265,651 shares, or 0.066%, of
+the Common Stock stock outstanding of Apple Computer
+Incorporated, beneficially owned through Strategic Advisers,
+Inc.
+
+	Members of the Edward C. Johnson 3d family are the
+predominant owners of Class B shares of common stock of
+FMR Corp., representing approximately 49% of the voting
+power of FMR Corp.  Mr. Johnson 3d owns 12.0% and
+Abigail Johnson owns 24.5% of the aggregate outstanding
+voting stock of FMR Corp.  Mr. Johnson 3d is Chairman of
+FMR Corp. and Abigail P. Johnson is a Director of FMR
+Corp.  The Johnson family group and all other Class B
+shareholders have entered into a shareholders' voting
+agreement under which all Class B shares will be voted in
+accordance with the majority vote of Class B shares.
+Accordingly, through their ownership of voting common
+stock and the execution of the shareholders' voting
+agreement, members of the Johnson family may be deemed,
+under the Investment Company Act of 1940, to form a
+controlling group with respect to FMR Corp.
+
+	Edward C. Johnson 3d has sole voting and dispositive
+power over 160,500 shares, shared voting and dispositive
+power over 0 shares, and no voting or dispositive power over
+0 shares.
+
+	Fidelity International Limited, Pembroke Hall, 42
+Crowlane, Hamilton, Bermuda, and various foreign-based
+subsidiaries provide investment advisory and management
+services to a number of non-U.S. investment companies (the
+"International Funds") and certain institutional investors.
+Fidelity International Limited is the beneficial owner of
+1,167,090 shares or 0.290% of the Common Stock
+outstanding of the Company. Additional information with
+respect to the beneficial ownership of Fidelity International
+Limited is shown on Exhibit B.
+
+
+	SCHEDULE 13G - TO BE INCLUDED IN
+STATEMENTS
+	FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+
+	Pursuant to instructions in Item 7 of Schedule 13G, this
+Exhibit has been prepared  to identify Fidelity International
+Limited, Pembroke Hall, 42 Crow Lane, Hamilton, Bermuda,
+a Bermudan joint stock company incorporated for an
+unlimited duration by private act of the Bermuda Legislature
+(FIL) and an investment adviser to various investment
+companies (the "International Funds") and certain institutional
+investors, as a beneficial owner of the 1,167,090 shares or
+0.290% of the Common Stock outstanding of Apple Computer
+Incorporated.
+
+	Prior to June 30, 1980, FIL was a majority-owned
+subsidiary of Fidelity Management & Research Company
+(Fidelity), a wholly-owned subsidiary of FMR Corp.  On that
+date, the shares of FIL held by Fidelity were distributed, as a
+dividend,  to the shareholders of FMR Corp.  FIL currently
+operates as an entity independent of FMR Corp. and Fidelity.
+The International Funds and FIL's other clients, with the
+exception of Fidelity and an affiliated company of Fidelity, are
+non-U.S. entities.
+
+	A partnership controlled by Edward C. Johnson 3d and
+members of his family owns shares of FIL voting stock with
+the right to cast approximately 39.89% of the total votes which
+may be cast by all holders of FIL voting stock.  Mr. Johnson
+3d is Chairman of FMR Corp. and FIL.  FMR Corp. and FIL
+are separate and independent corporate entities, and their
+Boards of Directors are generally composed of different
+individuals.  Other than when one serves as a sub adviser to
+the other, their investment decisions are made independently,
+and their clients are generally different organizations.
+
+	FMR Corp. and FIL are of the view that they are not
+acting as a "group" for purposes of Section 13(d) under the
+Securities Exchange Act of 1934 (the "1934" Act) and that
+they are not otherwise required to attribute to each other the
+"beneficial ownership" of securities "beneficially owned" by
+the other corporation within the meaning of Rule 13d-3
+promulgated under the 1934 Act.  Therefore, they are of the
+view that the shares held by the other corporation need not be
+aggregated for purposes of Section 13(d). However, FMR
+Corp. is making this filing on a voluntary basis as if all of the
+shares are beneficially owned by FMR Corp. and FIL on a
+joint basis.
+
+	FIL may continue to have the International Funds or
+other accounts purchase shares subject to a number of factors,
+including, among others, the availability of shares for sale at
+what FIL considers to be reasonable prices and other
+investment opportunities that may be available to the
+International Funds.
+
+	FIL intends to review continuously the equity position
+of the International Funds and other accounts in the Company.
+Depending upon its future evaluations of the business and
+prospects of the Company and upon other developments,
+including, but not limited to, general economic and business
+conditions and money market and stock market conditions,
+FIL may determine to cease making additional purchases of
+shares or to increase or decrease the equity interest in the
+Company by acquiring additional shares, or by disposing of all
+or a portion of the shares.
+
+	FIL does not have a present plan or proposal which
+relates to or would result in (i) an extraordinary corporate
+transaction, such as a merger, reorganization, liquidation, or
+sale or transfer of a material amount of assets involving the
+Company or any of its subsidiaries, (ii) any change in the
+Company's present Board of Directors or management, (iii)
+any material changes in the Company's present capitalization
+or dividend policy or any other material change in the
+Company's business or corporate structure, (iv) any change in
+the Company's charter or by-laws, or (v) the Company's
+common stock becoming eligible for termination of its
+registration pursuant to Section 12(g)(4) of the 1934 Act.
+
+	FIL  has sole power to vote and the sole power to
+dispose of  1,167,090  shares.
+
+
+ 	SCHEDULE 13G - TO BE INCLUDED IN
+STATEMENTS
+	FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)
+	RULE 13d-1(f)(1)  AGREEMENT
+
+	The undersigned persons, on February 14, 2005, agree
+and consent to the joint filing on their behalf of this Schedule
+13G in connection with their beneficial ownership of the
+Common Stock of Apple Computer Incorporated at December
+31, 2004.
+
+	FMR Corp.
+
+	By /s/ Eric D. Roiter
+	Eric D. Roiter
+	Duly authorized under Power of Attorney
+	dated December 30, 1997, by and on behalf
+	of FMR Corp. and its direct and indirect
+	subsidiaries
+
+	Edward C. Johnson 3d
+
+	By /s/ Eric D. Roiter
+	Eric D. Roiter
+	Duly authorized under Power of Attorney
+	dated December 30, 1997, by and on behalf
+	of Edward C. Johnson 3d
+
+	Abigail P. Johnson
+
+	By /s/ Eric D. Roiter
+	Eric D. Roiter
+	Duly authorized under Power of Attorney
+	dated December 30, 1997, by and on behalf
+	of Abigail P. Johnson
+
+	Fidelity Management & Research Company
+
+	By /s/ Eric D. Roiter
+	Eric D. Roiter
+	Senior V.P. and General Counsel
+
+
+</TEXT>
+</DOCUMENT>

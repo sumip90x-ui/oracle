@@ -1,0 +1,101 @@
+=== FILING DATE: 2026-02-25 ===
+=== PERIOD COVERED: 2025-12-28 ===
+=== SOURCE: 10-K filed 2026-02-25 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: HAS ===
+
+ficiently and profitably.
+3
+Table of Contents
+•
+The industries in which we compete are highly competitive, with low barriers to entry. Artificial intelligence is likely to result in increased competition in the markets in which we compete.
+•
+Acquisitions, licenses, dispositions and other investments we complete may not provide us with the benefits we expect, or the realization of such benefits may be significantly delayed.
+Operational Risks
+•
+Our business may be harmed by the imposition or threat of tariffs, including reciprocal or retaliatory tariffs, in markets in which we operate which could increase our product costs and other costs of doing business, reduce or delay purchases, impact consumer spending, or lower our revenues and earnings.
+•
+We may be unable to develop, introduce and ship products on a timely and cost-effective basis, or we may be unable to successfully navigate through global supply chain challenges.
+•
+We may be unable to successfully adapt to the increasing importance of direct-to-consumer sales.
+•
+Our customer base remains highly concentrated, making us susceptible to the success of their businesses.
+•
+Our substantial business, sales and manufacturing operations outside the U.S. subjects us to risks of international operations, including the risk and impact of current, potential, retaliatory or reciprocal tariffs on our products.
+•
+Our reliance on third-party manufacturers, particularly in China, presents risks to our business.
+•
+Our digital games and entertainment offerings may be dependent on third-party studios, content producers and distribution channels.
+•
+Outsourcing of certain key operations or business functions to one or more third-parties creates risks relating to dependence on third parties.
+•
+If we lose key management or other employees or are unable to attract and retain talented people with the skill sets we need for our diverse and evolving business, our business may be harmed.
+•
+Our business may be harmed if we are unable to protect our critical intellectual property rights.
+•
+As we incorporate AI tools into aspects of our business, including product and game development, we may face increased costs, operational complexity, IP and data governance challenges, and evolving regulatory requirements, any of which could adversely affect timelines, quality, or expected returns on investment.
+•
+Failure to successfully operate our information technology systems, or if our electronic data is compromised, our business may be harmed.
+Global and Economic Risks
+•
+Changes in U.S., global or regional political or economic conditions can harm our business, such as inflation, tariffs, rising interest rates and unemployment rates, as well as the markets in which we and our employees, consumers, customers, suppliers and manufacturers operate. Such changes can also adversely impact discretionary consumer spending.
+•
+Public health crises have had and may continue to have an adverse effect on our business, including harming our ability to source and ship products in a timely and cost-effective manner.
+Financial Risks
+•
+Seasonality in our business may cause our quarterly and annual operating results to fluctuate.
+•
+Impairment charges related to goodwill and intangible assets and other long-term assets could harm our results.
+•
+Our financial performance can be impacted by changes in foreign currency rates due to our global business.
+•
+Our indebtedness may limit our availability of cash, cause us to divert cash to fund debt service payments or make it more difficult to take certain other actions.
+4
+Table of Contents
+•
+We may be unable to obtain or service our external borrowings, or restrictions imposed by such borrowings may be burdensome.
+•
+Our effective tax rate may vary due to changes in or differing tax law and rules in the territories we operate.
+Governmental, Regulatory and Legal Risks
+•
+If we were to violate laws or regulations applicable to our business, our business could be harmed.
+•
+We could be the subject of product liability suits, product recalls or claims relating to media content, any of which could harm our business.
+•
+From time to time, we may be involved in other litigation and similar matters which may entail significant expense or otherwise adversely impact our business.
+Additional risks and uncertainties not presently known to us or that we currently deem immaterial also may impair our business, financial condition, results of operations and cash flows.
+PART I
+Except as expressly indicated or unless the context otherwise requires, as used herein, “Hasbro”, the “Company”, “we”, or “us”, means Hasbro, Inc., a Rhode Island corporation organized on January 8, 1926, and its subsidiaries.
+Item 1.    
+Business.
+Overview
+Hasbro, Inc. (“Hasbro”) is a leading game, intellectual property ("IP"), and toy company whose mission is to create joy and community through the magic of play. With over 100 years of expertise, we deliver play experiences to kids, families, and fans around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more.
+Through our franchise-first approach, we unlock value from both new and legacy IP, including MAGIC: THE GATHERING, MONOPOLY, HASBRO GAMES, PLAY-DOH, TRANSFORMERS, DUNGEONS & DRAGONS, NERF, and PEPPA PIG, as well as premier partner brands. Powered by our portfolio of iconic brands and a diversified network of partners and subsidiary studios, we bring fans together wherever they are, from tabletop to screen.
+For more than a decade, Hasbro has been consistently recognized for its corporate citizenship, including being named one of the 100 Best Corporate Citizens by 3BL Media, a 2025 JUST Capital Industry Leader, one of the 50 Most Community-Minded Companies in the U.S. by the Civic 50, and a Brand that Matters by Fast Company.
+Recent Developments
+Fiscal year 2025 was a year of strong results, driven by our continued execution on our Playing to Win strategy and cost-savings initiatives.
+2025 Business Results
+We finished 2025 with strong momentum, led by another record performance in our Wizards of the Coast and Digital Gaming segment, continued growth in licensing, and operating profit improvement across the Company.
+•
+MAGIC: THE GATHERING had a record year, supported by the success of its Universes Beyond sets such as
+Avatar: The Last Airbender
+and
+Final Fantasy
+, which was the highest selling set of all-time based on net revenues.
+Edge of Eternities
+ and
+Marvel's Spider-Man
+ also contributed to performance as well as high demand for our backlist sets and Secret Lair offerings.
+•
+Digital licensing was once again led by Monopoly Go!, a mobile game from our partners at Scopely, Inc., and remains a meaningful contributor to licensing revenues.
+•
+In our Consumer Products segment, we saw solid performance from BEYBLADE, TRANSFORMERS and Hasbro Gaming, as well as success from recent innovation, such as the announcement of Baby Evie joining PEPPA PIG. In addition, we saw strong success from partner licensed brands, such as MARVEL.
+•
+Licensing in our Consumer Products segment continues to drive strong operating profit.
+5
+Table of Contents
+Operational Excellence Program
+In 2025, we continued to execute on our Operational Excellence program, an ongoing enterprise-wide cost-savings initiative that includes targeted cost-savings, supply chain transformation and certain other restructuring actions designed to drive growth and enhance shareholder value. Through 2025, we have delivered almost $800 million of gross cost savings and are well on our path to our previous $1.0 billion commitment.
+Our Mission and Strategy
+Our mission is to create joy and community through the magic of play, a universal need that lies at the heart of our brands.
+Games, IP, and toys each play an important role in driving our play-focused mission. Toys are often the first handshake we have with consumers, providing an opportunity for consumers at all age

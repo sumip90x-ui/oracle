@@ -1,0 +1,187 @@
+=== FILING DATE: 2025-11-05 ===
+=== PERIOD COVERED: 2025-09-28 ===
+=== SOURCE: 10-Q filed 2025-11-05 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: HAS ===
+
+1,797.6 
+(8.9)
+%
+Entertainment
+61.3 
+64.0 
+(4.2)
+%
+Total net revenues
+$
+3,255.4 
+$
+3,033.9 
+7.3 
+%
+Operating (loss) profit:
+Wizards of the Coast and Digital Gaming
+$
+723.3 
+$
+551.1 
+31.2 
+%
+Consumer Products
+(1)
+(993.4)
+64.8 
+NM
+Entertainment
+2.6 
+14.6 
+(82.2)
+%
+Corporate and Other
+(1)
+(18.9)
+(0.3)
+NM
+Total Operating (loss) profit
+$
+(286.4)
+$
+630.2 
+(145.4)
+%
+(1)
+% Change is not meaningful ("NM") for these segments.
+Wizards of the Coast and Digital Gaming Segment
+The following table presents Wizards of the Coast and Digital Gaming segment net revenues by category for the nine months ended September 28, 2025 and September 29, 2024:
+Nine Months Ended
+September 28,
+2025
+September 29,
+2024
+%
+Change
+Tabletop Gaming
+$
+1,191.9 
+$
+832.6 
+43.2 
+%
+Digital and Licensed Gaming
+364.6 
+339.7 
+7.3 
+%
+Net revenues
+$
+1,556.5 
+$
+1,172.3 
+32.8 
+%
+Wizards of the Coast and Digital Gaming segment net revenues increased 32.8% in the first nine months of 2025 to $1,556.5 million from $1,172.3 million in the first nine months of 2024. Tabletop Gaming revenue increased 43.2% behind growth in MAGIC: THE GATHERING primarily due to strong demand for Universes Beyond sets such as
+Final Fantasy, Edge of Eternities,
+and
+Marvel's Spider-Man.
+The net revenue increase in Digital and Licensed Gaming during the first nine months of 2025 was primarily attributable to revenue contributions from higher digital licensing of
+MONOPOLY GO!,
+which has contributed $125.8 million of revenue year-to-date.
+Wizards of the Coast and Digital Gaming segment operating profit was $723.3 million,
+
+or 46.5% of segment net revenues for the first nine months of 2025, compared to operating profit of $551.1 million, or 47.0% of segment net revenues, for the first nine months of 2024. The operating profit increase during the first nine months of 2025 was primarily driven by increased net revenues, as discussed above, while operating margin as a percentage of segment net revenue decreased slightly as a result of an increased royalty expense, driven by the success of MAGIC: THE GATHERING Universes Beyond sets such as
+Final Fantasy
+and
+Marvel's Spider-Man
+, for which the Company is obligated to pay a royalty.
+38
+Consumer Products Segment
+The following table presents the Consumer Products segment net revenues by major geographic region for the nine months ended September 28, 2025 and September 29, 2024:
+Nine Months Ended
+September 28,
+2025
+September 29,
+2024
+%
+Change
+North America
+$
+950.4 
+$
+1,072.0 
+(11.3)
+%
+Europe
+361.8 
+341.8 
+5.9 
+%
+Asia Pacific
+178.6 
+193.3 
+(7.6)
+%
+Latin America
+146.8 
+190.5 
+(22.9)
+%
+Net revenues
+$
+1,637.6 
+$
+1,797.6 
+(8.9)
+%
+The Consumer Products segment net revenues decreased 9% to $1,637.6 million for the first nine months of 2025 compared to $1,797.6 million for the first nine months of 2024 primarily driven by broader industry trends and timing of retail orders. The net revenue decrease primarily reflects lower net revenues driven by declining sales volumes for brands such as NERF, PLAY-DOH, and Hasbro Gaming, offset by growth from BEYBLADE, MONOPOLY, and TRANSFORMERS products.
+Consumer Products segment operating loss for the first nine months of 2025 was $993.4 million, or 60.7% of segment net revenues, compared to a segment operating profit of $64.8 million, or 3.6% of segment net revenues, for the first nine months of 2024. The increase in operating loss in the first nine months of 2025 was driven by decrease in net revenues and a non-cash goodwill impairment charge of $1,021.9 million recorded during 2025. This was offset by savings realized from the Company's cost savings and transformation initiatives.
+Entertainment Segment
+The following table presents Entertainment segment net revenues by category for the nine months ended September 28, 2025 and September 29, 2024:
+Nine Months Ended
+September 28,
+2025
+September 29,
+2024
+%
+Change
+Film and TV
+$
+7.7 
+$
+3.4 
+126.5 
+%
+Family Brands
+53.6 
+60.6 
+(11.6)
+%
+Net revenues
+$
+61.3 
+$
+64.0 
+(4.2)
+%
+Entertainment segment net revenues decreased 4.2% to $61.3 million for the first nine months of 2025, compared to $64.0 million for the first nine months of 2024. The net revenue decrease in the Entertainment segment during the first nine months of 2025 was driven primarily by timing of entertainment streaming renewals.
+Entertainment segment operating profit was $2.6 million, or 4.2% of segment net revenues, for the first nine months of 2025, compared to an operating profit of $14.6 million, or 22.8% of segment net revenues, for the first nine months of 2024. The decrease in Entertainment segment operating results during the first nine months of 2025 was primarily caused by a decrease in royalty income allocated to the Entertainment segment, driven by the decreased sales volumes within the Consumer Products segment as discussed above, along with a non-recurring Loss on disposal of business of $25.0 million during the first nine months of 2025, that was offset by a non-recurring Loss on disposal of business of $24.4 million during the first nine months of 2024. Refer to Note 3, Sale of Non-Core Entertainment One Film and TV Business, to the consolidated financial statements for further information on the non-recurring Loss on disposal of business.
+Corporate and Other
+Corporate and Other operating loss was $18.9 million for the first nine months of 2025 compared to an operating loss of $0.3 million for the first nine months of 2024. The operating loss in the first nine months of 2025 was higher when compared to the operating loss in the first nine months of 2024 primarily due to the net impact of three prior period non-recurring adjustments recorded during 2024 that provided a combined income statement benefit of approximately $13.7 million. R
+efer to Note 1, Basis of Presentation, to
+the consolidated financial statements
+ for further information on these non-recurring adjustments.
+39
+OTHER INFORMATION
+Commitments and Contingencies
+During the three and nine months ended September 28, 2025, the Company entered into leases that have not yet commenced with estimated aggregated future lease payments of approximately $207.3 million. These leases are expected to commence between the fourth quarter of 2025 through 2026, with initial lease terms ranging from 10 years to 12 years.
+Refer to Item 7 of our
+2024
+ Form 10-K for additional information regarding the Company’s cash obligations and commitments as of the end of fiscal year
+2024
+. Additionally, refer to Note 14, Commitments and Contingencies, to
+the consolidated financial statements
+ for a discussion of the Company’s commitments and contingencies. With the exception of the above, c
+ontractual obligations and commercial commitments, as detailed in the Company's 2024 Form 10-K, did not materially change outside of certain payments made in the normal course of business and as otherwise set forth in this report.
+LIQUIDITY AND CAPITAL RESOURCES
+The Company has historically generated a significant amount of cash from operations. The Company primarily funds its operations and liquidity needs through cash on hand and from cash flows from operations, and when needed, borrowings under its commercial paper program and available lines of credit.
+The Company believes that the funds available to it, including cash expected to be generated from operations, funds available through its commercial paper program or its available lines of credit, are adequate to meet its working capital needs for the next twelve months. The Company may also issue debt or equity securities from time to time to provide additional sources of liquidity when pursuing opportunities to enhance our long-term competitive position, while maintaining a strong balance sheet.
+The impact of tariffs on the Company's business operations was approximately $20 million during the first nine months of 2025. Significant changes in trade policy announced by the U.S. government could adversely impact our forward-looking financial results, including the timing an

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-05-22
+Transaction Date: 2025-05-21
+Person: Hogan Kathleen T — EVP, Strategy
+Type: SELL
+Shares: 21500 at $453.7745
+Shares After: 134887.8550
+=== TICKER: MSFT ===
+===

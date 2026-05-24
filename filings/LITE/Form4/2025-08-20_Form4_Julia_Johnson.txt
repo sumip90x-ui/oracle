@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-20
+Transaction Date: 2025-08-18
+Person: Julia Johnson — 
+Type: SELL
+Shares: 250 at $119.0622
+Shares After: 08
+=== TICKER: LITE ===
+===

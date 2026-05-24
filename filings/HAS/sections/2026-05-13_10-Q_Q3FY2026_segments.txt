@@ -1,0 +1,105 @@
+=== FILING DATE: 2026-05-13 ===
+=== PERIOD COVERED: 2026-03-29 ===
+=== SOURCE: 10-Q filed 2026-05-13 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: HAS ===
+
+ administrative expense is included in Selling, distribution and administration in the Consolidated Statement of Operations. Loss on disposal of business is included in Loss on disposal of business in the Consolidated Statement of Operations. Managed expenses for the Entertainment segment included a $
+25.0
+ million non-cash loss associated with the sale of the eOne Film and TV business.
+
+24
+
+Condensed Notes to Consolidated Financial Statements
+(Millions of Dollars and Shares Except Per Share Data)
+Other supplemental information by segments is as follows:
+Three Months Ended
+March 29,
+2026
+March 30,
+2025
+Depreciation and intangible asset amortization:
+(1)
+Wizards of the Coast and Digital Gaming
+$
+4.4
+ 
+$
+4.6
+ 
+Consumer Products
+15.7
+18.2
+Entertainment
+4.5
+5.1
+Corporate and Other
+1.3
+6.3
+Total
+$
+25.9
+ 
+$
+34.2
+ 
+Additions to property, plant and equipment:
+Wizards of the Coast and Digital Gaming
+$
+2.9
+ 
+$
+1.7
+ 
+Consumer Products
+16.7
+ 
+11.3
+ 
+Entertainment
+—
+ 
+—
+ 
+Corporate and Other
+2.6
+ 
+0.8
+ 
+Total
+$
+22.2
+ 
+$
+13.8
+ 
+(1)
+The amounts of depreciation disclosed by reportable segments are included within Cost of sales and Selling, distribution and administration in the Consolidated Statement of Operations. Intangible asset amortization is included within Amortization of intangible assets in the Consolidated Statement of Operations.
+25
+Item 2.    Management's Discussion and Analysis of Financial Condition and Results of Operations.
+(Dollar and share amounts in tables presented in millions, unless otherwise noted)
+The following discussion and analysis should be read together with the accompanying unaudited consolidated financial statements and the notes thereto included in this Quarterly Report and the audited consolidated financial statements and the notes thereto in the Company's 2025 Form 10-K.
+Overview
+Hasbro, Inc. (“Hasbro”) is a leading game, intellectual property ("IP"), and toy company whose mission is to create joy and community through the magic of play. With over 100 years of expertise, we deliver play experiences to kids, families, and fans around the world, through physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, TV and more. 
+Through our franchise-first approach, we unlock value from both new and legacy IP, including MAGIC: THE GATHERING, MONOPOLY, HASBRO GAMES, PLAY-DOH, TRANSFORMERS, DUNGEONS & DRAGONS, NERF, and PEPPA PIG, as well as premier partner brands. Powered by our portfolio of iconic brands and a diversified network of partners and subsidiary studios, we bring fans together wherever they are, from tabletop to screen. 
+For more than a decade, Hasbro has been consistently recognized for its corporate citizenship, including being named one of the 100 Best Corporate Citizens by 3BL Media, a 2025 JUST Capital Industry Leader, one of the 50 Most Community-Minded Companies in the U.S. by the Civic 50, and a Brand that Matters by Fast Company.
+Recent Developments
+In fiscal year 2025, we launched our refreshed strategy "Playing to Win" to refocus the Company on inspiring a lifetime of play across more categories, more partners, and more ways to engage. Through play fueled brand engagement and partner scaled co-investment, including video games, artificial intelligence ("AI"), enabled entertainment, and licensing, we plan to expand our consumer reach as a games, IP, and toy company.
+In the first quarter of 2026, we made exciting new steps on executing the Playing To Win strategy, including:
+•
+The announcement of a multi-year licensing partnership starting in 2027 with Warner Bros. Discovery Global Consumer Products, making Hasbro the global primary toy licensee for the world of Harry Potter and the upcoming HBO Original HARRY POTTER series.
+•
+The announcement of a licensing collaboration with Amazon MGM Studios to produce action figures, toys and roleplay for the studio’s upcoming live-action Voltron movie and with Legendary Entertainment tied to the live-action Street Fighter movie.
+•
+The launch of LUMEE, a joint venture with Animaj, that will unite our digital advertising inventory and insights to power advertising sales and brand partnerships within the Entertainment segment.
+We believe these strategic moves position us to accelerate innovation and drive long-term growth in line with our Playing to Win strategy which emphasizes play-driven engagement and collaboration with partners.
+Tariffs
+Significant changes in trade policy announced by the U.S. government could adversely impact our forward-looking financial results. The Company monitors the impact of tariffs to its business operations on an ongoing basis and may need to implement actions such as price adjustments or making changes in our supply chain sourcing strategies in order to mitigate the impact of tariffs in future periods. The impacts of tariffs may lead to reduced economic activity, increased costs, reduced demand and changes in purchasing behaviors for some or all of our products, actual or potential impairments, write-downs or unrealizability of some of our existing assets, or other economic outcomes that could have a material adverse impact on our sales volumes, prices, and our financial results. During the first three months of 2026, the Company recognized approximately $8.3 million of tariff costs within Cost of sales.
+On February 20, 2026, the U.S. Supreme Court issued a ruling against the International Emergency Economic Powers Act ("IEEPA") tariffs that we have been paying to the U.S. government since the enactment on April 2, 2025. This could impact our results in 2026 and we are continuing to evaluate the accounting impacts including our ability to apply for and obtain refunds on tariffs previously paid.
+26
+Unauthorized Network Access
+In late March 2026, we identified unauthorized access to our network. Upon discovery, we promptly activated our security incident response protocols, implemented containment measures, including proactively taking certain systems offline, and launched an investigation with the assistance of third-party cybersecurity professionals. Based on analysis with the assistance of outside cybersecurity experts and information to date, we believe the unauthorized access has been contained and we are making progress in fully restoring our systems and operations.
+This unauthorized access did not impact our financial results for the first quarter. Due to the Company’s implementation of containment measures, certain systems were proactively taken offline and were subsequently or are currently being brought online sequentially. We are continuing to work with cybersecurity and forensic experts to identify and review any files potentially impacted. We plan to take additional actions as appropriate based on our review and findings, including providing any notifications deemed appropriate.
+We have continued to execute business continuity plans to enable us to take orders, ship product and conduct other key operations. Importantly, MAGIC: THE GATHERING shipments and its release cadence continued as planned in the second quarter, including the April 2026 release of Secrets of Strixhaven. For the Consumer Products segment, we have been shipping product, but we do anticipate some impact to second quarter revenues and operating profit due to expected order processing, shipping and invoicing delays. Given continued strength in point-of-sale, the expectation is that the majority of any delayed shipping in the second quarter will be made up in the back-half of 2026.
+During the second quarter of 2026, we began incurring costs related to the unauthorized network access, including legal and remediation costs. We plan to seek reimbursement of certain costs, expenses and losses related thereto by submitting claims to our cybersecurity insurers. While the receipt, timing and amount of any such reimbursements are not known at this time, we are currently in the process of documenting our claims.
+Summary of Result

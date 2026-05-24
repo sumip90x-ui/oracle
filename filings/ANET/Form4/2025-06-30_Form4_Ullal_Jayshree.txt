@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-30
+Transaction Date: 2025-06-26
+Person: Ullal Jayshree — President and CEO
+Type: SELL
+Shares: 117782 at $102.0324
+Shares After: 24419929
+=== TICKER: ANET ===
+===

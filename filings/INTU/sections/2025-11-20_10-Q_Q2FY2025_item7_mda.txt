@@ -1,0 +1,56 @@
+=== FILING DATE: 2025-11-20 ===
+=== PERIOD COVERED: 2025-10-31 ===
+=== SOURCE: 10-Q filed 2025-11-20 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: INTU ===
+
+Item 7
+ of our Annual Report on Form 10-K for the fiscal year ended July 31, 2025 have the greatest potential impact on our financial statements, so we consider them to be our critical accounting estimates. There were no significant changes in those critical accounting estimates during the first three months of fiscal 2026. Senior management has reviewed the development and selection of our critical accounting estimates and their disclosure in this Quarterly Report on Form 10-Q with the Audit and Risk Committee of our Board of Directors.
+ Intuit
+ Q1 Fiscal 2026 Form 10-Q
+32
+Table of Contents
+RESULTS OF OPERATIONS
+Financial Overview
+(Dollars in millions, except per share amounts)
+Q1
+FY26
+Q1
+FY25
+$
+Change
+%
+Change
+Total net revenue
+$
+3,885 
+$
+3,283 
+$
+602 
+18 
+%
+Operating income
+534 
+271 
+263 
+97 
+%
+Net income
+446 
+197 
+249 
+126 
+%
+Diluted net income per share
+$
+1.59 
+$
+0.70 
+$
+0.89 
+127 
+%
+Total net revenue for the first quarter of fiscal 2026 increased $602 million, or 18%, compared with the same quarter of fiscal 2025. Our Global Business Solutions segment revenue increased 18% during the quarter due to growth in our Online Ecosystem revenue. Consumer segment revenue increased 21% due to strength in our Credit Karma personal loan, credit card, and auto insurance verticals. See
+“Segment Results”
+ later in this

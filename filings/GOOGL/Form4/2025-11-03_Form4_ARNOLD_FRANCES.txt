@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-03
+Transaction Date: 2025-10-30
+Person: ARNOLD FRANCES — Insider
+Type: SELL
+Shares: 112 at $291.8
+Shares After: 1850
+=== TICKER: GOOGL ===
+===

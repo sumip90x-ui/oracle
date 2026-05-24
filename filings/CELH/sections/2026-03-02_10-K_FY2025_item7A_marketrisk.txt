@@ -1,0 +1,21 @@
+=== FILING DATE: 2026-03-02 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-03-02 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: CELH ===
+
+Item 7a
+. Quantitative and Qualitative Disclosures About Market Risk.
+Commodity Price Risk
+In the normal course of business, our financial position is routinely subject to a variety of risks. The principal market risks (i.e., the risk of loss arising from adverse changes in market rates and prices) to which we are exposed are fluctuations in commodity and other input prices affecting the costs of our raw materials (including, but not limited to, increases in the costs of the price of aluminum cans, sucralose and other sweeteners, as well as other raw materials contained within our products). We do not currently use hedging
+40
+agreements or other financial instruments to manage the risks associated with securing sufficient ingredients or raw materials. We are also subject to market risks with respect to the cost of commodities and other inputs because our ability to recover increased costs through higher pricing is limited by the competitive environment in which we operate.
+Foreign Currency Exchange Risk
+We operate internationally, leading to exposure to foreign currency exchange risk. The Company’s foreign subsidiaries’ functional currencies are either the local currencies of the countries where operations are located or the U.S. dollar. We periodically remeasure the assets and liabilities denominated in non-functional currencies and the gain or loss from these adjustments is included in the Consolidated Statements of Operations and Comprehensive Income. Translation gains and losses that arise from translating net assets from functional currency to U.S. dollars and gains and losses on long-term intercompany balances, are recorded to other comprehensive income (loss), net of income tax. For a detailed discussion of our foreign currency gains, losses and translation adjustments, including the impact on our financial results, please refer to Note 2.
+Basis of Presentation and Summary of Significant Accounting Policies
+in the notes to our Consolidated Financial Statements set forth elsewhere in this Report.
+A substantial majority of our operations and investment activities are transacted in U.S. dollars, limiting our exposure to foreign currency exchange risk. At present, our foreign currency exchange risk is not considered material to our overall financial position, accounting for approximately 0.3% of our revenue in 2025 and approximately 0.2% of our 2024 revenue; however, we continuously monitor and assess our exposure to currency fluctuations and the potential impact to our financial position and results of operations. We do not currently use derivative instruments or other hedging arrangements to manage foreign currency exchange risk.
+Interest Rate Risk
+Fluctuations in market interest rates may cause cash flows to vary. Interest rates are highly sensitive to many factors, including fiscal and monetary policies and domestic and international economic and political considerations, as well as other factors beyond our control. This can affect both our borrowing costs and the fair values of our debt obligations. We are subject to interest rate risk in connection with the Term Loan Facility and Revolving Credit Facility, which bear interest at variable rates based on either a benchmark rate or an alternate base rate, plus an applicable rate which is subject to potential step-downs in 0.25% increments pursuant to a pricing grid based on net leverage. A one-percentage-point increase in the interest rate would raise our annual interest expense by approximately $6.9 million, based on outstanding balances under the Term Loan Facility as of December 31, 2025. There were no borrowings under the Revolving Credit Facility as of December 31, 2025. For additional information see Note 11.
+Debt
+ in the notes to our Consolidated Financial Statements included elsewhere in this Report.

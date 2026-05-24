@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-10-31
+Transaction Date: 2025-10-29
+Person: Lam Yat Tung — Chief Operating Officer
+Type: SELL
+Shares: 80000 at $165.6054
+Shares After: 2622055
+=== TICKER: CRDO ===
+===

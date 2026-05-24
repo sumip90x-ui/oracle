@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-03
+Transaction Date: 2025-09-02
+Person: STANTON JOHN W — Director
+Type: OTHER
+Shares: 3621 at $0
+Shares After: 78505
+=== TICKER: MSFT ===
+===

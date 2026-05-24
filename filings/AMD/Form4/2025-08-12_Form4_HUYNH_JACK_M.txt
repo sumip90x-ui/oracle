@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-12
+Transaction Date: 2025-08-09
+Person: HUYNH JACK M — SVP & GM, Computing & Graphics
+Type: OTHER
+Shares: 13230 at $0
+Shares After: 4857
+=== TICKER: AMD ===
+===

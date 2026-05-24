@@ -1,0 +1,253 @@
+=== FILING DATE: 2025-11-06 ===
+=== PERIOD COVERED: 2025-11-06 ===
+=== SOURCE: 8-K Exhibit 99.1 filed 2025-11-06 ===
+=== SECTION: 8-K Exhibit 99.1 — earnings ===
+=== TICKER: LXRX ===
+
+
+
+EX-99.1
+
+2
+
+pressreleaseearningsq311-0.htm
+
+EX-99.1
+
+
+Document
+Exhibit 99.1
+LEXICON PHARMACEUTICALS REPORTS THIRD QUARTER 2025
+FINANCIAL RESULTS AND PROVIDES R&D UPDATES
+
+FDA End-of-Phase 2 meeting for pilavapadin in DPNP to be held by year-end
+ All IND-enabling studies of LX9851 for obesity completed and submitted to licensee Novo Nordisk
+Site initiation for SONATA-HCM Phase 3 study of sotagliflozin in both obstructive and non-obstructive HCM completed; enrollment completion on target for 2026
+Additional data in support of potential resubmission of Zynquista for type 1 diabetes submitted to FDA
+Conference call and webcast at 8:30 am ET
+
+
+The Woodlands, Texas, November 6, 2025
+ – Lexicon Pharmaceuticals, Inc. (Nasdaq: LXRX), today reported financial results for the three months ended September 30, 2025, and provided an update on key corporate milestones and accomplishments.
+“Lexicon ushered in 2025 with an ambitious slate of objectives embracing and driving our renewed R&D focus,” said Mike Exton, Ph.D., Lexicon’s chief executive officer and director. “As we approach year-end, I’m pleased and proud of our significant R&D, operational and partnering accomplishments so far this year. We expect 2026 to be a pivotal year as these strategic initiatives progress with the potential to create lasting value for our stakeholders.”
+“We continue to practice diligent resource allocation and prioritize our strong R&D pipeline with a focus on programs that have the greatest potential for patient impact and value creation,” said Scott Coiante, Lexicon’s senior vice president and chief financial officer. “Our optimized operational spend and focus on strategic collaborations have enabled us to end the third quarter on strong financial footing.”
+Third Quarter 2025 Business and Pipeline Highlights
+
+Pilavapadin (LX9211) for Diabetic Peripheral Neuropathic Pain (DPNP
+)
+Pilavapadin is an orally delivered, small molecule drug candidate for the treatment of DPNP, among other potential indications. Pilavapadin has the potential to be the first oral, non-opioid drug therapy approved in neuropathic pain in more than 20 years.
+•
+Key recent data presentation highlights include:
+◦
+Oral presentations at the European Association for the Study of Diabetes (EASD) and NEUROdiab Annual Meetings in September 2025, demonstrating that pilavapadin 10 mg resulted in a two-point reduction from baseline in average daily pain scores (ADPS) by week 12 and was generally well tolerated in the PROGRESS Phase 2b study in DPNP.
+◦
+Oral presentation at the Arrowhead 19th Annual Pain Therapeutics Summit in October 2025, with results from a post-hoc pooled analysis of the Phase 2 RELIEF-DPN-1 and Phase 2b PROGRESS studies supporting advancement of the 10 mg dose into Phase 3 development for DPNP.
+•
+End-of-Phase 2 meeting scheduled with FDA during the fourth quarter of 2025 and partnership discussions are ongoing.
+LX9851 for Obesity and Associated Cardiometabolic Disorders
+
+LX9851 is a first-in-class, non-incretin, oral, small molecule inhibitor of acyl-CoA synthetase 5 (ACSL5) in IND-enabling studies for obesity and weight management.
+•
+In March 2025, Lexicon announced an exclusive licensing agreement for LX9851 with Novo Nordisk. Under the terms of the agreement, Lexicon received an upfront payment of $45 million in April and is eligible to receive up to $1 billion in upfront and potential development, regulatory and sales milestone payments. Lexicon is also eligible for tiered royalties on net sales of LX9851.
+•
+Lexicon has completed all IND-enabling studies of LX9851. Our licensee Novo Nordisk is now preparing for IND submission and initiation of clinical development, which would potentially trigger up to an additional $30 million in near-term milestone payments to Lexicon.
+Sotagliflozin
+Sotagliflozin is an oral inhibitor of sodium-glucose cotransporter types 2 and 1 (SGLT2 and SGLT1) and has been studied in approximately 20,000 patients across multiple cardiometabolic indications.
+Heart Failure (INPEFA
+®
+)
+•
+Sotagliflozin is commercially available in the U.S. for heart failure as INPEFA
+®
+.
+•
+Lexicon presented a post-hoc analysis of the SCORED and SOLOIST-WHF studies of sotagliflozin at the European Society of Cardiology (ESC) 2025 Congress, demonstrating that sotagliflozin provides consistent relative risk reduction in heart failure and major cardiovascular events across all age ranges, including in adults older than 75.
+Hypertrophic Cardiomyopathy (HCM
+)
+•
+Enrollment continues to accelerate in SONATA-HCM, a pivotal Phase 3 placebo-controlled study with a targeted enrollment of 500 patients with obstructive or nonobstructive HCM.
+•
+Lexicon has completed the initiation of 130 sites in 20 countries across the United States, Europe and Latin America.
+Viatris License for All Indications Ex-U.S. and Ex-Europe
+•
+Lexicon has supported licensee Viatris in its regulatory filing strategy for sotagliflozin outside of the U.S. and Europe, with preparations underway by Viatris for regulatory approval submissions in a number of ex-U.S. and ex-European markets.
+•
+Lexicon has shipped the first commercial order of INPEFA to Viatris in the United Arab Emirates, the first country to obtain approval outside of the U.S.
+Type 1 Diabetes (T1D) (ZYNQUISTA
+®
+)
+•
+The Company remains focused on bringing ZYNQUISTA to market for people with T1D who have not benefitted from a new treatment in over two decades.
+•
+Lexicon has submitted new data to U.S. Food and Drug Administration (FDA) supporting the benefit risk profile of Zynquista in T1D. The Company is currently engaged with FDA and expects regulatory feedback in the fourth quarter of 2025 regarding a potential resubmission of its New Drug Application (NDA).
+Third Quarter 2025 Financial Highlights
+Revenues:
+ Total revenues for the third quarter of 2025 increased to $14.2 million from $1.8 million for the corresponding period in 2024. Total revenues for the third quarter of 2025 consist of $13.2 million
+of licensing revenue derived from the Company’s licensing agreement with Novo Nordisk and $1.0 million of revenues from US sales of INPEFA.
+Research and Development (R&D) Expenses:
+ Research and development expenses for the third quarter of 2025 decreased to $18.8 million from $25.8 million for the corresponding period in 2024, primarily reflecting lower external research expense on the PROGRESS clinical trial partially offset by increased investment in the SONATA Phase 3 clinical trial.
+Selling, General and Administrative (SG&A) Expenses:
+ Selling, general and administrative expenses for the third quarter of 2025 decreased to $7.6 million from $39.6 million for the corresponding period in 2024. The decrease in 2025 reflects lower costs as a result of the Company’s strategic repositioning in late 2024 and the significantly reduced marketing efforts for INPEFA in 2025.
+Net Loss:
+ Net loss for the third quarter of 2025 was $12.8 million, or $0.04 per share, as compared to a net loss of $64.8 million, or $0.18 per share, in the corresponding period in 2024. For the third quarters of 2025 and 2024, net losses included non-cash, stock-based compensation expense of $3.4 million, and $2.8 million, respectively.
+Cash, Investments, and Restricted Cash:
+ As of September 30, 2025, Lexicon had $145.0 million in cash and investments including $29 million in restricted cash, as compared to $238.0 million in cash and investments as of December 31, 2024.
+Conference Call and Webcast Information
+
+Lexicon management will hold a live conference call and webcast today at 8:30 am ET / 7:30 am CT to review its financial and operating results and to provide a general business update. A live audio webcast of the call can be accessed by visiting the Events page of the Company’s investor relations website at
+https://investors.lexpharma.com/
+. Participants who wish to ask a question may register
+here
+ to receive dial-in numbers and a unique pin to join the call. An archived version of the webcast will be available on the website for 30 days.
+About Lexicon Pharmaceuticals
+
+Lexicon is a biopharmaceutical company with a mission of pioneering medicines that transform patients’ lives. Through the Genome5000™ program, Lexicon’s unique genomics target discovery platform, Lexicon scientists studied the role and function of nearly 5,000 genes and identified more than 100 protein targets with significant therapeutic potential in a range of diseases. Through the precise targeting of these proteins, Lexicon is pioneering the discovery and development of innovative medicines to safely and effectively treat disease. Lexicon has advanced multiple medicines to market and has a pipeline of promising drug candidates in heart failure, neuropathic pain, diabetes and metabolism and other indications. For additional information, please visit
+www.lexpharma.com
+.
+Safe Harbor Statement
+
+This press release contains “forward-looking statements,” including statements relating to Lexicon’s financial position and long-term outlook on its business, including the commercialization of its approved products and the clinical development of regulatory filings for, and potential therapeutic and commercial potential of its other drug candidates. In addition, this press release also contains forward looking statements relating to Lexicon’s growth and future operating results, discovery, development and commercialization of products, strategic alliances and intellectual property, as well as other matters that are not historical facts or information. All forward-looking statements are based on management’s current assumptions and expectations and involve risks, uncertainties and other important factors, specifically including Lexicon’s ability to meet its capital requirements, successfully commercialize its approved products, successfully conduct preclinical and clinical development and obtain necessary regulatory approvals of its other drug candidates on its anticipated timelines, achieve
+its operational objectives, obtain patent protection for its discoveries and establish strategic alliances, as well as additional factors relating to manufacturing, intellectual property rights, and the therapeutic or commercial value of its approved products and other drug candidates. Any of these risks, uncertainties and other factors may cause Lexicon’s actual results to be materially different from any future results expressed or implied by such forward-looking statements. Information identifying such important factors is contained under “Risk Factors” in Lexicon’s annual report on Form 10-K for the year ended December 31, 2024, as filed with the Securities and Exchange Commission. Lexicon undertakes no obligation to update or revise any such forward-looking statements, whether as a result of new information, future events or otherwise.
+For Investor and Media Inquiries
+:
+Lisa DeFrancesco
+Lexicon Pharmaceuticals, Inc.
+lexinvest@lexpharma.com
+Lexicon Pharmaceuticals, Inc.
+Selected Financial Data
+Consolidated Statements of Operations Data
+Three Months Ended September 30,
+Nine Months Ended September 30,
+(In thousands, except per share data)
+2025
+2024
+2025
+2024
+(Unaudited)
+(Unaudited)
+Revenues:
+   Net product revenue
+$
+1,008 
+$
+1,741 
+$
+3,592 
+$
+4,451 
+   Licensing revenue
+13,154
+—
+40,698
+—
+   Royalties and other revenue
+20
+9
+20
+76
+Total revenues
+14,182
+1,750
+44,310
+4,527
+Operating expenses:
+   Cost of sales
+10
+71
+73
+268
+   Research and development, including stock-based
+      compensation of  $1,832, $1,460, $5,026 and $4,733, respectively
+18,757
+25,780
+49,806
+57,795
+   Selling, general and administrative, including stock-based
+      compensation of $1,612, $1,341, $4,656 and $7,229, respectively
+7,602
+39,592
+28,562
+110,844
+Total operating expenses.
+26,369
+65,443
+78,441
+168,907
+Loss from operations
+(12,187)
+(63,693)
+(34,131)
+(164,380)
+Interest and other expense
+(2,155)
+(4,562)
+(6,308)
+(11,721)
+Interest income and other, net
+1,573
+3,444
+5,628
+9,464
+Net loss
+$
+(12,769)
+$
+(64,811)
+$
+(34,811)
+$
+(166,637)
+Net loss per common share, basic and diluted
+$
+(0.04)
+$
+(0.18)
+$
+(0.10)
+$
+(0.54)
+Weighted average common shares outstanding, basic and diluted
+363,399
+361,492
+362,927 
+306,109 
+As of
+As of
+Consolidated Balance Sheet Data
+September 30, 2025
+December 31, 2024
+(In thousands)
+Cash and investments
+$
+115,950 
+$
+237,957 
+Restricted cash
+29,000
+—
+Property and equipment, net
+1,981
+2,484
+Goodwill
+44,543
+44,543
+Total assets
+205,927
+298,420
+Long-term debt, net
+56,508
+100,298
+Accumulated deficit
+(2,002,053)
+(1,967,242)
+Total stockholders' equity
+120,159
+145,950
+For Investor and Media Inquiries
+:
+Lisa DeFrancesco
+Lexicon Pharmaceuticals, Inc.
+lexinvest@lexpharma.com
+
+
+

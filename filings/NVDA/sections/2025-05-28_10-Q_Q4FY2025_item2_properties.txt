@@ -1,0 +1,55 @@
+=== FILING DATE: 2025-05-28 ===
+=== PERIOD COVERED: 2025-04-27 ===
+=== SOURCE: 10-Q filed 2025-05-28 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: NVDA ===
+
+Item 2
+. Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+We repurchased 126 million and 99 million shares of our common stock for $14.5 billion and $8.0 billion during the first quarter of fiscal years 2026 and 2025, respectively. As of April 27, 2025, we were authorized, subject to certain specifications, to repurchase up to $24.3 billion of our common stock.
+The repurchases can be made in the open market, in privately negotiated transactions, pursuant to a Rule 10b5-1 trading plan or in structured share repurchase agreements in compliance with Rule 10b-18 of the Exchange Act, subject to market conditions, applicable legal requirements, and other factors. Our share repurchase program may be suspended at any time at our discretion.
+We paid cash dividends to our shareholders of $244 million and $98 million during the first quarter of fiscal years 2026 and 2025, respectively. The payment of future cash dividends is subject to our Board of Directors' continuing determination that the declaration of dividends is in the best interests of our shareholders.
+The following table presents details of our share repurchase transactions during the first quarter of fiscal year 2026:
+Period
+Total Number
+of Shares Purchased
+(In millions)
+Average Price Paid per Share (1)
+Total Number of Shares Purchased as Part of Publicly Announced Program
+(In millions)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program
+(In billions)
+January 27, 2025 - February 23, 2025
+28.6 
+$
+128.65 
+28.6 
+$
+35.0 
+February 24, 2025 - March 23, 2025
+28.5 
+$
+118.63 
+28.5 
+$
+31.6 
+March 24, 2025 - April 27, 2025
+69.1 
+$
+106.27 
+69.1 
+$
+24.3 
+Total
+126.2 
+126.2 
+36
+(1)     Average price paid per share includes broker commissions, but excludes our liability under the 1% excise tax on the net amount of our share repurchases required by the Inflation Reduction Act of 2022.
+From April 28, 2025 through May 23, 2025, we repurchased 19 million shares for $2.3 billion pursuant to a pre-established trading plan. Our share repurchase program aims to offset dilution from shares issued to employees while maintaining adequate liquidity to meet our operating requirements. We may pursue additional share repurchases as we weigh market factors and other investment opportunities.
+Employee Equity Incentive Program Share Withholding
+We withhold shares of our common stock associated with net share settlements to cover tax withholding obligations of awards under our employee equity incentive program. During the first quarter of fiscal year 2026, we withheld approximately 13 million shares for a total value of $1.5 billion through net share settlements.
+Recent Sales of Unregistered Securities and Use of Proceeds
+On March 14, 2025, we acquired a company and agreed to issue to key employees a total of 363,818 shares of our common stock, valued at $44.3 million based on our closing stock price on the acquisition date. The shares will be issued in installments commencing in fiscal year 2026 and through fiscal year 2030.
+On March 24, 2025, we acquired a company and issued to key employees a total of 686,446 shares of our common stock, valued at $83.3 million based on our closing stock price on the issuance date.
+The above securities were issued in transactions not involving a public offering pursuant to an exemption from registration set forth in Section 4(a)(2) of the Securities Act (and Regulation D or Regulation S promulgated thereunder).

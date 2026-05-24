@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-05-18
+Transaction Date: 2026-05-14
+Person: GV 2019 GP, L.L.C. — Insider
+Type: OTHER
+Shares: 295104 at $0
+Shares After: 571907
+=== TICKER: GOOGL ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-22
+Transaction Date: 2025-12-19
+Person: Robertson Donald F Jr — Principal Accounting Officer
+Type: SELL
+Shares: 24590 at $176.9075
+Shares After: 426860
+=== TICKER: NVDA ===
+===

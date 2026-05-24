@@ -1,0 +1,44 @@
+=== FILING DATE: 2026-04-30 ===
+=== PERIOD COVERED: 2026-03-31 ===
+=== SOURCE: 10-Q filed 2026-04-30 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: GOOGL ===
+
+; and CHF3.1 billion Swiss Franc-denominated notes with a weighted-average coupon rate of 1.06% and a weighted-average maturity of 10 years.
+As of March 31, 2026, we had $11.7 billion of credit facilities expiring at various dates through April 2030, of which $1.2 billion was outstanding. The outstanding debt under the credit facilities bears an interest rate of SOFR plus 1.5% to 2.25% that is paid quarterly.
+We also have a commercial paper program of up to $25.0 billion, which is used for general corporate purposes. As of March 31, 2026, we had no commercial paper outstanding.
+For additional information, see Note 6 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Share Repurchase Program
+In the three months ended March 31, 2026, there were no repurchases of the company's Class A or Class C shares.
+In April 2025, the company's Board of Directors authorized a $70.0 billion share repurchase program for its Class A and Class C shares. As of March 31, 2026, $
+69.5 bil
+lion remained available for Class A and Class C share repurchases.
+For additional information, see Note 11 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Dividend Program
+In the three months ended March 31, 2026, total cash dividends were
+$1.2 billion for Class A, $176 million for Class B, and $1.1 billion for Class C shares, respectively.
+In April 2026, the company's Board of Directors declared a quarterly cash dividend of $0.22 per share, representing a 5% increase from the previous quarterly dividend of $0.21 per share. The dividend is payable on June 15, 2026 to stockholders of record for each of the company's Class A, Class B, and Class C shares as of June 8, 2026.
+The company has declared a quarterly cash dividend in the current quarter, and intends to pay quarterly cash dividends in the future, subject to review and approval by the company’s Board of Directors in its sole discretion.
+Accrued Legal and Regulatory
+As of March 31, 2026, we had short-term accrued legal and regulatory fines and settlements of $15.6 billion. This amount primarily included EC fines, in addition to accruals related to other legal matters and regulatory fines and settlements. For additional information, see Note 10 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Taxes
+As of March 31, 2026, we had long-term income taxes payable of $12.5 billion primarily related to unrecognized tax benefits. The timing and amount of any payment related to these unrecognized tax benefits are uncertain and cannot be estimated.
+Purchase Commitments and Other Contractual Obligations
+As of March 31, 2026, we had material purchase commitments and other contractual obligations totaling $332.4 billion, of which $138.0 billion was short-term. These purchase commitments primarily relate
+to costs for technical infrastructure and inventory through
+long-term supply agreements and open purchase orders. Additional contractual obligations include commitments for content licenses and energy take-or-pay contracts. For additional information related to our long-term supply agreements, energy take-or-pay contracts, and content licenses, see Note 10 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+46
+As of March 31, 2026, we provided backstops in the form of financial guarantees and credit derivatives with maximum potential amount of future payments of $9.0 billion and $28.4 billion, respectively. Upon a default under these backstops, we retain the right to assume the underlying leases for internal use or to sublease to third parties. Under specific conditions or following a predetermined period, we may elect to extinguish the backstop obligation by making a termination payment. For additional information, see Note 3 and Note 10 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+ We have also entered into an agreement to provide up to $33.3 billion of future backstops to support the build-out of data center and energy supply infrastructure, subject to finalization of terms with data center providers. Against this remaining commitment, in April 2026, we entered into an agreement with a data center provider to backstop approximately $15.3 billion. For additional information, see Note 3 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Additionally, as of March 31, 2026, we have commitments for a future private investment consisting of a $10.0 billion capital commitment and $30.0 billion of future capital funding contingent upon the achievement of specified operational and financial milestones through 2030, which is accounted for as an equity derivative. We expect to fund $10.0 billion in the second quarter of 2026 in the form of a non-marketable security. For additional information, see Note 3 and Note 5 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+For agreements with variable terms, we do not estimate the non-cancelable obligation beyond any minimum quantities and/or pricing as of March 31, 2026. In certain instances, the amount of our contractual obligations may change based on the expected timing of order fulfillment from our suppliers. Power purchase and energy agreements without a fixed or minimum commitment are not included.
+For details on risks related to our manufacturing and supply chain and other risks, refer to Part I, Item 1A, "Risk Factors" in our Annual Report on Form 10-K for the fiscal year ending December 31, 2025.
+Acquisitions and Divestitures
+On March 11, 2026, we completed our acquisition of Wiz for $29.5 billion, after purchase price adjustments and excluding post combination compensation arrangements. Following the close of the acquisition, the financial results are included in our consolidated financial statements within the Google Cloud segment. For additional information on the purchase price allocation, see Note 8 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+On March 10, 2026, we completed our acquisition of Intersect for $5.9 billion, after purchase price adjustments. Following the close of the acquisition, the financial results are included in our consolidated financial statements and are allocated to our segments. For additional information on the purchase price allocation, see Note 8 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+In March 2026, we entered into a definitive agreement to contribute our ownership interest in GFiber, a wholly owned subsidiary, into a newly formed entity. Upon closing, we expect to receive $1.5 billion in cash, a $2.0 billion note receivable, and a 49.99% equity interest. The remaining interest is expected to be accounted for as an unconsolidated VIE under the equity method of accounting, as we will no longer be the primary beneficiary. The transaction is expected to close in late 2026.
+For additional information, see Note 8 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+Critical Accounting Estimates
+See Part II, Item 7, "Critical Accounting Estimates" in our Annual Report on Form 10-K for the year ended December 31, 2025. There have been no material changes to our critical accounting estimates from our Annual Report on Form 10-K for the year ended December 31, 2025, except for as described below.
+Business Combinations
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed, and intangible assets acquired based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and 

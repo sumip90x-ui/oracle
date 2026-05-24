@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-23
+Transaction Date: 2026-01-21
+Person: Jones Teresa A. — Executive Vice President
+Type: SELL
+Shares: 850 at $986.2567
+Shares After: 4227.804
+=== TICKER: COST ===
+===

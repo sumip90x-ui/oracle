@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-28
+Transaction Date: 2025-07-24
+Person: HUANG JEN HSUN — President and CEO
+Type: SELL
+Shares: 225000 at $172.0758
+Shares After: 10000000
+=== TICKER: NVDA ===
+===

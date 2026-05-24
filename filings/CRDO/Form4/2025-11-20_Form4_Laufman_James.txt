@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-20
+Transaction Date: 2025-11-19
+Person: Laufman James — Chief Legal Officer, Secretary
+Type: OTHER
+Shares: 7379 at $141.88
+Shares After: 224905
+=== TICKER: CRDO ===
+===

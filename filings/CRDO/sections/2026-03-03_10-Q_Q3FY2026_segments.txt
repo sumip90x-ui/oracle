@@ -1,0 +1,149 @@
+=== FILING DATE: 2026-03-03 ===
+=== PERIOD COVERED: 2026-01-31 ===
+=== SOURCE: 10-Q filed 2026-03-03 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: CRDO ===
+
+2,464
+ 
+186,598
+ 
+180,495
+ 
+Net income per share:
+Basic
+$
+0.86
+ 
+$
+0.17
+ 
+$
+1.72
+ 
+$
+0.09
+ 
+Diluted
+$
+0.82
+ 
+$
+0.16
+ 
+$
+1.62
+ 
+$
+0.09
+ 
+Potential dilutive securities include dilutive ordinary shares from the Customer Warrant, share-based awards attributable to the assumed exercise of share options, restricted stock units, performance-based restricted stock units and employee stock purchase plan shares using the treasury stock method. Under the treasury stock method, potential ordinary shares outstanding are not included in the computation of diluted net income per share if their effect is anti-dilutive.
+The following potentially dilutive securities outstanding (in thousands) have been excluded from the computations of diluted weighted-average shares outstanding for the
+three and nine months ended January 31, 2026
+ and February 1, 2025:
+Three Months Ended
+Nine Months Ended
+January 31, 2026
+February 1, 2025
+January 31, 2026
+February 1, 2025
+Share-based compensation awards
+252
+ 
+175
+ 
+880
+ 
+242
+ 
+13.
+Segment Information
+The Company’s Chief Operating Decision Maker (CODM) manages the Company’s business activities as a single reportable segment at the consolidated level. Accordingly, the CODM uses net income or loss for the purposes of making operating decisions, allocating resources and evaluating financial performance. The measure of segment assets is reported on the condensed consolidated balance sheet as total assets, although the CODM does not
+20
+Credo Technology Group Holding Ltd
+Notes to Unaudited Condensed Consolidated Financial Statements
+evaluate asset information of purposes of allocating resources or evaluating performance.
+The table below provides information about the Company’s revenue, significant segment expenses and other segment expenses (in thousands):
+Three Months Ended
+Nine Months Ended
+January 31, 2026
+February 1, 2025
+January 31, 2026
+February 1, 2025
+Revenue
+$
+407,012
+ 
+$
+135,002
+ 
+$
+898,113
+ 
+$
+266,750
+ 
+Less:
+Cost of revenue
+128,144
+ 
+49,076
+ 
+287,831
+ 
+98,029
+ 
+Personnel related expenses
+36,305
+ 
+24,708
+ 
+93,766
+ 
+66,470
+ 
+Share-based compensation
+51,806
+ 
+15,964
+ 
+131,877
+ 
+48,655
+ 
+Other segment items*
+33,615
+ 
+15,894
+ 
+81,462
+ 
+38,001
+ 
+Net income
+$
+157,142
+ 
+$
+29,360
+ 
+$
+303,177
+ 
+$
+15,595
+ 
+*Other segment items primarily include lease expense, external professional service expenses, depreciation and amortization, interest income and tax provision.
+21
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q and the audited consolidated financial statements and notes thereto and management’s discussion and analysis of financial condition and results of operations for the fiscal year ended May 3, 2025 included in the Company’s Annual Report on Form 10-K for the fiscal year ended May 3, 2025. Some of the information contained in this discussion and analysis includes forward-looking statements that involve risks and uncertainties as described under the heading “Special Note Regarding Forward-Looking Statements” of this Quarterly Report on Form 10-Q.
+Overview
+At Credo, our mission is to transform connectivity at scale through fast, reliable and energy-efficient system solutions. The Company’s high-speed copper and optical interconnect products deliver industry-leading power and performance at up to 1.6T to meet the ever-expanding data infrastructure demands of AI. The Company’s product portfolio includes ZeroFlap (ZF) Active Electrical Cables (AECs) and ZF optical transceivers, OmniConnect memory solutions and a suite of retimers and DSPs for optical and copper Ethernet and PCIe, all leveraging the PILOT diagnostic and analytics software platform. The Company innovations enable our customers to connect the systems that connect the world.
+Data generation has increased dramatically over the past ten years, creating new and complicated challenges in both circuit and system design. Our proprietary SerDes and DSP technologies enable us to achieve similar performance to leading competitors’ products but at a lower cost and more highly available legacy node (n-1 advantage). Beyond power and performance, Credo continues to innovate to address customers’ system level requirements. We partner with Microsoft on our HiWire Switch AEC and open-source implementation that helps realize Microsoft’s vision for a highly reliable network-managed dual-Top-of-Rack (ToR) architecture (a network architecture design in which computing equipment located within the same or an adjacent rack are, for redundancy, connected to two in-rack network switches, which are, in turn, connected to aggregation switches via fiber optic cables), overcome complex and slow legacy enterprise approaches, simplify deployment and improve connection reliability in the data center.
+The multibillion-dollar data infrastructure market that we serve is driven largely by hyperscale data centers (hyperscalers), as well as general compute, AI/ML infrastructure, multi-service operators (MSOs) and mobile network operators (MNOs). The demands for increased bandwidth, improved power and cost efficiency and heightened security have simultaneously and dramatically expanded as work, education and entertainment have rapidly digitized across myriad endpoint users.
+We design, market and sell product, software and IP solutions. We help define industry conventions and standards within the markets we target by collaborating with technology leaders and standards bodies. We contract with a variety of manufacturing partners to build our products based on our proprietary SerDes and DSP technologies. We develop standard solutions we can sell broadly to our end markets and also develop tailored solutions designed to address specific customer needs. Once developed, these tailored solutions can generally be broadly leveraged across our portfolio and we are able to sell the part or license the IP to the broader market.
+During the three and nine months ended January 31, 2026, we generated $407.0 million and $898.1 million in revenue, respectively, and during the three and nine months ended February 1, 2025, we generated $135.0 million and $266.8 million in revenue, respectively. During the three and nine months ended January 31, 2026, we generated $157.1 million and $303.2 million in net income, respectively, and during the three and nine months ended February 1, 2025, we generated $29.4 million and $15.6 million in net income, respectively.
+We derive the substantial majority of our revenue from a limited number of customers. We anticipate we will continue to derive a significant portion of our revenue from a limited number of customers for the foreseeable future. We expect that as our products are more widely adopted and as our number of customers increase, customer concentration will decrease.
+We sell our products to hyperscalers, original equipment manufacturers (OEMs), original design manufacturers (ODMs) and optical module manufacturers, as well as to companies in the enterprise and HPC markets. We work closely and have engagements with industry-leading companies across these segments. A relatively small number of customers have historically accounted for and continue to account for a significant portion of our revenue. We report revenue by customer in our financial statement disclosure based on the contracting parties who place purchase orders
+22
+or sign revenue contracts with us. See Note 3 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. However, certain of our end customers have their contract manufacturing partners place orders with us. As a result, the contract manufacturers, rather than the end customers, are reported as our custom

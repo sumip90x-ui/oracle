@@ -1,0 +1,10 @@
+=== FILING DATE: 2025-12-02 ===
+=== PERIOD COVERED: 2025-11-01 ===
+=== SOURCE: 10-Q filed 2025-12-02 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: CRDO ===
+
+Item 2
+. Unregistered Sales of Equity Securities and Use of Proceeds.
+Unregistered Sales of Equity Securities
+In connection with the closing of our acquisition of Hyperlume, on September 29, 2025, we issued (i) 132,015 restricted shares of Credo to one of the founders of Hyperlume as consideration for our acquisition of his outstanding equity interests in Hyperlume, which restricted shares are subject to certain vesting conditions based on such founder’s continued service with Credo and its subsidiaries over a four-year period pursuant to a Restricted Share Agreement and (ii) 132,015 shares of a newly formed subsidiary of Credo to the other founder of Hyperlume as consideration for our acquisition of his outstanding equity interests in Hyperlume, which shares are exchangeable into ordinary shares of Credo based on certain vesting conditions based on such founder’s continued service with Credo and its subsidiaries over a four-year period pursuant to an Exchange Agreement. The foregoing shares vest ratably on a quarterly basis over the applicable service period, subject to acceleration if the applicable founder is terminated without “cause” or as a result of death or “disability” or if the applicable founder resigns for “good reason” (as such terms are defined in the Restricted Share Agreement or the Exchange Agreement, as the case may be), or if such founder is terminated in connection with a sale by Credo of its assets or any business unit for which such founder works to a third party. The issuance of these shares was made in reliance on an exemption from the registration requirements of the Securities Act pursuant to Section 4(a)(2) thereof because the issuance of the securities did not involve a public offering.

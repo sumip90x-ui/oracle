@@ -1,0 +1,413 @@
+=== FILING DATE: 2025-08-19 ===
+=== PERIOD COVERED: 2025-06-28 ===
+=== SOURCE: 10-K filed 2025-08-19 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: LITE ===
+
+Item 8
+ of this Annual Report.
+Page
+Report of Independent Registered Public Accounting Firm (PCAOB ID No.
+34
+)
+60
+Consolidated Statements of Operations—Years Ended Ju
+ne
+ 2
+8
+, 202
+5
+, Ju
+ne
+
+29
+, 202
+4
+ and July
+1
+, 202
+3
+62
+Consolidated Statements of Comprehensive Income (Loss)—Years Ended June 2
+8
+, 202
+5
+, Ju
+ne
+
+29
+, 202
+4
+ and July
+1
+, 202
+3
+63
+Consolidated Balance Sheets—June 2
+8
+, 202
+5
+ and Ju
+ne
+
+29
+, 202
+4
+64
+Consolidated Statements of Cash Flows—Years Ended June 2
+8
+, 202
+5
+, Ju
+ne
+
+29
+, 202
+4
+ and July
+1
+, 202
+3
+65
+Consolidated Statements of Stockholders’ Equity—Years Ended June 2
+8
+, 202
+5
+, Ju
+ne
+
+29
+, 202
+4
+ and July
+1
+, 202
+3
+67
+Notes to Consolidated Financial Statements
+68
+2. Financial Statement Schedules
+ The following additional financial statement schedules should be considered in conjunction with our consolidated financial statements. All other financial statement schedules have been omitted because the required information is not present in amounts sufficient to require submission of the schedule, not applicable, or because the required information is included in the consolidated financial statements or notes thereto.
+LUMENTUM HOLDINGS INC.
+FINANCIAL STATEMENT SCHEDULES
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+(in millions)
+Balance at beginning of period
+ 
+Increase (decrease) in Consolidated Statements of Operations
+ 
+Write-offs and other adjustments
+ 
+Balance at end of period
+Allowance for credit losses:
+Fiscal year ended June 28, 2025
+$
+0.2
+ 
+$
+3.4
+ 
+$
+(
+0.1
+)
+$
+3.5
+ 
+Fiscal year ended June 29, 2024
+$
+—
+ 
+$
+0.2
+ 
+$
+—
+ 
+$
+0.2
+ 
+Fiscal year ended July 1, 2023
+$
+—
+ 
+$
+—
+ 
+$
+—
+ 
+$
+—
+ 
+(in millions)
+Balance at beginning of period
+Additions charged to costs/expenses
+ (1)
+Deductions credited to costs/expenses
+(2)
+Balance at end of period
+Deferred tax valuation allowance:
+Fiscal year ended June 28, 2025
+$
+490.4
+ 
+$
+128.6
+ 
+$
+(
+178.2
+)
+$
+440.8
+ 
+Fiscal year ended June 29, 2024
+$
+303.4
+ 
+$
+205.4
+ 
+$
+(
+18.4
+)
+$
+490.4
+ 
+Fiscal year ended July 1, 2023
+$
+263.1
+ 
+$
+42.7
+ 
+$
+(
+2.4
+)
+$
+303.4
+ 
+(1)
+ Additions include current year additions charged to expenses and current year build due to increases in net deferred tax assets, return to provision true-ups, other adjustments to deferred taxes.
+126
+Table of Contents
+(2)
+Net deductions include current year releases credited to expenses and current year reductions due to decreases in net deferred tax assets, return to provision true-ups, other adjustments to deferred taxes.
+3. Exhibits
+The following exhibits are filed herewith or are incorporated by reference to exhibits previously filed with the Securities and Exchange Commission.
+ 
+ 
+Incorporated by Reference
+Filed
+Exhibit No.
+Exhibit Description
+Form
+Exhibit
+Filing Date
+Herewith
+2.1
+Contribution Agreement
+8-K
+2.1
+8/6/2015
+2.2
+Separation and Distribution Agreement
+8-K
+2.2
+8/6/2015
+2.3
+Agreement and Plan of Merger, dated as of October 29, 2023, by and among Lumentum Holdings Inc., Cloud Light, and Crius Merger Sub, Inc.
+8-K
+2.1
+10/30/2023
+3.1
+Amended and Restated Certificate of Incorporation
+8-K
+3.1
+8/6/2015
+3.2
+Amended and Restated Bylaws
+8-K
+3.2
+8/6/2015
+ 
+4.1
+Description of Capital Stock
+10-K
+4.4
+8/27/2019
+4.2
+Indenture, dated December 12, 2019, between Lumentum Holdings Inc. and U.S. Bank National Association.
+8-K
+4.1
+12/12/2019
+4.3
+Form of 0.50% Convertible Senior Note due 2026 (included in Exhibit 4.2).
+8-K
+4.2
+12/12/2019
+4.4
+First Supplemental Indenture, dated as of September 25, 2024, to the Indenture, dated December 12, 2019, by and between Lumentum Holdings Inc. and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association)
+10-Q
+4.1
+11/8/2024
+4.5
+Indenture dated March 8, 2022, between Lumentum Holdings Inc. and U.S. Bank Trust Company, National Association
+8-K
+4.1
+3/8/2022
+4.6
+Form of 0.50% Convertible Senior Note due 2028 (included in Exhibit 4.4)
+8-K
+4.2
+3/8/2022
+4.7
+Indenture, dated June 16, 2023, between Lumentum Holdings Inc. and U.S. Bank Trust Company, National Association.
+8-K
+4.1
+6/16/2023
+4.8
+Form of 1.50% Convertible Senior Note due 2029 (included in Exhibit 4.6).
+8-K
+4.2
+6/16/2023
+10.1
+Tax Matters Agreement
+8-K
+10.1
+8/6/2015
+10.2*
+Employee Matters Agreement
+8-K
+10.2
+8/6/2015
+10.3
+Intellectual Property Matters Agreement
+8-K
+10.3
+8/6/2015
+10.4*
+2015 Equity Incentive Plan as amended and Restated
+N
+ovember 20, 2024
+8-K
+10.1
+11/22/2024
+10.5*
+2015 Employee Stock Purchase Plan
+S-8
+99.2
+7/29/2015
+10.6*
+Executive Officer Performance-Based Incentive Plan
+8-K
+10.3
+11/9/2016
+10.7*
+Amended and Restated Change in Control and Severance Benefits Plan, effective August 22, 2023
+10-Q
+10.1
+11/8/2023
+10.8*
+Form of Indemnification Agreement
+10-K
+10.8
+9/25/2015
+10.09*
+Offer Letter, by and between the Registrant and Wajid Ali, dated as of January 11, 2019
+10-Q
+10.1
+5/7/2019
+10.10*
+Offer Letter entered into by Lumentum Holdings Inc. with Michael Hurlston, dated January 28, 2025
+8-K
+10.1
+2/3/2025
+10.11*
+Transition Agreement entered into by Lumentum Holdings Inc. with Alan Lowe, dated February 2, 2025
+8-K
+10.2
+2/3/2025
+10.12*
+Global Performance Unit Award Agreement
+10-Q
+10.1
+5/9/2023
+10.13*
+Global Restricted Stock Unit Award Agreement
+10-Q
+10.2
+5/9/2023
+127
+Table of Contents
+10.14*
+2025 Inducement Equity Incentive Plan
+S-8
+4.3
+2/6/2025
+10.15*
+Form of Restricted Stock Unit Agreement under 2025 Inducement Equity Incentive Plan
+S-8
+4.4
+2/6/2025
+10.16*
+Form of Performance Stock Unit Agreement under 2025 Inducement Equity Incentive Plan
+S-8
+4.5
+2/6/2025
+19.1
+Lumentum Holdings Inc. Insider Trading Policy
+10-K
+19.1
+8/21/2024
+21.1
+Subsidiaries of Lumentum Holdings Inc.
+X
+23.1
+Consent of Independent Registered Public Accounting Firm (Deloitte & Touche LLP)
+X
+31.1
+Certification of the Chief Executive Officer pursuant to Securities Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+ 
+ 
+X
+31.2
+Certification of the Chief Financial Officer pursuant to Securities Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+ 
+ 
+ 
+X
+32.1†
+Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+ 
+ 
+ 
+X
+32.2†
+Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+ 
+ 
+ 
+X
+97.1
+Compensation Recovery Policy
+X
+101
+The following financial information from Lumentum Holdings Inc.’s Annual Report on Form 10-K for the fiscal year ended June 28, 2025 formatted in Inline XBRL (eXtensible Business Reporting Language): (i) Consolidated Statements of Operations for the fiscal years ended June 28, 2025, June 29, 2024 and July 1, 2023; (ii) Consolidated Statements of Comprehensive Income for the fiscal years ended June 28, 2025, June 29, 2024 and July 1, 2023; (iii) Consolidated Balance Sheets as of June 28, 2025 and June 29, 2024; (iv) Consolidated Statements of Cash Flows for the fiscal years ended June 28, 2025, June 29, 2024 and July 1, 2023 ; (v) Consolidated Statements of  Stockholders’ Equity for the fiscal years ended June 28, 2025, June 29, 2024 and July 1, 2023; and (vi) Notes to the Consolidated Financial Statements
+ 
+ 
+ 
+X
+104
+The cover page from Lumentum Holdings Inc.’s Annual Report on Form 10-K for the fiscal year ended June 28, 2025, formatted in Inline XBRL (included as Exhibit 101).
+ 
+ 
+ 
+X
+* Indicates management contract or compensatory plan or arrangement.
+† The certifications furnished in Exhibits 32.1 and 32.2 that accompany this Annual Report on Form 10-K, are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of the Registrant under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Annual Report on Form 10-K, irrespective of any general incorporation language contained in such filing.
+128
+Table of Contents

@@ -1,0 +1,215 @@
+=== FILING DATE: 2025-12-02 ===
+=== PERIOD COVERED: 2025-11-01 ===
+=== SOURCE: 10-Q filed 2025-12-02 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: CRDO ===
+
+are, which is based on the weighted-average number of ordinary shares outstanding and potentially dilutive shares outstanding during the period.
+Net income (loss) per share for the
+three and six
+ months ended
+November 1, 2025
+ and
+November 2, 2024
+, respectively, was determined as follows (in thousands, except per share amounts):
+Three Months Ended
+Six Months Ended
+November 1, 2025
+November 2, 2024
+November 1, 2025
+November 2, 2024
+Numerator:
+Net income (loss)
+$
+82,636
+ 
+$
+(
+4,225
+)
+$
+146,035
+ 
+$
+(
+13,765
+)
+Denominator:
+Weighted-average shares outstanding used in basic calculation
+175,307
+ 
+166,487
+ 
+173,623
+ 
+165,789
+ 
+Effect of dilutive shares
+Share-based compensation awards
+10,431
+ 
+—
+ 
+10,137
+ 
+—
+ 
+Customer Warrant
+1,921
+ 
+—
+ 
+1,705
+ 
+—
+ 
+Weighted-average shares outstanding used in dilution calculation
+187,659
+ 
+166,487
+ 
+185,465
+ 
+165,789
+ 
+Net income (loss) per share:
+Basic
+$
+0.47
+ 
+$
+(
+0.03
+)
+$
+0.84
+ 
+$
+(
+0.08
+)
+Diluted
+$
+0.44
+ 
+$
+(
+0.03
+)
+$
+0.79
+ 
+$
+(
+0.08
+)
+Potential dilutive securities include dilutive ordinary shares from the Customer Warrant, share-based awards attributable to the assumed exercise of share options, restricted stock units and employee stock purchase plan shares using the treasury stock method. Under the treasury stock method, potential ordinary shares outstanding are not
+19
+Credo Technology Group Holding Ltd
+Notes to Unaudited Condensed Consolidated Financial Statements
+included in the computation of diluted net income (loss) per share if their effect is anti-dilutive.
+The following potentially dilutive securities outstanding (in thousands) have been excluded from the computations of diluted weighted-average shares outstanding for the
+three and six months ended November 1, 2025
+ and November 2, 2024:
+Three and Six Months Ended
+November 1, 2025
+November 2, 2024
+Share-based compensation awards
+824
+ 
+14,038
+ 
+Customer Warrant
+—
+ 
+4,080
+ 
+824
+ 
+18,118
+ 
+13.
+Segment Information
+The Company’s Chief Operating Decision Maker (CODM) manages the Company’s business activities as a single reportable segment at the consolidated level. Accordingly, the CODM uses net income or loss for the purposes of making operating decisions, allocating resources and evaluating financial performance. The measure of segment assets is reported on the condensed consolidated balance sheet as total assets, although the CODM does not evaluate asset information of purposes of allocating resources or evaluating performance.
+The table below provides information about the Company’s revenue, significant segment expenses and other segment expenses (in thousands):
+Three Months Ended
+Six Months Ended
+November 1, 2025
+November 2, 2024
+November 1, 2025
+November 2, 2024
+Revenue
+$
+268,027
+ 
+$
+72,034
+ 
+$
+491,101
+ 
+$
+131,748
+ 
+Less:
+Cost of revenue
+86,981
+ 
+26,522
+ 
+159,687
+ 
+48,953
+ 
+Personnel related expenses
+30,207
+ 
+20,777
+ 
+57,460
+ 
+41,762
+ 
+Share-based compensation
+44,970
+ 
+16,332
+ 
+80,069
+ 
+32,691
+ 
+Other segment items*
+23,234
+ 
+12,628
+ 
+47,850
+ 
+22,107
+ 
+Net income (loss)
+$
+82,636
+ 
+$
+(
+4,225
+)
+$
+146,035
+ 
+$
+(
+13,765
+)
+*Other segment items primarily include lease expense, external professional service expenses, depreciation and amortization, interest income and tax provision.
+20
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q and the audited consolidated financial statements and notes thereto and management’s discussion and analysis of financial condition and results of operations for the fiscal year ended May 3, 2025 included in the Company’s Annual Report on Form 10-K for the fiscal year ended May 3, 2025. Some of the information contained in this discussion and analysis includes forward-looking statements that involve risks and uncertainties as described under the heading “Special Note Regarding Forward-Looking Statements” of this Quarterly Report on Form 10-Q.
+Overview
+At Credo, our mission is to redefine high-speed connectivity by delivering breakthrough solutions that enable the next generation of AI-driven applications. We are committed to enabling faster, more reliable, more energy-efficient, and scalable solutions that support the ever-expanding demands of AI, cloud computing and hyperscale networks. Our connectivity solutions are optimized for optical and electrical Ethernet and PCIE applications, including the 100G (or Gigabits per second), 200G, 400G, 800G and emerging 1.6T (or Terabits per second) Ethernet markets and the 32G PCIe5 and upcoming 64G PCIe6 markets. Our products are based on our Serializer/Deserializer (SerDes) and Digital Signal Processor (DSP) technologies. Our product families include integrated circuits (ICs), Active Electrical Cables (AECs) and SerDes Chiplets. Our intellectual property (IP) solutions consist primarily of SerDes IP licensing.
+Data generation has increased dramatically over the past ten years, creating new and complicated challenges in both circuit and system design. Our proprietary SerDes and DSP technologies enable us to achieve similar performance to leading competitors’ products but at a lower cost and more highly available legacy node (n-1 advantage). Beyond power and performance, Credo continues to innovate to address customers’ system level requirements. We partner with Microsoft on our HiWire Switch AEC and open-source implementation that helps realize Microsoft’s vision for a highly reliable network-managed dual-Top-of-Rack (ToR) architecture (a network architecture design in which computing equipment located within the same or an adjacent rack are, for redundancy, connected to two in-rack network switches, which are, in turn, connected to aggregation switches via fiber optic cables), overcome complex and slow legacy enterprise approaches, simplify deployment and improve connection reliability in the data center.
+The multibillion-dollar data infrastructure market that we serve is driven largely by hyperscale data centers (hyperscalers), as well as general compute, AI/ML infrastructure, multi-service operators (MSOs), and mobile network operators (MNOs). The demands for increased bandwidth, improved power and cost efficiency and heightened security have simultaneously and dramatically expanded as work, education and entertainment have rapidly digitized across myriad endpoint users.
+We design, market and sell product, software and IP solutions. We help define industry conventions and standards within the markets we target by collaborating with technology leaders and standards bodies. We contract with a variety of manufacturing partners to build our products based on our proprietary SerDes and DSP technologies. We develop standard solutions we can sell broadly to our end markets and also develop tailored solutions designed to address specific customer needs. Once developed, these tailored solutions can generally be broadly leveraged across our portfolio and we are able to sell the part or license the IP to the broader market.
+During the three and six months ended November 1, 2025, we generated $268.0 million and $491.1 million in total revenue, respectively, and during the three and six months ended November 2, 2024, we generated $72.0 million and $131.7 million in total revenue, respectively. Product sales comprised 97.5% and 97.4% of our total revenue in the three and six months ended November 1, 2025, respectively, and 95.9% in both the three and six months ended November 2, 2024, and IP license revenue represented 2.5% and 2.6% of our total revenue in the three and six months ended November 1, 2025, respectively, and 4.1% in both the three and six months ended November 2, 2024. During the three and six months ended November 1, 2025, we generated $82.6 million and $146.0 million in net income, respecti

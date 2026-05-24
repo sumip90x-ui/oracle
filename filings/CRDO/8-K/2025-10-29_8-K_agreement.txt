@@ -1,0 +1,101 @@
+=== FILING DATE: 2025-10-29 ===
+=== PERIOD COVERED: 2025-10-23 ===
+=== SOURCE: 8-K filed 2025-10-29 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: CRDO ===
+
+
+
+crdo-20251023
+0001807794
+false
+0001807794
+2025-10-23
+2025-10-23
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+
+_________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 23, 2025
+_________________________
+Credo Technology Group Holding Ltd
+(Exact name of registrant as specified in its charter)
+ _________________________
+Cayman Islands
+001-41249
+N/A
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+c/o
+Maples Corporate Services, Limited
+,
+PO Box 309, Ugland House
+Grand Cayman
+,
+KY1-1104
+,
+Cayman Islands
+N/A
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(
+408
+)
+664-9329
+N/A
+(Former name or former address, if changed since last report)
+_________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+ 
+Trading
+Symbol(s)
+ 
+Name of each exchange
+on which registered
+Ordinary shares, par value $0.00005 per share
+CRDO
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).                    Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     ☐
+Item 5.02    Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+ 
+On October 23, 2025, Lip-Bu Tan, a member of the board of directors (the “Board”) of Credo Technology Group Holding Ltd (the “Company”), resigned from the Board, effective October 23, 2025. The resignation of Mr. Tan from the Board was not due to any disagreement with the Company on any matter relating to the Company’s operations, policies, or practices.
+The Company further announced that, effective October 27, 2025, the Board elected Brian Kelleher as a Class III director to fill the vacancy resulting from Mr. Tan’s resignation from the Board, to serve until the expiration of the term of the Class III directors at the Company’s annual meeting of stockholders to be held in 2027 or until his successor is duly elected and qualified, or until his earlier death, resignation or removal. The Board determined that Mr. Kelleher qualifies as an independent director pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (the “SEC”) and the listing standards of the Nasdaq Stock Market.
+Mr. Kelleher, 62, served as Senior Vice President of Hardware Engineering at NVDIA from 2005 through 2024, most recently leading the GPU product development organization.  Prior to 2005, Mr. Kelleher served as Vice President of Hardware Engineering at NVIDIA. Prior to joining NVIDIA in 2000, Mr. Kelleher was Vice President of Hardware Engineering at 3dfx Interactive Inc. Earlier, Mr. Kelleher founded Dynamic Pictures, where he held various positions including Chief Executive Officer, Executive Vice President and Chief Technical Officer. Prior to starting Dynamic Pictures, Mr. Kelleher spent eight years at Digital Equipment Corp., where he served as head graphics designer for the MIPS-based development team in Palo Alto, California. Mr. Kelleher holds a Bachelor of Science degree in Computer Science from Brown University.
+There are no family relationships, as defined in Item 401 of Regulation S-K, between Mr. Kelleher and any of the Company’s executive officers or directors or persons nominated or chosen to become directors or executive officers. There is no arrangement or understanding between Mr. Kelleher and any other person pursuant to which Mr. Kelleher was appointed as a member of the Board. There are no transactions requiring disclosure under Item 404(a) of Regulation S-K.
+Mr. Kelleher will receive compensation for his service as a member of the Board in accordance with the Company’s non-employee director compensation policy, as described in the Company’s Definitive Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on August 25, 2025.
+Mr. Kelleher will also enter into the Company’s standard form of indemnification agreement, the form of which is filed as Exhibit 10.1 to the Company’s Annual Report on Form 10-K for the fiscal year ended May 3, 2025 filed with the SEC on July 2, 2025.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Credo Technology Group Holding Ltd
+Date: October 28, 2025
+By:
+/s/ William Brennan
+William Brennan
+President and Chief Executive Officer
+

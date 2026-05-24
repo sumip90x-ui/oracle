@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-12
+Transaction Date: 2025-04-23
+Person: SMITH BRADFORD L — Vice Chair and President
+Type: BUY
+Shares: 7684 at $377.4650
+Shares After: 451596.7633
+=== TICKER: MSFT ===
+===

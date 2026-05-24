@@ -3,7 +3,8 @@
     "name": "Cisco Systems, Inc.",
     "cik": "0000858877",
     "source": "edgar_backfill",
-    "sector": "networking"
+    "sector": "networking",
+    "valuation_mode": "mature_stalwart"
   },
   "AAPL": {
     "name": "Apple Inc.",
@@ -41,7 +42,8 @@
     "source": "edgar_backfill",
     "sector": "software",
     "founder_led": true,
-    "complex_jurisdiction": false
+    "complex_jurisdiction": false,
+    "valuation_mode": "platform_compounder"
   },
   "MRVL": {
     "name": "Marvell Technology, Inc.",
@@ -54,13 +56,15 @@
     "source": "edgar_backfill",
     "sector": "biotech",
     "founder_led": true,
-    "complex_jurisdiction": false
+    "complex_jurisdiction": false,
+    "valuation_mode": "inflection_stage"
   },
   "LDOS": {
     "name": "Leidos Holdings, Inc.",
     "cik": "0001336920",
     "source": "edgar_backfill",
-    "sector": "defense_services"
+    "sector": "defense_services",
+    "valuation_mode": "defense_government_services"
   },
   "LITE": {
     "name": "Lumentum Holdings Inc.",
@@ -70,22 +74,28 @@
   "SMCI": {
     "name": "Super Micro Computer, Inc.",
     "cik": "0001375365",
-    "source": "edgar_backfill"
+    "source": "edgar_backfill",
+    "valuation_mode": "cyclical_recovery"
   },
   "ZETA": {
     "name": "Zeta Global Holdings Corp.",
     "cik": "0001851003",
-    "source": "edgar_backfill"
+    "source": "edgar_backfill",
+    "valuation_mode": "platform_compounder",
+    "sector": "software"
   },
   "KTOS": {
     "name": "Kratos Defense & Security Solutions, Inc.",
     "cik": "0001069258",
-    "source": "edgar_backfill"
+    "source": "edgar_backfill",
+    "valuation_mode": "defense_government_services"
   },
   "CRDO": {
     "name": "Credo Technology Group Holding Ltd",
     "cik": "0001807794",
-    "source": "edgar_backfill"
+    "source": "edgar_backfill",
+    "valuation_mode": "platform_compounder",
+    "sector": "optical_components"
   },
   "FLEX": {
     "name": "Flex Ltd.",
@@ -95,30 +105,35 @@
   "TTD": {
     "name": "The Trade Desk, Inc.",
     "cik": "0001671933",
-    "source": "edgar_backfill"
+    "source": "edgar_backfill",
+    "valuation_mode": "platform_compounder"
   },
   "AXON": {
     "name": "Axon Enterprise, Inc.",
     "cik": "0001069183",
-    "source": "edgar_backfill"
+    "source": "edgar_backfill",
+    "valuation_mode": "defense_government_services"
   },
   "ACM": {
     "name": "AECOM",
     "cik": "0000868857",
     "source": "edgar_backfill",
-    "sector": "engineering_services"
+    "sector": "engineering_services",
+    "valuation_mode": "defense_government_services"
   },
   "YELP": {
     "name": "Yelp Inc.",
     "cik": "0001345016",
     "source": "edgar_backfill",
-    "sector": "local_services"
+    "sector": "local_services",
+    "valuation_mode": "mature_stalwart"
   },
   "TTEK": {
     "name": "Tetra Tech, Inc.",
     "cik": "0000831641",
     "source": "edgar_backfill",
-    "sector": "engineering_services"
+    "sector": "engineering_services",
+    "valuation_mode": "defense_government_services"
   },
   "AAOI": {
     "name": "Applied Optoelectronics Inc",
@@ -127,67 +142,84 @@
     "cik": "0001158114",
     "sector": "optical_components",
     "founder_led": false,
-    "complex_jurisdiction": false
+    "complex_jurisdiction": false,
+    "valuation_mode": "cyclical_recovery"
   },
   "ALAB": {
     "name": "Astera Labs Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001736297"
+    "cik": "0001736297",
+    "valuation_mode": "cyclical_recovery"
   },
   "CRWD": {
     "name": "CrowdStrike Holdings Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001535527"
+    "cik": "0001535527",
+    "valuation_mode": "platform_compounder"
   },
   "INSM": {
     "name": "Insmed Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001104506"
+    "cik": "0001104506",
+    "valuation_mode": "inflection_stage",
+    "sector": "biotech"
   },
   "IOT": {
     "name": "Samsara Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001642896"
+    "cik": "0001642896",
+    "valuation_mode": "platform_compounder",
+    "sector": "software"
   },
   "NTLA": {
     "name": "Intellia Therapeutics Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001652130"
+    "cik": "0001652130",
+    "valuation_mode": "inflection_stage",
+    "sector": "biotech"
   },
   "PATH": {
     "name": "UiPath Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001734722"
+    "cik": "0001734722",
+    "valuation_mode": "platform_compounder",
+    "sector": "software"
   },
   "GEN": {
     "name": "Gen Digital Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0000849399"
+    "cik": "0000849399",
+    "valuation_mode": "mature_stalwart"
   },
   "GCT": {
     "name": "GigaCloud Technology Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001857816"
+    "cik": "0001857816",
+    "valuation_mode": "platform_compounder",
+    "sector": "software"
   },
   "GTLB": {
     "name": "GitLab Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001653482"
+    "cik": "0001653482",
+    "valuation_mode": "platform_compounder",
+    "sector": "software"
   },
   "CELH": {
     "name": "Celsius Holdings Inc",
     "source": "manual",
     "confirmed_date": "2026-05-14",
-    "cik": "0001341766"
+    "cik": "0001341766",
+    "valuation_mode": "mature_stalwart"
   },
   "APP": {
     "name": "AppLovin Corp",
@@ -200,7 +232,8 @@
     "source": "yfinance",
     "confirmed_date": "2026-05-14",
     "cik": "0000039911",
-    "sector": "retail"
+    "sector": "retail",
+    "valuation_mode": "mature_stalwart"
   },
   "AEM": {
     "name": "Agnico Eagle Mines Limited",
@@ -212,7 +245,8 @@
     "commodity": "XAUUSD",
     "sector": "gold_mining",
     "founder_led": false,
-    "complex_jurisdiction": false
+    "complex_jurisdiction": false,
+    "valuation_mode": "commodity_producer"
   },
   "GOLD": {
     "name": "Barrick Gold Corporation",
@@ -264,7 +298,8 @@
     "commodity": "XAUUSD",
     "source": "manual",
     "confirmed_date": "2026-05-15",
-    "sector": "gold_mining"
+    "sector": "gold_mining",
+    "valuation_mode": "commodity_producer"
   },
   "FCX": {
     "name": "Freeport-McMoRan Inc",
@@ -274,7 +309,8 @@
     "commodity": "COPPER",
     "source": "manual",
     "confirmed_date": "2026-05-15",
-    "sector": "copper_mining"
+    "sector": "copper_mining",
+    "valuation_mode": "commodity_producer"
   },
   "CVX": {
     "name": "Chevron Corporation",
@@ -284,7 +320,8 @@
     "commodity": "WTI",
     "source": "manual",
     "confirmed_date": "2026-05-15",
-    "sector": "oil_gas"
+    "sector": "oil_gas",
+    "valuation_mode": "commodity_producer"
   },
   "XOM": {
     "name": "Exxon Mobil Corporation",
@@ -294,7 +331,8 @@
     "commodity": "WTI",
     "source": "manual",
     "confirmed_date": "2026-05-15",
-    "sector": "oil_gas"
+    "sector": "oil_gas",
+    "valuation_mode": "commodity_producer"
   },
   "BTG": {
     "name": "B2Gold Corp",
@@ -306,12 +344,217 @@
     "complex_jurisdiction": true,
     "filing_type": "6-K",
     "foreign_private_issuer": true,
-    "commodity": "XAUUSD"
+    "commodity": "XAUUSD",
+    "valuation_mode": "commodity_producer"
   },
   "AG": {
     "name": "First Majestic Silver Corp.",
     "source": "yfinance",
     "confirmed_date": "2026-05-15",
-    "cik": "0001308648"
+    "cik": "0001308648",
+    "filing_type": "6-K",
+    "foreign_private_issuer": true,
+    "commodity": "SILVER",
+    "sector": "silver_mining",
+    "founder_led": true,
+    "complex_jurisdiction": true,
+    "old_ticker": null,
+    "valuation_mode": "commodity_producer"
+  },
+  "PAAS": {
+    "name": "Pan American Silver Corp",
+    "cik": "0000882059",
+    "filing_type": "6-K",
+    "foreign_private_issuer": true,
+    "commodity": "SILVER",
+    "sector": "silver_mining",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "EXK": {
+    "name": "Endeavour Silver Corp",
+    "cik": "0001279834",
+    "filing_type": "6-K",
+    "foreign_private_issuer": true,
+    "commodity": "SILVER",
+    "sector": "silver_mining",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "HL": {
+    "name": "Hecla Mining Company",
+    "cik": "0000719413",
+    "filing_type": "8-K",
+    "foreign_private_issuer": false,
+    "commodity": "SILVER",
+    "sector": "silver_mining",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "CDE": {
+    "name": "Coeur Mining Inc",
+    "cik": "0000215243",
+    "filing_type": "8-K",
+    "foreign_private_issuer": false,
+    "commodity": "SILVER",
+    "sector": "silver_mining",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "RGLD": {
+    "name": "Royal Gold Inc",
+    "cik": "0000085408",
+    "filing_type": "8-K",
+    "foreign_private_issuer": false,
+    "commodity": "XAUUSD",
+    "sector": "precious_metals_streaming",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "SCCO": {
+    "name": "Southern Copper Corporation",
+    "cik": "0000723254",
+    "filing_type": "8-K",
+    "foreign_private_issuer": false,
+    "commodity": "COPPER",
+    "sector": "copper_mining",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "COP": {
+    "name": "ConocoPhillips",
+    "cik": "0001163165",
+    "filing_type": "8-K",
+    "foreign_private_issuer": false,
+    "commodity": "WTI",
+    "sector": "oil_gas",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "STLD": {
+    "name": "Steel Dynamics Inc",
+    "cik": "0001022671",
+    "filing_type": "8-K",
+    "foreign_private_issuer": false,
+    "commodity": "HRC",
+    "sector": "steel",
+    "source": "manual",
+    "confirmed_date": "2026-05-15",
+    "valuation_mode": "cyclical_recovery"
+  },
+  "NUE": {
+    "name": "Nucor Corporation",
+    "cik": "0000073309",
+    "filing_type": "8-K",
+    "foreign_private_issuer": false,
+    "commodity": "HRC",
+    "sector": "steel",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "X": {
+    "name": "United States Steel Corporation",
+    "cik": "0000101830",
+    "filing_type": "8-K",
+    "foreign_private_issuer": false,
+    "commodity": "HRC",
+    "sector": "steel",
+    "source": "manual",
+    "confirmed_date": "2026-05-15"
+  },
+  "HOOD": {
+    "name": "Robinhood Markets, Inc.",
+    "source": "yfinance",
+    "confirmed_date": "2026-05-15",
+    "cik": "0001783879",
+    "valuation_mode": "platform_compounder",
+    "sector": "fintech"
+  },
+  "COIN": {
+    "source": "manual",
+    "confirmed_date": "2026-05-15",
+    "valuation_mode": "platform_compounder",
+    "sector": "crypto_exchange",
+    "name": "Coinbase Global Inc."
+  },
+  "MU": {
+    "source": "manual",
+    "confirmed_date": "2026-05-15",
+    "valuation_mode": "cyclical_recovery"
+  },
+  "SNOW": {
+    "name": "Snowflake Inc.",
+    "source": "yfinance",
+    "confirmed_date": "2026-05-15",
+    "cik": "0001640147",
+    "valuation_mode": "platform_compounder"
+  },
+  "DDOG": {
+    "name": "Datadog Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "NET": {
+    "name": "Cloudflare Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "ZS": {
+    "name": "Zscaler Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "NOW": {
+    "name": "ServiceNow Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "HUBS": {
+    "name": "HubSpot Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "BILL": {
+    "name": "Bill Holdings Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "MDB": {
+    "name": "MongoDB Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "PANW": {
+    "name": "Palo Alto Networks Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "ADBE": {
+    "name": "Adobe Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "CRM": {
+    "name": "Salesforce Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "WDAY": {
+    "name": "Workday Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "SHOP": {
+    "name": "Shopify Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "UBER": {
+    "name": "Uber Technologies Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "ABNB": {
+    "name": "Airbnb Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "DASH": {
+    "name": "DoorDash Inc.",
+    "valuation_mode": "platform_compounder"
+  },
+  "RBLX": {
+    "name": "Roblox Corp.",
+    "valuation_mode": "platform_compounder"
+  },
+  "RDDT": {
+    "name": "Reddit Inc.",
+    "valuation_mode": "platform_compounder"
   }
 }

@@ -1,0 +1,1462 @@
+=== FILING DATE: 2017-02-10 ===
+=== PERIOD COVERED: 2017-02-10 ===
+=== SOURCE: SC13G filed 2017-02-10 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: INTU ===
+
+
+
+SC 13G
+
+1
+
+d341662dsc13g.htm
+
+SC 13G
+
+
+SC 13G
+
+
+ 
+
+
+ 
+
+UNITED STATES
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+SCHEDULE 13G
+
+
+Under the Securities Exchange Act of 1934
+
+(Amendment No.     )*
+
+ 
+
+
+ 
+
+INTUIT INC.
+
+
+(Name of Issuer)
+
+COMMON STOCK
+
+(Title of Class of Securities)
+
+
+461202-10-3
+
+
+(Cusip Number)
+
+DECEMBER 31, 2016
+
+(Date of Event Which Requires Filing of this
+Statement)
+
+ 
+
+ 
+
+
+Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+
+
+☐ Rule 13d-1 (b)
+
+☐ Rule 13d-1 (c)
+
+☒ Rule 13d-1 (d)
+
+
+ 
+
+
+*
+
+
+The remainder of this cover page shall be filled out for a reporting person’s initial filing on this form with respect to the subject class of securities, and for
+any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
+
+The
+information required in the remainder of this cover page shall not be deemed to be “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+
+ 
+
+
+ 
+
+ 
+
+
+(Continued on following pages)
+
+(Page 1 of 9 Pages)
+
+
+13G
+
+ 
+
+
+CUSIP No. 461202-10-3
+
+
+  
+
+
+ Page
+ 2
+ of 9
+
+ 
+
+
+  1. 
+
+
+ 
+
+
+Name of Reporting Person:
+
+ 
+
+SCOTT D. COOK
+
+
+  2.
+
+
+ 
+
+
+
+Check the Appropriate Box if a
+Member of a Group (See Instructions):
+
+(a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+SEC Use Only:
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+Citizenship or Place of
+Organization:
+
+ 
+
+USA
+
+
+
+Number of Shares
+Beneficially Owned by Each Reporting Person
+
+With
+
+
+  
+
+
+5. 
+
+
+  
+
+
+
+Sole Voting Power:
+
+
+ 
+
+0
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+Shared Voting Power:
+
+
+ 
+
+12,782,312
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+Sole Dispositive Power:
+
+
+ 
+
+0
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+Shared Dispositive Power:
+
+
+ 
+
+12,934,313
+
+
+  9.
+
+
+ 
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+ 
+
+
+12,934,313
+
+
+10.
+
+
+ 
+
+
+
+Check if the Aggregate Amount in
+Row (9) Excludes Certain Shares (See Instructions):  ☐
+
+ 
+
+
+11.
+
+
+ 
+
+
+
+Percent of Class Represented by
+Amount in Row (9):
+
+ 
+
+5.0%
+
+
+12.
+
+
+ 
+
+
+
+Type of Reporting Person (See
+Instructions):
+
+ 
+
+IN
+
+
+
+ 
+
+
+13G
+
+ 
+
+
+CUSIP No. 461202-10-3
+
+
+  
+
+
+ Page
+ 3
+ of 9
+
+ 
+
+
+  1. 
+
+
+ 
+
+
+Name of Reporting Person:
+
+ 
+
+HELEN SIGNE OSTBY
+
+
+  2.
+
+
+ 
+
+
+
+Check the Appropriate Box if a
+Member of a Group (See Instructions):
+
+(a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+SEC Use Only:
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+Citizenship or Place of
+Organization:
+
+ 
+
+USA
+
+
+
+Number of Shares
+Beneficially Owned by Each Reporting Person
+
+With
+
+
+  
+
+
+5. 
+
+
+  
+
+
+
+Sole Voting Power:
+
+
+ 
+
+0
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+Shared Voting Power:
+
+
+ 
+
+12,782,312
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+Sole Dispositive Power:
+
+
+ 
+
+0
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+Shared Dispositive Power:
+
+
+ 
+
+12,934,313
+
+
+  9.
+
+
+ 
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+ 
+
+
+12,934,313
+
+
+10.
+
+
+ 
+
+
+
+Check if the Aggregate Amount in
+Row (9) Excludes Certain Shares (See Instructions):  ☐
+
+ 
+
+
+11.
+
+
+ 
+
+
+
+Percent of Class Represented by
+Amount in Row (9):
+
+ 
+
+5.0%
+
+
+12.
+
+
+ 
+
+
+
+Type of Reporting Person (See
+Instructions):
+
+ 
+
+IN
+
+
+
+ 
+
+
+13G
+
+ 
+
+
+CUSIP No. 461202-10-3
+
+
+  
+
+
+ Page
+ 4
+ of 9
+
+ 
+
+
+  1. 
+
+
+ 
+
+
+Name of Reporting Person:
+
+ 
+
+THE SCOTT D. COOK AND
+
+HELEN SIGNE OSTBY FAMILY
+
+
+TRUST UTA 12/30/93, SCOTT D.
+
+COOK AND HELEN
+SIGNE
+
+OSTBY, CO-TRUSTEES
+
+
+  2.
+
+
+ 
+
+
+
+Check the Appropriate Box if a
+Member of a Group (See Instructions):
+
+(a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+SEC Use Only:
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+Citizenship or Place of
+Organization:
+
+ 
+
+CALIFORNIA
+
+
+
+Number of Shares
+Beneficially Owned by Each Reporting Person
+
+With
+
+
+  
+
+
+5. 
+
+
+  
+
+
+
+Sole Voting Power:
+
+
+ 
+
+0
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+Shared Voting Power:
+
+
+ 
+
+12,738,444
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+Sole Dispositive Power:
+
+
+ 
+
+0
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+Shared Dispositive Power:
+
+
+ 
+
+12,738,444
+
+
+  9.
+
+
+ 
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+ 
+
+
+12,738,444
+
+
+10.
+
+
+ 
+
+
+
+Check if the Aggregate Amount in
+Row (9) Excludes Certain Shares (See Instructions):  ☐
+
+ 
+
+
+11.
+
+
+ 
+
+
+
+Percent of Class Represented by
+Amount in Row (9):
+
+ 
+
+5.0%
+
+
+12.
+
+
+ 
+
+
+
+Type of Reporting Person (See
+Instructions):
+
+ 
+
+OO
+
+
+
+ 
+
+
+13G
+
+ 
+
+
+CUSIP No. 461202-10-3
+
+
+  
+
+
+ Page
+ 5
+ of 9
+
+ 
+
+
+  1. 
+
+
+ 
+
+
+Name of Reporting Person:
+
+ 
+
+THE SCOTT D. COOK AND
+
+HELEN SIGNE OSTBY 1994
+
+
+CHARITABLE TRUST UTA DTD
+
+12/30/94, SCOTT D. COOK
+AND
+
+HELEN SIGNE OSTBY,
+
+
+CO-TRUSTEES
+
+
+  2.
+
+
+ 
+
+
+
+Check the Appropriate Box if a
+Member of a Group (See Instructions):
+
+(a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3.
+
+
+ 
+
+
+
+SEC Use Only:
+
+
+ 
+
+
+  4.
+
+
+ 
+
+
+
+Citizenship or Place of
+Organization:
+
+ 
+
+CALIFORNIA
+
+
+
+Number of Shares
+Beneficially Owned by Each Reporting Person
+
+With
+
+
+  
+
+
+5. 
+
+
+  
+
+
+
+Sole Voting Power:
+
+
+ 
+
+0
+
+
+  
+
+
+6.
+
+
+  
+
+
+
+Shared Voting Power:
+
+
+ 
+
+43,868
+
+
+  
+
+
+7.
+
+
+  
+
+
+
+Sole Dispositive Power:
+
+
+ 
+
+0
+
+
+  
+
+
+8.
+
+
+  
+
+
+
+Shared Dispositive Power:
+
+
+ 
+
+43,868
+
+
+  9.
+
+
+ 
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+ 
+
+
+43,868
+
+
+10.
+
+
+ 
+
+
+
+Check if the Aggregate Amount in
+Row (9) Excludes Certain Shares (See Instructions):  ☐
+
+ 
+
+
+11.
+
+
+ 
+
+
+
+Percent of Class Represented by
+Amount in Row (9):
+
+ 
+
+0.0%
+
+
+12.
+
+
+ 
+
+
+
+Type of Reporting Person (See
+Instructions):
+
+ 
+
+OO
+
+
+
+ 
+
+
+13G
+
+ 
+
+
+CUSIP No. 461202-10-3
+
+
+  
+
+
+ Page
+ 6
+ of 9
+
+ 
+
+
+Item 1.
+
+ 
+
+
+ 
+
+
+(a)
+
+
+Name of Issuer:
+
+Intuit
+Inc.
+
+ 
+
+
+ 
+
+
+(b)
+
+
+Address of Issuer’s Principal Executive Offices:
+
+2700 Coast Avenue
+
+Mountain View, CA 94043
+
+
+Item 2.
+
+ 
+
+
+ 
+
+
+(a)
+
+
+Name of Person Filing:
+
+ 
+
+
+ 
+
+
+(i)
+
+
+Scott D. Cook
+
+ 
+
+
+ 
+
+
+(ii)
+
+
+Helen Signe Ostby
+
+ 
+
+
+ 
+
+
+(iii)
+
+
+The Scott D. Cook and Helen Signe Ostby Family Trust UTA 12/30/93, Scott D. Cook and Helen Signe Ostby, Co-Trustees (the “Family Trust”)
+
+
+ 
+
+
+ 
+
+
+(iv)
+
+
+The Scott D. Cook and Helen Signe Ostby 1994 Charitable Trust UTA DTD 12/30/94, Scott D. Cook and Helen Signe Ostby, Co-Trustees (the “1994 Charitable Trust”)
+
+
+ 
+
+
+ 
+
+
+(b)
+
+
+Address of Principal Business Office or, if none, Residence:
+
+For all filing persons:
+
+2700 Coast Avenue,
+
+
+Mountain View, CA 94043
+
+ 
+
+
+ 
+
+
+(c)
+
+
+Place of Organization or Citizenship:
+
+Scott D. Cook and Helen Signe Ostby are U.S. citizens. Each of the trusts identified in Item 2(a) is organized under the laws of the State of California.
+
+
+ 
+
+
+ 
+
+
+(d)
+
+
+Title of Class of Securities:
+
+Common Stock, par value $.01 per share
+
+ 
+
+
+ 
+
+
+(e)
+
+
+CUSIP Number:
+
+
+461202-10-3
+
+ 
+
+
+Item 3.
+
+
+Not applicable
+
+
+13G
+
+ 
+
+
+CUSIP No. 461202-10-3
+
+
+  
+
+
+ Page
+ 7
+ of 9
+
+ 
+
+
+Item 4.
+
+
+Ownership.
+
+ 
+
+
+ 
+
+
+(a)
+
+
+Amount beneficially owned:
+
+As of December 31, 2016, the Family Trust held 12,738,444 shares of Common Stock and the 1994 Charitable Trust held 43,868 shares of Common Stock. All shares of Common Stock held by the trusts (an
+aggregate of 12,782,313 shares) may be deemed to be beneficially owned by Scott D. Cook and Helen Signe Ostby as co-trustees of each trust. Additionally, 152,001 shares are held in trusts for the benefit of family members, of which Mr. Cook and
+Ms. Ostby are not Trustees, but share dispositive power.
+
+ 
+
+
+ 
+
+
+(b)
+
+
+Percent of class:
+
+ 
+
+
+Scott D. Cook
+
+
+  
+
+
+5.0%
+
+
+Helen Signe Ostby
+
+
+  
+
+
+5.0%
+
+
+Family Trust
+
+
+  
+
+
+5.0%
+
+
+1994 Charitable Trust
+
+
+  
+
+
+0.0%
+
+
+
+All percentages reported are based on 256,244,555 shares of common stock of Intuit Inc. outstanding as of
+December 31, 2016.
+
+ 
+
+
+ 
+
+
+(c)
+
+
+Number of shares as to which the person has:
+
+ 
+
+
+ 
+
+
+(i)
+
+
+Sole power to vote or to direct the vote:
+
+-0-
+
+ 
+
+
+ 
+
+
+(ii)
+
+
+Shared power to vote or to direct the vote:
+
+* see explanation below
+
+ 
+
+
+ 
+
+
+(iii)
+
+
+Sole power to dispose of or to direct the disposition of:
+
+-0-
+
+ 
+
+
+ 
+
+
+(iv)
+
+
+Shared power to dispose of or to direct the disposition of:
+
+* As co-trustees of the Family Trust, Mr. Cook and Ms. Ostby have shared voting and dispositive power with respect to the 12,738,444 shares of Common Stock held by such trust. Either
+Mr. Cook or Ms. Ostby, acting alone, may vote or dispose of these shares of Common Stock.
+
+* As co-trustees of the
+1994 Charitable Trust, Mr. Cook and Ms. Ostby have shared voting and dispositive power with respect to the 43,868 shares of Common Stock held by such trust. Mr. Cook and Ms. Ostby must act jointly to vote or dispose of these
+shares of Common Stock.
+
+* Mr. Cook and Ms. Ostby share dispositive power with respect to 152,001 shares held in
+trusts for the benefit of family members, of which Mr. Cook and Ms. Ostby are not Trustees.
+
+
+13G
+
+ 
+
+
+CUSIP No. 461202-10-3
+
+
+  
+
+
+ Page
+ 8
+ of 9
+
+ 
+
+
+Item 5.
+
+
+Ownership of Five Percent or Less of a Class.
+
+If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five percent of the class of securities, check the
+following:  ☐
+
+ 
+
+
+Item 6.
+
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+Not applicable
+
+ 
+
+
+Item 7.
+
+
+Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company or Control Person.
+
+
+Not applicable
+
+ 
+
+
+Item 8.
+
+
+Identification and Classification of Members of the Group.
+
+See Item 2. The filing persons are making a joint filing pursuant to Rule 13d-1(k) under the Securities Exchange Act of 1934, as amended. The filing parties have executed an Agreement With Respect to
+Joint Filing of Schedule 13G, which was originally filed as Exhibit 1 to the Schedule 13G/A filed by the filing persons on February 13, 2012.
+
+ 
+
+
+Item 9.
+
+
+Notice of Dissolution of Group.
+
+Not
+applicable
+
+ 
+
+
+Item 10.
+
+
+Certification.
+
+Not applicable
+
+
+13G
+
+ 
+
+
+CUSIP No. 461202-10-3
+
+
+  
+
+
+ Page
+ 9
+ of 9
+
+ 
+
+
+SIGNATURE
+
+After reasonable inquiry and to the best of our knowledge and belief, we certify that the information set forth in this statement is true, complete and correct.
+
+
+Date: February 10, 2017
+
+ 
+
+
+
+/s/ SCOTT D. COOK
+
+
+Scott D. Cook
+
+
+
+On behalf of the following filing persons:
+
+Scott D. Cook
+
+Helen Signe Ostby
+
+The Scott D. Cook and Helen Signe Ostby Family Trust UTA 12/30/93
+
+The Scott D. Cook and Helen
+Ostby 1994 Charitable Trust UTA DTD 12/30/94
+
+

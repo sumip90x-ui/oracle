@@ -1,0 +1,87 @@
+=== FILING DATE: 2025-12-17 ===
+=== PERIOD COVERED: 2025-11-23 ===
+=== SOURCE: 10-Q filed 2025-12-17 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: COST ===
+
+Item 8
+, Note 1 of our Annual Report on Form 10-K, for the fiscal year ended August 31, 2025.
+Provision for Income Taxes
+ 
+12 Weeks Ended
+ 
+November 23,
+2025
+November 24,
+2024
+Provision for income taxes
+$
+582 
+$
+508 
+Effective tax rate
+22.5 
+%
+22.0 
+%
+The effective tax rate for the first quarter of 2026 and 2025
+
+was favorably impacted by discrete tax benefits of $72 and $100 related to stock compensation.
+LIQUIDITY AND CAPITAL RESOURCES
+The following table summarizes our significant sources and uses of cash and cash equivalents:
+12 Weeks Ended
+November 23,
+2025
+November 24,
+2024
+Net cash provided by operating activities
+$
+4,688 
+$
+3,260 
+Net cash used in investing activities
+(1,398)
+(985)
+Net cash used in financing activities
+(1,167)
+(1,193)
+Our primary sources of liquidity are cash flows from operations, cash and cash equivalents, and short-term investments. Cash and cash equivalents and short-term investments were $17,183 and $15,284 at November 23, 2025, and August 31, 2025. Of these balances, unsettled credit and debit card receivables
+22
+Table of Contents
+represented approximately $3,095 and $2,670 at November 23, 2025, and August 31, 2025. These receivables generally settle within four days.
+Material contractual obligations arising in the normal course of business primarily consist of purchase obligations, long-term debt and related interest payments, leases, and construction and land purchase obligations. Purchase obligations consist of contracts primarily related to merchandise, equipment, and third-party services, the majority of which are due in the next 12 months. Construction and land-purchase obligations consist of contracts primarily related to the development and opening of new and relocated warehouses, the majority of which (other than leases) are due in the next 12 months.
+We believe that our cash and investment positions and operating cash flow, with capacity under existing and available credit agreements, will be sufficient to meet our liquidity and capital requirements for the foreseeable future and that our U.S. current and projected asset position is sufficient to meet our U.S. liquidity requirements.
+Cash Flows from Operating Activities
+Net cash provided by operating activities totaled $4,688 in the first quarter of 2026, compared to $3,260 in the first quarter of 2025. Our cash flow provided by operations is primarily fr
+om net sales and membership fees. Cash flow used in operations generally consists of payments to
+ suppliers, warehouse operating costs, including wages and employee benefits, utilities, credit and debit card processing fees, and operating leases. Cash used in operations also includes payments for income taxes. Changes in our net investment in merchandise inventories (the difference between merchandise inventories and accounts payable) is impacted by several factors, including inventory levels and turnover, payment terms with suppliers, and early payments to obtain discounts.
+Cash Flows from Investing Activities
+Net cash used in investing activities totaled $1,398 in the first quarter of 2026, compared to $985 in the first quarter of 2025, and is primarily related
+ to capital expenditures.
+Net cash from investing activities also includes purchases and maturities of short-term investments.
+Capital Expenditure Plans
+Our primary requirements for capital are acquiring land, buildings, and equipment for new and remodeled warehouses, information systems, and manufacturing and distribution facilities. In the first quarter of 2026, we spent $1,526 on capital expenditures, and it is our current intention to spend approximately $6,500 during fiscal 2026. These expenditures are expected to be financed with cash from operations, cash and cash equivalents, and short-term investments. We opened
+
+eight
+
+new warehouses, includ
+ing
+one
+ relocation, in
+ the first quarter of 2026, and plan to open 25 additional new warehouses, including four relocations,
+in
+ the remainder of fiscal 2026. There can be no assurance that current expectations will be realized, and plans are subject to change upon further review of our capital expenditure needs and the economic environment.
+Cash Flows from Financing Activities
+Net cash used in financing activities totaled $1,167 in the first quarter of 2026, compared to $1,193 in the first quarter of 2025. Cash flow used in financing activities during the first quarter of 2026 was primarily related to the
+ payment of dividends, withholding taxes on stock-based awards, and repurchases of common stock.
+Dividends
+A quarterly cash dividend of $1.30 per share was declared on October 15, 2025, and paid on November 14, 2025.
+23
+Table of Contents
+Share Repurchase Program
+On January 19, 2023, the Board of Directors authorized a share repurchase program in the amount of $4,000, which expires in January 2027. During the first quarter of 2026 and 2025, we repurchased 225,000 and 230,000 shares of common stock, at an average price per share of $932.02 and $899.23, totaling approximately $210 and $206. These amounts may differ from the accompanying condensed consolidated statements of cash flows due to changes in unsettled repurchases at the end of a quarter. Purchases are made from time to time, as conditions warrant, in the open market or in block purchases, pursuant to plans under SEC Rule 10b5-1. Repurchased shares are retired, in accordance with the Washington Business Corporation Act. The remaining amount available to be purchased under our approved plan was $1,752 at the end of the first quarter.
+Bank Credit Facilities and Commercial Paper Programs
+We maintain bank credit facilities for working capital and general corporate purposes. At November 23, 2025, we had borrowing capacity under these facilities of $1,320. Our international operations maintain $821 of this capacity under bank credit facilities, of which $188 is guaranteed by the Company. Short-term borrowings outstanding under the bank credit facilities, which are included in other current liabilities on the condensed consolidated balance sheets, were immaterial at the end of the first quarter of 2026 and at the end of 2025.
+We have letter of credit facilities, for commercial and standby letters of credit, totaling $227. The outstanding commitments under these facilities at the end of the first quarter of 2026 totaled $193, most of which were standby letters of credit that do not expire or have expiration dates within one year. The bank credit facilities have various expiration dates, most within one year, and we generally intend to renew these facilities. The amount of borrowings available at any time under our bank credit facilities is reduced by the amount of standby and commercial letters of credit outstanding.
+Critical Accounting Estimates
+The preparation of our consolidated financial statements in accordance with U.S. GAAP requires that we make estimates and judgments. We base these on historical experience and on assumptions that we believe to be reasonable. Our critical accounting policies are discussed in Part II,

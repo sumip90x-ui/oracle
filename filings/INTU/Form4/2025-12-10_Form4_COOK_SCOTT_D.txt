@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-10
+Transaction Date: 2025-12-08
+Person: COOK SCOTT D — Director
+Type: SELL
+Shares: 149095 at $654.1888
+Shares After: 5819584
+=== TICKER: INTU ===
+===

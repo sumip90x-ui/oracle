@@ -1,0 +1,183 @@
+=== FILING DATE: 2024-07-18 ===
+=== PERIOD COVERED: 2024-07-18 ===
+=== SOURCE: SC13G filed 2024-07-18 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: NVDA ===
+
+
+
+SC 13G
+
+1
+
+nvidia-serv13g.htm
+
+SC 13G
+
+
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 13G
+Under the Securities Exchange Act of 1934
+(Amendment No. )*
+Serve Robotics Inc.
+(Name of Issuer)
+Common Stock, $0.0001 par value per share
+(Title of Class of Securities)
+81758H 106
+(CUSIP Number)
+July 31, 2023
+(Date of Event Which Requires Filing of this Statement)
+Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+☐
+☒
+☐
+Rule 13d-1(b)
+Rule 13d-1(c)
+Rule 13d-1(d)
+*The remainder of this cover page shall be filled out for a reporting person’s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
+The information required in the remainder of this cover page shall not be deemed to be “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934 (“
+Exchange Act
+”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+CUSIP No.   81758H 106
+1.
+Names of Reporting Persons
+NVIDIA Corporation
+2.
+Check the Appropriate Box if a Member of a Group (See Instructions)
+(a)
+☐
+     (b)
+☐
+3.
+SEC Use Only
+4.
+Citizenship or Place of Organization
+Delaware
+Number of
+Shares
+Beneficially
+Owned by
+Each
+Reporting
+Person With
+5.
+Sole Voting Power
+3,727,033
+6.
+Shared Voting Power
+ 0
+7.
+Sole Dispositive Power
+3,727,033
+8.
+Shared Dispositive Power
+0
+9.
+Aggregate Amount Beneficially Owned by Each Reporting Person
+3,727,033
+10.
+Check if the Aggregate Amount in Row (9) Excludes Certain Shares (See Instructions)
+☐
+11.
+Percent of Class Represented by Amount in Row (9)
+10.0% (1)
+12.
+Type of Reporting Person (See Instructions)
+CO
+(1)    This percentage is calculated based upon 37,098,653 shares of common stock, $0.0001 par value per share, of Serve Robotics Inc. (the “
+Issuer
+”) issued and outstanding as of May 31, 2024, as disclosed in the Issuer’s prospectus filed pursuant to Rule 424(b)(3) (File No. 333-280071) with the Securities and Exchange Commission on July 8, 2024.
+2
+Explanatory Note
+On July 31, 2023, Patricia Acquisition Corp., a special purpose acquisition corporation, and Serve Acquisition Corp., a wholly-owned subsidiary of Patricia Acquisition Corp., consummated a business combination with Serve Robotics Inc. through the merger of Serve Acquisition Corp. with and into Serve Robotics Inc., with Serve Robotics Inc. surviving the merger (the “
+Business Combination
+”). Upon the closing of the Business Combination, Patricia Acquisition Corp. changed its name to Serve Robotics Inc. (the “
+Issuer
+”). Immediately following the closing of the Business Combination, NVIDIA Corporation beneficially owned 2,676,904 shares of common stock, $0.0001 par value per share (“
+Common Stock
+”), of the Issuer, which included 62,500 shares of Common Stock purchased by NVIDIA Corporation in a concurrent private placement by the Issuer. On January 2, 2024, the Issuer issued NVIDIA Corporation a convertible promissory note which was subsequently converted into 1,050,129 shares of Common Stock on April 22, 2024.
+Item 1.
+(a)
+Name of Issuer
+Serve Robotics Inc.
+(b)
+Address of Issuer’s Principal Executive Offices
+730 Broadway, Redwood City, California 94063
+Item 2.
+(a)
+Name of Person Filing
+NVIDIA Corporation
+(b)
+Address of Principal Business Office or, if none, Residence
+2788 San Tomas Expressway, Santa Clara, California 95051
+(c)
+Citizenship
+Delaware
+(d)
+Title of Class of Securities
+Common Stock, $0.0001 par value per share
+(e)
+CUSIP Number
+81758H 106
+Item 3.
+If this statement is filed pursuant to §§240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:
+Not applicable.
+Item 4.
+Ownership
+Provide the following information regarding the aggregate number and percentage of the class of securities of the Issuer identified in Item 1.
+(a)
+Amount beneficially owned:
+See Row 9 of cover page for the Reporting Person
+(b)
+Percent of class:
+See Row 11 of cover page for the Reporting Person
+(c)
+Number of shares as to which the person has:
+(i)
+Sole power to vote or to direct the vote:
+See Row 5 of cover page for the Reporting Person.
+3
+(ii)
+Shared power to vote or to direct the vote:
+See Row 6 of cover page for the Reporting Person.
+(iii)
+Sole power to dispose or to direct the disposition of:
+See Row 7 of cover page for the Reporting Person.
+(iv)
+Shared power to dispose or to direct the disposition of:
+See Row 8 of cover page for the Reporting Person.
+Item 5.
+Ownership of Five Percent or Less of a Class
+If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five percent of the class of securities, check the following
+o
+.
+Item 6.
+Ownership of More than Five Percent on Behalf of Another Person
+Not applicable.
+Item 7.
+Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company or Control Person
+Not applicable.
+Item 8.
+Identification and Classification of Members of the Group
+Not applicable.
+Item 9.
+Notice of Dissolution of Group
+Not applicable.
+Item 10.
+Certifications
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.
+4
+Signature
+After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+Dated: July 18, 2024
+NVIDIA Corporation
+By: /s/ Rebecca Peters
+Name: Rebecca Peters
+Title: Vice President, Deputy General Counsel and Assistant Secretary
+        
+5
+
+

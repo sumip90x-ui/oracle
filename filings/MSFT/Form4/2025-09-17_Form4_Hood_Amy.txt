@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-17
+Transaction Date: 2025-09-15
+Person: Hood Amy — EVP & Chief Financial Officer
+Type: BUY
+Shares: 26151 at $0
+Shares After: 567566.964
+=== TICKER: MSFT ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-18
+Transaction Date: 2026-02-18
+Person: STANTON JOHN W — Director
+Type: BUY
+Shares: 5000 at $397.35
+Shares After: 3622
+=== TICKER: MSFT ===
+===

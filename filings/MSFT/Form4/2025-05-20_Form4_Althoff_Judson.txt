@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-05-20
+Transaction Date: 2025-05-19
+Person: Althoff Judson — EVP, Chief Commercial Officer
+Type: SELL
+Shares: 16000 at $457.970
+Shares After: 98010.035
+=== TICKER: MSFT ===
+===

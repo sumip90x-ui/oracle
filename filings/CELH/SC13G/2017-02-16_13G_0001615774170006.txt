@@ -1,0 +1,1267 @@
+=== FILING DATE: 2017-02-16 ===
+=== PERIOD COVERED: 2017-02-16 ===
+=== SOURCE: SC13G filed 2017-02-16 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: CELH ===
+
+
+
+SC 13G
+
+1
+
+s105372_sc13g.htm
+
+SC 13G
+
+
+ 
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+Under the Securities Exchange Act of 1934
+
+
+ 
+
+
+Celsius
+    Holdings, Inc.
+
+
+(Name of Issuer)
+
+
+ 
+
+
+Common Stock
+
+
+(Title of Class of Securities)
+
+
+ 
+
+
+155118V207
+
+
+(CUSIP Number)
+
+
+ 
+
+
+December 31, 2016
+
+
+(Date of Event which Requires Filing of this Statement)
+
+
+ 
+
+
+Check the appropriate box to designate the rule pursuant to which
+this Schedule is filed:
+
+
+ 
+
+
+¨
+Rule 13d-1(b)
+
+
+ 
+
+
+¨
+Rule 13d-1(c)
+
+
+ 
+
+
+x
+Rule 13d-1(d)
+
+
+ 
+
+
+*The remainder of this cover page shall be
+filled out for a reporting person’s initial filing on this form with respect to the subject class of securities, and for
+any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
+
+
+ 
+
+
+The information required in the remainder of
+this cover page shall not be deemed to be “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934
+(“Act”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions
+of the Act (however, see the
+Notes
+).
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+  
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ CUSIP No. 155118V207
+
+
+ 
+
+
+ 
+
+
+1
+
+
+Names of Reporting Persons
+
+
+Li Ka Shing
+
+
+2
+
+
+Check the appropriate box if a member of a Group (see instructions)
+
+
+(a)  
+¨
+
+
+(b)  
+¨
+
+
+3
+
+
+Sec Use Only
+
+
+ 
+
+
+4
+
+
+Citizenship or Place of Organization
+
+
+China
+
+
+Number of
+
+
+Shares
+
+
+Beneficially
+
+
+Owned by Each
+
+
+Reporting Person
+
+
+With:
+
+
+ 
+
+
+5
+
+
+Sole Voting Power
+
+
+7,710,113
+
+
+6
+
+
+Shared Voting Power
+
+
+0
+
+
+7
+
+
+Sole Dispositive Power
+
+
+7,710,113
+
+
+8
+
+
+Shared Dispositive Power
+
+
+0
+
+
+9
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+
+
+7,710,113
+
+
+10
+
+
+Check box if the aggregate amount in row (9) excludes certain shares (See Instructions)
+
+
+¨
+
+
+11
+
+
+Percent of class represented by amount in row (9)
+
+
+19.9% (1)
+
+
+12
+
+
+Type of Reporting Person (See Instructions)
+
+
+IN
+
+
+ 
+
+
+(1)
+All calculations of percentage ownership herein are based upon an aggregate of 38,666,451 shares
+outstanding as of November 9, 2016, as reported by the Issuer in its Quarterly Report on Form 10-Q filed with the SEC on November
+10, 2016.
+
+
+ 
+
+
+ 
+Page
+2
+ of 8
+ 
+
+
+ 
+
+
+  
+
+
+CUSIP No. 155118V207
+
+
+ 
+
+
+ 
+
+
+1
+
+
+Names of Reporting Persons
+
+
+Charmnew Limited
+
+
+2
+
+
+Check the appropriate box if a member of a Group (see instructions)
+
+
+(a)  
+¨
+
+
+(b)  
+¨
+
+
+3
+
+
+Sec Use Only
+
+
+ 
+
+
+4
+
+
+Citizenship or Place of Organization
+
+
+Hong Kong
+
+
+Number of
+
+
+Shares
+
+
+Beneficially
+
+
+Owned by Each
+
+
+Reporting Person
+
+
+With:
+
+
+ 
+
+
+5
+
+
+Sole Voting Power
+
+
+7,710,113
+
+
+6
+
+
+Shared Voting Power
+
+
+0
+
+
+7
+
+
+Sole Dispositive Power
+
+
+7,710,113
+
+
+8
+
+
+Shared Dispositive Power
+
+
+0
+
+
+9
+
+
+Aggregate Amount Beneficially Owned by Each Reporting Person
+
+
+7,710,113
+
+
+10
+
+
+Check box if the aggregate amount in row (9) excludes certain shares (See Instructions)
+
+
+¨
+
+
+11
+
+
+Percent of class represented by amount in row (9)
+
+
+19.9%
+
+
+12
+
+
+Type of Reporting Person (See Instructions)
+
+
+CO
+
+
+ 
+
+
+ 
+Page
+3
+ of 8
+ 
+
+
+ 
+
+
+ 
+
+
+Item 1.
+
+
+ 
+
+
+(a)
+Name of Issuer:
+
+
+Celsius Holdings, Inc.
+
+
+ 
+
+
+(b)
+Address of Issuer’s Principal Executive Offices:
+
+
+2424 North Federal Highway,
+Suite 208
+
+
+Boca Raton, Florida 33431
+
+
+ 
+
+
+Item 2.
+
+
+ 
+
+
+(a)
+Name of Person Filing:
+
+
+(1)
+Li Ka Shing
+
+
+ 
+
+
+(2)
+Charmnew Limited
+
+
+ 
+
+
+(b)
+Address of Principal Business Office or, if None, Residence:
+
+
+The address for Li Ka Shing and Charmnew Limited is as
+follows:
+
+
+ 
+
+
+Cheung Kong Center, 7
+th
+ Floor
+
+
+2 Queen’s Road Central
+
+
+Hong Kong
+
+
+ 
+
+
+(c)
+Citizenship:
+
+
+Li Ka Shing - China
+
+
+ 
+
+
+Charmnew Limited - Hong Kong
+
+
+ 
+
+
+(d)
+Title and Class of Securities:
+
+
+Common Stock
+
+
+ 
+
+
+(e)
+CUSIP No.:
+
+
+155118V207
+
+
+ 
+
+
+Item 3.
+If this statement is filed pursuant to §§
+240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:
+
+
+ 
+
+
+ 
+
+
+(a)
+
+
+¨
+
+
+Broker or dealer registered under Section 15 of the Act;
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(b)
+
+
+¨
+
+
+Bank as defined in Section 3(a)(6) of the Act;
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(c)
+
+
+¨
+
+
+Insurance company as defined in Section 3(a)(19) of the Act;
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(d)
+
+
+¨
+
+
+Investment company registered under Section 8 of the Investment Company Act of 1940;
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(e)
+
+
+¨
+
+
+An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E);
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(f)
+
+
+¨
+
+
+An employee benefit plan or endowment fund in accordance with Rule 13d-1(b)(1)(ii)(F);
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(g)
+
+
+¨
+
+
+A parent holding company or control person in accordance with Rule 13d-1(b)(1)(ii)(G);
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(h)
+
+
+¨
+
+
+A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+
+
+  
+
+
+ 
+Page
+4
+ of 8
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(i)
+
+
+¨
+
+
+A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940;
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(j)
+
+
+¨
+
+
+A non-U.S. institution in accordance with Rule 240.13d-1(b)(1)(ii)(J);
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+(k)
+
+
+¨
+
+
+Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K). If filing as a non-U.S. institution in accordance with Rule 240.13d-1(b)(1)(ii)(J), please specify the type of institution: ____
+
+
+ 
+
+
+Item 4.
+Ownership
+
+
+ 
+
+
+(1) Li Ka Shing
+
+
+ 
+
+
+(a)
+Amount Beneficially Owned:
+7,710,113
+
+
+ 
+
+
+(b)
+Percent of Class:
+19.9%
+
+
+ 
+
+
+(c)
+Number of shares as to which such person has:
+
+
+ 
+
+
+(i)
+Sole power to vote or to direct the vote:
+7,710,113
+
+
+ 
+
+
+(ii)
+Shared power to vote or to direct the vote:
+0
+
+
+ 
+
+
+(iii)
+Sole power to dispose or to direct the disposition of:
+7,710,113
+
+
+ 
+
+
+(iv)
+Shared power to dispose or to direct the disposition of:
+0
+
+
+ 
+
+
+(2) Charmnew Limited
+
+
+ 
+
+
+(a)
+Amount Beneficially Owned:
+7,710,113
+
+
+ 
+
+
+(b)
+Percent of Class:
+19.9%
+
+
+ 
+
+
+(c)
+Number of shares as to which such person has:
+
+
+ 
+
+
+(i)
+Sole power to vote or to direct the vote:
+7,710,113
+
+
+ 
+
+
+(ii)
+Shared power to vote or to direct the vote:
+0
+
+
+ 
+
+
+(iii)
+Sole power to dispose or to direct the disposition of:
+7,710,113
+
+
+ 
+
+
+(iv)
+Shared power to dispose or to direct the disposition of:
+0
+
+
+ 
+
+
+Item 5.
+Ownership of Five Percent or Less of a Class.
+
+
+ 
+
+
+If this statement is being filed
+to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five percent
+of the class of securities, check the following ☐.
+
+
+ 
+
+
+Item 6.
+Ownership of more than Five Percent on Behalf of Another
+Person.
+
+
+ 
+
+
+N/A
+
+
+ 
+
+
+ 
+Page
+5
+ of 8
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Item 7.
+Identification and classification of the subsidiary
+which acquired the security being reported on by the parent holding company or control person.
+
+
+ 
+
+
+The shares of common stock referenced in Item 4 above are held of record by Charmnew Limited. Li
+Ka Shing has sole voting and dispositive power over such shares.
+
+
+ 
+
+
+Item 8.
+Identification and classification of members of the
+group.
+
+
+ 
+
+
+N/A
+
+
+ 
+
+
+Item 9.
+Notice of Dissolution of Group.
+
+
+ 
+
+
+N/A
+
+
+ 
+
+
+Item 10.
+Certifications.
+
+
+ 
+
+
+N/A
+
+
+ 
+
+
+ 
+Page
+6
+ of 8
+ 
+
+
+ 
+
+
+ 
+
+
+SIGNATURE
+
+
+ 
+
+
+After reasonable inquiry and to the best of
+my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+
+ 
+
+
+Dated:  February 16, 2017
+
+
+ 
+
+
+/s/ Li Ka Shing
+
+
+ 
+
+
+Li Ka Shing
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Charmnew Limited
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+/s/ Li Ka Shing
+
+
+ 
+
+
+Li Ka Shing, Authorized Signatory
+
+
+ 
+
+
+The original statement shall be signed by each
+person on whose behalf the statement is filed or his authorized representative. If the statement is signed on behalf of a person
+by his authorized representative (other than an executive officer or general partner of this filing person), evidence of the representative's
+authority to sign on behalf of such person shall be filed with the statement, provided, however, that a power of attorney for this
+purpose which is already on file with the Commission may be incorporated by reference. The name and any title of each person who
+signs the statement shall be typed or printed beneath his signature.
+
+
+ 
+
+
+Attention: Intentional misstatements or
+omissions of fact constitute Federal criminal violations (See 18 U.S.C. 1001).
+
+
+ 
+
+
+ 
+Page
+7
+ of 8
+ 
+
+
+ 
+
+
+  
+
+
+JOINT FILING AGREEMENT
+
+
+ 
+
+
+Pursuant to Rule 13d-1(k)(1)
+promulgated under the Securities and Exchange Act of 1934, as amended, the undersigned agree that the Statement on Schedule 13G
+to which this exhibit is attached is filed on behalf of each of them. Each of them is individually eligible to use Schedule 13G
+to which this exhibit is attached. Each of them is responsible for the timely filing of such Schedule 13G and any amendments thereto,
+and for the completeness and accuracy of the information concerning such person contained therein; but none of them is responsible
+for the completeness or accuracy of the information concerning the other persons making the filing, unless such person knows or
+has reason to believe that such information is inaccurate.
+
+
+ 
+
+
+IN WITNESS WHEREOF, the
+undersigned hereby execute this Joint Filing Agreement as of February 16, 2017.
+
+
+ 
+
+
+ 
+
+
+/s/ Li Ka Shing
+
+
+ 
+
+
+Li Ka Shing
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Charmnew Limited
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+/s/ Li Ka Shing
+
+
+ 
+
+
+Li Ka Shing, Authorized Signatory
+
+
+ 
+
+
+ 
+Page
+8
+ of 8
+ 
+
+
+ 
+
+
+ 
+
+

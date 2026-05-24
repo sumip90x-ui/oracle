@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-19
+Transaction Date: 2026-02-17
+Person: Artal Participations S.a r.l. — Insider
+Type: BUY
+Shares: 41289 at $65.00
+Shares After: 408434.70
+=== TICKER: LXRX ===
+===

@@ -1,0 +1,793 @@
+=== FILING DATE: 2026-03-20 ===
+=== PERIOD COVERED: 2026-01-31 ===
+=== SOURCE: 10-K filed 2026-03-20 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: SNOW ===
+
+Item 7
+ of our Annual Report on Form 10-K for the fiscal year ended January 31, 2025 filed with the SEC on March 21, 2025.
+Overview
+We believe that a cloud computing platform that puts data and artificial intelligence (AI) at its core will offer great benefits to organizations by allowing them to realize the value of the data that powers their businesses. By offering rich primitives for data and applications, we believe that we can create a data connected world where organizations have seamless access to explore, share, and unlock the value of data. Our vision is a world where data and AI turn possibilities into reality. To realize this vision, we deliver the AI Data Cloud, a network where Snowflake customers, partners, developers, data providers, and data consumers can break down data silos and derive value from a growing number of data sets in secure, governed, and compliant ways.
+Our platform is the innovative technology that powers the AI Data Cloud, enabling customers to consolidate data into a single source of truth to drive meaningful insights, apply AI to solve business problems, build data applications, and share data and data products. We provide our platform through a customer-centric, consumption-based business model.
+Our cloud-native architecture includes three independently scalable but logically integrated layers across storage, compute, and cloud services. The storage layer ingests massive amounts and varieties of structured, semi-structured, and unstructured data. The compute layer provides dedicated resources to enable users to simultaneously access common data sets for many use cases with minimal latency. Within the compute layer, users can clean and prepare their data, including any required metadata and business semantics, to create governed, unified data records that are AI ready and are written back to the storage layer. The cloud services layer enables users to securely use AI within applications, tools, and processes. This architecture is built on three major public clouds across 53 regional deployments around the world. These deployments are generally interconnected to deliver the AI Data Cloud, enabling a consistent, global user experience.
+59
+Table
+ of Contents
+We generate the substantial majority of our revenue from fees charged to our customers based on the compute, storage, and data transfer resources consumed on our platform. Customers are allowed to select compute, storage, and data transfer resources separately, at their discretion. For compute resources, consumption is based on the type of compute resource used and the duration of use or, for some features, the volume of data processed. For storage resources, consumption for a given customer is based on the average terabytes per month of all of such customer’s data stored in our platform. For data transfer resources, consumption is based on terabytes of data transferred, the public cloud provider used, and the region to and from which the transfer is executed.
+Our customers typically enter into capacity arrangements with a term of one to four years, or consume our platform under on-demand arrangements in which we charge for use of our platform monthly in arrears. Consumption for most customers accelerates from the beginning of their usage to the end of their contract terms and often exceeds their initial capacity commitment amounts. When this occurs, our customers have the option to amend their existing agreement with us to purchase additional capacity or request early renewals. When a customer’s consumption during the contract term does not exceed its capacity commitment amount, it may have the option to roll over any unused capacity to future periods, generally upon the purchase of additional capacity. For these reasons, we believe our deferred revenue is not a meaningful indicator of future revenue that will be recognized in any given time period.
+Our go-to-market strategy is focused on acquiring new customers and driving increased use of our platform for existing customers. We primarily focus our selling efforts on large organizations and primarily sell our platform through a direct sales force, which targets technical and business leaders who are adopting a cloud strategy and leveraging data to improve their business performance. In addition to direct sales, we also sell our platform through resellers and distributors. Our sales force is comprised of inside and field sales, solution engineering, sales development, partner sales, and specialist sales personnel and is segmented by the industry, size, and region of prospective customers. Once our platform has been adopted, we focus on increasing the migration of additional customer workloads to our platform to drive increased consumption, as evidenced by our net revenue retention rate of 125% and 126% as of January 31, 2026 and 2025, respectively. See the section titled “Key Business Metrics” for a definition of net revenue retention rate.
+Our platform is used globally by organizations of all sizes across a broad range of industries. As of January 31, 2026, we had 13,328 total customers, increasing from 10,996 customers as of
+
+January 31, 2025. Our customer count is subject to adjustments for acquisitions, consolidations, spin-offs, and other market activity, and we present our total customer count for historical periods reflecting these adjustments. Our platform has been adopted by many of the world’s largest organizations that view Snowflake as a key strategic partner in their cloud and data transformation initiatives. As of January 31, 2026, our customers included 790 of the Forbes Global 2000, based on the 2025 Forbes Global 2000 list, and those customers contributed approximately 43% of our revenue for the fiscal year ended January 31, 2026. Our Forbes Global 2000 customer count is subject to adjustments for annual updates to the Global 2000 list by Forbes, as well as acquisitions, consolidations, spin-offs, and other market activity with respect to such customers, and we present our Forbes Global 2000 customer count for historical periods reflecting these adjustments. See the section titled “Key Business Metrics” for how we determine our customer count.
+Fiscal Year
+Our fiscal year ends on January 31. For example, references to fiscal 2026 refer to the fiscal year ended January 31, 2026.
+60
+Table
+ of Contents
+Impact of Macroeconomic Conditions
+Our business and financial condition have been, and may continue to be, impacted by adverse macroeconomic conditions, including inflation, high interest rates, fluctuations or volatility in capital markets or foreign currency exchange rates, tariffs and trade wars, and geopolitical and military conflicts. These conditions have caused, and may continue to cause, customers to rationalize budgets, prioritize cash flow management, including through shortened contract duration, and optimize consumption, including by reducing storage through shorter data retention policies. We are continuing to monitor the actual and potential effects of general macroeconomic conditions across our business. For additional details, see the section titled “Risk Factors.”
+Common Stock
+On July 3, 2025, we filed an amended and restated certificate of incorporation with the Secretary of State of the State of Delaware effecting (i) the elimination of our Class B common stock, and (ii) the renaming of our Class A common stock to “common stock”. This amendment had no impact on our issued and outstanding shares, additional paid-in capital, or accumulated deficit.
+Business Combinations
+On June 6, 2025, we acquired all of the outstanding capital stock of Crunchy Data Solutions, Inc. (Crunchy Data), a privately-held company that provided PostgreSQL technology, for $164.5 million in cash. The results of operations of this business combination have been included in our consolidated financial statements from the date of acquisition.
+On February 2, 2026, we acquired all the outstanding capital stock of Observe, Inc. (Observe), a privately-held company that built an AI-powered observability platform. The preliminary purchase consideration was approximately $596.2 million, which was comprised primarily of $286.2 million in cash and approximately 1.5 million shares of our common stock valued at $285.3 million as of the acquisition date.
+See Note 7, “Business Combinations,” and Note 16, “Subsequent Events,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for details regarding these business combinations.
+Key Factors Affecting Our Performance
+Adoption of our Platform and Expansion of the AI Data Cloud
+Our future success depends in large part on the market adoption of our platform, including new product functionality, such as Snowpark and our AI and machine learning technology (collectively, AI Technology). While we see growing demand for our platform, particularly from large enterprises, many of these organizations have invested substantial technical, financial, and personnel resources in their existing database products or big data offerings. In addition, customers’ use of our AI Technology is often dependent on their ability to meet evolving regulatory standards, successfully complete internal compliance reviews, and enter into mutually acceptable contractual terms. While this makes it difficult to predict customer adoption rates and future demand, we believe that the benefits of our platform put us in a strong position to capture the significant market opportunity ahead.
+Our platform powers the AI Data Cloud, a network of data providers, data consumers, and data application developers that enables our customers to securely share, monetize, and acquire live data sets and data products. The AI Data Cloud includes access to the Snowflake Marketplace, through which customers can access or acquire third-party data sets, data applications, and other data products. Our future growth is increasingly dependent on our ability to increase consumption of our platform by building and expanding the AI Data Cloud.
+61
+Table
+ of Contents
+Expanding Within our Existing Customer Base
+Our large base of customers represents a significant opportunity for further consumption of our platform. While we have seen an increase in the number of customers that have contributed more than $1 million in product revenue in the trailing 12 months, we believe that there is a substantial opportunity to continue growing these customers further, as well as continuing to expand the usage of our platform within our other existing customers. We plan to continue investing to encourage increased consumption and adoption of new use cases among our existing customers, particularly large enterprises.
+Once deployed, our customers often expand their use of our platform more broadly within the enterprise and across their ecosystem of customers and partners as they migrate more data to the public cloud, identify new use cases, and realize the benefits of our platform and the AI Data Cloud. However, because we generally recognize product revenue on consumption and not ratably over the term of the contract, we do not have visibility into the timing of revenue recognition from any particular customer. In addition, many customers are attempting to rationalize budgets, prioritize cash flow management, and optimize consumption amidst macroeconomic uncertainty. In any given period, there is a risk that customer consumption of our platform will be slower than we expect, which may cause fluctuations in our revenue and results of operations.
+New software releases or hardware improvements, like better storage compression, cloud infrastructure processor improvements, and compute optimization, may make our platform more efficient, enabling customers to consume fewer compute, storage, and data transfer resources to accomplish the same workloads. In addition, open data formats allow customers to use our platform for compute services without requiring storage. To the extent these improvements do not result in an offsetting increase in new workloads, we may experience lower revenue. Our ability to increase usage of our platform by, and sell additional contracted capacity to, existing customers, and, in particular, large enterprise customers, will depend on a number of factors, including our customers’ satisfaction with our platform, our customers’ adoption and use of new product features, competition, pricing, macroeconomic conditions, overall changes in our customers’ spending levels, customers’ attempts to optimize their consumption, our customers’ confidence in the security of our platform, our ability to maintain our reputation as a trustworthy vendor, the effectiveness of our and our partners’ efforts to help our customers realize the benefits of our platform, and the extent to which customers migrate new workloads to our platform over time, including data science, AI, and machine learning workloads.
+Acquiring New Customers
+Our future success also depends on our ability to acquire new customers. We believe there is a substantial opportunity to further grow our customer base by continuing to make significant investments in sales and marketing and brand awareness. Our ability to attract new customers will depend on a number of factors, including the productivity of our sales organization, competitive dynamics in our target markets, changes in our customers’ spending and platform consumption in response to market uncertainty, our ability to promote, maintain, and enhance our brand and reputation, our ability to mitigate reputational damage following cybersecurity threat activity directed at our customers, our ability to build and maintain partner relationships, including with global system integrators, resellers, technology partners, and third-party providers of native applications on the Snowflake Marketplace, and our ability to meet the heightened needs of customers in regulated markets, such as the public sector, financial services, and countries with data localization requirements. While our platform is built for organizations of all sizes, we focus our selling efforts on large enterprise customers, customers with vast amounts of data, and customers requiring industry-specific solutions. We may not achieve anticipated revenue growth if we are unable to attract, hire, develop, integrate, and retain talented and effective sales personnel; if our sales personnel are unable to achieve desired productivity levels in a reasonable period of time and maintain productivity; or if our sales and marketing programs are not effective.
+Investing in Growth and Scaling our Business
+We are focused on our long-term revenue potential, and believe our market opportunity is large. We will continue to invest significantly in research and development to improve our platform, including in the areas of data science and AI Technology. In addition, we are focused on expanding our business both domestically and internationally. As part of these efforts, we are investing in meeting the needs of organizations in geographies and government and regulated industries that have heightened requirements, including with respect to data localization, privacy, and security. We intend to continue to invest heavily to grow our business to take advantage of our expansive market opportunity, while also focusing on cash flow and long-term profitability.
+62
+Table
+ of Contents
+Key Business Metrics
+We monitor the key business metrics set forth below to help us evaluate our business and growth trends, establish budgets, measure the effectiveness of our sales and marketing efforts, and assess operational efficiencies. The calculation of the key business metrics discussed below may differ from other similarly titled metrics used by other companies, securities analysts, or investors.
+The following tables present a summary of key business metrics, including the most directly comparable financial measure calculated in accordance with GAAP, for the periods presented:
+Fiscal Year Ended January 31,
+2026
+2025
+2024
+Product revenue (in millions)
+$
+4,472.3 
+$
+3,462.4 
+$
+2,666.8 
+Net cash provided by operating activities (in millions)
+(1)
+$
+1,221.9 
+$
+959.8 
+$
+848.1 
+Free cash flow (non-GAAP) (in millions)
+(2)(3)
+$
+1,120.3 
+$
+884.1 
+$
+778.9 
+January 31, 2026
+January 31, 2025
+January 31, 2024
+Net revenue retention rate
+(4)
+125
+%
+126
+%
+133
+%
+Customers with trailing 12-month product revenue greater than $1 million
+(4)
+733 
+576 
+449 
+Forbes Global 2000 customers
+(4)
+790 
+750 
+716 
+Remaining performance obligations (in millions)
+(5)
+$
+9,771.5 
+$
+6,867.5 
+$
+5,174.7 
+________________
+(1)
+Net cash provided by operating activities is not a key business metric but is included in this table as the most directly comparable GAAP financial measure to free cash flow.
+(2)
+Free cash flow for the fiscal years ended January 31, 2026, 2025, and 2024 included the effect of $72.4 million, $57.5 million, and $31.3 million, respectively, in the net cash paid on payroll tax-related items on employee stock transactions. See the section titled “Free Cash Flow” for a reconciliation of net cash provided by operating activities, which is the most directly comparable financial measure calculated in accordance with GAAP, to free cash flow.
+(3)
+Cash outflows for employee payroll tax items related to the net share settlement of equity awards, which were $672.9 million, $489.1 million, and $380.8 million for the fiscal years ended January 31, 2026, 2025, and 2024, respectively, are included in cash flow for financing activities and, as a result, do not have an effect on the calculation of free cash flow.
+(4)
+Historical numbers for (i) net revenue retention rate, (ii) customers with trailing 12-month product revenue greater than $1 million, and (iii) Forbes Global 2000 customers reflect any adjustments for acquisitions, consolidations, spin-offs, and other market activity. In addition, our Forbes Global 2000 customer count reflects adjustments for annual updates to the Forbes Global 2000 list by Forbes.
+(5)
+As of January 31, 2026, our remaining performance obligations were approximately $9.8 billion, of which we expect approximately 46% to be recognized as revenue in the 12 months ending January 31, 2027 based on historical customer consumption patterns. The weighted-average remaining life of our capacity contracts was 2.7 years as of January 31, 2026. However, the amount and timing of revenue recognition are generally dependent upon customers’ future consumption, which is inherently variable at our customers’ discretion and can extend beyond the original contract term in cases where customers are permitted to roll over unused capacity to future periods, generally upon the purchase of additional capacity at renewal. In addition, our historical customer consumption patterns are not necessarily indicative of future results.
+Product Revenue
+Product revenue is a key metric for us because we recognize revenue based on platform consumption, which is inherently variable at our customers’ discretion, and not based on the amount and duration of contract terms. Product revenue is primarily derived from the consumption of compute, storage, and data transfer resources by customers on our platform. Customers have the flexibility to consume more than their contracted capacity during the contract term and may have the ability to roll over unused capacity to future periods, generally upon the purchase of additional capacity at renewal. Our consumption-based business model distinguishes us from subscription-based software companies that generally recognize revenue ratably over the contract term and may not permit rollover. Because customers have flexibility in the timing of their consumption, which can exceed their contracted capacity or extend beyond the original contract term in many cases, the amount of product revenue recognized in a given period is an important indicator of customer satisfaction and the value derived from our platform. While customer use of our platform in any period is not necessarily indicative of future use, we estimate future revenue using predictive models based on customers’ historical usage to plan and determine financial forecasts. Product revenue excludes our professional services and other revenue, which has been less than 10% of revenue for each of the periods presented.
+63
+Table
+ of Contents
+Net Revenue Retention Rate
+We believe the growth in use of our platform by our existing customers is an important measure of the health of our business and our future growth prospects. We monitor our dollar-based net revenue retention rate to measure this growth. To calculate this metric, we first specify a measurement period consisting of the trailing two years from our current period end. Next, we define as our measurement cohort the population of customers under capacity contracts that used our platform at any point in the first month of the first year of the measurement period. The cohorts used to calculate net revenue retention rate include end-customers under a reseller arrangement. We then calculate our net revenue retention rate as the quotient obtained by dividing our product revenue from this cohort in the second year of the measurement period by our product revenue from this cohort in the first year of the measurement period. Any customer in the cohort that did not use our platform in the second year remains in the calculation and contributes zero product revenue in the second year. Our net revenue retention rate is subject to adjustments for acquisitions, consolidations, spin-offs, and other market activity, and we present our net revenue retention rate for historical periods reflecting these adjustments. Since we will continue to attribute the historical product revenue to the consolidated contract, consolidation of capacity contracts within a customer’s organization typically will not impact our net revenue retention rate unless one of those customers was not a customer at any point in the first month of the first year of the measurement period. We expect our net revenue retention rate to decrease over the long-term as customers that have consumed our platform for an extended period of time become a larger portion of both our overall customer base and our product revenue that we use to calculate net revenue retention rate, and as their consumption growth primarily relates to existing use cases rather than new use cases. In addition, we have seen, and may continue to see, impacts on customer consumption patterns due to holidays and certain of our customers increasing their consumption of our platform at a slower pace than expected, which may negatively impact our net revenue retention rate in future periods.
+Customers with Trailing 12-Month Product Revenue Greater than $1 Million
+Large customer relationships lead to scale and operating leverage in our business model. Compared with smaller customers, large customers present a greater opportunity for us to sell additional capacity because they have larger budgets, a wider range of potential use cases, and greater potential for migrating new workloads to our platform over time. As a measure of our ability to scale with our customers and attract large enterprises to our platform, we count the number of customers under capacity arrangements that contributed more than $1 million in product revenue in the trailing 12 months. For purposes of determining our customer count, we treat each customer account, including accounts for end-customers under a reseller arrangement, that has at least one corresponding capacity contract as a unique customer, and a single organization with multiple divisions, segments, or subsidiaries may be counted as multiple customers. We do not include customers that consume our platform only under on-demand arrangements for purposes of determining our customer count. Our customer count is subject to adjustments for acquisitions, consolidations, spin-offs, and other market activity, and we present our customer count for historical periods reflecting these adjustments.
+Forbes Global 2000 Customers
+We believe that the number of Forbes Global 2000 customers is an important indicator of the growth of our business and future revenue trends as we focus our selling efforts on large enterprise customers and customers with vast amounts of data. Our Forbes Global 2000 customer count is a subset of our customer count based on the 2025 Forbes Global 2000 list. Our Forbes Global 2000 customer count is subject to adjustments for annual updates to the list by Forbes, as well as acquisitions, consolidations, spin-offs, and other market activity with respect to such customers, and we present our Forbes Global 2000 customer count for historical periods reflecting these adjustments.
+64
+Table
+ of Contents
+Free Cash Flow
+We define free cash flow, a non-GAAP financial measure, as GAAP net cash provided by operating activities reduced by purchases of property and equipment and capitalized software development costs. Cash outflows for employee payroll tax items related to the net share settlement of equity awards are included in cash flow for financing activities and, as a result, do not have an effect on the calculation of free cash flow. We believe information regarding free cash flow provides useful supplemental information to investors because it is an indicator of the strength and performance of our core business operations.
+The following table presents a reconciliation of net cash provided by operating activities, which is the most directly comparable financial measure calculated in accordance with GAAP, to free cash flow for the periods presented (in millions):
+Fiscal Year Ended January 31,
+2026
+2025
+2024
+Net cash provided by operating activities
+$
+1,221.9 
+$
+959.8 
+$
+848.1 
+Less: purchases of property and equipment
+(101.6)
+(46.3)
+(35.1)
+Less: capitalized software development costs
+— 
+(29.4)
+(34.1)
+Free cash flow (non-GAAP)
+(1)(2)
+$
+1,120.3 
+$
+884.1 
+$
+778.9 
+Net cash provided by investing activities
+$
+312.2 
+$
+190.6 
+$
+832.3 
+Net cash used in financing activities
+$
+(1,385.4)
+$
+(226.5)
+$
+(854.1)
+________________
+(1)
+Free cash flow for the fiscal years ended January 31, 2026, 2025, and 2024 included the effect of $72.4 million, $57.5 million, and $31.3 million, respectively, in the net cash paid on payroll tax-related items on employee stock transactions.
+(2)
+Cash outflows for employee payroll tax items related to the net share settlement of equity awards, which were $672.9 million, $489.1 million, and $380.8 million for the fiscal years ended January 31, 2026, 2025, and 2024, respectively, are included in cash flow for financing activities and, as a result, do not have an effect on the calculation of free cash flow.
+Historically, we have received a higher volume of orders from new and existing customers in the fourth fiscal quarter of each year. As a result, we have historically seen higher free cash flow in the first and fourth fiscal quarters of each year.
+Remaining Performance Obligations
+Remaining performance obligations (RPO) represent the amount of contracted future revenue that has not yet been recognized, including (i) deferred revenue and (ii) non-cancelable contracted amounts that will be invoiced and recognized as revenue in future periods. RPO excludes performance obligations from on-demand arrangements and certain time and materials contracts that are billed in arrears. Portions of RPO that are not yet invoiced and are denominated in foreign currencies are revalued into U.S. dollars each period based on the applicable period-end exchange rates. RPO is not necessarily indicative of future product revenue growth because it does not account for the timing of customers’ consumption or their consumption of more than their contracted capacity. Moreover, RPO is influenced by a number of factors, including the timing and size of renewals, the timing and size of purchases of additional capacity, average contract terms, seasonality, changes in foreign currency exchange rates, and the extent to which customers are permitted to roll over unused capacity to future periods, generally upon the purchase of additional capacity at renewal. Due to these factors, it is important to review RPO in conjunction with product revenue and other financial metrics disclosed elsewhere herein.
+65
+Table
+ of Contents
+Components of Results of Operations
+Revenue
+We deliver our platform over the internet as a service. Customers choose to consume our platform under either capacity arrangements, in which they commit to a certain amount of consumption at specified prices, or under on-demand arrangements, in which we charge for use of our platform monthly in arrears. Under capacity arrangements, from which a majority of our revenue is derived, we typically bill our customers annually in advance of their consumption. However, in future periods, we expect to see an increase in capacity contracts providing for quarterly upfront billings and monthly in arrears billings as our customers increasingly want to align consumption and timing of payments. Revenue from on-demand arrangements typically relates to customers with lower usage levels or overage consumption beyond a customer’s contracted usage amount under a capacity contract or following the expiration of a customer’s capacity contract. We recognize revenue as customers consume compute, storage, and data transfer resources under either of these arrangements. Revenue from on-demand arrangements represented approximately 1%, 2%, and 3% of our revenue for the fiscal years ended January 31, 2026, 2025, and 2024, respectively.
+Our customer contracts for capacity typically have a term of one to four years. The weighted-average term of capacity contracts entered into during the fiscal year ended January 31, 2026 is approximately 3.1 years. To the extent our customers enter into such contracts and either consume our platform in excess of their capacity commitments or continue to use our platform after expiration of the contract term, they are charged for their incremental consumption. In many cases, our customer contracts permit customers to roll over any unused capacity to a subsequent order, generally upon the purchase of additional capacity. For those customers who do not have a capacity arrangement, our on-demand arrangements generally have a monthly stated contract term and can be terminated at any time by either the customer or us.
+We generate the substantial majority of our revenue from fees charged to our customers based on the compute, storage, and data transfer resources consumed on our platform. Customers are allowed to select compute, storage, and data transfer resources separately, at their discretion. For compute resources, consumption is based on the type of compute resource used and the duration of use or, for some features, the volume of data processed. For storage resources, consumption for a given customer is based on the average terabytes per month of all of such customer’s data stored in our platform. For data transfer resources, consumption is based on terabytes of data transferred, the public cloud provider used, and the region to and from which the transfer is executed.
+Because customers have flexibility in their consumption, and we generally recognize revenue on consumption and not ratably over the term of the contract, we do not have the visibility into the timing of revenue recognition from any particular customer contract that typical subscription-based software companies may have. As our customer base grows, we expect our ability to forecast customer consumption in the aggregate to improve. However, in any given period, there is a risk that customers will consume our platform more slowly than we expect, including in response to adverse macroeconomic conditions, which may cause fluctuations in our revenue and results of operations.
+Our revenue also includes professional services and other revenue, which consists primarily of consulting, technical solution services, and training related to our platform. Our professional services revenue is recognized over time based on input measures, including time and materials costs incurred relative to total costs, with consideration given to output measures, such as contract deliverables, when applicable. Other revenue consists primarily of fees from customer training delivered on-site or through publicly available classes.
+Allocation of Overhead Costs
+Overhead costs that are not substantially dedicated for use by a specific functional group are allocated based on headcount. Such costs include costs associated with office facilities, depreciation of property and equipment, information technology (IT) and general recruiting related expenses and other expenses, such as software and subscription services.
+66
+Table
+ of Contents
+Cost of Revenue
+Cost of revenue consists of cost of product revenue and cost of professional services and other revenue. Cost of revenue also includes allocated overhead costs.
+Cost of product revenue.
+Cost of product revenue consists primarily of (i) third-party cloud infrastructure expenses, including those related to graphics processing units (GPUs) and AI inference, incurred in connection with our customers’ use of our platform and the deployment and maintenance of our platform on public clouds, including different regional deployments, and (ii) personnel-related costs associated with customer support and maintaining service availability and security of our platform, including salaries, benefits, bonuses, and stock-based compensation. Cost of product revenue also includes amortization of capitalized software development costs, amortization of acquired intangible assets, and expenses associated with software and subscription services dedicated for use by our customer support team and our engineering team responsible for maintaining our platform.
+Cost of professional services and other revenue.
+ Cost of professional services and other revenue consists primarily of personnel-related costs associated with our professional services and training departments, including salaries, benefits, bonuses, and stock-based compensation, amortization of acquired intangible assets, and costs of contracted third-party partners and software tools.
+We intend to continue to invest additional resources in our platform infrastructure and our customer support and professional services organizations to support the growth of our business. Some of these investments, including costs associated with GPUs and AI inference, certain support costs and costs of expanding our business internationally, are incurred in advance of generating revenue, and either the failure to generate anticipated revenue or fluctuations in the timing of revenue could affect our gross margin from period to period.
+Operating Expenses
+Our operating expenses consist of sales and marketing, research and development, and general and administrative expenses. Personnel costs are the most significant component of operating expenses and consist of salaries, benefits, bonuses, stock-based compensation, and sales commissions. Operating expenses also include allocated overhead costs.
+Sales and Marketing
+Sales and marketing expenses consist primarily of personnel-related expenses associated with our sales and marketing staff, including salaries, benefits, bonuses, and stock-based compensation. Sales and marketing expenses also include sales commissions and draws paid to our sales force and certain referral fees paid to third parties, including amortization of deferred commissions. A portion of the sales commissions paid to the sales force is earned based on the level of the customers’ consumption of our platform, and a portion of the commissions paid to the sales force is earned upon the origination, expansion, or renewal of customer contracts. Sales commissions tied to customers’ consumption are expensed in the same period as they are earned. Sales commissions and referral fees earned upon the origination or expansion of customer contracts that are not commensurate with those earned upon the renewal of contracts are capitalized and then amortized over a period of benefit that we determined to be five years. Sales commissions earned upon the renewal of customer contracts, as well as sales commissions earned upon the origination or expansion of customer contracts that are commensurate with those for renewal contracts, are capitalized and then amortized over the respective weighted-average contractual term of the related contracts. Sales and marketing expenses also include advertising costs and other expenses associated with our sales, marketing and business development programs, including our user conferences, offset by proceeds from such conferences and programs. In addition, sales and marketing expenses are comprised of travel-related expenses, software and subscription services dedicated for use by our sales and marketing organizations, amortization of acquired intangible assets, and outside services contracted for sales and marketing purposes. We expect that our sales and marketing expenses will increase in absolute dollars and continue to be our largest operating expense for the foreseeable future as we grow our business. However, we expect that our sales and marketing expenses will decrease as a percentage of our revenue over time due to improved spend efficiency, although the percentage may fluctuate from period to period depending on the timing and the extent of these expenses.
+67
+Table
+ of Contents
+Research and Development
+Research and development expenses consist primarily of personnel-related expenses associated with our research and development staff, including salaries, benefits, bonuses, and stock-based compensation. Research and development expenses also include contractor or professional services fees, third-party cloud infrastructure expenses incurred in developing our platform (including those related to GPUs to develop AI Technology), amortization of acquired intangible assets, and expenses associated with software and subscription services dedicated for use by our research and development organization. Prior to fiscal 2026, research and development expenses related to our cloud platform that qualified as internal-use software development costs were capitalized under Accounting Standards Codification (ASC) Topic 350-40, Internal-use Software (ASC 350-40). During fiscal 2026, we began marketing the Snowflake platform to selected public sector customers who will have contractual rights to take possession of our software and who will contract with third parties to host our software. As a result, our ongoing and future software development costs related to the Snowflake platform must be accounted for under ASC 985-20, Costs of Software to be Sold, Leased or Marketed (ASC 985-20). Costs that meet the criteria for capitalization under ASC 985-20 were not material for the fiscal year ended January 31, 2026. Software development costs capitalized prior to fiscal 2026 in connection with the Snowflake platform will be amortized over their remaining useful life and recognized as cost of product revenue. See Note 2, “Basis of Presentation and Summary of Significant Accounting Policies,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details. We expect that our research and development expenses will increase in absolute dollars due to business growth, continued investments in our platform, and a decrease in the amount of software development costs eligible for capitalization. However, we expect that our research and development expenses will decrease as a percentage of our revenue over time due to improved spend efficiency, although the percentage may fluctuate from period to period depending on the timing and the extent of these expenses.
+General and Administrative
+General and administrative expenses consist primarily of personnel-related expenses for our finance, legal, human resources, facilities, and administrative personnel, including salaries, benefits, bonuses, and stock-based compensation. General and administrative expenses also include external legal, accounting, and other professional services fees, software and subscription services dedicated for use by our general and administrative functions, insurance, unallocated lease costs associated with unused office facilities to accommodate planned headcount growth, and other corporate expenses. We expect that our general and administrative expenses will increase in absolute dollars as our business grows but will decrease as a percentage of our revenue over time due to improved spend efficiency, although the percentage may fluctuate from period to period depending on the timing and the extent of these expenses. In addition, during the fiscal year ended January 31, 2026, we recognized asset impairment charges of $108.7 million as general and administrative expenses, primarily relating to the cease-use of our San Mateo office facility. See Note 11, “Commitments and Contingencies,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details.
+Interest Income
+Interest income consists primarily of interest income earned on our cash and cash equivalents and short-term and long-term investments, including amortization of premiums and accretion of discounts related to our available-for-sale marketable debt securities, net of associated fees.
+Interest Expense
+Interest expense consists of amortization of debt issuance costs incurred in connection with the issuance of our convertible senior notes.
+Other Income (Expense), Net
+Other income (expense), net consists primarily of (i) net realized and unrealized gains (losses) on our strategic investments in equity securities, and (ii) the effect of exchange rates on our foreign currency-denominated asset and liability balances.
+68
+Table
+ of Contents
+Provision for (Benefit from) Income Taxes
+Provision for (benefit from) income taxes consists primarily of income taxes in certain foreign and U.S. federal and state jurisdictions in which we conduct business. We maintain a full valuation allowance against our U.S. and U.K. deferred tax assets because we have concluded that it is more likely than not that the deferred tax assets will not be realized.
+Net Income (Loss) Attributable to Noncontrolling Interest
+Our consolidated financial statements include the accounts of Snowflake Inc., our wholly-owned subsidiaries, and a majority-owned subsidiary in which we have a controlling financial interest. Net income (loss) attributable to noncontrolling interest represents the net income (loss) of our majority-owned subsidiary attributed to noncontrolling interest using the hypothetical liquidation at book value method. See Note 2, “Basis of Presentation and Summary of Significant Accounting Policies,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details.
+69
+Table
+ of Contents
+Results of Operations
+The following table sets forth our consolidated statements of operations data for the periods indicated (in thousands):
+Fiscal Year Ended January 31,
+2026
+2025
+2024
+Revenue
+$
+4,683,946 
+$
+3,626,396 
+$
+2,806,489 
+Cost of revenue
+(1)
+1,537,805 
+1,214,673 
+898,558 
+Gross profit
+3,146,141 
+2,411,723 
+1,907,931 
+Operating expenses
+(1)
+:
+Sales and marketing
+2,062,137 
+1,672,092 
+1,391,747 
+Research and development
+1,969,472 
+1,783,379 
+1,287,949 
+General and administrative
+549,697 
+412,262 
+323,008 
+Total operating expenses
+4,581,306 
+3,867,733 
+3,002,704 
+Operating loss
+(1,435,165)
+(1,456,010)
+(1,094,773)
+Interest income
+190,556 
+209,009 
+200,663 
+Interest expense
+(8,298)
+(2,759)
+— 
+Other income (expense), net
+(59,003)
+(35,339)
+44,887 
+Loss before income taxes
+(1,311,910)
+(1,285,099)
+(849,223)
+Provision for (benefit from) income taxes
+17,125 
+4,113 
+(11,233)
+Net loss
+(1,329,035)
+(1,289,212)
+(837,990)
+Less: net income (loss) attributable to noncontrolling interest
+2,581 
+(3,572)
+(1,893)
+Net loss attributable to Snowflake Inc.
+$
+(1,331,616)
+$
+(1,285,640)
+$
+(836,097)
+________________
+(1)
+Includes stock-based compensation as follows (in thousands):
+Fiscal Year Ended January 31,
+2026
+2025
+2024
+Cost of revenue
+$
+139,170 
+$
+142,163 
+$
+123,363 
+Sales and marketing
+378,886 
+331,807 
+299,657 
+Research and development
+935,418 
+852,027 
+644,928 
+General and administrative
+146,073 
+153,317 
+100,067 
+Total stock-based compensation
+$
+1,599,547 
+$
+1,479,314 
+$
+1,168,015 
+The overall increase in stock-based compensation for the fiscal year ended January 31, 2026, compared to the fiscal year ended January 31, 2025, was primarily attributable to additional equity awards granted to existing and new employees, partially offset by the effects of equity awards that became fully vested or forfeited.
+As of January 31, 2026, total compensation cost related to unvested awards not yet recognized was $3.1 billion, which will be recognized over a weighted-average period of 2.7 years. See Note 12, “Equity,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details.
+70
+Table
+ of Contents
+The following table sets forth our consolidated statements of operations data expressed as a percentage of revenue for the periods indicated:
+Fiscal Year Ended January 31,
+2026
+2025
+2024
+Revenue
+100 
+%
+100 
+%
+100 
+%
+Cost of revenue
+(1)
+33 
+33 
+32 
+Gross profit
+67 
+67 
+68 
+Operating expenses
+(1)
+:
+Sales and marketing
+44 
+46 
+50 
+Research and development
+42 
+49 
+46 
+General and administrative
+12 
+12 
+11 
+Total operating expenses
+98 
+107 
+107 
+Operating loss
+(31)
+(40)
+(39)
+Interest income
+4 
+6 
+7 
+Interest expense
+— 
+— 
+— 
+Other income (expense), net
+(1)
+(1)
+2 
+Loss before income taxes
+(28)
+(35)
+(30)
+Provision for (benefit from) income taxes
+— 
+1 
+— 
+Net loss
+(28)
+(36)
+(30)
+Less: net income (loss) attributable to noncontrolling interest
+— 
+— 
+— 
+Net loss attributable to Snowflake Inc.
+(28%)
+(36%)
+(30%)
+________________
+(1)
+Stock-based compensation included in the table above as a percentage of revenue as follows:
+Fiscal Year Ended January 31,
+2026
+2025
+2024
+Cost of revenue
+3 
+%
+4 
+%
+4 
+%
+Sales and marketing
+8 
+9 
+11 
+Research and development
+20 
+24 
+23 
+General and administrative
+3 
+4 
+4 
+Total stock-based compensation
+34 
+%
+41 
+%
+42 
+%
+Stock-based compensation is impacted by our future hiring and retention needs, which are difficult to predict and subject to constant change. We expect that our stock-based compensation will increase in absolute dollars as we continue to issue equity awards to our new and existing employees, but will decrease as a percentage of our revenue in fiscal 2027 and continue to decrease over time as we grow.
+71
+Table
+ of Contents
+Comparison of the Fiscal Years Ended January 31, 2026 and 2025
+Revenue
+Fiscal Year Ended January 31,
+2026
+2025
+% Change
+(dollars in thousands)
+Revenue:
+Product
+$
+4,472,317 
+$
+3,462,422
+29%
+Professional services and other
+211,629 
+163,974
+29%
+Total
+$
+4,683,946 
+$
+3,626,396
+29%
+Percentage of revenue:
+Product
+95%
+95%
+Professional services and other
+5%
+5%
+Total
+100%
+100%
+Product revenue increased $1.0 billion for the fiscal year ended January 31, 2026, compared to the prior fiscal year, primarily due to increased consumption of our platform by existing customers, as evidenced by our net revenue retention rate of 125% as of January 31, 2026.
+We had 733 customers with product revenue of greater than $1 million for the trailing 12 months ended January 31, 2026, an increase from 576 customers as of January 31, 2025. Such customers represented approximately 68% and 66% of our product revenue for the trailing 12 months ended January 31, 2026 and 2025, respectively. Within these customers, we had 135 and 56 customers with product revenue of greater than $5 million and $10 million, respectively, for the trailing 12 months ended January 31, 2026. The substantial majority of our revenue was derived from existing customers under capacity arrangements, which represented approximately 97% of our revenue for each of the fiscal years ended January 31, 2026 and 2025. The remainder was derived from new customers under capacity arrangements and on-demand arrangements. The preceding historical metrics reflect any adjustments for acquisitions, consolidations, spin-offs, and other market activity. For purposes of determining revenue derived from (i) customers with trailing 12-month product revenue greater than $1 million, (ii) new customers, and (iii) existing customers, we treat each customer account, including accounts for end-customers under a reseller arrangement, that has at least one corresponding capacity contract as a unique customer, and a single organization with multiple divisions, segments, or subsidiaries may be counted as multiple customers.
+Professional services and other revenue increased $47.7 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year, as our professional services organization continues to expand and evolve to help our customers further realize the benefits of our platform.
+72
+Table
+ of Contents
+Cost of Revenue, Gross Profit (Loss), and Gross Margin
+Fiscal Year Ended January 31,
+2026
+2025
+% Change
+(dollars in thousands)
+Cost of revenue:
+Product
+$
+1,260,324
+$
+992,069
+27%
+Professional services and other
+277,481
+222,604
+25%
+Total cost of revenue
+$
+1,537,805
+$
+1,214,673
+27%
+Gross profit (loss):
+Product
+$
+3,211,993
+$
+2,470,353
+30%
+Professional services and other
+(65,852)
+(58,630)
+12%
+Total gross profit
+$
+3,146,141
+$
+2,411,723
+30%
+Gross margin:
+Product
+72%
+71%
+Professional services and other
+(31%)
+(36%)
+Total gross margin
+67%
+67%
+Headcount (at period end)
+Product
+439
+453
+Professional services and other
+849
+631
+Total headcount
+1,288
+1,084
+Cost of product revenue increased $268.3 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year. The increase was primarily due to an increase of $248.1 million in third-party cloud infrastructure expenses (including those related to AI inference), mainly as a result of increased customer consumption of our platform. Amortization of capitalized software development costs and acquired developed technology intangible assets also increased $27.9 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year. The overall increase in cost of product revenue was partially offset by a decrease of $12.7 million in costs incurred by us in connection with a restructuring plan for a majority-owned subsidiary, net of associated income and recoveries.
+Our product gross margin was 72% for the fiscal year ended January 31, 2026, compared to 71% for the prior fiscal year. This slight improvement is primarily due to the decrease in personnel-related costs and the aforementioned restructuring costs as a percentage of product revenue, offset by costs attributable to newly launched product capabilities and features that have not yet reached economies of scale. We expect our product gross margin to fluctuate from period to period due to a number of factors, including, but not limited to: (i) fluctuations in the mix and timing of customers’ consumption, which is inherently variable at our customers’ discretion, (ii) our pricing model and discounting practices, (iii) the extent of our investments in new product capabilities, features, and operations, such as investments in AI Technology and performance improvements that may make our platform or the underlying cloud infrastructure more efficient, (iv) new product offerings that are margin compressive, and (v) stock-based compensation.
+Cost of professional services and other revenue increased $54.9 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year. The increase was primarily due to an increase of $44.2 million in personnel-related costs and allocated overhead costs, as a result of increased headcount and stock-based compensation. The remaining increase in cost of professional services and other revenue was primarily driven by increased costs of contracted third-party partners to support the growth in our business.
+Professional services and other gross margin was (31%) and (36%) for the fiscal years ended January 31, 2026 and 2025, respectively. We do not believe the year-over-year changes in professional services and other gross margins are meaningful given that our professional services and other revenue represents a small percentage of our revenue.
+73
+Table
+ of Contents
+Sales and Marketing
+Fiscal Year Ended January 31,
+2026
+2025
+% Change
+(dollars in thousands)
+Sales and marketing
+$
+2,062,137 
+$
+1,672,092 
+23%
+Percentage of revenue
+44
+%
+46
+%
+Headcount (at period end)
+4,159 
+3,310 
+Sales and marketing expenses increased $390.0 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year, primarily due to an increase of $270.1 million in personnel-related costs (excluding commission expenses) and allocated overhead costs, as a result of increased headcount, stock-based compensation, and overall costs to support the growth in our business. The increase in personnel-related costs included a $47.1 million increase in stock-based compensation for the fiscal year ended January 31, 2026, compared to the prior fiscal year, primarily related to additional equity awards granted to new and existing employees, partially offset by the effects of equity awards that became forfeited or fully vested.
+In addition, expenses associated with sales commissions and draws paid to our sales force and certain referral fees paid to third parties, including amortization of deferred commissions, increased $47.9 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year, primarily due to increases in the annualized contract value of our customer contracts and customers’ consumption of our platform. Advertising costs and other expenses associated with our sales, marketing and business development programs, as well as travel-related expenses, increased $42.2 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year.
+Research and Development
+Fiscal Year Ended January 31,
+2026
+2025
+% Change
+(dollars in thousands)
+Research and development
+$
+1,969,472 
+$
+1,783,379 
+10%
+Percentage of revenue
+42
+%
+49
+%
+Headcount (at period end)
+2,424 
+2,257 
+Research and development expenses increased $186.1 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year, primarily due to an increase of $185.6 million in personnel-related costs and allocated overhead costs, as a result of increased headcount, stock-based compensation, and overall costs to support the growth in our business. The increase in personnel-related costs included a $83.4 million increase in stock-based compensation, primarily related to additional equity awards granted to new and existing employees, partially offset by the effects of equity awards that became forfeited or fully vested.
+In addition, third-party cloud infrastructure expenses, incurred primarily in developing our platform, increased $18.1 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year. The overall increase in research and development expenses for the fiscal year ended January 31, 2026 was partially offset by a decrease of $17.0 million in costs incurred by us in connection with a restructuring plan for a majority-owned subsidiary, net of associated income and recoveries.
+74
+Table
+ of Contents
+General and Administrative
+Fiscal Year Ended January 31,
+2026
+2025
+% Change
+(dollars in thousands)
+General and administrative
+$
+549,697 
+$
+412,262 
+33%
+Percentage of revenue
+12
+%
+12
+%
+Headcount (at period end)
+1,189 
+1,183 
+General and administrative expenses increased $137.4 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year. During the fiscal year ended January 31, 2026, we recognized asset impairment charges of $108.7 million, primarily relating to the cease-use of our San Mateo office facility. See Note 11, “Commitments and Contingencies,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details.
+In addition, personnel-related costs (excluding stock-based compensation) and allocated overhead costs increased $19.3 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year, as a result of increased headcount and overall costs to support the growth in our business. The remaining increase in general and administrative expenses was primarily driven by unallocated lease costs associated with unused office facilities to accommodate planned headcount growth.
+Interest Income
+Fiscal Year Ended January 31,
+2026
+2025
+% Change
+(dollars in thousands)
+Interest income
+$
+190,556
+$
+209,009
+(9%)
+Interest income decreased $18.5 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year, primarily due to lower weighted-average annual yields on our cash equivalents and investments in available-for-sale marketable debt securities as a result of decreased interest rates. See Note 4, “Cash Equivalents, Investments, and Strategic Investments,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details on our cash equivalents and investments.
+Other Expense, Net
+Fiscal Year Ended January 31,
+2026
+2025
+% Change
+(dollars in thousands)
+Impairments related to strategic investments in non-marketable equity securities
+$
+(53,852)
+$
+(11,578)
+365%
+Net unrealized losses on strategic investments in marketable equity securities
+(7,569)
+(2,428)
+212%
+Net realized gains (losses) on strategic investments in equity securities
+(1)
+1,526
+(17,414)
+(109%)
+Other
+892
+(3,919)
+(123%)
+Other expense, net
+$
+(59,003)
+$
+(35,339)
+67%
+________________
+(1)
+Represents the difference between the sale proceeds and the carrying value of the securities at the beginning of the period or the purchase date, if later.
+Other expense, net increased $23.7 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year, primarily due to impairments and changes in net realized and unrealized gains (losses) on our strategic investments in equity securities. See Note 4, “Cash Equivalents, Investments, and Strategic Investments,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details.
+75
+Table
+ of Contents
+Provision for Income Taxes
+Fiscal Year Ended January 31,
+2026
+2025
+% Change
+(dollars in thousands)
+Loss before income taxes
+$
+(1,311,910)
+$
+(1,285,099)
+2%
+Provision for income taxes
+17,125
+4,113
+316%
+Effective tax rate
+(1.3%)
+(0.3%)
+Our provision for income taxes increased $13.0 million for the fiscal year ended January 31, 2026, compared to the prior fiscal year, primarily due to higher tax provisions in foreign jurisdictions and an increase in our unrecognized tax benefits.
+We maintain a full valuation allowance on our U.S. and U.K. deferred tax assets, and the significant components of our recorded tax expense are current cash taxes in various jurisdictions. The cash tax expenses are impacted by each jurisdiction’s individual tax rates, laws on the timing of recognition of income and deductions, and availability of net operating losses and tax credits. Our effective tax rate might fluctuate significantly and could be adversely affected to the extent earnings are lower than forecasted in countries that have lower statutory rates and higher than forecasted in countries that have higher statutory rates.
+Liquidity and Capital Resources
+As of January 31, 2026, our principal sources of liquidity were cash, cash equivalents, and short-term and long-term investments totaling $4.8 billion. Our cash equivalents and investments primarily consist of money market funds, corporate notes and bonds, U.S. government and agency securities, time deposits, certificates of deposit, and commercial paper.
+As of January 31, 2026, our RPO was $9.8 billion. Our RPO represents the amount of contracted future revenue that has not yet been recognized, including (i) deferred revenue and (ii) non-cancelable contracted amounts that will be invoiced and recognized as revenue in future periods, but that are not recorded on the balance sheet. Portions of RPO that are not yet invoiced and are denominated in foreign currencies are revalued into U.S. dollars each period based on the applicable period-end exchange rates.
+Our primary sources of cash are payments received from our customers as well as net proceeds from the issuance of our convertible senior notes. Our primary uses of cash include personnel-related expenses, third-party cloud infrastructure expenses (including those related to GPUs and AI inference), sales and marketing expenses, overhead costs, acquisitions and strategic investments we may make from time to time, and repurchases of our common stock under our authorized stock repurchase program. As of January 31, 2026, our material cash requirements from known contractual obligations and commitments relate primarily to (i) third-party cloud infrastructure agreements, (ii) our convertible senior notes, (iii) operating leases for office facilities, and (iv) subscription arrangements used to facilitate our operations at the enterprise level. These agreements are enforceable and legally binding and specify all significant terms, including fixed or minimum services to be used, fixed, minimum or variable price provisions, and the approximate timing of the actions under the contracts. For more information regarding our contractual obligations and commitments (excluding our convertible senior notes) as of January 31, 2026, see Note 11, “Commitments and Contingencies,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K. Our long-term purchase commitments may be satisfied earlier than the payment periods presented as we continue to grow and scale our business.
+On February 2, 2026, we acquired all the outstanding capital stock of Observe, Inc., a privately-held company that built an AI-powered observability platform. The preliminary purchase consideration was approximately $596.2 million, which was comprised primarily of $286.2 million in cash and approximately 1.5 million shares of our common stock valued at $285.3 million as of the acquisition date.
+In February 2026, we entered into agreements for new office facilities located in the United States and Germany, with a total commitment of $85 million, net of tenant incentives expected to be received. These leases will commence on various dates starting in fiscal 2027 with lease terms ranging from 7.2 years to 12.3 years.
+76
+Table
+ of Contents
+Convertible Senior Notes
+In September 2024, we issued an aggregate principal amount of $2.3 billion of convertible senior notes in a private placement to qualified institutional buyers, comprising of (i) $1.15 billion aggregate principal amount of 0% convertible senior notes due 2027 (2027 Notes) and (ii) $1.15 billion aggregate principal amount of 0% convertible senior notes due 2029 (2029 Notes, and together with the 2027 Notes, the Notes). The Notes are general, senior unsecured obligations. The 2027 Notes will mature on October 1, 2027 and the 2029 Notes will mature on October 1, 2029, in each case unless earlier converted, redeemed, or repurchased. Upon conversion of the Notes, we may satisfy our conversion obligation by paying or delivering, as the case may be, cash, shares of our common stock or a combination of both, at our election. The total proceeds from the issuance of the Notes were approximately $2.27 billion, net of $31.2 million of debt issuance costs. The outstanding principal of the 2027 Notes and the 2029 Notes was $1.15 billion each as of January 31, 2026 and January 31, 2025.
+In connection with the Notes offering, we entered into privately negotiated capped call transactions relating to each series of Notes (Capped Calls) with certain of the initial purchasers or affiliates thereof and certain other financial institutions for a cost of $195.5 million. The Capped Calls are generally expected to reduce the potential dilution to our common stock upon any conversion of the relevant series of the Notes and/or offset any cash payments we are required to make in excess of the principal amount of converted Notes of such series, as the case may be, with such reduction and/or offset subject to a cap based on a cap price initially equal to $225.00 per share.
+We used a portion of the net proceeds from the Notes offering to (i) pay the $195.5 million cost of the Capped Calls and (ii) repurchase $399.6 million of our common stock from purchasers of the Notes in the offering in privately negotiated transactions
+e
+ntered into in connection with the Notes offering at a purchase price of $112.50 per share. We expect to use the remainder of the net proceeds for general corporate purposes, which may include other repurchases of our common stock from time to time under our existing or any future stock repurchase program, as well as acquisitions or strategic investments in complementary businesses or technologies.
+The Sale Price Trigger, as discussed in Note 10, “Convertible Senior Notes,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K, was met during each of the three months ended July 31, 2025, October 31, 2025, and January 31, 2026, and as a result, holders may convert the Notes at any time during each of the three months ending October 31, 2025, January 31, 2026, and April 30, 2026. To the extent we receive notices of conversion, we may choose to pay or deliver, as the case may be, cash, shares of our common stock or a combination of cash and shares of our common stock, at our election. See Note 10, “Convertible Senior Notes,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional details.
+Stock Repurchase Program
+In February 2023, our board of directors authorized a stock repurchase program of up to $2.0 billion of our outstanding common stock. In August 2024, our board of directors authorized the repurchase of an additional $2.5 billion of our outstanding common stock and extended the expiration date of the stock repurchase program from March 2025 to March 2027. Repurchases may be effected, from time to time, either on the open market (including via pre-set trading plans), in privately negotiated transactions, or through other transactions in accordance with applicable securities laws. The timing and amount of any repurchases will be determined by management based on an evaluation of market conditions and other factors. The program does not obligate us to acquire any particular amount of common stock, and the repurchase program may be suspended or discontinued at any time at our discretion.
+During the fiscal year ended January 31, 2026, we repurchased 4.9 million shares of our outstanding common stock for an aggregate purchase price of $873.5 million, excluding transaction costs associated with the repurchases, at a weighted-average price of $177.37 per share. All repurchases were made in open market transactions. As of January 31, 2026, approximately $1.1 billion remained available for future repurchases under the stock repurchase program (exclusive of transaction costs associated with repurchases). See Note 12, “Equity,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional details.
+Subsequent to January 31, 2026, and through March 20, 2026, we repurchased 1.7 million shares of our outstanding common stock for an aggregate purchase price of $300.0 million, excluding transaction costs associated with the repurchases, at a weighted-average price of $178.95 per share. All repurchases were made in open market transactions.
+77
+Table
+ of Contents
+We believe that our existing cash, cash equivalents, and short-term and long-term investments, as well as cash flows expected to be generated by our operations, will be sufficient to support our working capital and capital expenditure requirements, convertible senior notes repayment requirements, acquisitions and strategic investments we may make from time to time, and repurchases of our common stock under our existing or any future stock repurchase program, for the next 12 months and beyond. Our future capital requirements will depend on many factors, including our revenue growth rate, expenditures related to our headcount growth, the timing and the amount of cash received from customers, the expansion of sales and marketing activities, the timing and extent of spending to support development efforts, the price at which we are able to purchase public cloud capacity, our existing commitments to our third-party cloud providers, expenses associated with our international expansion, the introduction of platform enhancements, the continuing market adoption of our platform, and the volume and timing of our stock repurchases. We may continue to enter into arrangements to acquire or invest in complementary businesses, products, and technologies. We may, as a result of those arrangements or the general expansion of our business, be required to seek additional equity or debt financing. In the event that we require additional financing, we may not be able to raise such financing on terms acceptable to us or at all. If we are unable to raise additional capital or generate cash flows necessary to expand our operations and invest in continued innovation, we may not be able to compete successfully, which would harm our business, results of operations, and financial condition.
+The following table shows a summary of our cash flows for the periods presented (in thousands):
+Fiscal Year Ended January 31,
+2026
+2025
+2024
+Net cash provided by operating activities
+$
+1,221,942 
+$
+959,764 
+$
+848,122 
+Net cash provided by investing activities
+$
+312,241 
+$
+190,646 
+$
+832,258 
+Net cash used in financing activities
+$
+(1,385,390)
+$
+(226,523)
+$
+(854,103)
+Operating Activities
+Net cash provided by operating activities mainly consists of our net loss adjusted for certain non-cash items, primarily consisting of (i) stock-based compensation, net of amounts capitalized, (ii) depreciation and amortization of property and equipment and amortization of acquired intangible assets, (iii) amortization of deferred commissions, (iv) asset impairment related to office facility exit, (v) amortization of operating lease right-of-use assets, (vi) net realized and unrealized gains and losses on strategic investments in equity securities, and (vii) net amortization (accretion) of premiums (discounts) on investments, and changes in operating assets and liabilities during each period.
+For the fiscal year ended January 31, 2026, net cash provided by operating activities was $1.2 billion, consisting of our net loss of approximately $1.3 billion, adjusted for non-cash charges of approximately $2.2 billion, and net cash inflows of $383.8 million resulting from changes in our operating assets and liabilities, net of the effects of business combinations. The main drivers of the changes in operating assets and liabilities during fiscal 2026 were (i) a $755.2 million increase in deferred revenue due to invoicing for prepaid capacity agreements outpacing revenue recognition and (ii) a $393.3 million increase in accrued expenses and other liabilities primarily due to the timing of accruals and payments and growth in our business, partially offset by (a) a $380.0 million increase in accounts receivable primarily due to growth in our business, (b) a $305.1 million increase in deferred commissions earned primarily by our sales force upon the origination, expansion, or renewal of customer contracts, (c) a $44.5 million increase in prepaid expenses and other assets primarily driven by prepayments related to our sales, marketing and business development programs, including our user conferences, and (d) a $26.9 million decrease in operating lease liabilities due to payments related to our operating lease obligations, net of tenant incentives received.
+For the fiscal year ended January 31, 2025, net cash provided by operating activities was $959.8 million, consisting of our net loss of approximately $1.3 billion, adjusted for non-cash charges of approximately $1.8 billion, and net cash inflows of $443.6 million resulting from changes in our operating assets and liabilities, net of the effects of business combinations.
+Net cash provided by operating activities increased $262.2 million for the fiscal year ended January 31, 2026, compared to the fiscal year ended January 31, 2025, primarily due to an increase in cash collected from customers resulting from increased sales, partially offset by increased expenditures due to an increase in headcount and growth in our business. We expect to continue to generate positive net cash flows from operating activities for fiscal 2027.
+78
+Table
+ of Contents
+Investing Activities
+Net cash provided by investing activities for the fiscal year ended January 31, 2026 was $312.2 million, primarily driven by proceeds of $595.8 million from net sales, maturities and redemptions of investments. The increase is partially offset by (i) an aggregate of $178.9 million in cash paid for Crunchy Data and other business combinations, net of cash acquired, and (ii) $101.6 million in purchases of property and equipment to support our office facilities.
+Net cash provided by investing activities for the fiscal year ended January 31, 2025 was $190.6 million, primarily driven by proceeds of $297.4 million from net sales, maturities and redemptions of investments. The increase is partially offset by (i) $46.3 million in purchases of property and equipment to support our office facilities, (ii) an aggregate of $30.3 million in cash paid for Datavolo and other business combinations, net of cash and cash equivalents acquired, and (iii) $29.4 million in capitalized software development costs.
+Financing Activities
+Net cash used in financing activities for the fiscal year ended January 31, 2026 was approximately $1.4 billion, primarily driven by (i) $873.5 million in repurchases of our common stock under our authorized stock repurchase program and (ii) $672.9 million in taxes paid related to net share settlement of equity awards, partially offset by proceeds of $172.3 million from the issuance of equity securities under our equity incentive plans.
+Net cash used in financing activities for the fiscal year ended January 31, 2025 was $226.5 million, primarily driven by (i) approximately $1.9 billion in repurchases of our common stock under our authorized stock repurchase program, (ii) $489.1 million in taxes paid related to net share settlement of equity awards, and (iii) $195.5 million in purchases of the Capped Calls, partially offset by (a) proceeds of approximately $2.27 billion from the issuance of the Notes, net of $31.2 million in cash paid for issuance costs, and (b) proceeds of $121.9 million from the issuance of equity securities under our equity incentive plans.
+Critical Accounting Estimates
+Our management’s discussion and analysis of financial condition and results of operations is based on our consolidated financial statements, which are prepared in accordance with GAAP. The preparation of these consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. By their nature, these estimates and assumptions are subject to an inherent degree of uncertainty and actual results could differ significantly from the estimates made by management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected.
+The significant accounting policies and methods used in the preparation of our consolidated financial statements are discussed in Note 2, “Basis of Presentation and Summary of Significant Accounting Policies,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K. We believe that the accounting policy and estimate described below involves a substantial degree of judgment and complexity and therefore is the most critical to aid in fully understanding and evaluating our financial condition and results of operations.
+79
+Table
+ of Contents
+Revenue Recognition
+Many of our contracts with customers include multiple performance obligations. Contracts that contain multiple performance obligations require an allocation of the transaction price to each performance obligation on a relative standalone selling price (SSP) basis. We consider our evaluation of SSP to be a critical accounting estimate. An observable SSP is established based on the price at which a service is sold separately. If an SSP is not observable through past transactions, we estimate it by maximizing the use of observable inputs, including the overall pricing strategy, market data, internally approved pricing guidelines related to the performance obligations, and other observable inputs. As our business and offerings evolve over time, modifications to our pricing and discounting methodologies, changes in the scope and nature of our offerings, and/or changes in customer segmentation may result in a lack of consistency, making it difficult to establish and/or maintain SSP. Changes in SSP could result in different and unanticipated allocations of revenue in contracts with multiple performance obligations. These factors, among others, may adversely impact the amount of revenue and gross margin we report in a given period.
+Recent Accounting Pronouncements
+See Note 2, “Basis of Presentation and Summary of Significant Accounting Policies,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for a discussion of recent accounting pronouncements.
+80
+Table
+ of Contents

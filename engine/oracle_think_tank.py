@@ -92,8 +92,13 @@ INTC (+559% MISSED): Beaten down large-cap + AI foundry pivot + CHIPS Act subsid
      Pattern was visible. Did not act. Lesson: never dismiss beaten-down large-cap
      with credible pivot + government backing.
 
-PATTERN: beaten down + revenue inflecting + EPS improving + catalyst not yet priced
-         + market embarrassed to own it + hot sector secular tailwind
+PATTERN A (Turnaround Runner): beaten down + revenue inflecting + EPS improving + catalyst not yet priced + market embarrassed to own it + hot sector secular tailwind
+
+PATTERN B (Platform Compounder Runner): platform assets growing 20%+ YoY + ARPU expanding + premium attach rate increasing + CAC flat or declining + net revenue retention above 100% + valuation at discount to growth rate (PEG below 1.5 or P/S below 10x on 30%+ growth)
+
+PATTERN C (Commodity Cycle Runner): AISC in lowest quartile of peers + P/NAV below 1.0x at current commodity price + Tier 1 jurisdiction + 10+ year reserve life + FCF yield above 8% at current price + net cash or debt below 1x EBITDA
+
+IMPORTANT: Apply the CORRECT pattern based on company type. Do NOT score a platform company against Pattern A (turnaround) criteria — a platform that is not beaten down and not hated can still be a 10x runner if it fits Pattern B.
 """
 
 # ══════════════════════════════════════════════════════════════════
@@ -132,6 +137,7 @@ YOUR JOB IN THIS ANALYSIS:
 3. Apply Li Lu's duration test: is the moat deepening or decaying? How long is the tailwind?
 4. Apply Thiel's secret test: what does almost nobody else believe about this stock that is true?
 5. Give a SCOUT VERDICT per stock: INVESTIGATE FURTHER / PASS
+   IMPORTANT: Before issuing PASS, state which RUNNER DNA PATTERN (A/B/C) you evaluated this stock against and how many criteria it met. A platform company that fails Pattern A (turnaround) but meets 5/7 of Pattern B (platform compounder) criteria should receive INVESTIGATE FURTHER — not PASS.
 6. In your Discovery section: name ONE stock NOT on the candidate list that better fits
    the AMD/MU/SNDK runner DNA pattern. This is the most valuable output.
 7. SPINOFF CHECK: If the stock has a pending or recently announced spinoff, flag it immediately.
@@ -207,7 +213,11 @@ YOUR JOB:
 2. What does the market believe that the data contradicts?
 3. Who is selling? Who benefits from the current narrative?
 4. FORENSIC VERDICT per stock: PASS / WARN / ELIMINATE
-   ELIMINATE if: business model incoherent, accounting suspicious, or narrative too clean
+   ELIMINATE if: business model incoherent, accounting suspicious, active DOJ/SEC investigation, or auditor resignation. These are EXISTENTIAL risks.
+   WARN if: regulatory risk is elevated, governance concerns exist, or insider selling is notable. WARN means proceed with caution — it does NOT mean PASS. The other panels' BUY/INVESTIGATE verdicts remain valid.
+   PASS if: no material forensic concerns found.
+
+   CALIBRATION RULE: For platform companies (fintech, crypto, SaaS) where regulatory risk is a KNOWN structural feature of the sector (not a surprise), do not issue WARN solely on regulatory risk that is already priced and publicly disclosed. Issue WARN only if you have found a SPECIFIC NEW risk the market has not priced. Structural sector regulation is priced — hidden fraud is not.
 5. For any ELIMINATED stock: state the specific evidence
 
 Be adversarial. Assume guilt until proven innocent. Quote specific data.
@@ -288,9 +298,23 @@ VALUATION MODE CLASSIFICATION (do this first — it determines which framework t
     → Example: if you think success probability is 45%, not 30% implied by price: EV = (0.45 × +75%) - (0.55 × -65%) = +33.75% - 35.75% = -2% EV. That is a very different number than if you blindly use market-implied probability.
     → Output your p_success estimate explicitly and show the EV tree.
 
-  MATURE/STALWART: Use for profitable companies with stable revenue growth < 30%.
+  PLATFORM COMPOUNDER: Use when the company is a marketplace, fintech platform, SaaS network, or crypto exchange with compounding user base, growing ARPU, and network effects. Revenue growth 15%+ annually. Examples: HOOD, COIN, PLTR, ZETA, PATH.
+    → EPV is EXPLICITLY FORBIDDEN as primary tool. EPV assumes zero growth permanently. Applied to a 30-50% growth platform it produces a floor far below market price — this is EXPECTED and NORMAL, not a bearish signal.
+    → DO NOT flag negative EPV margin of safety as a PASS or AVOID signal for platform compounders. It is meaningless.
+    → Use: Platform asset growth rate (total AUM/GMV/AUC YoY), ARPU trajectory, net revenue retention, attach rate for premium products, Rule of 40 (growth rate + FCF margin), EV/Revenue on growth-adjusted basis.
+    → Margin of safety test: 20% discount to DCF fair value (not EPV). A stock trading at 2-3x EPV is NORMAL for a platform growing 30%+ annually.
+    → If you cannot resist calculating EPV: label it clearly as 'EPV FLOOR (not the primary anchor — platforms trade above EPV by design)' and do not let it drive the FUNDAMENTAL VERDICT.
+
+  COMMODITY PRODUCER: Use when a commodity price is the primary earnings driver. Mining, energy, agriculture. Examples: AEM, BTG, AG, NEM, FCX, CVX, XOM.
+    → Primary valuation anchor: NAV (Net Asset Value). P/NAV below 1.0x at current commodity price = discount to fair value.
+    → ALL earnings scenarios must use the CURRENT commodity spot price shown in the fact sheet header. Do NOT use multi-year average commodity prices. If gold is $3,300/oz today, use $3,300 — not $1,900 or $2,350.
+    → EPV is only applicable if commodity price is near long-run average. If commodity is at highs or lows, EPV is misleading — use commodity-scenario EPV instead (state which commodity price assumption you used).
+    → Report: AISC or equivalent unit cost vs current commodity price, operating margin per unit, reserve life, FCF yield at current price.
+    → Margin of safety: P/NAV below 0.8x = STRONG BUY territory. P/NAV 0.8-1.0x = BUY. P/NAV above 1.5x = expensive.
+
+  MATURE/STALWART: Use for profitable companies with stable revenue growth under 15% annually.
     → Use: EPV, earnings yield (EBIT/EV), margin of safety vs current price.
-    → This is the Klarman/Greenblatt framework. Correct for mature businesses. Wrong for inflection names.
+    → This is the Klarman/Greenblatt framework. Correct for mature businesses. Wrong for platforms, wrong for commodity producers.
 
 FLOOR VALUE: [liquidation/asset value if growth stops — Klarman]
 ROIC vs COST OF CAPITAL: [above/below/at parity — Greenblatt]
@@ -412,6 +436,7 @@ For each stock that survived the Scout and Skeptic layers, deliver:
 TICKER: [symbol]
 VERDICT: BUY / WATCH / PASS
 CONVICTION: X/10
+VALUATION_MODE: [PLATFORM COMPOUNDER / COMMODITY PRODUCER / MATURE STALWART / INFLECTION STAGE / CYCLICAL / DEFENSE]
 MUNGER INVERSION: [what kills it]
 KELLY SIZE: [fraction - e.g. "5% position" or "half-Kelly suggests 8%"]
 FLYWHEEL: [does scale economics compound? yes/no/partial]
@@ -429,6 +454,8 @@ that nobody mentioned? State it explicitly.
 
 STRICT OUTPUT RULES - NON-NEGOTIABLE:
 - Every stock in FINAL WATCHLIST and DISCOVERY POOL must be NYSE or NASDAQ listed.
+- For PLATFORM COMPOUNDERS (HOOD, COIN, PLTR, ZETA, PATH, etc.): EPV negative margin of safety is NOT a bearish signal. Do not let it drive a PASS verdict. These companies trade above EPV by design — their value is in future compounding.
+- For COMMODITY PRODUCERS (AEM, BTG, AG, NEM, FCX, etc.): use P/NAV at CURRENT commodity spot price as the primary floor. A miner trading at P/NAV below 1.0x at current commodity price is at a DISCOUNT to fair value — this is bullish, not neutral.
 - Every stock must be priced above $1.00. Preferred $10.00+.
 - Mark any stock $1-$10 as [CAUTION <$10] with a one-line explanation.
     - Zero OTC, pink sheet, TSX, foreign-listed, or sub-$1 stocks in any output.
@@ -452,10 +479,30 @@ CATALYST: [one line, specific event + date]
 KILL CONDITION: [one line, what sends it to zero]
 ---END---
 
-PANEL_CONSENSUS scoring: count bullish verdicts across the 4 panels.
-  Bullish = INVESTIGATE, BUY, STRONG BUY, ACCELERATING.
-  Bearish = PASS, WARN, ELIMINATE, AT RISK.
-  3-4 bullish → HIGH CONSENSUS. 2 bullish → SPLIT. Scout=BUY and Skeptic=ELIMINATE → PANEL CONFLICT.
+SCORING FORMULA — follow this exactly. Do not use gut feel. Use the formula.
+
+Step 1 — Base score from panel verdicts:
+  SCOUT INVESTIGATE = +3 points. SCOUT PASS = 0 points.
+  FUNDAMENTALS STRONG BUY = +3. BUY = +2. HOLD = +1. PASS = 0.
+  TECH+MACRO ACCELERATING = +2. STABLE = +1. AT RISK = 0.
+  SKEPTIC PASS = +2. WARN = +1. ELIMINATE = -2 (hard penalty).
+  Maximum possible base score = 3+3+2+2 = 10.
+
+Step 2 — Apply SKEPTIC WARN calibration:
+  WARN means proceed with caution — it does NOT zero out the other panels.
+  A stock with Scout INVESTIGATE + Fundamentals BUY + Tech ACCELERATING + Skeptic WARN scores:
+  3 + 2 + 2 + 1 = 8/10 → BUY. This is correct. Skeptic WARN is a flag, not a veto.
+  Only Skeptic ELIMINATE carries a hard penalty (-2 points).
+
+Step 3 — OVERALL verdict from score:
+  8-10 = BUY. 5-7 = WATCH. 0-4 = PASS. Any Skeptic ELIMINATE with score below 5 = PASS.
+
+Step 4 — PANEL_CONSENSUS:
+  Count bullish verdicts: INVESTIGATE=bullish, BUY/STRONG BUY=bullish, ACCELERATING=bullish, Skeptic PASS=bullish.
+  WARN = neither bullish nor bearish (neutral). PASS/ELIMINATE/AT RISK = bearish.
+  3-4 bullish → HIGH CONSENSUS. 2 bullish → SPLIT. Scout=INVESTIGATE and Skeptic=ELIMINATE → PANEL CONFLICT.
+
+IMPORTANT: If the Fundamentals panel issued PASS because it could not find EPV margin of safety for a PLATFORM COMPOUNDER or COMMODITY PRODUCER, treat that Fundamentals PASS as HOLD (1 point) not PASS (0 points) — EPV is the wrong tool for those company types and its failure to show margin of safety is not a bearish signal.
 
 Produce one block per stock. No other text. Pure structured table."""
 
@@ -547,7 +594,7 @@ def call_claude(system: str, user: str, model: str = None, max_tokens: int = 350
                 json={
                     "model": m,
                     "messages": [
-                        {"role": "system", "content": system},
+                        {"role": "system", "content": [{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}]},
                         {"role": "user",   "content": user}
                     ],
                     "temperature": 0.3,

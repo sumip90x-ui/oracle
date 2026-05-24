@@ -1,0 +1,204 @@
+=== FILING DATE: 2025-07-31 ===
+=== PERIOD COVERED: 2025-06-29 ===
+=== SOURCE: 10-Q filed 2025-07-31 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: HAS ===
+
+$6.2 million compared to a net discrete tax expense, exclusive of the Loss on disposal of the eOne Film and TV business, of $0.7 million in the first six months of 2024.
+The net discrete tax benefit recorded in the first six months of 2025 is primarily associated with the release of a valuation allowance. The net discrete tax expense recorded in the first six months of 2024 is primarily associated with stock-based compensation.
+Absent discrete items, the tax rates for the first six months of 2025 and 2024 were 22.6% and 22.7%, respectively. The decrease in the base rate to 22.6% for the first six months of 2025 relative to the first six months of 2024 is primarily due to the mix of jurisdictions where the Company earned its profits.
+40
+SEGMENT RESULTS
+The following table presents net external revenues and operating profit (loss) for the Company's reportable segments for the six months ended June 29, 2025 and June 30, 2024:
+Six Months Ended
+June 29,
+2025
+June 30,
+2024
+%
+Change
+Net revenues:
+Wizards of the Coast and Digital Gaming
+$
+984.5 
+$
+768.3 
+28 
+%
+Consumer Products
+840.7 
+937.5 
+(10)
+%
+Entertainment
+42.7 
+46.8 
+(9)
+%
+Total net revenues
+$
+1,867.9 
+$
+1,752.6 
+7 
+%
+Operating profit (loss):
+Wizards of the Coast and Digital Gaming
+$
+471.8 
+$
+369.9 
+28 
+%
+Consumer Products
+(1,073.5)
+(56.2)
+1,810 
+%
+Entertainment
+(4.9)
+4.8 
+(202)
+%
+Corporate and Other
+(20.9)
+9.8 
+(313)
+%
+Total Operating profit (loss)
+$
+(627.5)
+$
+328.3 
+(291)
+%
+Wizards of the Coast and Digital Gaming Segment
+The following table presents Wizards of the Coast and Digital Gaming segment net revenues by category for the six months ended June 29, 2025 and June 30, 2024:
+Six Months Ended
+June 29,
+2025
+June 30,
+2024
+%
+Change
+Tabletop Gaming
+$
+750.1 
+$
+535.8 
+40 
+%
+Digital and Licensed Gaming
+234.4 
+232.5 
+1 
+%
+Net revenues
+$
+984.5 
+$
+768.3 
+28 
+%
+Wizards of the Coast and Digital Gaming segment net revenues increased 28% in the first six months of 2025 to $984.5 million from $768.3 million in the first six months of 2024. Tabletop Gaming revenue increased 40% behind growth in MAGIC: THE GATHERING primarily due to strong demand for
+Final Fantasy, Tarkir, Dragon Storm
+ and
+Aetherdrift.
+The net revenue increase in Digital and Licensed Gaming during the first six months of 2025 was primarily attributable to revenue contributions from higher digital licensing of
+MONOPOLY GO!
+.
+Wizards of the Coast and Digital Gaming segment operating profit was $471.8 million,
+
+or 47.9% of segment net revenues for the first six months of 2025, compared to operating profit of $369.9 million, or 48.1% of segment net revenues, for the first six months of 2024. The operating profit increase during the first six months of 2025 was driven by increased net revenues, contributions from higher digital licensing revenue mix and cost savings initiatives, offset by higher royalty expense related to the strong demand for
+Final Fantasy
+for which the Company is obligated to pay a royalty.
+41
+Consumer Products Segment
+The following table presents the Consumer Products segment net revenues by major geographic region for the six months ended June 29, 2025 and June 30, 2024:
+Six Months Ended
+June 29,
+2025
+June 30,
+2024
+%
+Change
+North America
+$
+467.4 
+$
+545.2 
+(14)
+%
+Europe
+180.7 
+179.5 
+1 
+%
+Asia Pacific
+117.4 
+111.4 
+5 
+%
+Latin America
+75.2 
+101.4 
+(26)
+%
+Net revenues
+$
+840.7 
+$
+937.5 
+(10)
+%
+The Consumer Products segment net revenues decreased 10% to $840.7 million for the first six months of 2025 compared to $937.5 million for the first six months of 2024 primarily driven by broader industry trends and shifts in product mix. The net revenue decrease primarily reflects lower net revenues from NERF, PLAY-DOH, Hasbro Gaming, GI JOE and STAR WARS products. These declines in revenue were partially offset by revenue growth from BEY BLADE and TRANSFORMERS products, as well as an increase in consumer product licensing revenue from MY LITTLE PONY.
+Consumer Products segment operating loss for the first six months of 2025 was $1,073.5 million, or 127.7% of segment net revenues, compared to a segment operating loss of $56.2 million, or 6.0% of segment net revenues, for the first six months of 2024. The increase in operating loss in the first six months of 2025 was driven by decrease in net revenues and a non-cash goodwill impairment charge of $1,021.9 million recorded during 2025. This was offset by savings realized from the Company's cost savings and transformation initiatives.
+Entertainment Segment
+The following table presents Entertainment segment net revenues by category for the six months ended June 29, 2025 and June 30, 2024:
+Six Months Ended
+June 29,
+2025
+June 30,
+2024
+%
+Change
+Film and TV
+$
+5.8 
+$
+1.8 
+222 
+%
+Family Brands
+36.9 
+45.0 
+(18)
+%
+Net revenues
+$
+42.7 
+$
+46.8 
+(9)
+%
+Entertainment segment net revenues decreased 9% to $42.7 million for the first six months of 2025, compared to $46.8 million for the first six months of 2024. The net revenue decrease in the Entertainment segment during the first six months of 2025 was driven primarily by timing of entertainment streaming renewals.
+Entertainment segment operating loss was $4.9 million, or 11% of segment net revenues, for the first six months of 2025, compared to an operating profit of $4.8 million, or 10% of segment net revenues, for the first six months of 2024. The decrease in Entertainment segment operating results during the first six months of 2025 was primarily driven by a decrease in net revenues, along with a non-recurring Loss on disposal of business of $25.0 million during the first six months of 2025, that was offset by a non-recurring Loss on disposal of business of $24.4 million during the first six months of 2024. Refer to Note 3, Sale of Non-Core Entertainment One Film and TV Business, to the consolidated financial statements for further information on the non-recurring Loss on disposal of business.
+Corporate and Other
+Corporate and Other operating loss was $20.9 million for the first six months of 2025 compared to an operating profit of $9.8 million for the first six months of 2024. The operating loss in the first six months of 2025 as compared to the operating income in the first six months of 2024 was due to the net impact of the two prior period non-recurring adjustments recorded during the second quarter of 2024 partially offset by a benefit from a non-recurring adjustment for stock compensation expense reversal recorded in the first quarter of 2024. R
+efer to Note 1, Basis of Presentation, to
+the consolidated financial statements
+ for further information on these non-recurring adjustments.
+42
+OTHER INFORMATION
+Commitments and Contingencies
+Refer to Item 7 of our
+2024
+ Annual Report for additional information regarding the Company’s cash obligations and commitments as of the end of fiscal year
+2024
+. Additionally, refer to Note 14, Commitments and Contingencies, to
+the consolidated financial statements
+ for a discussion of the Company’s commitments and contingencies.
+Contractual obligations and commercial commitments, as detailed in the Company's 2024 Form 10-K, did not materially change outside of certain payments made in the normal course of business and as otherwise set forth in this report.
+LIQUIDITY AND CAPITAL RESOURCES
+The Company has historically generated a significant amount of cash from operations. The Company primarily funds its operations and liquidity needs through cash on hand and from cash flows from operations, and when needed, borrowings under its commercial paper program and available lines of credit.
+The Company believes that the funds available to it, including cash expected to be generated from operations, funds available through its commercial paper program or its available lines of credit, are adequate to meet its working capital needs for the next twelve months. The Company may also issue debt or equity securities from time to time to provide additional sources of liquidity when pursuing opportunities to enhance our long-term competit

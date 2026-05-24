@@ -1,0 +1,132 @@
+=== FILING DATE: 2025-10-16 ===
+=== PERIOD COVERED: 2025-10-13 ===
+=== SOURCE: 8-K filed 2025-10-16 ===
+=== SECTION: 8-K Event — personnel ===
+=== TICKER: CRDO ===
+
+
+
+crdo-20251013
+0001807794
+false
+0001807794
+2025-10-13
+2025-10-13
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+_________________________
+FORM
+8-K
+
+_________________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+October 13, 2025
+_________________________
+Credo Technology Group Holding Ltd
+(Exact name of registrant as specified in its charter)
+ _________________________
+Cayman Islands
+001-41249
+N/A
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+c/o
+Maples Corporate Services, Limited
+,
+PO Box 309, Ugland House
+Grand Cayman
+,
+KY1-1104
+,
+Cayman Islands
+N/A
+(Address of principal executive offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(
+408
+)
+664-9329
+N/A
+(Former name or former address, if changed since last report)
+_________________________
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+ 
+Trading
+Symbol(s)
+ 
+Name of each exchange
+on which registered
+Ordinary shares, par value $0.00005 per share
+CRDO
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).                    Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     ☐
+Item 5.07    Submission of Matters to a Vote of Security Holders.
+ 
+The 2025 Annual General Meeting of Credo Technology Group Holding Ltd (the “Company”) was held on October 13, 2025. At the 2025 Annual General Meeting, the Company’s shareholders voted on the following proposals, which are described in detail in the Company’s 2025 Proxy Statement as filed on August 25, 2025 (the “Proxy Statement”).
+1.
+A proposal to elect the three (3) Class I director nominees to hold office until the earlier of the 2028 Annual General Meeting or their resignation or removal. Each of the three (3) Class I director nominees named in the Proxy Statement was elected as set forth below:
+Nominee
+For
+Withheld
+Broker Non-Votes
+William J. Brennan
+118,615,321
+5,427,891
+19,936,565
+Yat Tung Lam
+117,425,587
+6,617,625
+19,936,565
+Chi Fung Cheng
+117,384,742
+6,658,470
+19,936,565
+2.
+A proposal to approve, on a non-binding advisory basis, the compensation of the Company’s named executive officers, as disclosed in the Proxy Statement. This proposal was approved as set forth below:
+For
+Against
+Abstain
+Broker Non-Votes
+116,591,772
+7,323,034
+128,406
+19,936,565
+3.
+A proposal to ratify the selection of Ernst & Young LLP as the Company's independent registered public accounting firm for its fiscal year ending May 2, 2026. This proposal was approved as set forth below:
+For
+Against
+Abstain
+143,658,171
+50,606
+271,000
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Credo Technology Group Holding Ltd
+Date: October 16, 2025
+By:
+/s/ James Laufman
+James Laufman
+Chief Legal Officer
+

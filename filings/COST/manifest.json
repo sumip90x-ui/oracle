@@ -1,0 +1,483 @@
+{
+  "ticker": "COST",
+  "company_name": "COSTCO WHOLESALE CORP /NEW",
+  "cik": "0000909832",
+  "sic": "5331",
+  "industry": "Retail-Variety Stores",
+  "fiscal_year_end": "0830",
+  "last_checked": "2026-05-24T03:20:16.814306",
+  "newest_filing_date": "2026-04-15",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-04-15",
+      "oldest_included": "2025-05-29",
+      "count": 11,
+      "files": [
+        {
+          "filing_date": "2026-04-15",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2026-04-15_8-K_agreement.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/COST/8-K/2026-04-15_8-K_agreement_ex991.txt"
+        },
+        {
+          "filing_date": "2026-03-05",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2026-03-05_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/COST/8-K/2026-03-05_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-01-21",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2026-01-21_8-K_agreement.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/COST/8-K/2026-01-21_8-K_agreement_ex991.txt"
+        },
+        {
+          "filing_date": "2025-12-11",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-12-11_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-12-11_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-10-20",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-10-20_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-10-15",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-10-15_8-K_agreement.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-10-15_8-K_agreement_ex991.txt"
+        },
+        {
+          "filing_date": "2025-09-25",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-09-25_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-09-25_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-08-07",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-08-07_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-07-16",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-07-16_8-K_agreement.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-07-16_8-K_agreement_ex991.txt"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-06-11_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-05-29_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/COST/8-K/2025-05-29_8-K_earnings_ex991.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-04-01",
+      "count": 51,
+      "transactions": [
+        {
+          "filing_date": "2026-04-01",
+          "person": "Frates Caton",
+          "type": "SELL",
+          "shares": "700",
+          "price": "993.00"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "George Sarah Catherine",
+          "type": "OTHER",
+          "shares": "642",
+          "price": "991.2129"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "MILLERCHIP GARY",
+          "type": "OTHER",
+          "shares": "1154",
+          "price": "992.23"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Adamo Claudine",
+          "type": "SELL",
+          "shares": "730",
+          "price": "1003.021"
+        },
+        {
+          "filing_date": "2026-01-28",
+          "person": "RAIKES JEFFREY S",
+          "type": "OTHER",
+          "shares": "5115",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-28",
+          "person": "Jones Teresa A.",
+          "type": "OTHER",
+          "shares": "300",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-23",
+          "person": "Jones Teresa A.",
+          "type": "SELL",
+          "shares": "850",
+          "price": "986.2567"
+        },
+        {
+          "filing_date": "2026-01-20",
+          "person": "DECKER SUSAN L",
+          "type": "SELL",
+          "shares": "458",
+          "price": "955.00"
+        },
+        {
+          "filing_date": "2026-01-20",
+          "person": "Raimondo Gina Marie",
+          "type": "BUY",
+          "shares": "215",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "Klauer James C",
+          "type": "SELL",
+          "shares": "1500",
+          "price": "939.00"
+        },
+        {
+          "filing_date": "2026-01-12",
+          "person": "Miller Russell D",
+          "type": "SELL",
+          "shares": "1500",
+          "price": "916.32"
+        },
+        {
+          "filing_date": "2025-12-31",
+          "person": "POLIT JAVIER",
+          "type": "SELL",
+          "shares": "2607",
+          "price": "867.2054"
+        },
+        {
+          "filing_date": "2025-12-22",
+          "person": "DENMAN KENNETH D",
+          "type": "OTHER",
+          "shares": "325",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "DECKER SUSAN L",
+          "type": "OTHER",
+          "shares": "2827",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "RAIKES JEFFREY S",
+          "type": "OTHER",
+          "shares": "4120",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "Wilcox William Richard",
+          "type": "SELL",
+          "shares": "2400",
+          "price": "930.13"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Barbre Tiffany Marie",
+          "type": "BUY",
+          "shares": "3899",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Vachris Roland Michael",
+          "type": "BUY",
+          "shares": "16486",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Sullivan John Christopher",
+          "type": "BUY",
+          "shares": "7167",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "POLIT JAVIER",
+          "type": "BUY",
+          "shares": "5387",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "MILLERCHIP GARY",
+          "type": "BUY",
+          "shares": "7081",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Klauer James C",
+          "type": "OTHER",
+          "shares": "917",
+          "price": "944.68"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Frates Caton",
+          "type": "OTHER",
+          "shares": "2768",
+          "price": "944.68"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Callans Patrick J",
+          "type": "OTHER",
+          "shares": "916",
+          "price": "944.68"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Adamo Claudine",
+          "type": "OTHER",
+          "shares": "3404",
+          "price": "944.68"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "STANTON JOHN W",
+          "type": "BUY",
+          "shares": "286",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Wilderotter Mary Agnes",
+          "type": "BUY",
+          "shares": "286",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "RAIKES JEFFREY S",
+          "type": "BUY",
+          "shares": "286",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "JEWELL SARAH MR SALLY",
+          "type": "BUY",
+          "shares": "286",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "JAMES HAMILTON E",
+          "type": "BUY",
+          "shares": "286",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "Foulkes Helena",
+          "type": "BUY",
+          "shares": "286",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "DENMAN KENNETH D",
+          "type": "BUY",
+          "shares": "286",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-24",
+          "person": "DECKER SUSAN L",
+          "type": "BUY",
+          "shares": "286",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-01",
+          "person": "Miller Russell D",
+          "type": "SELL",
+          "shares": "3381",
+          "price": "915.00"
+        },
+        {
+          "filing_date": "2025-09-30",
+          "person": "Frates Caton",
+          "type": "SELL",
+          "shares": "1540",
+          "price": "910.02"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "Miller Russell D",
+          "type": "OTHER",
+          "shares": "5836",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Rubanenko Yoram",
+          "type": "BUY",
+          "shares": "5964",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Riel Pierre",
+          "type": "BUY",
+          "shares": "6262",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Miller Russell D",
+          "type": "BUY",
+          "shares": "6389",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Klauer James C",
+          "type": "BUY",
+          "shares": "5177",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Jones Teresa A.",
+          "type": "BUY",
+          "shares": "5722",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Frates Caton",
+          "type": "BUY",
+          "shares": "5490",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Callans Patrick J",
+          "type": "BUY",
+          "shares": "5168",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Adamo Claudine",
+          "type": "BUY",
+          "shares": "5168",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-04",
+          "person": "STANTON JOHN W",
+          "type": "OTHER",
+          "shares": "422",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Jones Teresa A.",
+          "type": "SELL",
+          "shares": "600",
+          "price": "992.05"
+        },
+        {
+          "filing_date": "2025-07-15",
+          "person": "RAIKES JEFFREY S",
+          "type": "OTHER",
+          "shares": "6573",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-15",
+          "person": "Rubanenko Yoram",
+          "type": "SELL",
+          "shares": "4000",
+          "price": "974.963"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "person": "DECKER SUSAN L",
+          "type": "SELL",
+          "shares": "547",
+          "price": "980.00"
+        },
+        {
+          "filing_date": "2025-06-10",
+          "person": "Callans Patrick J",
+          "type": "SELL",
+          "shares": "3000",
+          "price": "1002.766"
+        },
+        {
+          "filing_date": "2025-06-09",
+          "person": "Riel Pierre",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "1014.147"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-03-11",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q2FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/COST/10-Q/2026-03-11_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/COST/10-Q/2025-12-17_10-Q_Q2FY2025.txt",
+        "/home/sumith/ORACLE/filings/COST/10-Q/2025-06-05_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-05-11"
+    },
+    "earnings_8k_by_quarter": {
+      "Q3FY2026": "/home/sumith/ORACLE/filings/COST/8-K/2026-03-05_8-K_earnings_ex991.txt",
+      "Q2FY2025": "/home/sumith/ORACLE/filings/COST/8-K/2025-12-11_8-K_earnings_ex991.txt",
+      "Q4FY2025": "/home/sumith/ORACLE/filings/COST/8-K/2025-06-11_8-K_personnel.txt"
+    },
+    "10-K": {
+      "newest_filing_date": "2025-10-08",
+      "period_covered": "2025-08-31",
+      "local_path": "/home/sumith/ORACLE/filings/COST/10-K/2025-10-08_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2025-12-04",
+      "local_path": "/home/sumith/ORACLE/filings/COST/DEF14A/2025-12-04_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/COST/sections/2026-03-11_10-Q_Q3FY2026_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/COST/sections/2026-03-11_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/COST/sections/2026-03-11_10-Q_Q3FY2026_item8_financials.txt",
+    "newest_footnotes": "/home/sumith/ORACLE/filings/COST/sections/2026-03-11_10-Q_Q3FY2026_footnotes.txt",
+    "newest_business": "/home/sumith/ORACLE/filings/COST/sections/2026-03-11_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/COST/8-K/2026-03-05_8-K_earnings_ex991.txt",
+    "newest_segments": "/home/sumith/ORACLE/filings/COST/sections/2026-03-11_10-Q_Q3FY2026_segments.txt"
+  },
+  "failed_downloads": []
+}

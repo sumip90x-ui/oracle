@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-05-29
+Transaction Date: 2025-05-27
+Person: Notarainni Mark P. — EVP, Consumer Group
+Type: SELL
+Shares: 469 at $725
+Shares After: 19.217
+=== TICKER: INTU ===
+===

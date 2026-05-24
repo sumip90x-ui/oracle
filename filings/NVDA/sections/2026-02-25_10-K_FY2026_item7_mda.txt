@@ -1,0 +1,226 @@
+=== FILING DATE: 2026-02-25 ===
+=== PERIOD COVERED: 2026-01-25 ===
+=== SOURCE: 10-K filed 2026-02-25 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: NVDA ===
+
+Item 7
+ in our Annual Report on Form 10-K for the fiscal year ended January 26, 2025, filed with the SEC on February 26, 2025, which is available free of charge on the SEC’s website at http://www.sec.gov and at our investor relations website, http://investor.nvidia.com.
+39
+Table of Contents
+The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue.
+Year Ended
+ 
+Jan 25, 2026
+Jan 26, 2025
+Revenue
+100.0 
+%
+100.0 
+%
+Cost of revenue
+28.9 
+25.0 
+Gross profit
+71.1 
+75.0 
+Operating expenses
+ 
+Research and development
+8.6 
+9.9 
+Sales, general and administrative
+2.1 
+2.7 
+Total operating expenses
+10.7 
+12.6 
+Operating income
+60.4 
+62.4 
+Interest income
+1.1 
+1.4 
+Interest expense
+(0.1)
+(0.2)
+Other income, net
+4.2 
+0.8 
+Total other income, net
+5.2 
+2.0 
+Income before income tax
+65.5 
+64.4 
+Income tax expense
+9.9 
+8.6 
+Net income
+55.6 
+%
+55.8 
+%
+Reportable Segments
+Revenue by Reportable Segments
+Year Ended
+Jan 25, 2026
+Jan 26, 2025
+$
+Change
+%
+Change
+($ in millions)
+Compute & Networking
+$
+193,479 
+$
+116,193 
+$
+77,286 
+67 
+%
+Graphics
+22,459 
+14,304 
+8,155 
+57 
+%
+Total
+$
+215,938 
+$
+130,497 
+$
+85,441 
+65 
+%
+Operating Income by Reportable Segments
+Year Ended
+Jan 25, 2026
+Jan 26, 2025
+$
+Change
+%
+Change
+($ in millions)
+Compute & Networking
+$
+130,141 
+$
+82,875 
+$
+47,266 
+57 
+%
+Graphics
+9,156 
+5,085 
+4,071 
+80 
+%
+Total
+$
+139,297 
+$
+87,960 
+$
+51,337 
+58 
+%
+Compute & Networking revenue
+ – The year over year increase was driven by the major platform shifts – accelerated computing and AI. Revenue from Data Center computing grew 59% driven by demand for our Blackwell computing platform. Revenue from Data Center networking grew 142% driven by the introduction and continued ramp of NVLink compute fabric for GB200 and GB300 systems and the growth of Ethernet and InfiniBand platforms.
+Graphics revenue
+– The year over year increase was driven by sales of our Blackwell architecture.
+Reportable segment operating income
+ – The year over year increase in Compute & Networking segment operating income was driven by growth in revenue, partially offset by a $4.5 billion charge associated with H20 excess inventory and purchase obligations in the first quarter of fiscal year 2026. The year over year increase in Graphics segment operating income was driven by the growth in revenue.
+40
+Table of Contents
+Concentration of Revenue
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, ODMs, OEMs, CSPs, AI model makers, and system integrators. Certain direct customers may use either internal resources or third-party system integrators to complete their build. We refer to indirect customers as those who purchase products through our direct customers; indirect customers include CSPs, Neocloud builders, AI model makers, enterprises, and public sector entities. Our revenue is concentrated among a limited number of direct and indirect customers and this trend may continue.
+Direct Customers
+ – For fiscal year 2026, sales to one direct customer represented 22% of total revenue and sales to another direct customer represented 14% of total revenue, all of which were primarily attributable to the Compute & Networking segment.
+For fiscal year 2025, sales to one direct customer represented 12% of total revenue and sales to two direct customers each represented 11% of total revenue, all of which were primarily attributable to the Compute & Networking segment.
+For fiscal year 2024, sales to one direct customer represented 13% of total revenue, and were primarily attributable to the Compute & Networking segment.
+Indirect Customers
+ – Indirect customer revenue is an estimation based upon multiple factors including customer purchase order information, product specifications, internal sales data, and other sources. Indirect customers primarily purchase our products through system integrators and distributors. We generate a significant amount of our revenue from a limited number of indirect customers, some individually representing 10% or more of our revenue. Certain companies purchase cloud and related services through various direct and indirect customers. We estimate that one AI research and deployment company contributed to a meaningful amount of our revenue purchasing cloud services from our customers in fiscal year 2026.
+Revenue by geographic region is designated based on the location of the headquarters of direct customers. The end customer and shipping location may be different from our customers' headquarters location. Revenue from sales to customers headquartered outside of the United States accounted for 31% and 41% of total revenue for fiscal years 2026 and 2025, respectively.
+Gross Profit and Gross Margin
+Gross profit consists of total net revenue less cost of revenue. Cost of revenue consists of the cost of semiconductors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions, memory and component costs, tariffs, and shipping costs. Cost of revenue also includes acquisition-related intangible amortization expense, costs for license and development and service arrangements, IP-related costs, and stock-based compensation related to personnel associated with manufacturing operations.
+Gross margins decreased to 71.1% in fiscal year 2026 from 75.0% in fiscal year 2025 as our business model transitioned from offering Hopper HGX systems to Blackwell full-scale datacenter solutions and a $4.5 billion charge associated with H20 excess inventory and purchase obligations in the first quarter of fiscal year 2026.
+Provisions for inventory and excess inventory purchase obligations totaled $7.2 billion and $3.7 billion for fiscal years 2026 and 2025, respectively, including $4.5 billion associated with H20 excess inventory and purchase obligations for the first quarter of fiscal year 2026. Sales of previously reserved inventory and settlements of excess inventory purchase obligations resulted in a provision release of $1.5 billion and $689 million for fiscal years 2026 and 2025, respectively. The net effect on our gross margin was an unfavorable impact of 2.6% and 2.3% in fiscal years 2026 and 2025, respectively.
+Operating Expenses
+ 
+Year Ended
+ 
+Jan 25, 2026
+Jan 26, 2025
+$
+Change
+%
+Change
+ 
+($ in millions)
+Research and development
+$
+18,497 
+$
+12,914 
+$
+5,583 
+43 
+%
+Sales, general and administrative
+4,579 
+3,491 
+1,088 
+31 
+%
+Total operating expenses
+$
+23,076 
+$
+16,405 
+$
+6,671 
+41 
+%
+The increases in research and development expenses for fiscal year 2026 were driven by a 29% increase in compensation and benefits expense, including stock-based compensation, reflecting employee growth and compensation increases and a 79% increase in compute and infrastructure.
+41
+Table of Contents
+The increases in sales, general and administrative expenses for fiscal year 2026 were primarily driven by compensation and benefits expense, including stock-based compensation, reflecting employee growth and compensation increases.
+Total Other Income, Net
+ 
+Year Ended
+ 
+Jan 25, 2026
+Jan 26, 2025
+$
+Change
+ 
+($ in millions)
+Interest income
+$
+2,300 
+$
+1,786 
+$
+514 
+Interest expense
+(259)
+(247)
+(12)
+Other income, net
+9,022 
+1,034 
+7,988 
+Total other income, net
+$
+11,063 
+$
+2,573 
+$
+8,490 
+The increase in interest income was primarily due to growth in cash, cash equivalents, and debt securities.
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to our notes.
+Other income, net primarily consists of realized or unrealized gains and losses from investments in non-marketable equity securities, publicly-held equity securities, and the impact of changes in foreign currency rates. The change in Other income, net, compared to fiscal year 2025, was primarily driven by unrealized gains in non-marketable and publicly-held equity securities, including gains from our previously announced investment in Intel’s common stock. Refer to Note 7 and 8 of the Notes to the Consolidated Financial Statements in Part IV,

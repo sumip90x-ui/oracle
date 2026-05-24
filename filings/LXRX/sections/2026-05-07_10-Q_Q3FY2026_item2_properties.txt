@@ -1,0 +1,39 @@
+=== FILING DATE: 2026-05-07 ===
+=== PERIOD COVERED: 2026-03-31 ===
+=== SOURCE: 10-Q filed 2026-05-07 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: LXRX ===
+
+Item 2
+.  Unregistered Sales of Equity Securities and Use of Proceeds
+The following table provides information about our purchases of shares of our common stock during the three months ended March 31, 2026:
+25
+Period
+Total Number of Shares Purchased
+Average Price Paid Per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Maximum Number of Shares that May Yet be Purchased Under the Plans or Programs
+(3)
+January 1-31, 2026
+—
+$
+— 
+—
+—
+February 1-28, 2026
+1,933,747 
+(1)
+$
+1.47 
+(2)
+—
+—
+March 1-31, 2026
+—
+$
+— 
+—
+—
+(1)     Represents shares retained by us in satisfaction of the tax withholding obligations of recipients of restricted stock units granted in February 2023, February 2024 and February 2025 under our 2017 Equity Incentive Plan with respect to the vesting of such restricted stock units.
+(2)    Represents the market price of our common stock on the date of vesting of such restricted stock units, calculated in accordance with the process for determination of fair market value under our 2017 Equity Incentive Plan.
+(3)     In the future, we may grant additional equity securities under our 2017 Equity Incentive Plan for which the recipient's tax withholding obligations with respect to the grant or vesting of such securities may be satisfied by our retention of a portion of such securities.  Further, for any such equity securities which are subject to vesting conditions, the number of equity securities which we may retain in satisfaction of the recipient's tax withholding obligations may be dependent on the continued employment of such recipient or other performance-based conditions.  Accordingly, we cannot predict with any certainty either the total amount of equity securities or the approximate dollar value of such securities that we may purchase in future years.

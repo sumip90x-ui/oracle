@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-10
+Transaction Date: 2026-03-07
+Person: KILPIN TIMOTHY J. — President, Toy, Lic & Ent
+Type: OTHER
+Shares: 4710 at $93.51
+Shares After: 41120
+=== TICKER: HAS ===
+===

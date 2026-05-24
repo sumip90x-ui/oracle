@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-30
+Transaction Date: 2025-06-26
+Person: COXE TENCH — Director
+Type: BUY
+Shares: 1799 at $0.0000
+Shares After: 26671360.0000
+=== TICKER: NVDA ===
+===

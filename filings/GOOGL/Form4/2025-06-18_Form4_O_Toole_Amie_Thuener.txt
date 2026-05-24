@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-18
+Transaction Date: 2025-06-16
+Person: O'Toole Amie Thuener — VP, Chief Accounting Officer
+Type: BUY
+Shares: 46 at $0
+Shares After: 17209
+=== TICKER: GOOGL ===
+===

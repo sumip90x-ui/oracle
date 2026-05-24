@@ -1,0 +1,12 @@
+=== FILING DATE: 2025-09-03 ===
+=== PERIOD COVERED: 2025-07-31 ===
+=== SOURCE: 10-K filed 2025-09-03 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: INTU ===
+
+ITEM 7A
+ - QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+                 RISK
+Investment Portfolio and Interest Rate Risk
+We actively monitor market conditions and developments specific to the securities in which we invest. We believe that we take a conservative approach to investing our funds in that we invest only in highly-rated securities and diversify our portfolio of investments. While we believe we take prudent measures to mitigate investment-related risks, such risks cannot be fully eliminated because of market circumstances that are outside our control.
+Our investments consist of instruments that meet quality standards that are consistent with our investment policy. This policy specifies that, except for direct obligations of the United States (U.S.) government, securities issued by agencies of the U.S. government, and money market funds, we diversify our investments by limiting our holdings with any individual issuer. We do not hold derivative financial instruments or European sovereign debt in our portfolio of investments. See Note 2 and Note 3 to the consolidated financial statements in

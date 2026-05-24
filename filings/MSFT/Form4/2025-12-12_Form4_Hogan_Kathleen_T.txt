@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-12
+Transaction Date: 2025-12-10
+Person: Hogan Kathleen T — EVP, Strategy
+Type: OTHER
+Shares: 150 at $0
+Shares After: 151231.625
+=== TICKER: MSFT ===
+===

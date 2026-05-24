@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-17
+Transaction Date: 2026-02-12
+Person: Gopinathan Suma — SVP, Discovery
+Type: BUY
+Shares: 596130 at $0
+Shares After: 357680
+=== TICKER: LXRX ===
+===

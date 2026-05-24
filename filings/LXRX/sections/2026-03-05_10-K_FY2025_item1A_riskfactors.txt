@@ -1,0 +1,8 @@
+=== FILING DATE: 2026-03-05 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-03-05 ===
+=== SECTION: Item 1A — Risk Factors ===
+=== TICKER: LXRX ===
+
+Item 1A
+. Risk Factors in this Annual Report on Form 10-K, including “Data breaches and cyber-attacks could compromise our intellectual property or other sensitive information and cause significant damage to our business, reputational harm and financial loss.”

@@ -1,0 +1,598 @@
+=== FILING DATE: 2025-09-08 ===
+=== PERIOD COVERED: 2025-09-02 ===
+=== SOURCE: 8-K filed 2025-09-08 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: LITE ===
+
+
+
+
+8-K
+
+
+
+
+
+false
+
+0001633978
+
+
+
+
+
+
+
+
+0001633978
+
+
+
+2025-09-02
+
+2025-09-02
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+Form
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+September 2, 2025
+
+ 
+
+
+ 
+
+Lumentum Holdings Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Delaware
+
+
+ 
+
+
+001-36861
+
+
+ 
+
+
+47-3108385
+
+
+(State or Other Jurisdiction
+of Incorporation)
+
+
+ 
+
+
+
+(Commission
+
+File Number)
+
+
+ 
+
+
+(IRS Employer
+Identification Number)
+
+1001 Ridder Park Drive
+,
+San Jose
+,
+California
+
+95131
+
+(Address of Principal Executive Offices including Zip code)
+
+(408)
+
+546-5483
+
+(Registrant’s Telephone Number, Including Area Code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+ 
+
+
+ 
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common Stock, par value of $0.001 per share
+
+
+ 
+
+
+LITE
+
+
+ 
+
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+ of the Securities Exchange Act of 1934
+(§240.12b-2
+ of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 1.01.
+
+
+
+Entry into a Material Definitive Agreement.
+
+Convertible Notes and the Indenture
+
+On September 8, 2025, Lumentum Holdings Inc. (the “Company”) issued $1.265 billion in aggregate principal amount of its 0.375% Convertible Senior Notes due 2032 (the “Notes”) pursuant to an indenture (the “Indenture”), dated September 8, 2025, by and between the Company and U.S. Bank Trust Company, National Association, as trustee (the “Trustee”). The Notes will bear interest at a rate of 0.375% per year, payable semi-annually in arrears on March 15 and September 15 of each year, beginning on March 15, 2026. The Notes will mature on March 15, 2032, unless earlier redeemed, repurchased by the Company or converted pursuant to their terms.
+
+The initial conversion rate is 5.3257 shares of common stock per $1,000 principal amount of Notes (which is equivalent to an initial conversion price of approximately $187.77 per share). The conversion rate will be subject to adjustment upon the occurrence of certain events but will not be adjusted for any accrued and unpaid interest. In addition, following the occurrence of a make-whole fundamental change (as defined in the Indenture) or the Company’s issuance of a notice of redemption, in each case, the Company will, in certain circumstances, increase the conversion rate by a number of additional shares for a holder that elects to convert its Notes in connection with such make-whole fundamental change or notice of redemption, as the case may be.
+
+Prior to the close of business on the business day immediately preceding December 15, 2031, the Notes will be convertible at the option of the holder thereof only under the following circumstances: (1) during any fiscal quarter commencing after December 27, 2025 (and only during such fiscal quarter), if the last reported sale price of the Company’s common stock for at least 20 trading days (whether or not consecutive) during the period of 30 consecutive trading days ending on the last trading day of the immediately preceding fiscal quarter is greater than or equal to 130% of the applicable conversion price on each applicable trading day; (2) during the five consecutive business day period after any five consecutive trading day period (the “measurement period”) in which the trading price per $1,000 principal amount of Notes for each trading day of such measurement period was less than 98% of the product of the last reported sale price of the Company’s common stock and the applicable conversion rate on each such trading day; (3) if the Company calls any or all of the Notes for redemption, at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date; or (4) upon the occurrence of specified corporate events. On or after December 15, 2031 until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert their Notes at any time. Upon conversion, the Company will satisfy its conversion obligation by paying cash up to the aggregate principal amount of the notes to be converted and paying or delivering, as the case may be, cash, shares of common stock or a combination of cash and shares of common stock, at the Company’s election, in respect of the remainder, if any, of the Company’s conversion obligation in excess of the aggregate principal amount of the notes being converted.
+
+The Company may redeem for cash all or any portion of the Notes, at its option (subject to the partial redemption limitation set forth below), on or after March 20, 2029, if the last reported sale price of its common stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive
+trading-day
+ period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which the Company provides notice of redemption at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date. No sinking fund is provided for the Notes. If the Company elects to redeem fewer than all of the outstanding Notes, at least $100.0 million aggregate principal amount of the Notes must be outstanding and not subject to redemption as of the redemption notice date. Upon the occurrence of a fundamental change (as defined in the Indenture), holders may require the Company to repurchase all or a portion of their Notes for cash at a price equal to 100% of the principal amount of the Notes to be repurchased, plus any accrued and unpaid interest to, but excluding, the fundamental change repurchase date.
+
+The Notes are the Company’s senior unsecured obligations, will rank equally with all of the Company’s existing and future senior unsecured indebtedness, including the Company’s outstanding 0.50% Convertible Senior Notes due 2026, the Company’s outstanding 0.50% Convertible Senior Notes due 2028, and the
+
+
+
+
+
+Company’s outstanding 1.50% Convertible Senior Notes due 2029, and will rank senior in right of payment to any indebtedness that is expressly subordinated to the Notes. The Notes will also be effectively subordinated to all of the Company’s existing and future secured indebtedness (to the extent of the value of the assets securing such indebtedness) and structurally subordinated to all existing and future liabilities (including trade payables) of the Company’s subsidiaries.
+
+The following events are considered “events of default” under the Indenture, which may result in the acceleration of the maturity of the Notes:
+
+ 
+
+
+ 
+
+
+(1)
+
+
+
+default by the Company in any payment of interest on any Note when due and payable and the default continues for a period of 30 days;
+
+ 
+
+
+ 
+
+
+(2)
+
+
+
+default by the Company in the payment of principal of any Note (including the fundamental change repurchase price or redemption price, if applicable) when due and payable on the maturity date, upon redemption, upon any required repurchase, upon declaration of acceleration or otherwise;
+
+ 
+
+
+ 
+
+
+(3)
+
+
+
+failure by the Company to comply with its obligation to convert the Notes in accordance with the Indenture upon exercise of a holder’s conversion right and such failure continues for a period of five business days;
+
+ 
+
+
+ 
+
+
+(4)
+
+
+
+failure by the Company to comply with its obligation under the Indenture with respect to a consolidation, merger or sale of assets of the Company;
+
+ 
+
+
+ 
+
+
+(5)
+
+
+
+failure by the Company to give (i) a fundamental change notice (as described in the Indenture) when due, and such failure continues for five business days or (ii) a notice of a specified corporate transaction (described in the Indenture) when due with respect to the Notes and such failure continues for a period of two business days;
+
+ 
+
+
+ 
+
+
+(6)
+
+
+
+failure by the Company to comply with any of its other agreements contained in the Notes or Indenture for a period of 60 days after written notice from the Trustee or the holders of at least 25% in principal amount of the Notes then outstanding;
+
+ 
+
+
+ 
+
+
+(7)
+
+
+
+default by the Company or any of its significant subsidiaries (as defined in the Indenture) with respect to any mortgage, agreement or other instrument under which there may be outstanding, or by which there may be secured or evidenced, any indebtedness for money borrowed in excess of $150,000,000 (or its foreign currency equivalent at the time) in the aggregate of the Company and/or any such subsidiary (i) resulting in such indebtedness becoming or being declared due and payable or (ii) constituting a failure to pay the principal (or any unpaid interest that is due in connection with any failure to pay any such principal in excess of $150,000,000) of any such indebtedness when due and payable at its stated maturity, upon required repurchase, upon declaration of acceleration or otherwise, and, in the case of clauses (i) and (ii), such acceleration shall not, after the expiration of any applicable grace period, have been rescinded or annulled or such failure to pay or default shall not have been cured or waived, or such indebtedness is not paid or discharged, as the case may be, within 30 calendar days after written notice to the Company by the Trustee or to the Company and the Trustee by holders of at least 25% in aggregate principal amount of Notes then outstanding in accordance with the Indenture; or
+
+ 
+
+
+ 
+
+
+(8)
+
+
+
+certain events of bankruptcy, insolvency, or reorganization of the Company or any of its significant subsidiaries.
+
+If such an event of default occurs and is continuing (other than an event of default described in clause (8) above), the Trustee by notice to the Company, or the holders of at least 25% in principal amount of the then-outstanding Notes by notice to the Company and the Trustee, may declare 100% of the principal of, and accrued and unpaid interest, if any, on all the Notes to be due and payable. In the event that an event of default of a type described in clause (8) shall occur and be continuing, 100% of the principal of, and accrued and unpaid interest on the Notes will automatically become due and payable.
+
+ 
+
+
+
+
+
+The net proceeds from the sale of the Notes were approximately $1.25 billion, after deducting the Initial Purchasers’ discount and the estimated offering expenses payable by the Company. The Company has used (1) approximately $88.7 million of the net proceeds from the offering to pay the cost of the capped call transactions described below, and (2) approximately $843.8 million of the net proceeds from the offering to repurchase approximately $581.1 million aggregate principal amount of its 0.50% Convertible Senior Notes due 2026 (the “2026 Notes”), including accrued and unpaid interest on the 2026 Notes, concurrently with the pricing of the offering in privately negotiated transactions effected through one of the Initial Purchasers or its affiliate, as its agent. The Company intends to use the remaining net proceeds of the offering for general corporate purposes, which may include the repayment or repurchase of its indebtedness, including any of its existing convertible notes, capital expenditures, working capital and potential acquisitions.
+
+The summary of the foregoing transactions is qualified in its entirety by reference to the Indenture and the Form of 0.375% Convertible Senior Notes due 2032, that are attached as Exhibits 4.1 and 4.2, respectively, to this Current Report on Form
+8-K
+ and are incorporated herein by reference.
+
+The Initial Purchasers or their affiliates, have engaged in, and may in the future engage in, other commercial dealings with the Company or its affiliates in the ordinary course of business. They have received, or may in the future receive, customary fees and commissions for those transactions.
+
+Capped Call Transactions
+
+On September 3, 2025, in connection with the pricing of the Notes, and on September 4, 2025, in connection with the Initial Purchasers’ exercise of the option to purchase Additional Notes, the Company entered into privately negotiated capped call transactions (the “Capped Call Transactions”) with Citibank, N.A., Goldman Sachs & Co. LLC, HSBC Bank USA, National Association, Nomura Global Financial Products Inc., acting through its agent Nomura Securities International, Inc., Société Générale, acting through its agent SG Americas Securities LLC, and UBS AG, London Branch, acting through its agent UBS Securities LLC (collectively, the “Option Counterparties”). The Capped Call Transactions cover, subject to anti-dilution adjustments substantially similar to those applicable to the Notes, the number of shares of common stock initially underlying the Notes sold in the offering. The Capped Call Transactions are expected generally to reduce potential dilution to the common stock upon any conversion of Notes and/or offset any cash payments the Company would be required to make in excess of the principal amount of converted Notes, as the case may be, with such reduction and/or offset subject to a cap. The cap price of the Capped Call Transactions is initially $268.24 per share, and is subject to certain adjustments under the terms of the Capped Call Transactions.
+
+The Capped Call Transactions are separate transactions entered into by the Company with the Option Counterparties and are not part of the terms of the Notes and will not affect any holder’s rights under the Notes. Holders of the Notes will not have any rights with respect to the Capped Call Transactions.
+
+A copy of the form of the Capped Call Transaction confirmation is attached as Exhibit 10.1 to this Current Report on Form
+8-K
+ and is incorporated herein by reference. The foregoing description of the Capped Call Transaction confirmation does not purport to be complete and is qualified in its entirety by reference to the full text in such exhibit.
+
+ 
+
+
+Item 2.03.
+
+
+
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+ Sheet Arrangement of a Registrant.
+
+The information set forth in Item 1.01 above is incorporated by reference into this Item 2.03.
+
+ 
+
+
+Item 3.02.
+
+
+
+Unregistered Sales of Equity Securities.
+
+The information set forth in Item 1.01 above is incorporated by reference into this Item 3.02.
+
+ 
+
+
+Item 8.01.
+
+
+
+Other Events.
+
+Purchase Agreement
+
+ 
+
+
+
+
+
+On September 3, 2025, the Company entered into a purchase agreement (the “Purchase Agreement”) with Goldman Sachs & Co. LLC, as representative of the several initial purchasers (the “Initial Purchasers”), to issue and sell to the Initial Purchasers $1.1 billion aggregate principal amount of the Notes, in a private placement to persons reasonably believed to be qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”). The Notes will be issued to the Initial Purchasers pursuant to an exemption from the registration requirements of the Securities Act afforded by Section 4(a)(2) of the Securities Act. In addition, the Company granted the Initial Purchasers a
+13-day
+ option to purchase up to an additional $165.0 million aggregate principal amount of the Notes on the same terms and conditions (the “Additional Notes”), which was exercised in full on September 4, 2025. A total of $1.265 billion aggregate principal amount of Notes were issued on September 8, 2025.
+
+The Purchase Agreement includes customary representations, warranties and covenants by the Company and customary closing conditions. Under the terms of the Purchase Agreement, the Company has agreed to indemnify the Initial Purchasers against certain liabilities, including liabilities under the Securities Act.
+
+Launch Press Release
+
+On September 2, 2025, the Company issued a press release announcing its intention to offer $1.1 billion aggregate principal amount of the Notes in a private placement to persons reasonably believed to be qualified institutional buyers pursuant to Rule 144A under the Securities Act. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form
+8-K
+ and is incorporated herein by reference.
+
+Pricing Press Release
+
+On September 4, 2025, the Company issued a press release announcing the pricing of its offering of $1.1 billion aggregate principal amount of the Notes in a private placement to persons reasonably believed to be qualified institutional buyers pursuant to Rule 144A under the Securities Act. A copy of the press release is attached as Exhibit 99.2 to this Current Report on Form
+8-K
+ and is incorporated herein by reference.
+
+ 
+
+
+Item 9.01.
+
+
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+
+
+Exhibit
+
+Number
+
+
+  
+
+
+Description of Exhibit
+
+
+4.1
+
+
+  
+
+
+Indenture, dated September 8, 2025, between Lumentum Holdings Inc. and U.S. Bank Trust Company, National Association.
+
+
+4.2
+
+
+  
+
+
+Form of 0.375% Convertible Senior Note due 2032 (included in Exhibit 4.1).
+
+
+10.1
+
+
+  
+
+
+Form of Capped Call Confirmation
+
+
+99.1
+
+
+  
+
+
+Launch Press Release, dated September 2, 2025.
+
+
+99.2
+
+
+  
+
+
+Pricing Press Release, dated September 4, 2025.
+
+
+104
+
+
+  
+
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+
+
+ 
+
+
+
+
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+LUMENTUM HOLDINGS INC.
+
+
+By:
+
+
+ 
+
+
+
+/s/ Wajid Ali
+
+
+Name:
+
+
+ 
+
+
+Wajid Ali
+
+
+Title:
+
+
+ 
+
+
+Executive Vice President & Chief Financial Officer
+
+
+
+September 8, 2025
+
+

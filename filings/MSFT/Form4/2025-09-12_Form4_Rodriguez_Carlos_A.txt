@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-12
+Transaction Date: 2025-09-10
+Person: Rodriguez Carlos A — Director
+Type: BUY
+Shares: 219 at $0
+Shares After: 4381.205
+=== TICKER: MSFT ===
+===

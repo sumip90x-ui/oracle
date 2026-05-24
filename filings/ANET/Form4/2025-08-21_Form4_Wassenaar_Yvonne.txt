@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-21
+Transaction Date: 2025-08-19
+Person: Wassenaar Yvonne — Director
+Type: OTHER
+Shares: 1000 at $0.0
+Shares After: 11476
+=== TICKER: ANET ===
+===

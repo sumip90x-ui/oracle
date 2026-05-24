@@ -1,0 +1,1275 @@
+{
+  "ticker": "SNOW",
+  "company_name": "Snowflake Inc.",
+  "cik": "0001640147",
+  "sic": "7372",
+  "industry": "Services-Prepackaged Software",
+  "fiscal_year_end": "0131",
+  "last_checked": "2026-05-20T04:14:31.936376",
+  "newest_filing_date": "2026-05-18",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-03-31",
+      "oldest_included": "2025-05-21",
+      "count": 9,
+      "files": [
+        {
+          "filing_date": "2026-03-31",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2026-03-31_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2026-03-31_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-02-25",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2026-02-25_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2026-02-25_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-02-02",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2026-02-02_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-12-03",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-12-03_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-12-03_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-10-27",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-10-27_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-09-03_8-K_personnel.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-09-03_8-K_personnel_ex991.txt"
+        },
+        {
+          "filing_date": "2025-08-27",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-08-27_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-08-27_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-07-03_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-05-21",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-05-21_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-05-21_8-K_earnings_ex991.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-04",
+      "count": 166,
+      "transactions": [
+        {
+          "filing_date": "2026-05-04",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "142.074"
+        },
+        {
+          "filing_date": "2026-04-17",
+          "person": "Beaulier Jonathan Mead",
+          "type": "BUY",
+          "shares": "192968",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-09",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "1567652",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-06",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "148.205"
+        },
+        {
+          "filing_date": "2026-04-02",
+          "person": "Raghunathan Vivek",
+          "type": "SELL",
+          "shares": "3876",
+          "price": "152.80"
+        },
+        {
+          "filing_date": "2026-03-24",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "6893",
+          "price": "175.40"
+        },
+        {
+          "filing_date": "2026-03-24",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "37776",
+          "price": "175.40"
+        },
+        {
+          "filing_date": "2026-03-24",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "59616",
+          "price": "175.40"
+        },
+        {
+          "filing_date": "2026-03-24",
+          "person": "Gannon Michael S",
+          "type": "BUY",
+          "shares": "28478",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-24",
+          "person": "ROBINS BRIAN G",
+          "type": "BUY",
+          "shares": "14239",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-24",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "15998",
+          "price": "175.40"
+        },
+        {
+          "filing_date": "2026-03-24",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "47990",
+          "price": "175.40"
+        },
+        {
+          "filing_date": "2026-03-20",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "300000",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "7839",
+          "price": "178.66"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "175",
+          "price": "178.66"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "3975",
+          "price": "178.66"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "9512",
+          "price": "178.66"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "6009",
+          "price": "178.66"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "3862",
+          "price": "178.66"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Gannon Michael S",
+          "type": "OTHER",
+          "shares": "12760",
+          "price": "180.48"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "275",
+          "price": "180.48"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "4941",
+          "price": "180.48"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "13256",
+          "price": "180.48"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "ROBINS BRIAN G",
+          "type": "OTHER",
+          "shares": "4475",
+          "price": "180.48"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "2771",
+          "price": "180.48"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "8642",
+          "price": "180.48"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "6820",
+          "price": "180.48"
+        },
+        {
+          "filing_date": "2026-03-09",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "175.933"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "165.01"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Gannon Michael S",
+          "type": "BUY",
+          "shares": "36279",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Kleinerman Christian",
+          "type": "BUY",
+          "shares": "59126",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Dageville Benoit",
+          "type": "BUY",
+          "shares": "20694",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Ramaswamy Sridhar",
+          "type": "BUY",
+          "shares": "101402",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Raghunathan Vivek",
+          "type": "BUY",
+          "shares": "41389",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-19",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "300000",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2026-02-06",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "165.645"
+        },
+        {
+          "filing_date": "2026-02-04",
+          "person": "Speiser Michael L",
+          "type": "BUY",
+          "shares": "872467",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "197.09"
+        },
+        {
+          "filing_date": "2026-01-22",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "600000",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2026-01-06",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "219.90"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Raghunathan Vivek",
+          "type": "SELL",
+          "shares": "11801",
+          "price": "220.435"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "221.258"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "5086",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "2166",
+          "price": "222.46"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "3617",
+          "price": "222.46"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "4445",
+          "price": "222.46"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "7419",
+          "price": "222.46"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "1759",
+          "price": "222.46"
+        },
+        {
+          "filing_date": "2025-12-22",
+          "person": "Ho Emily",
+          "type": "SELL",
+          "shares": "586",
+          "price": "222.908"
+        },
+        {
+          "filing_date": "2025-12-22",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "600000",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "672737",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "53863",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "251",
+          "price": "217.93"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "7871",
+          "price": "217.93"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "3990",
+          "price": "217.93"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "9511",
+          "price": "217.93"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "6008",
+          "price": "217.93"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "2015",
+          "price": "228.79"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "1647",
+          "price": "228.79"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "ROBINS BRIAN G",
+          "type": "OTHER",
+          "shares": "4604",
+          "price": "228.79"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "1334",
+          "price": "228.79"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "545",
+          "price": "228.79"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "2770",
+          "price": "228.79"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "350",
+          "price": "228.79"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Gannon Michael S",
+          "type": "OTHER",
+          "shares": "9362",
+          "price": "228.79"
+        },
+        {
+          "filing_date": "2025-12-08",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "233.073"
+        },
+        {
+          "filing_date": "2025-12-03",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "249.53"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "82500",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-11-14",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "82500",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-11-10",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "261.494"
+        },
+        {
+          "filing_date": "2025-11-10",
+          "person": "Ho Emily",
+          "type": "BUY",
+          "shares": "15417",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "15000",
+          "price": "275"
+        },
+        {
+          "filing_date": "2025-10-31",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "82500",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-10-20",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "82500",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-10-10",
+          "person": "ROBINS BRIAN G",
+          "type": "BUY",
+          "shares": "149058",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-10",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "5000",
+          "price": "250"
+        },
+        {
+          "filing_date": "2025-10-06",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "2976",
+          "price": "236.019"
+        },
+        {
+          "filing_date": "2025-10-06",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "47765",
+          "price": "241.486"
+        },
+        {
+          "filing_date": "2025-10-06",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "82500",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "Raghunathan Vivek",
+          "type": "SELL",
+          "shares": "11801",
+          "price": "223.218"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "223.88"
+        },
+        {
+          "filing_date": "2025-09-26",
+          "person": "Ho Emily",
+          "type": "SELL",
+          "shares": "1658",
+          "price": "225.255"
+        },
+        {
+          "filing_date": "2025-09-26",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "78893",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "3617",
+          "price": "230.48"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "4445",
+          "price": "230.48"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "Scarpelli Michael",
+          "type": "OTHER",
+          "shares": "7420",
+          "price": "230.48"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "1095",
+          "price": "230.48"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "5274",
+          "price": "230.48"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "Dageville Benoit",
+          "type": "SELL",
+          "shares": "869",
+          "price": "230.48"
+        },
+        {
+          "filing_date": "2025-09-23",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "50889",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-19",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "82500",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Scarpelli Michael",
+          "type": "OTHER",
+          "shares": "3050",
+          "price": "221.15"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "3990",
+          "price": "221.15"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "7870",
+          "price": "221.15"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "9511",
+          "price": "221.15"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "6009",
+          "price": "221.15"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "251",
+          "price": "221.15"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "3862",
+          "price": "221.15"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Gannon Michael S",
+          "type": "OTHER",
+          "shares": "15433",
+          "price": "225.58"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "2770",
+          "price": "225.58"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "2186",
+          "price": "225.58"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "1334",
+          "price": "225.58"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Scarpelli Michael",
+          "type": "OTHER",
+          "shares": "788",
+          "price": "225.58"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "545",
+          "price": "225.58"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "2016",
+          "price": "225.58"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "351",
+          "price": "225.58"
+        },
+        {
+          "filing_date": "2025-09-08",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "82500",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-09-08",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "223.651"
+        },
+        {
+          "filing_date": "2025-09-04",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "233.50"
+        },
+        {
+          "filing_date": "2025-08-29",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "22500",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-08-29",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "2130249",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "61875",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "80625",
+          "price": "13.48"
+        },
+        {
+          "filing_date": "2025-08-04",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "216"
+        },
+        {
+          "filing_date": "2025-08-04",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "208.553"
+        },
+        {
+          "filing_date": "2025-08-04",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "768138",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "1875",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-25",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "80625",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-11",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "82500",
+          "price": "0.74"
+        },
+        {
+          "filing_date": "2025-07-09",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "1272588",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2025-07-07",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "221.469"
+        },
+        {
+          "filing_date": "2025-07-07",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "1100292",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2025-07-07",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "7500",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Ullal Jayshree",
+          "type": "BUY",
+          "shares": "1373",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Speiser Michael L",
+          "type": "BUY",
+          "shares": "1373",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "MCLAUGHLIN MARK D",
+          "type": "BUY",
+          "shares": "1373",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Kramer Kelly A.",
+          "type": "BUY",
+          "shares": "1373",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "GARRETT MARK",
+          "type": "BUY",
+          "shares": "1373",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "BURTON JEREMY",
+          "type": "BUY",
+          "shares": "1373",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Briggs Teresa",
+          "type": "BUY",
+          "shares": "2519",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "218.89"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "75000",
+          "price": "0.74"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "1534671",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "2194062",
+          "price": "8.88"
+        },
+        {
+          "filing_date": "2025-06-26",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "5000",
+          "price": "225"
+        },
+        {
+          "filing_date": "2025-06-26",
+          "person": "BURTON JEREMY",
+          "type": "SELL",
+          "shares": "50451",
+          "price": "220.79"
+        },
+        {
+          "filing_date": "2025-06-26",
+          "person": "Ho Emily",
+          "type": "SELL",
+          "shares": "1544",
+          "price": "220.98"
+        },
+        {
+          "filing_date": "2025-06-24",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "5211",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-24",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "5273",
+          "price": "212.08"
+        },
+        {
+          "filing_date": "2025-06-24",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "1758",
+          "price": "212.08"
+        },
+        {
+          "filing_date": "2025-06-24",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "943",
+          "price": "212.08"
+        },
+        {
+          "filing_date": "2025-06-24",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "3617",
+          "price": "212.08"
+        },
+        {
+          "filing_date": "2025-06-24",
+          "person": "Scarpelli Michael",
+          "type": "OTHER",
+          "shares": "7420",
+          "price": "212.08"
+        },
+        {
+          "filing_date": "2025-06-24",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "4445",
+          "price": "212.08"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "8714",
+          "price": "208.18"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Scarpelli Michael",
+          "type": "OTHER",
+          "shares": "3050",
+          "price": "208.18"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "7870",
+          "price": "208.18"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "3863",
+          "price": "208.18"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "9511",
+          "price": "208.18"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "6008",
+          "price": "208.18"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "176",
+          "price": "208.18"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "Ho Emily",
+          "type": "SELL",
+          "shares": "2599",
+          "price": "209.76"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "50000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Slootman Frank",
+          "type": "OTHER",
+          "shares": "2770",
+          "price": "210.84"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Kleinerman Christian",
+          "type": "OTHER",
+          "shares": "2015",
+          "price": "210.84"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Scarpelli Michael",
+          "type": "OTHER",
+          "shares": "787",
+          "price": "210.84"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Ramaswamy Sridhar",
+          "type": "OTHER",
+          "shares": "1333",
+          "price": "210.84"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Raghunathan Vivek",
+          "type": "OTHER",
+          "shares": "544",
+          "price": "210.84"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Dageville Benoit",
+          "type": "OTHER",
+          "shares": "1108",
+          "price": "210.84"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Ho Emily",
+          "type": "OTHER",
+          "shares": "246",
+          "price": "210.84"
+        },
+        {
+          "filing_date": "2025-06-09",
+          "person": "Speiser Michael L",
+          "type": "SELL",
+          "shares": "50741",
+          "price": "211.355"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "Kleinerman Christian",
+          "type": "SELL",
+          "shares": "15000",
+          "price": "200"
+        },
+        {
+          "filing_date": "2025-05-28",
+          "person": "GARRETT MARK",
+          "type": "OTHER",
+          "shares": "201000",
+          "price": "3.74"
+        },
+        {
+          "filing_date": "2025-05-28",
+          "person": "BURTON JEREMY",
+          "type": "OTHER",
+          "shares": "62367",
+          "price": "21.79"
+        },
+        {
+          "filing_date": "2025-05-28",
+          "person": "Ho Emily",
+          "type": "SELL",
+          "shares": "5027",
+          "price": "199.065"
+        },
+        {
+          "filing_date": "2025-05-28",
+          "person": "Scarpelli Michael",
+          "type": "OTHER",
+          "shares": "1200000",
+          "price": "8.88"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2025-12-05",
+      "quarters_covered": [
+        "Q2FY2025",
+        "Q1FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/SNOW/10-Q/2025-12-05_10-Q_Q2FY2025.txt",
+        "/home/sumith/ORACLE/filings/SNOW/10-Q/2025-09-05_10-Q_Q1FY2025.txt",
+        "/home/sumith/ORACLE/filings/SNOW/10-Q/2025-05-30_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-04-30"
+    },
+    "earnings_8k_by_quarter": {
+      "Q2FY2025": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-12-03_8-K_earnings_ex991.txt",
+      "Q1FY2025": "/home/sumith/ORACLE/filings/SNOW/8-K/2025-09-03_8-K_personnel_ex991.txt"
+    },
+    "10-K": {
+      "newest_filing_date": "2026-03-20",
+      "period_covered": "2026-01-31",
+      "local_path": "/home/sumith/ORACLE/filings/SNOW/10-K/2026-03-20_10-K_FY2026.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2026-05-18",
+      "local_path": "/home/sumith/ORACLE/filings/SNOW/DEF14A/2026-05-18_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/SNOW/sections/2026-03-20_10-K_FY2026_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/SNOW/sections/2026-03-20_10-K_FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/SNOW/sections/2026-03-20_10-K_FY2026_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/SNOW/sections/2026-03-20_10-K_FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/SNOW/8-K/2026-03-31_8-K_earnings_ex991.txt",
+    "newest_segments": "/home/sumith/ORACLE/filings/SNOW/sections/2026-03-20_10-K_FY2026_segments.txt"
+  },
+  "failed_downloads": []
+}

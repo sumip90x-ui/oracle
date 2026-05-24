@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-11
+Transaction Date: 2025-06-09
+Person: Duda Kenneth — CTO and SVP Software Eng.
+Type: OTHER
+Shares: 600000 at $0.0
+Shares After: 602400
+=== TICKER: ANET ===
+===

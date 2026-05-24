@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-15
+Transaction Date: 2026-01-13
+Person: ACEVEDO SYLVIA — Director
+Type: SELL
+Shares: 2200 at $162.11
+Shares After: 18545
+=== TICKER: CRDO ===
+===

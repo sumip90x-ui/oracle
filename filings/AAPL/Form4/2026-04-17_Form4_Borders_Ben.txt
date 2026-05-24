@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-04-17
+Transaction Date: 2026-04-15
+Person: Borders Ben — Principal Accounting Officer
+Type: OTHER
+Shares: 4326 at $N/A
+Shares After: 2312
+=== TICKER: AAPL ===
+===

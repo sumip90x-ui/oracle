@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-06
+Transaction Date: 2026-01-05
+Person: Aujla Sandeep — EVP and CFO
+Type: SELL
+Shares: 1334 at $627.415
+Shares After: 535.7526
+=== TICKER: INTU ===
+===

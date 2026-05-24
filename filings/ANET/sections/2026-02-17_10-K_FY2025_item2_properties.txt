@@ -1,0 +1,11 @@
+=== FILING DATE: 2026-02-17 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-02-17 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: ANET ===
+
+Item 2
+. Properties
+Our corporate headquarters are located in Santa Clara, California where we
+ lease approximately 180,000 square feet of space under a lease agreement that expires in March 2027. During the year ended December 31, 2021, we purchased land and the improvements thereon in Santa Clara, California to construct a building for office, lab and data center space
+. In addition, we lease office spaces for data centers, operations, sales personnel and research and development in locations throughout the U.S. and various international locations, including Ireland, Canada, India, and Australia. We also lease data centers in the U.S., Ireland and Australia. We believe that our current facilities are adequate to meet our current needs and are being utilized by our business.

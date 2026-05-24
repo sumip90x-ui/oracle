@@ -23,27 +23,109 @@ HEADERS     = {"User-Agent": "ORACLE-Research oracle@research.local"}
 
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-# Commodity price fetch — for miners, energy, materials
+# Complete commodity to yfinance futures symbol mapping
+# Add new entries here when new commodity sectors are analyzed
 COMMODITY_YF_SYMBOLS = {
-    "XAUUSD": "GC=F",
-    "WTI":    "CL=F",
-    "SILVER": "SI=F",
-    "COPPER": "HG=F",
-    "NATGAS": "NG=F",
+    # Precious metals
+    "XAUUSD":   "GC=F",    # Gold futures (COMEX)
+    "SILVER":   "SI=F",    # Silver futures (COMEX)
+    "PLATINUM": "PL=F",    # Platinum futures
+    "PALLADIUM":"PA=F",    # Palladium futures
+
+    # Base metals
+    "COPPER":   "HG=F",    # Copper futures (COMEX, $/lb)
+    "ALUMINUM": "ALI=F",   # Aluminum futures
+    "ZINC":     "ZNC=F",   # Zinc
+    "NICKEL":   "NI=F",    # Nickel
+
+    # Energy
+    "WTI":      "CL=F",    # WTI crude oil futures
+    "BRENT":    "BZ=F",    # Brent crude oil futures
+    "NATGAS":   "NG=F",    # Natural gas futures
+    "COAL":     "MTF=F",   # Coal futures (proxy)
+
+    # Agriculture
+    "CORN":     "ZC=F",    # Corn futures (CBOT)
+    "WHEAT":    "ZW=F",    # Wheat futures (CBOT)
+    "SOYBEANS": "ZS=F",    # Soybean futures (CBOT)
+    "COTTON":   "CT=F",    # Cotton futures
+    "SUGAR":    "SB=F",    # Sugar futures
+
+    # Steel / industrial
+    "HRC":      "HRC=F",   # Hot-rolled coil steel futures
+    "IRON":     "TIO=F",   # Iron ore futures (SGX proxy)
+
+    # Lumber / building
+    "LUMBER":   "LBR=F",   # Lumber futures
 }
 
+# Human-readable units for panel fact sheet display
 COMMODITY_UNITS = {
-    "XAUUSD": "oz",
-    "SILVER": "oz",
-    "COPPER": "lb",
-    "WTI":    "barrel",
-    "NATGAS": "MMBtu",
+    "XAUUSD":   "per troy ounce",
+    "SILVER":   "per troy ounce",
+    "PLATINUM": "per troy ounce",
+    "PALLADIUM":"per troy ounce",
+    "COPPER":   "per pound",
+    "ALUMINUM": "per tonne",
+    "ZINC":     "per tonne",
+    "NICKEL":   "per tonne",
+    "WTI":      "per barrel",
+    "BRENT":    "per barrel",
+    "NATGAS":   "per MMBtu",
+    "COAL":     "per tonne",
+    "CORN":     "per bushel",
+    "WHEAT":    "per bushel",
+    "SOYBEANS": "per bushel",
+    "COTTON":   "per pound",
+    "SUGAR":    "per pound",
+    "HRC":      "per short ton",
+    "IRON":     "per tonne",
+    "LUMBER":   "per thousand board feet",
 }
 
 SEASONAL_OCF_SECTORS = {
     "engineering", "consulting", "construction", "government", "defense",
     "professional services", "infrastructure"
 }
+
+# Sector to primary commodity inference map
+SECTOR_TO_COMMODITY = {
+    "gold_mining":               "XAUUSD",
+    "silver_mining":             "SILVER",
+    "precious_metals_streaming": "XAUUSD",
+    "copper_mining":             "COPPER",
+    "oil_gas":                   "WTI",
+    "oil_gas_exploration":       "WTI",
+    "oil_gas_refining":          "WTI",
+    "natural_gas":               "NATGAS",
+    "coal_mining":               "COAL",
+    "steel":                     "HRC",
+    "aluminum_smelting":         "ALUMINUM",
+    "agricultural_processing":   "CORN",
+    "lumber":                    "LUMBER",
+    # Non-commodity sectors explicitly return None
+    "software":                  None,
+    "networking":                None,
+    "biotech":                   None,
+    "retail":                    None,
+    "defense_services":          None,
+    "engineering_services":      None,
+    "optical_components":        None,
+    "local_services":            None,
+}
+
+
+def infer_commodity_from_sector(sector: str):
+    """
+    Infer primary commodity from sector classification.
+    Used when commodity field is absent from ticker_names.json.
+    Returns commodity code string or None if sector is non-commodity.
+    """
+    commodity = SECTOR_TO_COMMODITY.get(sector)
+    if commodity:
+        print(f"  [COMMODITY] Inferred commodity {commodity} from sector {sector}")
+    return commodity
+
 
 # Sector-specific operational metrics patterns
 SECTOR_OPERATIONAL_PATTERNS = {
@@ -117,21 +199,122 @@ SECTOR_OPERATIONAL_PATTERNS = {
             r'data\s*center[^.]*?revenue[^.]*?\$?([\d,\.]+)\s*(?:million|M)\b',
         ],
     },
+    "silver_mining": {
+        "aisc_per_ageq_oz": [
+            r'all.in sustaining costs?\s*(?:per\s+)?(?:silver\s+equivalent|ageq|ag\s+eq)[^.]*?\$?([\d,\.]+)',
+            r'aisc\s*(?:per\s+)?(?:silver\s+equivalent|ageq)[^.]*?\$?([\d,\.]+)',
+            r'all.in sustaining cost[^.]*?\$\s*([\d,\.]+)\s*per\s*(?:silver\s+equivalent|ageq)',
+            r'all.in sustaining costs?\s*(?:per\s+)?(?:ounce|oz)\s*(?:of\s+)?(?:silver\s+)?(?:were|was|of)?\s*\$?([\d,\.]+)',
+        ],
+        "cash_cost_per_ageq_oz": [
+            r'cash costs?\s*(?:per\s+)?(?:silver\s+equivalent|ageq)[^.]*?\$?([\d,\.]+)',
+            r'cash operating costs?\s*(?:per\s+)?(?:silver\s+equivalent|ageq)[^.]*?\$?([\d,\.]+)',
+        ],
+        "realized_silver_price": [
+            r'(?:average\s+)?realized\s+silver\s+price[^.]*?\$\s*([\d,\.]+)',
+            r'silver\s+(?:price\s+)?(?:per\s+ounce\s+)?(?:of\s+)?\$\s*([\d,\.]+)',
+        ],
+        "realized_gold_price": [
+            r'(?:average\s+)?realized\s+gold\s+price[^.]*?\$\s*([\d,]+)',
+        ],
+        "silver_production_oz": [
+            r'(?:payable\s+)?silver\s+(?:production|produced|ounces)[^.]*?([\d,]+)\s*(?:million\s+)?(?:ounces|oz)',
+            r'produced\s+([\d,\.]+)\s+(?:million\s+)?(?:silver\s+)?ounces',
+        ],
+        "gold_production_oz": [
+            r'(?:payable\s+)?gold\s+(?:production|produced|ounces)[^.]*?([\d,]+)\s+(?:ounces|oz)',
+            r'gold\s+(?:production|produced)[^.]*?([\d,]+)\s+(?:ounces|oz)',
+        ],
+        "aisc_margin_per_oz": [
+            r'aisc\s+margin[^.]*?\$\s*([\d,\.]+)\s*per',
+            r'margin[^.]*?\$\s*([\d,\.]+)\s*per\s*(?:silver\s+equivalent|ageq|oz)',
+        ],
+        "silver_gold_ratio": [
+            r'(?:silver.to.gold|ag.au|conversion)\s+ratio[^.]*?([\d,]+)\s*(?:to|:)\s*1',
+            r'ratio\s+(?:of\s+)?([\d]+)\s*(?:to|:)\s*1\s*(?:for\s+)?(?:silver|ageq)',
+        ],
+        "free_cash_flow": [
+            r'free\s+cash\s+flow[^.]*?\$\s*([\d,\.]+)\s*(?:million|billion|M|B)',
+        ],
+        "production_guidance_silver_oz": [
+            r'(?:2026\s+)?(?:full.year|annual)\s+silver\s+(?:production\s+)?guidance[^.]*?([\d,\.]+)\s*(?:to|–|-)\s*([\d,\.]+)\s*million\s*ounces',
+        ],
+    },
+    "precious_metals_streaming": {
+        "geos_gold_oz": [
+            r'gold\s+(?:equivalent\s+)?ounces\s+(?:sold|delivered)[^.]*?([\d,]+)',
+        ],
+        "cash_cost_per_geq_oz": [
+            r'cash\s+costs?\s*(?:per\s+)?(?:gold\s+equivalent|geq)[^.]*?\$?([\d,\.]+)',
+            r'operating\s+costs?\s*(?:per\s+)?(?:gold\s+equivalent|geq)[^.]*?\$?([\d,\.]+)',
+        ],
+        "streaming_margin": [
+            r'(?:streaming\s+|operating\s+)?margin[^.]*?([\d,\.]+)%',
+        ],
+        "royalty_revenue": [
+            r'royalty\s+revenue[^.]*?\$\s*([\d,\.]+)\s*(?:million|M)',
+        ],
+    },
     "copper_mining": {
+        "c1_cash_cost_per_lb": [
+            r'c1\s+(?:cash\s+)?costs?\s*(?:per\s+)?(?:pound|lb)[^.]*?\$?([\d,\.]+)',
+            r'unit\s+(?:cash\s+)?costs?\s*(?:per\s+)?(?:pound|lb)[^.]*?\$?([\d,\.]+)',
+        ],
         "aisc_per_lb": [
             r'all.in sustaining costs?\s*(?:per pound\s*)?(?:of\s*)?\$?([\d\.]+)',
             r'aisc[^.]*?\$?([\d\.]+)\s*per\s*(?:lb|pound)',
+            r'all.in\s+sustaining\s+costs?\s*(?:per\s+)?(?:pound|lb)[^.]*?\$?([\d,\.]+)',
         ],
         "copper_production_mlb": [
             r'copper\s+(?:sales|production)[^.]*?([\d,\.]+)\s*(?:million\s+)?(?:pounds|lbs)',
+        ],
+        "copper_production_lbs": [
+            r'(?:copper\s+)?production[^.]*?([\d,\.]+)\s*(?:billion|million)?\s*(?:pounds|lbs)',
+        ],
+        "realized_copper_price": [
+            r'(?:average\s+)?realized\s+(?:copper\s+)?price[^.]*?\$\s*([\d,\.]+)\s*per\s*(?:pound|lb)',
         ],
     },
     "oil_gas": {
         "production_boepd": [
             r'(?:total\s+)?production[^.]*?([\d,\.]+)\s*(?:thousand\s+)?(?:BOE|boe|barrels?)',
+            r'(?:average\s+)?(?:daily\s+)?production[^.]*?([\d,]+)\s*(?:mboe(?:d)?|mboepd)',
         ],
         "realized_price_per_boe": [
             r'realized\s+price[^.]*?\$?([\d\.]+)\s*per\s*(?:BOE|boe|barrel)',
+            r'(?:average\s+)?realized\s+price[^.]*?\$\s*([\d,\.]+)\s*per\s*(?:boe|barrel)',
+        ],
+        "operating_cost_per_boe": [
+            r'(?:total\s+)?(?:operating|production)\s+costs?\s*(?:per\s+)?(?:boe|barrel)[^.]*?\$?([\d,\.]+)',
+            r'lease\s+operating\s+expense[^.]*?\$?([\d,\.]+)\s*per\s*(?:boe|barrel)',
+        ],
+        "free_cash_flow": [
+            r'free\s+cash\s+flow[^.]*?\$\s*([\d,\.]+)\s*(?:billion|million|B|M)',
+        ],
+        "reserve_replacement_ratio": [
+            r'(?:reserve\s+)?replacement\s+ratio[^.]*?([\d,\.]+)%',
+            r'replaced\s+([\d,\.]+)%\s+of\s+(?:production|reserves)',
+        ],
+    },
+    "steel": {
+        "steel_shipments_tons": [
+            r'(?:steel\s+)?shipments?[^.]*?([\d,\.]+)\s*(?:million\s+)?(?:short\s+)?tons',
+            r'shipped[^.]*?([\d,\.]+)\s*(?:million\s+)?(?:short\s+)?tons',
+        ],
+        "average_selling_price_per_ton": [
+            r'average\s+(?:selling\s+)?price[^.]*?\$\s*([\d,]+)\s*per\s*(?:short\s+)?ton',
+            r'realized\s+price[^.]*?\$\s*([\d,]+)\s*per\s*(?:short\s+)?ton',
+        ],
+        "metal_spread": [
+            r'metal\s+(?:margin|spread)[^.]*?\$\s*([\d,]+)\s*per\s*(?:short\s+)?ton',
+            r'spread[^.]*?\$\s*([\d,]+)\s*per\s*(?:short\s+)?ton',
+        ],
+        "ebitda_per_ton": [
+            r'(?:adjusted\s+)?ebitda\s*(?:per\s+)?(?:short\s+)?ton[^.]*?\$?([\d,\.]+)',
+        ],
+        "capacity_utilization": [
+            r'(?:capacity\s+)?utilization[^.]*?([\d,\.]+)%',
+            r'operating\s+rate[^.]*?([\d,\.]+)%',
         ],
     },
 }
@@ -3380,15 +3563,14 @@ def fetch_commodity_price(commodity_code: str) -> dict:
     Called during preflight before any EDGAR query.
     Results cached daily.
     """
-    import datetime as _dt
-    today = _dt.date.today().isoformat()
+    today = datetime.date.today().isoformat()
     cache_file = CACHE_DIR / f"commodity_{commodity_code}_{today}.json"
 
     if cache_file.exists():
         try:
             cached = json.loads(cache_file.read_text())
             if cached.get("price"):
-                print(f"  [COMMODITY] {commodity_code}: ${cached['price']:.2f} (cached)")
+                print(f"  [COMMODITY] {commodity_code}: ${cached['price']:.4f} (cached)")
                 return cached
         except Exception:
             pass
@@ -3396,32 +3578,44 @@ def fetch_commodity_price(commodity_code: str) -> dict:
     result = {
         "commodity": commodity_code,
         "price": None,
-        "unit": COMMODITY_UNITS.get(commodity_code, "unit"),
+        "unit": COMMODITY_UNITS.get(commodity_code, "per unit"),
         "source": "NOT_FOUND",
         "date": today,
     }
 
-    yf_sym = COMMODITY_YF_SYMBOLS.get(commodity_code)
-    if yf_sym:
-        try:
-            import yfinance as yf
-            ticker = yf.Ticker(yf_sym)
-            fast = ticker.fast_info
-            price = getattr(fast, "last_price", None)
-            if price and float(price) > 0:
-                result["price"] = float(price)
-                result["source"] = f"yfinance_{yf_sym}"
-                print(f"  [COMMODITY] {commodity_code}: ${price:.2f} ({yf_sym})")
-        except Exception as e:
-            print(f"  [COMMODITY] yfinance failed for {commodity_code}: {e}")
+    yf_symbol = COMMODITY_YF_SYMBOLS.get(commodity_code)
+    if not yf_symbol:
+        print(f"  [COMMODITY] No yfinance symbol for {commodity_code} — add to COMMODITY_YF_SYMBOLS")
+        return result
+
+    try:
+        import yfinance as yf
+        ticker = yf.Ticker(yf_symbol)
+        fast = ticker.fast_info
+        price = getattr(fast, 'last_price', None)
+        if price and float(price) > 0:
+            result["price"] = round(float(price), 4)
+            result["source"] = f"yfinance_{yf_symbol}"
+            print(f"  [COMMODITY] {commodity_code}: ${price:.4f} {result['unit']} (yfinance {yf_symbol})")
+        else:
+            # Fallback: use history
+            hist = ticker.history(period="1d")
+            if not hist.empty:
+                price = float(hist["Close"].iloc[-1])
+                result["price"] = round(price, 4)
+                result["source"] = f"yfinance_history_{yf_symbol}"
+                print(f"  [COMMODITY] {commodity_code}: ${price:.4f} (yfinance history fallback)")
+    except Exception as e:
+        print(f"  [COMMODITY] Fetch failed for {commodity_code} ({yf_symbol}): {e}")
 
     if not result["price"]:
         print(f"  [COMMODITY] WARNING: Could not fetch {commodity_code} price — panels will lack current commodity context")
 
-    try:
-        cache_file.write_text(json.dumps(result, indent=2))
-    except Exception:
-        pass
+    if result["price"]:
+        try:
+            cache_file.write_text(json.dumps(result))
+        except Exception:
+            pass
 
     return result
 
@@ -3500,16 +3694,25 @@ def run_preflight_web_searches(ticker: str) -> dict:
         except Exception:
             pass
 
+    # Get commodity from registry — with sector inference fallback
     commodity_code = ticker_entry.get("commodity")
+
+    if not commodity_code:
+        sector = ticker_entry.get("sector", "")
+        if sector:
+            commodity_code = infer_commodity_from_sector(sector)
+            if commodity_code:
+                ticker_entry["commodity"] = commodity_code
+
     if commodity_code:
-        print(f"  [PREFLIGHT] Fetching commodity price: {commodity_code}...")
+        print(f"  [PREFLIGHT] Commodity price fetch: {commodity_code}...")
         commodity_data = fetch_commodity_price(commodity_code)
         result["commodity"] = commodity_data
         if commodity_data.get("price"):
             result.setdefault("financials", {})
             result["financials"]["commodity_price"] = commodity_data["price"]
             result["financials"]["commodity_code"] = commodity_code
-            print(f"  [PREFLIGHT] {commodity_code} spot: ${commodity_data['price']:.2f}")
+            print(f"  [PREFLIGHT] {commodity_code} spot: ${commodity_data['price']:.4f}")
 
     try:
         cache_file.write_text(json.dumps(result, indent=2, default=str))
@@ -3538,6 +3741,52 @@ def reconciliation_gate(fact_sheet: dict) -> dict:
         symbol = "PASS" if status else "FAIL"
         gate_log.append(f"  [{symbol}] {check_name}: {detail}")
         print(f"  [GATE {symbol}] {check_name}: {detail}")
+
+    # ── COMMODITY PRICE GATE ──────────────────────────────────────────────────
+    # Must run before any other gate for commodity-linked tickers
+    preflight_commodity = (fact_sheet.get("preflight_web") or {}).get("commodity", {})
+    commodity_code = (preflight_commodity or {}).get("commodity")
+    commodity_price = (preflight_commodity or {}).get("price")
+
+    if commodity_code:
+        if not commodity_price or commodity_price <= 0:
+            corrections.append(
+                f"FATAL: {commodity_code} price fetch failed — "
+                f"all EPS and margin calculations are invalid. "
+                f"Check yfinance connection and COMMODITY_YF_SYMBOLS map."
+            )
+            hard_stops.append(
+                f"COMMODITY PRICE MISSING: {commodity_code} price not fetched. "
+                f"Panels must NOT use training data commodity prices. "
+                f"Verify yfinance connection and retry."
+            )
+            log("Commodity Price Gate", False,
+                f"{commodity_code} price not available — analysis unreliable")
+        else:
+            COMMODITY_SANITY_RANGES = {
+                "XAUUSD": (1_000, 10_000),
+                "SILVER":  (5, 500),
+                "COPPER":  (1, 20),
+                "WTI":     (20, 300),
+                "NATGAS":  (1, 30),
+                "HRC":     (400, 3_000),
+            }
+            min_price, max_price = COMMODITY_SANITY_RANGES.get(
+                commodity_code, (0, 1_000_000)
+            )
+            if commodity_price < min_price or commodity_price > max_price:
+                corrections.append(
+                    f"WARN: {commodity_code} price ${commodity_price:.2f} "
+                    f"outside plausible range [{min_price}, {max_price}] — "
+                    f"verify yfinance symbol"
+                )
+                log("Commodity Price Gate", False,
+                    f"{commodity_code} ${commodity_price:.2f} outside range "
+                    f"[{min_price}, {max_price}]")
+            else:
+                log("Commodity Price Gate", True,
+                    f"{commodity_code} ${commodity_price:.4f} "
+                    f"{preflight_commodity.get('unit', '')} — OK")
 
     # ── CHECK 1: Revenue Consistency ─────────────────────────────────────────
     # Prefer 8-K press release quarterly revenue over XBRL (XBRL may have YTD contamination)
@@ -3757,6 +4006,88 @@ def reconciliation_gate(fact_sheet: dict) -> dict:
     }
 
 
+# Metal equivalency ratios by sector
+DEFAULT_METAL_RATIOS = {
+    "silver_mining": {
+        "primary_metal": "SILVER",
+        "secondary_metals": ["XAUUSD", "COPPER", "ZINC", "LEAD"],
+        "secondary_to_primary_ratios": {
+            "XAUUSD": 75.0,
+            "COPPER": 0.5,
+            "ZINC": 0.15,
+            "LEAD": 0.15,
+        }
+    },
+    "gold_mining": {
+        "primary_metal": "XAUUSD",
+        "secondary_metals": ["SILVER", "COPPER"],
+        "secondary_to_primary_ratios": {
+            "SILVER": 0.0133,
+            "COPPER": 0.0005,
+        }
+    },
+    "copper_mining": {
+        "primary_metal": "COPPER",
+        "secondary_metals": ["XAUUSD", "SILVER", "MOLYBDENUM"],
+        "secondary_to_primary_ratios": {
+            "XAUUSD": 500.0,
+            "SILVER": 6.0,
+        }
+    },
+}
+
+
+def get_live_metal_ratio(primary_commodity: str, secondary_commodity: str):
+    """
+    Get the live ratio between two commodity prices.
+    For example: gold/silver ratio = XAUUSD price / SILVER price.
+    """
+    try:
+        primary_price = fetch_commodity_price(primary_commodity).get("price")
+        secondary_price = fetch_commodity_price(secondary_commodity).get("price")
+        if primary_price and secondary_price and secondary_price > 0:
+            ratio = primary_price / secondary_price
+            print(f"  [METAL RATIO] {primary_commodity}/{secondary_commodity} = {ratio:.1f}:1")
+            return ratio
+    except Exception:
+        pass
+    return None
+
+
+def get_ageq_conversion_ratio(fact_sheet: dict) -> float:
+    """
+    Get the AgEq (silver equivalent) conversion ratio for silver miners.
+    Priority:
+    1. Ratio explicitly stated in press release (e.g., "75 to 1")
+    2. Live gold-to-silver ratio from commodity prices
+    3. Default of 75:1
+    """
+    # Try press release first
+    sector_metrics = fact_sheet.get("sector_metrics", {})
+    ratio_data = sector_metrics.get("silver_gold_ratio", {})
+    if ratio_data and ratio_data.get("value"):
+        ratio = float(ratio_data["value"])
+        print(f"  [AGEQ] Using press-release ratio: {ratio:.0f}:1")
+        return ratio
+
+    # Try live ratio from commodity prices
+    preflight = fact_sheet.get("preflight_web", {})
+    silver_price = (preflight.get("commodity") or {}).get("price")
+
+    if silver_price:
+        gold_data = fetch_commodity_price("XAUUSD")
+        gold_price = gold_data.get("price")
+        if gold_price and silver_price and silver_price > 0:
+            ratio = gold_price / silver_price
+            print(f"  [AGEQ] Live gold/silver ratio: {ratio:.1f}:1 "
+                  f"(${gold_price:.0f} Au / ${silver_price:.2f} Ag)")
+            return ratio
+
+    # Default
+    print(f"  [AGEQ] Using default ratio: 75:1")
+    return 75.0
+
+
 def calculate_miner_nav(ticker: str, fact_sheet: dict) -> dict:
     """
     Calculate Net Asset Value for gold/silver miners.
@@ -3776,6 +4107,13 @@ def calculate_miner_nav(ticker: str, fact_sheet: dict) -> dict:
         price       = fact_sheet.get("price") or fact_sheet.get("live_price")
         guidance    = fact_sheet.get("guidance", {}) or {}
 
+        # Detect silver mining sector — use SILVER (primary) not XAUUSD
+        ticker_entry = fact_sheet.get("ticker_entry") or {}
+        sector = ticker_entry.get("sector", "")
+        if sector == "silver_mining":
+            ageq_ratio = get_ageq_conversion_ratio(fact_sheet)
+            print(f"  [NAV] Silver miner: using AgEq ratio {ageq_ratio:.0f}:1 for context")
+
         commodity_price = (preflight.get("commodity") or {}).get("price")
         if not commodity_price:
             commodity_price = (preflight.get("financials") or {}).get("commodity_price")
@@ -3793,10 +4131,10 @@ def calculate_miner_nav(ticker: str, fact_sheet: dict) -> dict:
             result["error"] = "Shares outstanding not found"
             return result
 
-        # AISC — try press release first, then guidance
+        # AISC — try press release first (sector-aware keys), then guidance
         aisc = None
         pr = fact_sheet.get("press_release") or {}
-        for key in ("aisc_per_oz", "all_in_sustaining_cost_per_oz"):
+        for key in ("aisc_per_oz", "aisc_per_ageq_oz", "all_in_sustaining_cost_per_oz"):
             v = pr.get(key) or (pr.get("parsed") or {}).get(key)
             if v:
                 try: aisc = float(str(v).replace(",", "")); break

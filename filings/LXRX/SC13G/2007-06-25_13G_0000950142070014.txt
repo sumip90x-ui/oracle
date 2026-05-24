@@ -1,0 +1,829 @@
+=== FILING DATE: 2007-06-25 ===
+=== PERIOD COVERED: 2007-06-25 ===
+=== SOURCE: SC13G filed 2007-06-25 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: LXRX ===
+
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>sc13g_lexicon.txt
+<DESCRIPTION>SCHEDULE 13 G
+<TEXT>
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13G
+                                 (Rule 13d-102)
+
+                    Under the Securities Exchange Act of 1934
+                               (Amendment No. _)*
+
+
+                          LEXICON PHARMACEUTICALS, INC.
+                                (Name of Issuer)
+
+
+                    COMMON STOCK, PAR VALUE $0.001 PER SHARE
+                         (Title of Class of Securities)
+
+
+                                    528872104
+                                 (CUSIP Number)
+
+                                  JUNE 15, 2007
+             (Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+        [_]       Rule 13d-1(b)
+        [X]       Rule 13d-1(c)
+        [_]       Rule 13d-1(d)
+
+*The  remainder of this cover page shall be filled out for a reporting  person's
+initial filing on this form with respect to the subject class of securities, and
+for  any  subsequent   amendment   containing   information  which  would  alter
+disclosures provided in a prior cover page.
+
+The information  required on the reminder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the  Securities  Exchange  Act of
+1934 ("Act") or otherwise  subject to the liabilities of that section of the Act
+but  shall be  subject  to all other  provisions  of the Act  (however,  see the
+Notes).
+
+================================================================================
+<PAGE>
+
+CUSIP No. 528872104                                              Page 2 of 20
+                                  Schedule 13G
+
+--------------------------------------------------------------------------------
+1       NAMES OF REPORTING PERSON
+        S.S OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+        Symphony Capital Partners, L.P.
+--------------------------------------------------------------------------------
+2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+        (SEE INSTRUCTIONS)                                      (a)   [_]
+                                                                (b)   [X]
+--------------------------------------------------------------------------------
+3       SEC USE ONLY
+
+
+--------------------------------------------------------------------------------
+4       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+        Delaware
+--------------------------------------------------------------------------------
+                                     5       SOLE VOTING POWER
+
+             NUMBER OF                       4,954,745
+                                     -------------------------------------------
+        SHARES BENEFICIALLY          6       SHARED VOTING POWER
+
+             OWNED BY                        -0-
+                                     -------------------------------------------
+               EACH                  7       SOLE DISPOSITIVE POWER
+
+         REPORTING PERSON                    4,954,745
+                                     -------------------------------------------
+                                     8       SHARED DISPOSITIVE POWER
+
+                                             -0-
+--------------------------------------------------------------------------------
+9       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        4,954,745
+--------------------------------------------------------------------------------
+10      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+        CERTAIN SHARES (SEE INSTRUCTIONS)
+                                                                      [_]
+--------------------------------------------------------------------------------
+11      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+        5.8%
+--------------------------------------------------------------------------------
+12      TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+        PN
+--------------------------------------------------------------------------------
+
+<PAGE>
+CUSIP No. 528872104                                              Page 3 of 20
+                                  Schedule 13G
+
+--------------------------------------------------------------------------------
+1       NAMES OF REPORTING PERSON
+        S.S OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+        Symphony Capital GP, L.P.
+--------------------------------------------------------------------------------
+2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+        (SEE INSTRUCTIONS)                                      (a)   [_]
+                                                                (b)   [X]
+--------------------------------------------------------------------------------
+3       SEC USE ONLY
+
+
+--------------------------------------------------------------------------------
+4       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+        Delaware
+--------------------------------------------------------------------------------
+                                     5       SOLE VOTING POWER
+
+             NUMBER OF                       4,954,745
+                                     -------------------------------------------
+        SHARES BENEFICIALLY          6       SHARED VOTING POWER
+
+             OWNED BY                        -0-
+                                     -------------------------------------------
+               EACH                  7       SOLE DISPOSITIVE POWER
+
+         REPORTING PERSON                    4,954,745
+                                     -------------------------------------------
+                                     8       SHARED DISPOSITIVE POWER
+
+                                             -0-
+--------------------------------------------------------------------------------
+9       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        4,954,745
+--------------------------------------------------------------------------------
+10      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+        CERTAIN SHARES (SEE INSTRUCTIONS)
+                                                                      [_]
+--------------------------------------------------------------------------------
+11      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+        5.8%
+--------------------------------------------------------------------------------
+12      TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+        PN
+--------------------------------------------------------------------------------
+
+<PAGE>
+CUSIP No. 528872104                                              Page 4 of 20
+                                  Schedule 13G
+
+--------------------------------------------------------------------------------
+1       NAMES OF REPORTING PERSON
+        S.S OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+        Symphony GP, LLC
+--------------------------------------------------------------------------------
+2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+        (SEE INSTRUCTIONS)                                      (a)   [_]
+                                                                (b)   [X]
+--------------------------------------------------------------------------------
+3       SEC USE ONLY
+
+
+--------------------------------------------------------------------------------
+4       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+        Delaware
+--------------------------------------------------------------------------------
+                                     5       SOLE VOTING POWER
+
+             NUMBER OF                       4,954,745
+                                     -------------------------------------------
+        SHARES BENEFICIALLY          6       SHARED VOTING POWER
+
+             OWNED BY                        -0-
+                                     -------------------------------------------
+               EACH                  7       SOLE DISPOSITIVE POWER
+
+         REPORTING PERSON                    4,954,745
+                                     -------------------------------------------
+                                     8       SHARED DISPOSITIVE POWER
+
+                                             -0-
+--------------------------------------------------------------------------------
+9       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        4,954,745
+--------------------------------------------------------------------------------
+10      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+        CERTAIN SHARES (SEE INSTRUCTIONS)
+                                                                      [_]
+--------------------------------------------------------------------------------
+11      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+        5.8%
+--------------------------------------------------------------------------------
+12      TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+        OO
+--------------------------------------------------------------------------------
+
+<PAGE>
+CUSIP No. 528872104                                              Page 5 of 20
+                                  Schedule 13G
+
+--------------------------------------------------------------------------------
+1       NAMES OF REPORTING PERSON
+        S.S OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+        Symphony Strategic Partners, LLC
+--------------------------------------------------------------------------------
+2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+        (SEE INSTRUCTIONS)                                      (a)   [_]
+                                                                (b)   [X]
+--------------------------------------------------------------------------------
+3       SEC USE ONLY
+
+
+--------------------------------------------------------------------------------
+4       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+        Delaware
+--------------------------------------------------------------------------------
+                                     5       SOLE VOTING POWER
+
+             NUMBER OF                       374,869
+                                     -------------------------------------------
+        SHARES BENEFICIALLY          6       SHARED VOTING POWER
+
+             OWNED BY                        -0-
+                                     -------------------------------------------
+               EACH                  7       SOLE DISPOSITIVE POWER
+
+         REPORTING PERSON                    374,869
+                                     -------------------------------------------
+                                     8       SHARED DISPOSITIVE POWER
+
+                                             -0-
+--------------------------------------------------------------------------------
+9       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        374,869
+--------------------------------------------------------------------------------
+10      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+        CERTAIN SHARES (SEE INSTRUCTIONS)
+                                                                      [_]
+--------------------------------------------------------------------------------
+11      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+        0.4%
+--------------------------------------------------------------------------------
+12      TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+        OO
+--------------------------------------------------------------------------------
+
+<PAGE>
+CUSIP No. 528872104                                              Page 6 of 20
+                                  Schedule 13G
+
+--------------------------------------------------------------------------------
+1       NAMES OF REPORTING PERSON
+        S.S OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+        Mark Kessel
+--------------------------------------------------------------------------------
+2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+        (SEE INSTRUCTIONS)                                      (a)   [_]
+                                                                (b)   [X]
+--------------------------------------------------------------------------------
+3       SEC USE ONLY
+
+
+--------------------------------------------------------------------------------
+4       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+        United States
+--------------------------------------------------------------------------------
+                                     5       SOLE VOTING POWER
+
+             NUMBER OF                       -0-
+                                     -------------------------------------------
+        SHARES BENEFICIALLY          6       SHARED VOTING POWER
+
+             OWNED BY                        5,329,614
+                                     -------------------------------------------
+               EACH                  7       SOLE DISPOSITIVE POWER
+
+         REPORTING PERSON                    -0-
+                                     -------------------------------------------
+                                     8       SHARED DISPOSITIVE POWER
+
+                                             5,329,614
+--------------------------------------------------------------------------------
+9       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        5,329,614
+--------------------------------------------------------------------------------
+10      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+        CERTAIN SHARES (SEE INSTRUCTIONS)
+                                                                      [_]
+--------------------------------------------------------------------------------
+11      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+        6.2%
+--------------------------------------------------------------------------------
+12      TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+        IN
+--------------------------------------------------------------------------------
+
+<PAGE>
+CUSIP No. 528872104                                              Page 7 of 20
+                                  Schedule 13G
+
+--------------------------------------------------------------------------------
+1       NAMES OF REPORTING PERSON
+        S.S OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+        Neil J. Sandler
+--------------------------------------------------------------------------------
+2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+        (SEE INSTRUCTIONS)                                      (a)   [_]
+                                                                (b)   [X]
+--------------------------------------------------------------------------------
+3       SEC USE ONLY
+
+
+--------------------------------------------------------------------------------
+4       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+        United States
+--------------------------------------------------------------------------------
+                                     5       SOLE VOTING POWER
+
+             NUMBER OF                       -0-
+                                     -------------------------------------------
+        SHARES BENEFICIALLY          6       SHARED VOTING POWER
+
+             OWNED BY                        5,329,614
+                                     -------------------------------------------
+               EACH                  7       SOLE DISPOSITIVE POWER
+
+         REPORTING PERSON                    -0-
+                                     -------------------------------------------
+                                     8       SHARED DISPOSITIVE POWER
+
+                                             5,329,614
+--------------------------------------------------------------------------------
+9       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        5,329,614
+--------------------------------------------------------------------------------
+10      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+        CERTAIN SHARES (SEE INSTRUCTIONS)
+                                                                      [_]
+--------------------------------------------------------------------------------
+11      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+        6.2%
+--------------------------------------------------------------------------------
+12      TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+        IN
+--------------------------------------------------------------------------------
+
+<PAGE>
+CUSIP No. 528872104                                              Page 8 of 20
+                                  Schedule 13G
+
+--------------------------------------------------------------------------------
+1       NAMES OF REPORTING PERSON
+        S.S OR I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+        Harri V. Taranto
+--------------------------------------------------------------------------------
+2       CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+        (SEE INSTRUCTIONS)                                      (a)   [_]
+                                                                (b)   [X]
+--------------------------------------------------------------------------------
+3       SEC USE ONLY
+
+
+--------------------------------------------------------------------------------
+4       CITIZENSHIP OR PLACE OF ORGANIZATION
+
+        United States
+--------------------------------------------------------------------------------
+                                     5       SOLE VOTING POWER
+
+             NUMBER OF                       -0-
+                                     -------------------------------------------
+        SHARES BENEFICIALLY          6       SHARED VOTING POWER
+
+             OWNED BY                        5,329,614
+                                     -------------------------------------------
+               EACH                  7       SOLE DISPOSITIVE POWER
+
+         REPORTING PERSON                    -0-
+                                     -------------------------------------------
+                                     8       SHARED DISPOSITIVE POWER
+
+                                             5,329,614
+--------------------------------------------------------------------------------
+9       AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+        5,329,614
+--------------------------------------------------------------------------------
+10      CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+        CERTAIN SHARES (SEE INSTRUCTIONS)
+                                                                      [_]
+--------------------------------------------------------------------------------
+11      PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+        6.2%
+--------------------------------------------------------------------------------
+12      TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+        IN
+--------------------------------------------------------------------------------
+
+<PAGE>
+CUSIP No. 528872104                                              Page 9 of 20
+                                  Schedule 13G
+--------------------------------------------------------------------------------
+
+
+Item 1.  (a)    NAME OF ISSUER
+
+                Lexicon Pharmaceuticals, Inc. (the "Company").
+
+         (b)    ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES
+
+                8800 Technology Forest Place, The Woodlands, Texas 77381
+
+
+Item 2.  (a)    NAMES OF PERSONS FILING
+
+                        This Statement is being filed on behalf of each of the
+                following persons (collectively, the "Reporting Persons")
+
+                (i)     Symphony Capital Partners, L.P. ("SCP")
+                (ii)    Symphony Capital GP, L.P. ("Symphony Capital GP")
+                (iii)   Symphony GP, LLC ("Symphony GP")
+                (iv)    Symphony Strategic Partners, LLC ("SSP")
+                (v)     Mark Kessel
+                (vi)    Neil J. Sandler
+                (vii)   Harri V. Taranto
+
+
+<PAGE>
+CUSIP No. 528872104                                              Page 10 of 20
+                                  Schedule 13G
+--------------------------------------------------------------------------------
+
+
+         (b)    ADDRESS OF PRINCIPAL BUSINESS OFFICE
+
+                The address of the principal business offices of the Reporting
+                Persons is 875 Third Avenue, 18th Floor, New York, NY 10022
+
+         (c)    CITIZENSHIP
+
+                (i)     SCP - a Delaware limited partnership
+                (ii)    Symphony Capital GP - a Delaware limited partnership
+                (iii)   Symphony GP - a Delaware limited liability company
+                (iv)    SSP - a Delaware limited liability company
+                (v)     Mark Kessel - a citizen of the United States
+                (vi)    Neil J. Sandler - a citizen of the United States
+                (vii)   Harri V. Taranto - a citizen of the United States
+
+         (d)    TITLE OF CLASS OF SECURITIES
+
+                Common Stock,  par value $0.001 per share (the "Common  Stock"
+                or "Shares")
+
+         (e)    CUSIP NUMBER
+
+                528872104
+
+<PAGE>
+CUSIP No. 528872104                                              Page 11 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+
+Item 3.  This statement is not being filed pursuant to either Rule 13d-1(b) or
+         13d-2(b) or (c).
+
+
+Item 4.  OWNERSHIP.
+
+         (a)    AMOUNT BENEFICIALLY OWNED:
+
+                (i)     Each of SCP,  Symphony  Capital GP and Symphony GP may
+                be  deemed  to  beneficially  own an  aggregate  of  4,954,745
+                Shares.
+
+                (ii)    SSP may be deemed to beneficially  own an aggregate of
+                374,869 Shares.
+
+                (iii)   Each of Mark  Kessel,  Neil J.  Sandler  and  Harri V.
+                Taranto  may be deemed to  beneficially  own an  aggregate  of
+                5,329,614 Shares.
+
+         (b)    PERCENTAGE OWNED:
+
+                Based on  calculations  made in accordance with Rule 13d-3(d),
+                and there being 85,961,249  Shares  outstanding as of June 15,
+                2007, (i) each of SCP, Symphony Capital GP and Symphony GP may
+                be deemed to own approximately  5.8% of the outstanding Common
+                Stock, (ii) SSP may be deemed to own approximately 0.4% of the
+                outstanding Common Stock, and (iii) each of Mark Kessel,  Neil
+                J. Sandler and Harri V. Taranto may be deemed to  beneficially
+                own approximately 6.2% of the outstanding Common Stock.
+
+         (c)    NUMBER OF SHARES AS TO WHICH SUCH PERSON HAS:
+
+                (i)     Each of SCP,  Symphony  Capital GP, Symphony GP may be
+                deemed to have sole power to direct the voting and disposition
+                of 4,954,745 Shares.
+
+                (ii)    SSP may be  deemed to have  sole  power to direct  the
+                voting and disposition of 374,869 Shares.
+
+                (iii)   Each of Mark  Kessel,  Neil J.  Sandler  and  Harri V.
+                Taranto  may be deemed  to have  shared  power to  direct  the
+                voting and disposition of 5,329,614 Shares.
+
+
+Item 5.  OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS
+
+         Not applicable.
+
+Item 6.  OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON
+
+         Not applicable.
+
+<PAGE>
+CUSIP No. 528872104                                              Page 12 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+Item 7.  IDENTIFICATION  AND  CLASSIFICATION  OF SUBSIDIARY WHICH ACQUIRED THE
+         SECURITY BEING REPORTED ON BY THE PARENT HOLDING COMPANY
+
+         Not applicable.
+
+Item 8.  IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP
+
+         See Item 2.
+
+Item 9.  NOTICE OF DISSOLUTION OF GROUP
+
+         Not applicable.
+
+Item 10. CERTIFICATION
+
+         By signing  below I certify  that,  to the best of my  knowledge  and
+         belief,  the  securities  referred to above were not acquired and are
+         not held  for the  purpose  of or with  the  effect  of  changing  or
+         influencing  the control of the issuer of the securities and were not
+         acquired and are not held in connection  with or as a participant  in
+         any transaction having that purpose or effect.
+
+
+                 [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+<PAGE>
+CUSIP No. 528872104                                              Page 13 of 20
+                                  Schedule 13G
+--------------------------------------------------------------------------------
+
+
+                                   SIGNATURES
+
+            After  reasonable  inquiry  and to the best of our  knowledge  and
+belief,  the  undersigned  certify  that  the  information  set  forth in this
+statement is true, complete and correct.
+
+Dated as of June 25, 2007
+
+                                    SYMPHONY CAPITAL PARTNERS, L.P.
+
+                                    By:  Symphony Capital GP, L.P.
+                                         its general partner
+
+                                    By:  Symphony GP, LLC
+                                         its general partner
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+                                    SYMPHONY STRATEGIC PARTNERS, LLC
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+<PAGE>
+CUSIP No. 528872104                                              Page 14 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+
+                                    SYMPHONY CAPITAL GP, L.P.
+
+                                    By:  Symphony GP, LLC
+                                         its general partner
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+                                    SYMPHONY GP, LLC
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+<PAGE>
+
+CUSIP No. 528872104                                              Page 15 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+
+                                    MARK KESSEL
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+                                    NEIL J. SANDLER
+
+
+                                    By:  /s/ Neil J. Sandler
+                                         --------------------------------
+                                         Name:  Neil J. Sandler
+                                         Title: Managing Member
+
+
+                                    HARRI V. TARANTO
+
+
+                                    By:  /s/ Harri V. Tarranto
+                                         --------------------------------
+                                         Name:  Harri V. Taranto
+                                         Title: Managing Member
+
+
+<PAGE>
+CUSIP No. 528872104                                              Page 16 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+
+                                 EXHIBIT INDEX
+
+
+Exhibit 1.      Joint Filing Agreement as required by Rule  13d-1(k)(1)  under
+                the Securities Exchange Act of 1934, as amended.
+
+
+<PAGE>
+CUSIP No. 528872104                                              Page 17 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+
+                                                                     EXHIBIT 1
+                                                                     ---------
+
+
+             JOINT FILING AGREEMENT PURSUANT TO RULE 13d-1(k)(1)
+
+Dated as of June 25, 2007
+
+            The undersigned acknowledge and agree that the foregoing statement
+on  Schedule  13G is filed on behalf of each of the  undersigned  and that all
+subsequent  amendments  to this  statement  on Schedule  13G shall be filed on
+behalf of each of the undersigned  without the necessity of filing  additional
+joint  filing  statements.  The  undersigned  acknowledge  that each  shall be
+responsible for the timely filing of such amendments, and for the completeness
+and accuracy of the information  concerning  him, her or it contained  herein,
+but  shall  not be  responsible  for  the  completeness  and  accuracy  of the
+information  concerning  the other  entities or persons,  except to the extent
+that he,  she or it knows or has reason to believe  that such  information  is
+inaccurate.
+
+
+<PAGE>
+CUSIP No. 528872104                                              Page 18 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+
+IN WITNESS  WHEREOF,  the parties  hereto have  caused  this  Agreement  to be
+executed by their respective  officers  thereunto duly  authorized,  as of the
+date first above written.
+
+                                    SYMPHONY CAPITAL PARTNERS, L.P.
+
+                                    By:  Symphony Capital GP, L.P.
+                                         its general partner
+
+                                    By:  Symphony GP, LLC
+                                         its general partner
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+                                    SYMPHONY STRATEGIC PARTNERS, LLC
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+<PAGE>
+
+CUSIP No. 528872104                                              Page 19 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+
+                                    SYMPHONY CAPITAL GP, L.P.
+
+                                    By:  Symphony GP, LLC
+                                         its general partner
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+                                    SYMPHONY GP, LLC
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+<PAGE>
+
+CUSIP No. 528872104                                              Page 20 of 20
+                                  Schedule 13G
+-------------------------------------------------------------------------------
+
+
+                                    MARK KESSEL
+
+
+                                    By:  /s/ Mark Kessel
+                                         --------------------------------
+                                         Name:  Mark Kessel
+                                         Title: Managing Member
+
+
+                                    NEIL J. SANDLER
+
+
+                                    By:  /s/ Neil J. Sandler
+                                         --------------------------------
+                                         Name:  Neil J. Sandler
+                                         Title: Managing Member
+
+
+                                    HARRI V. TARANTO
+
+
+                                    By:  /s/ Harri V. Tarranto
+                                         --------------------------------
+                                         Name:  Harri V. Taranto
+                                         Title: Managing Member
+
+
+</TEXT>
+</DOCUMENT>

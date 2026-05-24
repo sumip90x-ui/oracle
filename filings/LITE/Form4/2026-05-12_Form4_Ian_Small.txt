@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-05-12
+Transaction Date: 2026-05-08
+Person: Ian Small — X
+Type: SELL
+Shares: 037 at $910.7185
+Shares After: 05
+=== TICKER: LITE ===
+===

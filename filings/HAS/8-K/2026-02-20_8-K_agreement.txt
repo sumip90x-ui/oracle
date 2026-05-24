@@ -1,0 +1,478 @@
+=== FILING DATE: 2026-02-20 ===
+=== PERIOD COVERED: 2026-02-20 ===
+=== SOURCE: 8-K filed 2026-02-20 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: HAS ===
+
+
+
+
+false
+001-06682
+0000046080
+02861-0200
+0000046080
+2026-02-20
+2026-02-20
+
+
+ 
+
+
+
+UNITED STATES
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+
+
+ 
+
+
+FORM
+8-K
+
+
+ 
+
+
+CURRENT REPORT
+
+
+Pursuant to Section 13 or 15(d)
+
+
+of the Securities Exchange Act of 1934
+
+
+ 
+
+
+Date of Report (Date of earliest event reported):
+February 20, 2026
+
+
+ 
+
+
+
+
+
+ 
+
+
+Hasbro, Inc.
+
+
+(Exact name of registrant as specified in its charter)
+
+
+
+
+
+
+
+
+ 
+
+
+Rhode Island
+
+
+ 
+
+
+1-6682
+
+
+ 
+
+
+05-0155090
+
+
+(State or other jurisdiction
+
+
+of incorporation or organization)
+
+
+ 
+
+
+(Commission
+
+
+File Number)
+
+
+ 
+
+
+(I.R.S. Employer
+
+
+Identification No.)
+
+
+1027 Newport Avenue
+,
+
+
+Pawtucket
+,
+
+Rhode Island
+
+
+ 
+
+
+ 
+
+
+02861
+
+
+(Address of Principal Executive Offices)
+
+
+ 
+
+
+(Zip Code)
+
+
+Registrant’s telephone number, including area code: 
+(
+401
+)
+431-8697
+
+
+ 
+
+
+ 
+
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+          provisions:
+
+
+☐
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+ 
+
+
+ 
+
+
+☐
+
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+ 
+
+
+ 
+
+
+☐
+
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+ 
+
+
+ 
+
+
+☐
+
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+ 
+
+
+Securities registered pursuant to Section 12(b) of the Act.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Title of each class
+
+
+ 
+
+
+Trading
+
+
+Symbol(s)
+
+
+ 
+
+
+Name of each exchange
+
+
+on which registered
+
+
+Common Stock, $0.50 par value per share
+
+
+ 
+
+
+HAS
+
+
+ 
+
+
+NASDAQ
+
+
+ 
+
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities
+          Exchange Act of 1934.
+
+
+Emerging growth company
+☐
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period provided pursuant to
+          Section 13(a) of the Exchange Act. ☐
+
+
+ 
+
+
+
+ 
+
+
+Item 1.01
+
+
+Entry into a Material Definitive Agreement.
+
+
+On February 20, 2026 (the “Effective Date”), Hasbro, Inc. (the “Company” or the “Borrower”) entered into a Fourth Amended and Restated Revolving
+            Credit Agreement (the “Amended Agreement”) with Bank of America, N.A., as administrative agent, swing line lender, L/C issuer and lender, and certain other financial institutions, as L/C issuers and/or lenders.  The Amended Agreement amends and
+            restates the Borrower’s Third Amended and Restated Revolving Credit Agreement dated as of September 5, 2023.
+
+
+ 
+
+
+The Amended Agreement provides the Borrower with a senior unsecured revolving credit facility (the “Revolving Facility”) with commitments in an
+            aggregate principal amount of $1.1 billion.  The Amended Agreement also provides for a potential additional incremental commitment increase of up to $550.0 million. Additionally, the Amended Agreement extends the term of the Revolving Facility
+            from September 5, 2028 to February 20, 2031. The Amended Agreement contains sub-facilities that permit the Borrower to use up to $75.0 million of the Revolving Facility for the issuance of letters of credit and up to $50.0 million for swing
+            line loans.
+
+
+ 
+
+
+Loans under the Revolving Facility will bear interest, at the Company’s option, at either the Term Benchmark Rate (determined in accordance with the
+            Amended Agreement), the Base Rate (determined in accordance with the Amended Agreement) or the Daily Benchmark Rate (determined in accordance with the Amended Agreement), in each case plus a per annum applicable rate that fluctuates between
+            75.0 basis points and 150.0 basis points, in the case of loans priced at the Term Benchmark Rate or Daily Benchmark Rate, and between 0.0 basis points and 50.0 basis points, in the case of loans priced at the Base Rate, in each case based upon
+            the more favorable of the Company’s Debt Rating and the Company’s Consolidated Net Total Leverage Ratio.  The Company is also required to pay a commitment fee in respect of unused commitments under the Revolving Facility at a rate based on the
+            more favorable of the Company’s Debt Ratings and the Company’s Consolidated Net Total Leverage Ratio.
+
+
+ 
+
+
+The Amended Agreement contains affirmative and negative covenants typical of this type of facility, including: (a) restrictions on the Company’s and
+            its domestic subsidiaries’ ability to allow liens on their assets, (b) restrictions on the incurrence of indebtedness, (c) restrictions on the Borrower’s and certain of its subsidiaries’ ability to engage in certain mergers, (d) the requirement
+            that the Company maintain a Consolidated Interest Coverage Ratio of no less than 3.00:1.00 as of the end of any fiscal quarter and (e) the requirement that the Company maintain a Consolidated Net Total Leverage Ratio of no more than (1)
+            3.75:1.00 for each of the first, second and fourth fiscal quarters of each year and (2) 4.00:1.00 for the third fiscal quarter of each year.
+
+
+ 
+
+
+The obligations of the Borrower under the Amended Agreement may be accelerated upon customary events of default, including nonpayment of principal or
+            interest, breaches of covenants, cross-defaults to other material debt and specified bankruptcy events.
+
+
+ 
+
+
+A copy of the Amended Agreement is attached as Exhibit 10.1 and is incorporated by reference herein. The foregoing description of the Amended
+            Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of such document.
+
+
+Item 2.03
+
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+
+The information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference.
+
+
+Item 9.01
+
+
+Financial Statements and Exhibits.
+
+
+(d) Exhibits
+
+
+Exhibit
+
+
+Number
+
+
+  
+
+
+Exhibit Description
+
+
+ 
+
+
+ 
+
+
+10.1
+
+
+  
+
+
+Fourth Amended and Restated Revolving
+                        Credit Agreement, dated as of February 20, 2026, by and among Hasbro, Inc., Bank of America, N.A. and the other lenders party thereto
+
+
+ 
+
+
+ 
+
+
+10.2
+
+
+  
+
+
+Inline XBRL for the cover page of this Current Report on Form 8-K
+
+
+ 
+
+
+SIGNATURES
+
+
+ 
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+            the undersigned hereunto duly authorized.
+
+
+
+
+
+ 
+
+
+HASBRO, INC.
+
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+/s/ Gina Goetter
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Name:
+
+
+Gina Goetter
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Title:
+
+
+Chief Financial Officer and Chief Operating Officer
+
+
+ 
+
+
+Date: February 20, 2026
+
+
+
+ 
+
+
+ 
+
+

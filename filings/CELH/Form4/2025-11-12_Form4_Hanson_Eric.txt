@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-12
+Transaction Date: 2025-11-12
+Person: Hanson Eric — President & COO
+Type: BUY
+Shares: 4558 at $43.93
+Shares After: 51415
+=== TICKER: CELH ===
+===

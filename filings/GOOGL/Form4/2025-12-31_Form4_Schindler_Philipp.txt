@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-31
+Transaction Date: 2025-12-25
+Person: Schindler Philipp — SVP, Chief Business Officer
+Type: OTHER
+Shares: 66926 at $0
+Shares After: 773371
+=== TICKER: GOOGL ===
+===

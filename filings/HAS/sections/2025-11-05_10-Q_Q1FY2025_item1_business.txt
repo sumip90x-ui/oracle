@@ -1,0 +1,13 @@
+=== FILING DATE: 2025-11-05 ===
+=== PERIOD COVERED: 2025-09-28 ===
+=== SOURCE: 10-Q filed 2025-11-05 ===
+=== SECTION: Item 1 — Business ===
+=== TICKER: HAS ===
+
+Item 1
+. Legal Proceedings.
+On November 13, 2024, West Palm Beach Firefighters’ Pension Fund filed a putative class action lawsuit in the U.S. District Court for the Southern District of New York alleging violations of Sections 10(b) and 20(a) of the Securities and Exchange Act of 1934 and certain rules promulgated thereunder. West Palm Beach Firefighters’ Pension Fund v. Hasbro, Inc., Richard Stoddart, Christian Cocks, Deborah Thomas, Gina Goetter and Eric Nyman, Case No.1:24-cv-8633 (S.D.N.Y.). The plaintiff asserts claims on behalf of persons and entities that purchased the Company’s securities between February 7, 2022 and October 25, 2023 (the “Class Period”), and seeks compensatory damages, interest, fees, and costs. The complaint alleges that members of the putative class suffered losses as a result of false or misleading statements and withholding of information regarding the Company’s inventory, including quality and appropriateness thereof, during the Class Period. On August 29, 2025, the court granted the Miami General Employees' & Sanitation Employees' Retirement Trust and West Palm Beach Firefighters' Pension Fund's motion for appointment as lead plaintiff. The Company intends to vigorously defend against these claims. Due to the early stages of this matter, the Company is unable to estimate a reasonably possible range of loss, if any, that may result from this matter.
+On August 19, 2025, Karen Sbriglio, derivatively on behalf of Hasbro, Inc., filed a putative shareholder derivative action against certain of the Company's executive officers and current and former members of the Board of Directors of the Company in Rhode Island Superior Court.
+Sbriglio v. Stoddart et al.,
+PC-2025-04400 (Prov. City, RI). Plaintiff alleges the Board of Directors wrongfully refused to pre-suit litigation demand made on the Board relating to similar allegations described in the West Palm Beach Firefighters' Pension Fund action.
+The Company is currently party to other certain legal proceedings, none of which we believe to be material to our business or financial condition.

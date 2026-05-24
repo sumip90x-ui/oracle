@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-10-06
+Transaction Date: 2025-10-02
+Person: Fleming Daniel W. — Chief Financial Officer
+Type: OTHER
+Shares: 4920 at $149.63
+Shares After: 571258
+=== TICKER: CRDO ===
+===

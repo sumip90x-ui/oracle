@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-13
+Transaction Date: 2026-02-12
+Person: Vincent Retort — 
+Type: SELL
+Shares: 450 at $576.3523
+Shares After: 02
+=== TICKER: LITE ===
+===

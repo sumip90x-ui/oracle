@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-03
+Transaction Date: 2026-02-02
+Person: O'Toole Amie Thuener — VP, Chief Accounting Officer
+Type: SELL
+Shares: 933 at $336.55
+Shares After: 14047
+=== TICKER: GOOGL ===
+===

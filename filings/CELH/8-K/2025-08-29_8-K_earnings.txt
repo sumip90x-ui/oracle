@@ -1,0 +1,760 @@
+=== FILING DATE: 2025-08-29 ===
+=== PERIOD COVERED: 2025-08-28 ===
+=== SOURCE: 8-K filed 2025-08-29 ===
+=== SECTION: 8-K Event — earnings ===
+=== TICKER: CELH ===
+
+
+
+
+8-K
+
+
+
+
+
+NASDAQ
+
+false
+
+0001341766
+
+--12-31
+
+
+
+
+
+
+
+
+0001341766
+
+
+
+2025-08-28
+
+2025-08-28
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+August 28, 2025
+
+ 
+
+
+ 
+
+
+CELSIUS HOLDINGS, INC.
+
+
+(Exact name of registrant as specified in charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Nevada
+
+
+ 
+
+
+001-34611
+
+
+ 
+
+
+20-2745790
+
+
+(State or other jurisdiction
+of incorporation)
+
+
+ 
+
+
+(Commission
+File Number)
+
+
+ 
+
+
+(IRS Employer
+Identification No.)
+
+ 
+
+
+
+2381 NW Executive Center Drive
+,
+4
+th
+ Floor
+
+Boca Raton
+,
+Florida
+
+
+ 
+
+
+33431
+
+
+(Address of principal executive offices)
+
+
+ 
+
+
+(Zip Code)
+
+Registrant’s telephone number including area code:
+(561)
+
+276-2239
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+ 
+
+
+ 
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common Stock, $0.001 par value per share
+
+
+ 
+
+
+CELH
+
+
+ 
+
+
+
+Nasdaq Capital Market
+
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+ of the Securities Exchange Act of 1934
+(§240.12b-2
+ of this chapter).
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+EXPLANATORY NOTE
+
+As previously reported, on August 1, 2022, Celsius Holdings, Inc., a Nevada corporation (the “
+Company
+”), entered into a series of agreements with PepsiCo, Inc., a North Carolina corporation (“
+PepsiCo
+”), including (i) a securities purchase agreement (the “
+Original Purchase Agreement
+”), pursuant to which the Company issued and sold to PepsiCo 1,466,666 shares of the Company’s Series A Convertible Preferred Stock, par value $0.001 per share (“
+Series A Preferred Stock
+”), (ii) a registration rights agreement (the “
+Original Registration Rights Agreement
+”) with respect to the Company’s registration for resale of the shares of the Company’s common stock, par value $0.001 per share (“
+Common Stock
+”) into which the Series A Preferred may, subject to certain conditions, be converted, and (iii) a distribution agreement (as amended, the “
+Original Distribution Agreement
+”), pursuant to which PepsiCo became the Company’s exclusive distributor with respect to the sale and distribution of certain of the Company’s beverage products in the United States, excluding Puerto Rico and the U.S. Virgin Islands (the “
+Territory
+”).
+
+Also as previously reported, on April 1, 2025, the Company consummated its acquisition of all of the issued and outstanding membership interests in Alani Nutrition LLC, a Kentucky limited liability company (“
+Alani Nu
+”).
+
+As further described in this Current Report on Form
+8-K,
+ on August 28, 2025, the Company entered into a series of new and amended agreements with PepsiCo that expand and modify the Company’s relationship with PepsiCo to, among other things, provide for the acquisition by the Company of PepsiCo’s Rockstar Energy brand in the U.S. and Canada, the distribution by PepsiCo in both the Territory and in Canada of Alani Nu’s products and Rockstar Energy brand products (in addition to the Company’s existing products), and an enhanced, long-term commercial arrangement between the Company and PepsiCo, pursuant to which, among other things, PepsiCo will use its commercially reasonable efforts to sell and distribute the Company’s products (the “
+Captaincy
+”).
+
+ 
+
+
+Item 1.01.
+
+
+
+Entry into a Material Definitive Agreement.
+
+Securities Purchase Agreement
+
+On August 28, 2025 (the “
+Closing Date
+”), the Company entered into a securities purchase agreement with PepsiCo (the “
+Series B Purchase Agreement
+”), pursuant to which, on such date, the Company issued and sold to PepsiCo, and PepsiCo purchased from the Company, in a private placement exempt from registration under the Securities Act of 1933, as amended (the “
+Securities Act
+”), 390,000 shares of a newly created series of the Company’s preferred stock, par value $0.001 per share, designated as “Series B Convertible Preferred Stock” (the “
+Series B Preferred Stock
+” and, together with the Series A Preferred Stock, the “
+Preferred Stock
+”), for an aggregate purchase price of $585.0 million in cash. Subject to the satisfaction of certain conditions, as set forth in the Certificate of Designation of Series B Convertible Preferred Stock, setting forth the rights, preferences, privileges and restrictions applicable to the Series B Preferred Stock (the “
+Series B Certificate
+”), each share of Series B Preferred Stock is initially convertible into 11,304,348 shares of Common Stock.
+
+Pursuant to the Series B Purchase Agreement, the Company has granted PepsiCo the right to currently designate two persons (each, a “
+PepsiCo Designee
+”) to be nominated by PepsiCo for election to the Company’s Board of Directors (the “
+Board
+”), which number of directors may, in certain circumstances, be ratably increased upon a subsequent expansion of the number of persons serving on the Board. Upon the earlier of (i) PepsiCo, together with its affiliates, ceasing to beneficially own at least 31,639,121 shares of Common Stock (determined on an
+as-converted
+ basis) and (ii) the termination of the Captaincy, PepsiCo will have the right to designate only one PepsiCo Designee; and, if PepsiCo, together with its affiliates, ceases to own at least 10,999,995 shares of Common Stock (determined on an
+as-converted
+ basis), then PepsiCo’s Board designation rights will terminate in their entirety. As previously reported, the Original Purchase Agreement provided PepsiCo the right to designate a single PepsiCo Designee, and such person currently serves on the Board and constitutes one of the two PepsiCo Designees under the Series B Purchase Agreement. On the Closing Date, the Company increased the size of the Board from nine to 10 members, with Michael Del Pozzo appointed to the Board as the second PepsiCo Designee to serve for a term expiring at the Company’s 2026 annual meeting of stockholders.
+
+Additionally, pursuant to the Series B Purchase Agreement: (i) the Company granted to PepsiCo certain customary information rights and preemptive rights; and (ii) PepsiCo has agreed to certain limitations with respect to its aggregate beneficial ownership of Common Stock and, for a period of seven years, to certain standstill restrictions with respect to its and its affiliates’ acquisition of any voting securities of the Company, subject to certain exceptions. The Series B Purchase Agreement also contains customary representations, warranties and covenants of the parties.
+
+In accordance with the Series B Purchase Agreement, on the Closing Date, the Company: (i) filed with the Secretary of State of the State of Nevada the Series B Certificate; (ii) filed with the Secretary of State of the State of Nevada a Certificate of Amendment (the “
+Certificate of Amendment
+”) to the Designation of the Series A Convertible Preferred Stock of Celsius Holdings, Inc. (the “
+Series A Certificate
+”) (as described in Item 5.03 of this Current Report on Form
+8-K);
+ and (iii) entered into an amended and restated registration rights agreement with PepsiCo (the “
+A&R Registration Rights Agreement
+”).
+
+
+
+
+
+Amended and Restated Registration Rights Agreement
+
+On the Closing Date, the Company entered into the A&R Registration Rights Agreement with PepsiCo relating to the registered resale under the Securities Act of the Common Stock issuable upon conversion of the Preferred Stock (the “
+Registrable Securities
+”). The A&R Registration Rights Agreement amends and restates in its entirety the Original Registration Rights Agreement predominantly to include within the definition of “Registrable Securities” the Common Stock issuable upon conversion of the Series B Preferred Stock. The other material terms and covenants contained in the Original Registration Rights Agreement, including the customary demand, resale, and piggyback registration rights granted to PepsiCo thereunder, remain in full force and effect in the A&R Registration Rights Agreement.
+
+Transaction Agreement – Rockstar Energy Acquisition and Captaincy
+
+On Closing Date, the Company entered into a transaction agreement (the “
+Transaction Agreement
+”) with PepsiCo, pursuant to which (i) the Company acquired certain assets, and assumed certain liabilities, comprising the Rockstar Energy brand in the U.S. and Canada (the “
+Rockstar Acquisition
+” and, together with the Captaincy, the “
+Transactions
+”) and (ii) the Company and PepsiCo commenced the Captaincy. On the Closing Date, the Company paid PepsiCo an aggregate purchase price of $585.0 million in cash in respect of the Transactions, the A&R U.S. Distribution Agreement and the A&R Canada Distribution Agreement (as defined in Item 8.01 to this Current Report on Form
+8-K),
+ subject to a customary working capital adjustment in respect of the Rockstar Acquisition. The Captaincy commenced on the Closing Date and will continue during the term of the A&R U.S. Distribution Agreement, subject to earlier termination (i) by the parties by mutual consent, (ii) by the Company in the event of certain breaches of the Transaction Agreement by PepsiCo, or (iii) by PepsiCo in the event that the Company’s products distributed by PepsiCo fail to maintain certain market share metrics, in each case as set forth in the Transaction Agreement. The Transaction Agreement also contains customary representations, warranties, and agreements of the Company and other obligations of the Company and PepsiCo.
+
+Amended and Restated U.S. Distribution Agreement
+
+On the Closing Date, the Company entered into an Amended and Restated Distribution Agreement (the “
+A&R U.S. Distribution Agreement
+”) with Celsius, Inc., Alani Nu, Celsius Brands LLC, a Nevada limited liability company and wholly owned subsidiary of the Company, and PepsiCo, which amends and restates in its entirety the Original Distribution Agreement, predominantly to provide for PepsiCo’s distribution of Alani Nu and Rockstar Energy products (in addition to existing Celsius products) within the Territory. The other material terms and covenants, including termination provisions, contained in the Original Distribution Agreement remain in full force and effect in the A&R U.S. Distribution Agreement.
+
+The foregoing descriptions of the Series B Purchase Agreement, the A&R Registration Rights Agreement, the Transaction Agreement, and the A&R U.S. Distribution Agreement are only summaries and are qualified in their entirety by reference to the full text of the Series B Purchase Agreement, the A&R Registration Rights Agreement, the Transaction Agreement and the A&R U.S. Distribution Agreement, which are filed as Exhibit 10.1, Exhibit 10.2, Exhibit 10.3 and Exhibit 10.4, respectively, to this Current Report on Form
+8-K
+ and incorporated herein by reference.
+
+ 
+
+
+Item 1.02.
+
+
+
+Termination of a Material Definitive Agreement.
+
+On the Closing Date, pursuant to the terms of the Series B Purchase Agreement, the parties thereto terminated the Original Purchase Agreement. A description of the material terms of the Original Purchase Agreement is contained in Item 1.01 to the Company’s Current Report on Form
+8-K
+ filed with the Securities and Exchange Commission on August 3, 2022, which description is incorporated by reference in this Item 1.02. A brief description of the Company’s material relationships with PepsiCo is set forth in the “Explanatory Note” and Item 1.01 to this Current Report on Form
+8-K,
+ and such description is incorporated by reference in this Item 1.02.
+
+ 
+
+
+Item 2.01.
+
+
+
+Completion of Acquisition or Disposition of Assets.
+
+On the Closing Date, the Company consummated the Transactions pursuant to the Transaction Agreement. The information with respect to the Transactions contained in Item 1.01 to this Current Report on Form
+8-K
+ is incorporated by reference in this item 2.01. A brief description of the Company’s material relationship with PepsiCo is set forth in the “Explanatory Note” and Item 1.01 to this Current Report on Form
+8-K,
+ and such description is incorporated by reference in this Item 2.01.
+
+ 
+
+
+Item 3.02.
+
+
+
+Unregistered Sales of Equity Securities.
+
+The information contained in Item 1.01 of this Current Report on Form
+8-K
+ under the heading “Securities Purchase Agreement” is hereby incorporated by reference in this Item 3.02. The Company offered and sold the shares of Series B Preferred Stock to PepsiCo in reliance on the exemption from registration under the Securities Act provided by Section 4(a)(2) thereof. Under the Series B Purchase Agreement, PepsiCo represented that it is an “accredited investor” as defined in Rule 501(a) under the Securities Act and that it was acquiring the shares of Series B Preferred Stock for investment purposes and not with a view to, or for sale in connection with, any distribution thereof in violation of the Securities Act.
+
+
+
+
+
+Item 3.03.
+
+
+
+Material Modification to Rights of Security Holders.
+
+The information contained in Item 1.01 and Item 5.03 of this Report is hereby incorporated by reference in this Item 3.03.
+
+Following the issuance by the Company of the shares of Series B Preferred Stock in accordance with the Series B Purchase Agreement on the Closing Date, the ability of the Company to declare or pay dividends on shares of its Common Stock, or any shares of other stock of the Company that rank junior to or on parity with the Series B Preferred Stock, either as to the payment of dividends or as to the distribution of assets upon the liquidation, dissolution or winding up of the Company, is subject to certain restrictions in the event that the Company does not declare and pay (or set aside) dividends on the Series B Preferred Stock.
+
+The terms of the Series B Preferred Stock, including such restrictions, are more fully described in Item 5.03 of this Current Report on Form
+8-K.
+
+
+ 
+
+
+Item 5.02.
+
+
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On the Closing Date, the Board appointed Michael Del Pozzo, age 49, as a director to fill the vacancy on the Board created by the increase of the size of the board from nine to 10 directors in accordance with the Series B Purchase Agreement. Mr. Del Pozzo’s term on the Board commenced on the Closing Date and expires at the Company’s 2026 annual meeting of stockholders.
+
+Mr. Del Pozzo has served as PepsiCo’s President of North America - Commercial and Customer since January 2025. Prior to returning to PepsiCo, Mr. Del Pozzo served as President of The Hershey Company’s U.S. Confection business from August 2024 to December 2024. Before briefly departing PepsiCo, Mr. Del Pozzo served in various capacities with PepsiCo since 2001, most recently as President and General Manager of PepsiCo’s Gatorade business unit. In that role, Mr. Del Pozzo oversaw PepsiCo’s $12 billion hydration portfolio of brands that service athletes, including Gatorade, Aquafina, Propel, Muscle Milk, and Life Water. Mr. Del Pozzo’s responsibilities included manufacturing, go to market, selling, customer management, brand building, and strategy across the Gatorade and the PepsiCo hydration portfolio. A nearly 25-year PepsiCo veteran, Mr. Del Pozzo has held leadership positions across several PepsiCo operating units during his tenure, including Pepsi Beverages North America, Frito-Lay and Quaker North America, and PepsiCo Corporate. Mr. Del Pozzo is a graduate of Bowling Green State University.
+
+Mr. Del Pozzo was selected to serve on the Board as the second PepsiCo Designee pursuant to the Series B Purchase Agreement, the description of which is set forth in Item 1.01 to this Current Report on Form
+8-K
+ and incorporated by reference in this Item 5.02. Mr. Del Pozzo will not receive compensation from the Company for his service on the Board. In connection with his appointment to the Board, Mr. Del Pozzo will enter into the Company’s current form of director and officer indemnification agreement.
+
+Other than PepsiCo’s director designation rights under the Series B Purchase Agreement, there are no arrangements or understandings between either Mr. Del Pozzo, on the one hand, and any other person, on the other hand, pursuant to which he was appointed to the Board. Since the beginning of the Company’s last fiscal year, the Company has not engaged in any transactions, and there are no proposed transactions, or series of similar transactions, in which Mr. Del Pozzo was or is to be a participant and in which any related person had a direct or indirect material interest in which the amount involved exceeds or exceeded $120,000.
+
+ 
+
+
+Item 5.03.
+
+
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+Series B Preferred Stock
+
+In connection with the issuance and sale of the Series B Preferred Stock pursuant to the Series B Purchase Agreement, the Board approved the Series B Certificate, which the Company filed with the Secretary of State of the State of Nevada on the Closing Date.
+
+The Series B Certificate designates and authorizes the issuance of up to 390,000 shares of Series B Preferred Stock, all of which were issued and sold to PepsiCo under the Series B Purchase Agreement and are initially convertible at the rate of 28.99 shares of the Company’s Common Stock for each share of Series B Preferred Stock. The Series B Preferred Stock ranks, with respect to distribution rights and rights on liquidation,
+winding-up
+ and dissolution, (i) senior and in priority of payment to the Common Stock, (ii) senior to any class or series of capital stock of the Company expressly designated as ranking by its terms junior to the Series B Preferred Stock, (iii) on parity with the Series A Preferred Stock and any class or series of capital stock of the Company expressly designated as ranking on parity with the Series B Preferred Stock, and (iv) junior to any class or series of capital stock of the Company expressly designated as ranking senior to the Series B Preferred Stock.
+
+Upon any voluntary or involuntary liquidation, dissolution or winding up of the affairs of the Company (but excluding any change of control), each holder of Series B Preferred Stock will be entitled to receive an amount per share of Series B Preferred Stock equal to the Liquidation Preference, as defined in the Series B Certificate. Holders of shares of Series B Preferred Stock will be entitled to cumulative dividends, which will be payable quarterly in arrears either in cash,
+in-kind,
+ or a combination thereof at the Company’s election.
+
+
+
+
+
+Dividends will accrue on each share of Series B Preferred Stock at the rate of 5.00% per annum, subject to adjustment as set forth in the Series B Certificate. In addition to such quarterly regular dividends, such shares of Series B Preferred Stock are entitled to participate in dividends paid to holders of Common Stock.
+
+The shares of Series B Preferred Stock are convertible into shares of Common Stock at the then-applicable conversion ratio automatically or at the option of the Company at certain times and subject to the terms and conditions set forth in the Series B Certificate. In addition, the shares of Series B Preferred Stock are redeemable at the option of the Company or the holders of a majority of the outstanding shares of Series B Preferred Stock at certain times and subject to the terms and conditions set forth in the Series B Certificate.
+
+The Series B Preferred Stock confers no voting rights on holders, except as otherwise required by applicable law, and with respect to matters that adversely change the powers, preferences, privileges, rights or restrictions given to the Series B Preferred Stock or provided for its benefit, or would result in securities that would be senior to or
+ pari passu
+ with the Series B Preferred Stock.
+
+Certificate of Amendment to Series A Preferred Stock Certificate of Designation
+
+In connection with issuance and sale of the Series B Preferred Stock, the Board adopted resolutions approving a Certificate of Amendment to the Series A Certificate, which Certificate of Amendment was approved by PepsiCo, as the sole holder of shares of Series A Preferred Stock, and filed by the Company with the Secretary of State of the State of Nevada on the Closing Date. The Certificate of Amendment amends the Series A Certificate solely to align certain terms contained therein to those contained in the Series B Certificate, including updating the definition of “Distribution Agreement” to refer to the A&R U.S. Distribution Agreement, and amending certain dates related to redemption and conversion to match those included in the Series B Certificate.
+
+The foregoing descriptions of the Series B Certificate and the Certificate of Amendment are only summaries and are qualified in their entirety by reference to the full text of the Series B Certificate and the Certificate of Amendment, which are filed as Exhibit 3.1 and Exhibit 3.2, respectively, to this Current Report on Form
+8-K
+ and incorporated by reference in this Item 5.03.
+
+ 
+
+
+Item 5.07.
+
+
+
+Submission of Matters to a Vote of Security Holders.
+
+On the Closing Date, PepsiCo, as the sole holder of all of the issued and outstanding shares of the Series A Preferred Stock, acted by way of a unanimous written consent (in lieu of a special meeting of the stockholders) and consented to the issuance of the Series B Preferred Stock and the modification of the terms of the Series A Preferred Stock as set forth in the Certificate of Amendment, as described in Item 1.01 and Item 5.03 of this Current Report on Form
+8-K.
+
+
+ 
+
+
+Item 8.01.
+
+
+
+Other Events.
+
+On the Closing Date, the Company and certain of its subsidiaries entered into an amended and restated distribution agreement with an affiliate of PepsiCo, pursuant to which such affiliate of PepsiCo continues to be the Company’s exclusive distributor of Celsius products in Canada and has become the Company’s exclusive Canadian distributor of Alani Nu’s products and Rockstar Energy products (the “
+A&R Canada Distribution Agreement
+”). Additionally, on the Closing Date, a subsidiary of the Company entered into a channel transition agreement with PepsiCo, which provides for the Company’s transition of certain existing distribution rights with respect to Alani Nu’s products in the Territory to PepsiCo and certain financial commitments made by PepsiCo to the Company in respect of certain contractual or other payments due to such existing distributors in connection with such transition.
+
+ 
+
+
+Item 9.01
+
+
+
+Financial Statements and Exhibits.
+
+ 
+
+
+ 
+
+
+(a)
+
+
+
+Financial Statements of Business Acquired.
+
+The financial statements required by Item 9.01(a) will be filed by amendment to this Current Report on Form
+8-K
+ no later than 71 calendar days after the date on which this Current Report on Form
+8-K
+ is required to be filed.
+
+ 
+
+
+ 
+
+
+(b)
+
+
+
+Pro Forma Financial Information.
+
+The pro forma financial statements required by Item 9.01(b) will be filed by amendment to this Current Report on Form
+8-K
+ no later than 71 calendar days after the date on which this Current Report on Form
+8-K
+ is required to be filed.
+
+
+
+
+
+ 
+
+
+(d)
+
+
+
+Exhibits.
+
+ 
+
+
+
+Exhibit
+No
+
+
+ 
+
+
+
+Description
+
+
+ 3.1
+
+
+ 
+
+
+Certificate of Designation of Series B Convertible Preferred Stock of Celsius Holdings, Inc.
+
+
+ 3.2
+
+
+ 
+
+
+Certificate of Amendment to Designation of the Series A Convertible Preferred Stock of Celsius Holdings, Inc.
+
+
+10.1*
+
+
+ 
+
+
+Securities Purchase Agreement, dated as of August 28, 2025, by and between Celsius Holdings, Inc. and PepsiCo, Inc.
+
+
+10.2
+
+
+ 
+
+
+Amended and Restated Registration Rights Agreement, dated as of August 28, 2025, by and between Celsius Holdings, Inc. and PepsiCo, Inc.
+
+
+10.3*+
+
+
+ 
+
+
+Transaction Agreement, dated as of August 28, 2025, by and between Celsius Holdings, Inc. and PepsiCo, Inc.
+
+
+10.4*+
+
+
+ 
+
+
+Amended and Restated Distribution Agreement, dated as of August 28, 2025, by and among Celsius, Inc., Alani Nutrition LLC, Celsius Brands LLC, PepsiCo, Inc. and, solely with respect to Section 9, Celsius Holdings, Inc.
+
+
+104
+
+
+ 
+
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+
+
+ 
+
+
+*
+
+
+
+Certain exhibits and schedules to this Exhibit have been omitted in accordance with Item 601(a)(5) of Regulation
+S-K.
+ The Company agrees to furnish supplementally a copy of all omitted exhibits and schedules to the Securities and Exchange Commission or its staff upon request.
+
+
++
+
+
+
+Certain provisions and terms of this Exhibit have been redacted in accordance with Item 601(b)(10)(iv) of Regulation
+S-K
+ because the Company customarily and actually treats that information as private or confidential and the omitted information is not material. The Company will supplementally provide a copy of an unredacted copy of this exhibit to the Securities and Exchange Commission or its staff upon request.
+
+
+
+
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+ 
+
+
+ 
+
+
+CELSIUS HOLDINGS, INC.
+
+
+Date: August 29, 2025
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+ 
+
+
+
+/s/ Jarrod Langhans
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Jarrod Langhans, Chief Financial Officer
+
+

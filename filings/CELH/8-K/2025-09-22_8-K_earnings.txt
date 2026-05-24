@@ -1,0 +1,104 @@
+=== FILING DATE: 2025-09-22 ===
+=== PERIOD COVERED: 2025-09-22 ===
+=== SOURCE: 8-K filed 2025-09-22 ===
+=== SECTION: 8-K Event — earnings ===
+=== TICKER: CELH ===
+
+
+
+celh-20250922
+FALSE
+0001341766
+561
+276-2239
+0001341766
+2025-09-22
+2025-09-22
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+September 22, 2025
+CELSIUS HOLDINGS, INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+001-34611
+20-2745790
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(IRS Employer Identification No.)
+2381 NW Executive Center Drive, 4th Floor
+,
+Boca Raton
+,
+Florida
+
+33431
+(Address of principal executive offices and zip code)
+(
+561
+)
+276-2239
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, $0.001 par value per share
+CELH
+Nasdaq
+ Capital Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Item 7.01. Regulation FD Disclosure.
+Celsius Holdings, Inc., a Nevada corporation (the “
+Company
+”), is providing a presentation to a syndicate of lenders with respect to the potential repricing of the Company’s existing credit facilities. To ensure compliance with Regulation FD under the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), the Company is hereby furnishing selected financial information (the “
+Financial Information
+”) contained in such presentation, which Financial Information is attached as Exhibit 99.1 to this Current Report on Form 8-K and incorporated by reference in this Item 7.01.
+The Financial Information has or may be presented at meetings with investors, analysts, and others, in whole or in part and possibly with modifications, as the Company seeks opportunities to refinance portions of its outstanding debt and for other general purposes. While the Company continually seeks to act opportunistically, there are no assurances that the Company will complete any refinancing, in whole or in part, of its outstanding indebtedness.
+As previously reported, the Company completed its acquisition of Alani Nutrition LLC on April 1, 2025 (the “
+Alani Nu Acquisition
+”). The Financial Information includes unaudited pro forma financial information which assumes that Alani Nutrition LLC had been owned by the Company for the periods and at the dates presented. In addition, this pro forma financial information has not been prepared in accordance with Article 11 of Regulation S-X (“Regulation S-X”) under the Securities Act of 1933, as amended (the “Securities Act”) and does not give effect to the pro forma adjustments that might be required in connection with the preparation of pro forma financial information in accordance with Article 11 of Regulation S-X. Therefore, the pro forma financial information included in the Financial Information could materially differ from financial information determined in accordance with Article 11 of Regulation S-X.. The unaudited pro forma financial information included in the Financial Information has been presented for informational purposes only, is based on various adjustments and assumptions and is not necessarily indicative of what the Company’s consolidated statement of operations would have been had the Alani Nu Acquisition been completed as of the periods and at the dates presented, nor is such information necessarily indicative of what the Company’s consolidated statement of operations will be for any future periods. As a result, investors should not place any undue reliance on the unaudited pro forma financial information included in the Financial Information.
+The Financial Information includes financial information not prepared in accordance with generally accepted accounting principles (“GAAP”). A reconciliation of the non-GAAP financial measures to the most directly comparable financial measures prepared in accordance with generally accepted accounting principles, as required by Regulation G, is available within Exhibit 99.1. The Company believes that the non-GAAP financial measures provide investors additional ways to view our operations which we believe provide a more complete understanding of our business than could be obtained absent these disclosures. We believe the non-GAAP financial measures also provide investors a useful tool to assess shareholder value.
+The information contained in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 furnished herewith, shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that Section and shall not be deemed incorporated by reference in any filing under the Securities Act, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits
+Exhibit No
+Description
+99.1
+Selected Financial Information contained in lender presentation.
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CELSIUS HOLDINGS, INC.
+Date: September 22, 2025
+By:
+/s/ Jarrod Langhans
+Jarrod Langhans, Chief Financial Officer
+

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-03
+Transaction Date: 2025-07-01
+Person: Notarainni Mark P. — EVP, Consumer Group
+Type: OTHER
+Shares: 6204 at $0
+Shares After: 4041
+=== TICKER: INTU ===
+===

@@ -1,0 +1,380 @@
+=== FILING DATE: 2026-05-20 ===
+=== PERIOD COVERED: 2026-04-30 ===
+=== SOURCE: 10-Q filed 2026-05-20 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: INTU ===
+
+Item 8
+ of our Annual Report on Form 10-K for the fiscal year ended July 31, 2025 and in Note 1,
+"Description of Business and Summary of Significant Accounting Policies – Significant Accounting Policies"
+ in this Quarterly Report on Form 10-Q. Except for goodwill and acquired intangible assets, we do not generally track assets by reportable segment and, consequently, we do not disclose total assets by reportable segment.
+ Intuit
+ Q3 Fiscal 2026 Form 10-Q
+29
+Table of Contents
+The following table shows our financial results by reportable segment for the periods indicated.
+ 
+Three Months Ended
+Nine Months Ended
+(In millions)
+April 30,
+2026
+April 30,
+2025
+April 30,
+2026
+April 30,
+2025
+Net revenue:
+ 
+ 
+ 
+ 
+Global Business Solutions
+$
+3,285
+ 
+$
+2,849
+ 
+$
+9,440
+ 
+$
+8,064
+ 
+Consumer
+5,273
+ 
+4,905
+ 
+7,654
+ 
+6,936
+ 
+Total net revenue
+$
+8,558
+ 
+$
+7,754
+ 
+$
+17,094
+ 
+$
+15,000
+ 
+Segment cost of revenue and operating expenses
+(1)
+:
+Global Business Solutions
+$
+765
+ 
+$
+660
+ 
+$
+2,183
+ 
+$
+1,821
+ 
+Consumer
+1,010
+ 
+865
+ 
+1,909
+ 
+1,673
+ 
+Total segment cost of revenue and operating expenses
+$
+1,775
+ 
+$
+1,525
+ 
+$
+4,092
+ 
+$
+3,494
+ 
+Operating income:
+ 
+ 
+Global Business Solutions
+$
+2,520
+ 
+$
+2,189
+ 
+$
+7,257
+ 
+$
+6,243
+ 
+Consumer
+4,263
+ 
+4,040
+ 
+5,745
+ 
+5,263
+ 
+Total segment operating income
+6,783
+ 
+6,229
+ 
+13,002
+ 
+11,506
+ 
+Unallocated corporate items:
+ 
+ 
+Share-based compensation expense
+(
+485
+)
+(
+469
+)
+(
+1,549
+)
+(
+1,478
+)
+Other corporate expenses
+(
+2,113
+)
+(
+1,881
+)
+(
+5,549
+)
+(
+4,958
+)
+Amortization of acquired technology
+(
+43
+)
+(
+38
+)
+(
+131
+)
+(
+112
+)
+Amortization of other acquired intangible assets
+(
+122
+)
+(
+120
+)
+(
+364
+)
+(
+360
+)
+Restructuring
+—
+ 
+(
+1
+)
+—
+ 
+(
+14
+)
+Total unallocated corporate items
+(
+2,763
+)
+(
+2,509
+)
+(
+7,593
+)
+(
+6,922
+)
+Total operating income
+$
+4,020
+ 
+$
+3,720
+ 
+$
+5,409
+ 
+$
+4,584
+ 
+(1)
+Cost of revenue and operating expenses primarily include direct expenses related to selling and marketing, direct costs associated with our product and services offerings, certain data science and analytics related costs, and certain design and product management related costs. They exclude expenses that are recorded within unallocated corporate items, such as certain technology and customer success costs that support and benefit the overall platform and are managed at the corporate level.
+R
+evenue classified by significant service and product offerings was as follows:
+ 
+Three Months Ended
+Nine Months Ended
+(In millions)
+April 30,
+2026
+April 30,
+2025
+April 30,
+2026
+April 30,
+2025
+Net revenue:
+ 
+ 
+QuickBooks Online Accounting
+$
+1,278
+ 
+$
+1,044
+ 
+$
+3,732
+ 
+$
+3,017
+ 
+Online Services
+1,219
+ 
+1,059
+ 
+3,583
+ 
+3,067
+ 
+Total Online Ecosystem
+2,497
+ 
+2,103
+ 
+7,315
+ 
+6,084
+ 
+QuickBooks Desktop Accounting
+507
+ 
+476
+ 
+1,271
+ 
+1,160
+ 
+Desktop Services and Supplies
+281
+ 
+270
+ 
+854
+ 
+820
+ 
+Total Desktop Ecosystem
+788
+ 
+746
+ 
+2,125
+ 
+1,980
+ 
+Global Business Solutions
+3,285
+ 
+2,849
+ 
+9,440
+ 
+8,064
+ 
+TurboTax
+4,364
+ 
+4,078
+ 
+5,143
+ 
+4,785
+ 
+Credit Karma
+631
+ 
+549
+ 
+1,898
+ 
+1,562
+ 
+ProTax
+278
+ 
+278
+ 
+613
+ 
+589
+ 
+Consumer
+5,273
+ 
+4,905
+ 
+7,654
+ 
+6,936
+ 
+Total net revenue
+$
+8,558
+ 
+$
+7,754
+ 
+$
+17,094
+ 
+$
+15,000
+ 
+ Intuit
+ Q3 Fiscal 2026 Form 10-Q
+30
+Table of Contents
+13. Subsequent Events
+In May 2026, our management approved and initiated a plan (the 2026 Plan) to simplify its organizational structure and become a faster, leaner, more focused company. As part of the 2026 Plan, we will reduce our full-time workforce and are considering the closure of certain sites in service to growing technology teams and capabilities in strategic locations. We estimate that we will incur approximately $
+300
+ million to $
+340
+ million in restructuring charges in connection with the 2026 Plan, primarily in the fourth fiscal quarter ending July 31, 2026. These charges will consist primarily of cash expenditures related to severance payments and employee benefits. We expect the actions associated with the 2026 Plan to be substantially complete by the first quarter of fiscal 2027. Actual costs may vary from the estimates provided above.
+ Intuit
+ Q3 Fiscal 2026 Form 10-Q
+31
+Table of Contents

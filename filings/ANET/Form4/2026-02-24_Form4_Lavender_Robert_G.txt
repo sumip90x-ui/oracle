@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-24
+Transaction Date: 2026-02-20
+Person: Lavender Robert G — Director
+Type: OTHER
+Shares: 1616 at $0.0
+Shares After: 807
+=== TICKER: ANET ===
+===

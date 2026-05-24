@@ -1,0 +1,635 @@
+{
+  "ticker": "LITE",
+  "company_name": "Lumentum Holdings Inc.",
+  "cik": "0001633978",
+  "sic": "3669",
+  "industry": "Communications Equipment, NEC",
+  "fiscal_year_end": "0628",
+  "last_checked": "2026-05-16T22:46:24.880212",
+  "newest_filing_date": "2026-05-15",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-05",
+      "oldest_included": "2025-06-03",
+      "count": 12,
+      "files": [
+        {
+          "filing_date": "2026-05-05",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2026-05-05_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2026-04-08",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2026-04-08_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-03-02",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2026-03-02_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2026-02-03_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2026-01-05_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-12-22",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2025-12-22_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-12-15",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2025-12-15_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-11-24",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2025-11-24_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2025-11-04_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-09-08",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2025-09-08_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2025-08-12_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/LITE/8-K/2025-06-03_8-K_earnings.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-15",
+      "count": 74,
+      "transactions": [
+        {
+          "filing_date": "2026-05-15",
+          "person": "Pamela Fletcher",
+          "type": "SELL",
+          "shares": "1577",
+          "price": "1003.375"
+        },
+        {
+          "filing_date": "2026-05-12",
+          "person": "Ian Small",
+          "type": "SELL",
+          "shares": "037",
+          "price": "910.7185"
+        },
+        {
+          "filing_date": "2026-05-12",
+          "person": "Brian Lillie",
+          "type": "SELL",
+          "shares": "49",
+          "price": "1004.335"
+        },
+        {
+          "filing_date": "2026-05-12",
+          "person": "Brian Lillie",
+          "type": "SELL",
+          "shares": "1469",
+          "price": "950.99"
+        },
+        {
+          "filing_date": "2026-05-12",
+          "person": "Jae Kim",
+          "type": "SELL",
+          "shares": "1933",
+          "price": "950.99"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Isaac Harris",
+          "type": "BUY",
+          "shares": "611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-02",
+          "person": "Wajid Ali",
+          "type": "SELL",
+          "shares": "200",
+          "price": "677.7775"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "Yuen Wupen",
+          "type": "OTHER",
+          "shares": "3481",
+          "price": "562.74"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "Vincent Retort",
+          "type": "OTHER",
+          "shares": "3039",
+          "price": "562.74"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "Jae Kim",
+          "type": "OTHER",
+          "shares": "1353",
+          "price": "562.74"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "Eric Chang",
+          "type": "BUY",
+          "shares": "5006",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "Wajid Ali",
+          "type": "OTHER",
+          "shares": "2755",
+          "price": "562.74"
+        },
+        {
+          "filing_date": "2026-02-13",
+          "person": "Vincent Retort",
+          "type": "SELL",
+          "shares": "450",
+          "price": "576.3523"
+        },
+        {
+          "filing_date": "2026-02-13",
+          "person": "PENNY HERSCHER",
+          "type": "SELL",
+          "shares": "12",
+          "price": "594.4192"
+        },
+        {
+          "filing_date": "2026-02-10",
+          "person": "MICHAEL HURLSTON",
+          "type": "OTHER",
+          "shares": "20169",
+          "price": "551.99"
+        },
+        {
+          "filing_date": "2026-02-10",
+          "person": "PENNY HERSCHER",
+          "type": "SELL",
+          "shares": "849",
+          "price": "535.4798"
+        },
+        {
+          "filing_date": "2026-02-02",
+          "person": "Isaac Harris",
+          "type": "BUY",
+          "shares": "225",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-20",
+          "person": "Matthew Sepe",
+          "type": "OTHER",
+          "shares": "563",
+          "price": "343.27"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Isaac Harris",
+          "type": "BUY",
+          "shares": "312",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "Trent Thad",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Yuen Wupen",
+          "type": "SELL",
+          "shares": "822",
+          "price": "258.96"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Ian Small",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Paul Lundstrom",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Brian Lillie",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Julia Johnson",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "PENNY HERSCHER",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Isaac Harris",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Pamela Fletcher",
+          "type": "BUY",
+          "shares": "421",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-18",
+          "person": "Yuen Wupen",
+          "type": "OTHER",
+          "shares": "3732",
+          "price": "232.15"
+        },
+        {
+          "filing_date": "2025-11-18",
+          "person": "Matthew Sepe",
+          "type": "OTHER",
+          "shares": "1495",
+          "price": "232.15"
+        },
+        {
+          "filing_date": "2025-11-18",
+          "person": "Vincent Retort",
+          "type": "OTHER",
+          "shares": "3291",
+          "price": "232.15"
+        },
+        {
+          "filing_date": "2025-11-18",
+          "person": "Jae Kim",
+          "type": "OTHER",
+          "shares": "1413",
+          "price": "232.15"
+        },
+        {
+          "filing_date": "2025-11-18",
+          "person": "Pamela Fletcher",
+          "type": "SELL",
+          "shares": "79",
+          "price": "250"
+        },
+        {
+          "filing_date": "2025-11-18",
+          "person": "Wajid Ali",
+          "type": "OTHER",
+          "shares": "2743",
+          "price": "232.15"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "Julia Johnson",
+          "type": "SELL",
+          "shares": "0000",
+          "price": "270.39"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "Isaac Harris",
+          "type": "SELL",
+          "shares": "200",
+          "price": "243.32"
+        },
+        {
+          "filing_date": "2025-11-10",
+          "person": "Matthew Sepe",
+          "type": "SELL",
+          "shares": "232",
+          "price": "239.6274"
+        },
+        {
+          "filing_date": "2025-08-28",
+          "person": "Yuen Wupen",
+          "type": "SELL",
+          "shares": "3282",
+          "price": "124.39"
+        },
+        {
+          "filing_date": "2025-08-28",
+          "person": "Wajid Ali",
+          "type": "SELL",
+          "shares": "2526",
+          "price": "124.39"
+        },
+        {
+          "filing_date": "2025-08-26",
+          "person": "Yuen Wupen",
+          "type": "BUY",
+          "shares": "13177",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-26",
+          "person": "Matthew Sepe",
+          "type": "BUY",
+          "shares": "4918",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-26",
+          "person": "Vincent Retort",
+          "type": "BUY",
+          "shares": "14758",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-26",
+          "person": "Jae Kim",
+          "type": "SELL",
+          "shares": "3407",
+          "price": "116.7274"
+        },
+        {
+          "filing_date": "2025-08-26",
+          "person": "Wajid Ali",
+          "type": "BUY",
+          "shares": "12298",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "person": "MICHAEL HURLSTON",
+          "type": "BUY",
+          "shares": "34393",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "person": "Yuen Wupen",
+          "type": "BUY",
+          "shares": "22760",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "person": "Matthew Sepe",
+          "type": "BUY",
+          "shares": "5057",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "person": "Vincent Retort",
+          "type": "BUY",
+          "shares": "15173",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "person": "Jae Kim",
+          "type": "BUY",
+          "shares": "11633",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "person": "Wajid Ali",
+          "type": "BUY",
+          "shares": "22760",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-20",
+          "person": "Julia Johnson",
+          "type": "SELL",
+          "shares": "250",
+          "price": "119.0622"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Yuen Wupen",
+          "type": "OTHER",
+          "shares": "2540",
+          "price": "115.86"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Matthew Sepe",
+          "type": "OTHER",
+          "shares": "837",
+          "price": "115.86"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Vincent Retort",
+          "type": "OTHER",
+          "shares": "2753",
+          "price": "115.86"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Jae Kim",
+          "type": "OTHER",
+          "shares": "802",
+          "price": "115.86"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Wajid Ali",
+          "type": "OTHER",
+          "shares": "2294",
+          "price": "115.86"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "Yuen Wupen",
+          "type": "BUY",
+          "shares": "745",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "Matthew Sepe",
+          "type": "BUY",
+          "shares": "474",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "Vincent Retort",
+          "type": "BUY",
+          "shares": "2916",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "Wajid Ali",
+          "type": "BUY",
+          "shares": "2607",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-08",
+          "person": "Yuen Wupen",
+          "type": "SELL",
+          "shares": "241",
+          "price": "108.34"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "person": "Yuen Wupen",
+          "type": "OTHER",
+          "shares": "453",
+          "price": "106.68"
+        },
+        {
+          "filing_date": "2025-07-31",
+          "person": "Vincent Retort",
+          "type": "SELL",
+          "shares": "22719",
+          "price": "110"
+        },
+        {
+          "filing_date": "2025-07-25",
+          "person": "Yuen Wupen",
+          "type": "SELL",
+          "shares": "265",
+          "price": "99.92"
+        },
+        {
+          "filing_date": "2025-07-22",
+          "person": "Yuen Wupen",
+          "type": "OTHER",
+          "shares": "442",
+          "price": "102.22"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "ALAN LOWE",
+          "type": "SELL",
+          "shares": "20000",
+          "price": "93.47"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "person": "ALAN LOWE",
+          "type": "SELL",
+          "shares": "20000",
+          "price": "88.47"
+        },
+        {
+          "filing_date": "2025-06-06",
+          "person": "Wajid Ali",
+          "type": "SELL",
+          "shares": "2222",
+          "price": "83.58"
+        },
+        {
+          "filing_date": "2025-06-06",
+          "person": "ALAN LOWE",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "83.58"
+        },
+        {
+          "filing_date": "2025-05-19",
+          "person": "Wajid Ali",
+          "type": "OTHER",
+          "shares": "2294",
+          "price": "77.76"
+        },
+        {
+          "filing_date": "2025-05-19",
+          "person": "Yuen Wupen",
+          "type": "OTHER",
+          "shares": "1790",
+          "price": "77.76"
+        },
+        {
+          "filing_date": "2025-05-19",
+          "person": "Matthew Sepe",
+          "type": "OTHER",
+          "shares": "837",
+          "price": "77.76"
+        },
+        {
+          "filing_date": "2025-05-19",
+          "person": "Vincent Retort",
+          "type": "OTHER",
+          "shares": "1940",
+          "price": "77.76"
+        },
+        {
+          "filing_date": "2025-05-19",
+          "person": "Jae Kim",
+          "type": "OTHER",
+          "shares": "2451",
+          "price": "77.76"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-05-06",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q2FY2025",
+        "Q1FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/LITE/10-Q/2026-05-06_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/LITE/10-Q/2026-02-04_10-Q_Q2FY2025.txt",
+        "/home/sumith/ORACLE/filings/LITE/10-Q/2025-11-05_10-Q_Q1FY2025.txt"
+      ],
+      "newest_period": "2025-09-27"
+    },
+    "10-K": {
+      "newest_filing_date": "2025-08-19",
+      "period_covered": "2025-06-28",
+      "local_path": "/home/sumith/ORACLE/filings/LITE/10-K/2025-08-19_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2025-10-07",
+      "local_path": "/home/sumith/ORACLE/filings/LITE/DEF14A/2025-10-07_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/LITE/sections/2026-05-06_10-Q_Q3FY2026_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/LITE/sections/2026-05-06_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/LITE/sections/2025-08-19_10-K_FY2025_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/LITE/sections/2026-05-06_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/LITE/8-K/2026-05-05_8-K_earnings.txt"
+  },
+  "failed_downloads": []
+}

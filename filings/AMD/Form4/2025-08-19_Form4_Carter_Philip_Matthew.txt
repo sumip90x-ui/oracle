@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-19
+Transaction Date: 2025-08-15
+Person: Carter Philip Matthew — Chief Accounting Officer
+Type: BUY
+Shares: 3972 at $0
+Shares After: 2979
+=== TICKER: AMD ===
+===

@@ -1,0 +1,1343 @@
+=== FILING DATE: 2002-11-25 ===
+=== PERIOD COVERED: 2002-11-25 ===
+=== SOURCE: SC13G filed 2002-11-25 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: MSFT ===
+
+
+
+SC 13G
+
+1
+
+sc0329.htm
+
+SCHEDULE 13G
+
+
+SCHEDULE 13G
+
+
+UNITED STATES
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+
+SCHEDULE 13G
+
+
+Under the Securities Exchange Act of 1934
+
+(Amendment No. ___)*
+
+
+Comcast Corporation
+
+
+(Name of Issuer)
+
+
+Comcast Corporation Class A Common Stock
+
+par value $0.01 per share
+
+
+(Title of Class of Securities)
+
+
+20030N 10 1
+
+
+(CUSIP Number)
+
+
+November 18, 2002
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+
+Check the appropriate box to designate the rule pursuant to which this
+Schedule is filed:
+
+
+
+
+
+[   ]
+
+                                [X]
+
+                                [   ]
+
+
+Rule 13d-1(b)
+
+                                 Rule 13d-1(c)
+
+                                 Rule 13d-1(d)
+
+
+*The remainder of this cover page shall be filled out for a reporting
+person’s initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which would
+alter disclosures provided in a prior cover page.
+
+
+The information required on the remainder of this cover page shall not be
+deemed to be “filed” for the purpose of Section 18 of the Securities
+Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities
+of that section of the Act but shall be subject to all other provisions of the
+Act (however, see the Notes).
+
+
+Potential persons who are to respond to the collection of
+information contained in this form are not required to respond unless the form
+displays a currently valid OMB control number.
+
+
+SCHEDULE 13G
+
+
+  
+
+
+CUSIP No.
+  20030N 10 1
+
+
+  
+
+
+Page
+   2   
+
+
+of
+   8   
+Pages
+
+
+  
+
+
+1
+
+
+NAMES OF REPORTING PERSONS
+
+                   I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                             Microsoft Corporation
+
+
+2
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)
+
+
+(a)  
+[ ]
+
+
+(b)
+  [ ]
+
+
+3
+
+
+SEC USE ONLY
+
+  
+
+
+4
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                             
+                   State of Washington
+
+
+NUMBER OF
+
+SHARES
+
+BENEFICIALLY
+
+OWNED BY
+
+EACH
+
+REPORTING
+
+PERSON
+
+WITH:
+
+
+5
+
+
+SOLE VOTING POWER
+
+                           
+                               100,623,717
+
+
+6
+
+
+SHARED VOTING POWER
+
+                           
+                               0
+
+
+7
+
+
+SOLE DISPOSITIVE POWER
+
+                           
+                               100,623,717
+
+
+8
+
+
+SHARED DISPOSITIVE POWER
+
+                           
+                               0
+
+
+9
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                             100,623,717
+
+
+10
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+                   (SEE INSTRUCTIONS)
+
+
+[ ]
+
+
+11
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                             7.4%
+
+
+12
+
+
+TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+                             CO
+
+
+SCHEDULE 13G
+
+
+  
+
+
+CUSIP No.
+  20030N 10 1
+
+
+  
+
+
+Page
+   3   
+
+
+of
+   8   
+Pages
+
+
+  
+
+
+1
+
+
+NAMES OF REPORTING PERSONS
+
+                   I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                             Microsoft Licensing, Inc.
+
+
+2
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)
+
+
+(a)  
+[ ]
+
+
+(b)
+  [ ]
+
+
+3
+
+
+SEC USE ONLY
+
+  
+
+
+4
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                             
+                   State of Nevada
+
+
+NUMBER OF
+
+SHARES
+
+BENEFICIALLY
+
+OWNED BY
+
+EACH
+
+REPORTING
+
+PERSON
+
+WITH:
+
+
+5
+
+
+SOLE VOTING POWER
+
+                           
+                               100,623,717
+
+
+6
+
+
+SHARED VOTING POWER
+
+                           
+                               0
+
+
+7
+
+
+SOLE DISPOSITIVE POWER
+
+                           
+                               100,623,717
+
+
+8
+
+
+SHARED DISPOSITIVE POWER
+
+                           
+                               0
+
+
+9
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                             100,623,717
+
+
+10
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+                   (SEE INSTRUCTIONS)
+
+
+[ ]
+
+
+11
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                             7.4%
+
+
+12
+
+
+TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+                             CO
+
+
+SCHEDULE 13G
+
+
+  
+
+
+CUSIP No.
+  20030N 10 1
+
+
+  
+
+
+Page
+   4   
+
+
+of
+   8   
+Pages
+
+
+  
+
+
+1
+
+
+NAMES OF REPORTING PERSONS
+
+                   I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)
+
+                             Microsoft T-Holdings, Inc.
+
+
+2
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)
+
+
+(a)  
+[ ]
+
+
+(b)
+  [ ]
+
+
+3
+
+
+SEC USE ONLY
+
+  
+
+
+4
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+                             
+                   State of Nevada
+
+
+NUMBER OF
+
+SHARES
+
+BENEFICIALLY
+
+OWNED BY
+
+EACH
+
+REPORTING
+
+PERSON
+
+WITH:
+
+
+5
+
+
+SOLE VOTING POWER
+
+                           
+                               100,623,717
+
+
+6
+
+
+SHARED VOTING POWER
+
+                           
+                               0
+
+
+7
+
+
+SOLE DISPOSITIVE POWER
+
+                           
+                               100,623,717
+
+
+8
+
+
+SHARED DISPOSITIVE POWER
+
+                           
+                               0
+
+
+9
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+                             100,623,717
+
+
+10
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+                   (SEE INSTRUCTIONS)
+
+
+[ ]
+
+
+11
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+                             7.4%
+
+
+12
+
+
+TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+                             CO
+
+
+Page 5 of 8
+
+
+ITEM 1.
+
+
+  
+
+
+
+
+
+(a)
+
+
+Name of Issuer:
+  Comcast Corporation, a Pennsylvania corporation.
+
+
+
+
+
+(b)
+
+
+Address of Issuer’s Principal Executive Offices:
+  
+
+1500 Market Street, Philadelphia, PA  19102.
+
+
+ITEM 2.
+
+
+  
+
+
+
+
+
+(a)
+
+
+Name of Person Filing:
+  
+Microsoft Corporation, a Washington corporation, Microsoft Licensing, Inc., a
+Nevada corporation and Microsoft T-Holdings, Inc., a Nevada corporation.
+
+
+
+
+
+(b)
+
+
+Address of Principal Business Office or, if none, Residence:
+
+The principal business address of Microsoft Corporation is One Microsoft Way,
+Redmond, Washington 98053. The principal business address of Microsoft
+Licensing, Inc. and Microsoft T-Holdings, Inc. is 6100 Neil Road, Ste. 100 Reno,
+Nevada 89511-1132.
+
+
+
+
+
+(c)
+
+
+Citizenship:
+  
+Microsoft Corporation is a Washington corporation. Microsoft Licensing, Inc. and
+Microsoft T-Holdings, Inc. are Nevada corporations.
+
+
+
+
+
+(d)
+
+
+Title of Class of Securities:
+  
+Class A Common Stock, Par Value $0.01 per share (the “Shares”).
+
+
+
+
+
+(e)
+
+
+CUSIP Number:
+  20030N 10 1
+
+
+ITEM 3.
+
+
+If this statement is filed pursuant to §240.13d-1(b)
+or §240.13d-2(b) or (c), check whether the person filing is a:
+
+
+
+
+
+(a)
+
+
+[  ]
+
+
+Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o);
+
+
+
+
+
+(b)
+
+
+[  ]
+
+
+Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c);
+
+
+
+
+
+(c)
+
+
+[  ]
+
+
+Insurance company as defined in section 3(a)(19) of
+the Act (15 U.S.C. 78c);
+
+
+
+
+
+(d)
+
+
+[  ]
+
+
+Investment company registered under section 8 of the
+Investment Company Act of 1940 (15 U.S.C. 80a-8);
+
+
+Page 6 of 8
+
+
+
+
+
+(e)
+
+
+[  ]
+
+
+An investment adviser in accordance with §240.13d-1(b)(1)(ii)(E);
+
+
+
+
+
+(f)
+
+
+[  ]
+
+
+An employee benefit plan or endowment fund in accordance with
+§240.13d-1(b)(1)(ii)(F);
+
+
+
+
+
+(g)
+
+
+[  ]
+
+
+A parent holding company or control person in accordance with
+§240.13d-1(b)(1)(ii)(G);
+
+
+
+
+
+(h)
+
+
+[  ]
+
+
+A savings association as defined in Section 3(b) of the
+Federal Deposit Insurance Act (12 U.S.C. 1813);
+
+
+
+
+
+(i)
+
+
+[  ]
+
+
+A church plan that is excluded from the definition of an
+investment company under section 3(c)(14) of the Investment Company Act of 1940
+(15 U.S.C. 80a-3);
+
+
+
+
+
+(j)
+
+
+[  ]
+
+
+Group, in accordance with §240.13d-1(b)(1)(ii)(J).
+
+
+ITEM 4.
+
+
+Ownership.
+
+
+ 
+
+
+(a)
+
+
+Amount beneficially owned:
+
+
+ 
+
+
+ 
+
+
+                           See item 9 on Page 2
+
+                           See item 9 on Page 3
+
+                           See item 9 on Page 4
+
+
+ 
+
+
+(b)
+
+
+Percent of class:
+
+
+ 
+
+
+ 
+
+
+                           See item 11 on Page 2
+
+                           See item 11 on page 3
+
+                           See item 11 on page 4
+
+
+ 
+
+
+(c)
+
+
+Number of shares as to which the person has:
+
+
+  
+
+
+(i)
+
+
+Sole power to vote or to direct the vote:
+
+
+ 
+
+
+ 
+
+
+                           See item 5 on Page 2
+
+                           See item 5 on Page 3
+
+                           See item 5 on Page 4
+
+
+  
+
+
+(ii)
+
+
+Shared power to vote or to direct the vote:
+
+
+ 
+
+
+ 
+
+
+                           See item 6 on Page 2
+
+                           See item 6 on Page 3
+
+                           See item 6 on Page 4
+
+
+Page 7 of 8
+
+
+  
+
+
+(iii)
+
+
+Sole power to dispose or to direct the disposition of:
+
+
+ 
+
+
+ 
+
+
+                           See item 7 on Page 2
+
+                           See item 7 on Page 3
+
+                           See item 7 on Page 4
+
+
+  
+
+
+(iv)
+
+
+Shared power to dispose or to direct the disposition of:
+
+
+ 
+
+
+ 
+
+
+                           See item 8 on Page 2
+
+                           See item 8 on Page 3
+
+                           See item 8 on Page 4
+
+
+ITEM 5.
+
+
+Ownership of Five Percent or Less of a Class.
+
+
+          
+If this statement is being filed to report the fact that as of the date hereof
+the reporting person has ceased to be the beneficial owner of more than five
+percent of the class of securities, check the following [ ].
+
+
+ITEM 6.
+
+
+Ownership of More than Five Percent on Behalf of Another
+Person.
+
+
+          
+Not applicable.
+
+
+ITEM 7.
+
+
+Identification and Classification of the Subsidiary Which
+Acquired the Security Being
+
+Reported on By the Parent Holding Company or Control Person.
+
+
+          
+See Exhibit 99.2
+
+
+ITEM 8.
+
+
+Identification and Classification of Members of the
+Group.
+
+
+          
+Not applicable.
+
+
+ITEM 9.
+
+
+Notice of Dissolution of Group.
+
+
+          
+Not applicable.
+
+
+ITEM 10.
+
+
+Certifications.
+
+
+ 
+
+
+          By
+signing below I certify that, to the best of my knowledge and belief, the
+securities referred to above were not acquired and are not held for the purpose
+of or with the effect of changing or influencing the control of the issuer of
+the securities and were not acquired and are not held in connection with or as a
+participant in any transaction having that purpose or effect.
+
+
+Page 8 of 8
+
+
+SIGNATURE
+
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+
+Dated:  November 25, 2002
+
+
+ 
+
+
+MICROSOFT CORPORATION
+
+
+  
+
+
+By:
+
+
+ /s/ John G. Connors
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+   
+
+
+Name:
+
+Title:
+
+
+John G. Connors
+
+Chief Financial Officer
+
+
+ 
+
+
+MICROSOFT LICENSING, INC.
+
+
+
+  
+
+
+By:
+
+
+ /s/ Lloyd Brenner
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+   
+
+
+Name:
+
+Title:
+
+
+Lloyd Brenner
+
+Assistant Treasurer
+
+
+ 
+
+
+MICROSOFT T-HOLDINGS, INC.
+
+
+
+  
+
+
+By:
+
+
+ /s/ Lloyd Brenner
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+   
+
+
+Name:
+
+Title:
+
+
+Lloyd Brenner
+
+Vice President
+
+
+INDEX TO EXHIBITS
+
+
+Exhibit No.
+
+
+Exhibit
+
+
+99.1
+
+
+Joint Filing Statement, dated November 25, 2002, between Microsoft Corporation,
+Microsoft Licensing, Inc. and Microsoft T-Holdings, Inc.
+
+
+99.2
+
+
+Item 7 Information
+
+
+EXHIBIT 99.1
+
+
+JOINT FILING STATEMENT
+
+
+        In
+accordance with Rule 13d-1(k)(1) promulgated under the Securities Exchange
+Act of 1934, the undersigned agrees to the joint filing of a Statement on
+Schedule 13G (including any and all amendments thereto) with respect to the
+Class A Common Stock, par value $0.01 per share, of Comcast Corporation and
+further agrees to the filing of this agreement as an Exhibit thereto. In
+addition, each party to this Agreement expressly authorizes each other party to
+this Agreement to file on its behalf any and all amendments to such Statement on
+Schedule 13G.
+
+
+        This
+agreement may be executed in any number of counterparts, each of which shall be
+deemed to be an original and all of which together shall be deemed to constitute
+one and the same agreement.
+
+
+        IN
+WITNESS WHEREOF, each of the undersigned hereby executes this agreement as of
+November 25, 2002.
+
+
+ 
+
+
+MICROSOFT CORPORATION
+
+
+  
+
+
+By:
+
+
+ /s/ John G. Connors
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+   
+
+
+Name:
+
+Title:
+
+
+John G. Connors
+
+Chief Financial Officer
+
+
+ 
+
+
+MICROSOFT LICENSING, INC.
+
+
+
+  
+
+
+By:
+
+
+ /s/ Lloyd Brenner
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+   
+
+
+Name:
+
+Title:
+
+
+Lloyd Brenner
+
+Assistant Treasurer
+
+
+ 
+
+
+MICROSOFT T-HOLDINGS, INC.
+
+
+
+  
+
+
+By:
+
+
+ /s/ Lloyd Brenner
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+   
+
+
+Name:
+
+Title:
+
+
+Lloyd Brenner
+
+Vice President
+
+
+EXHIBIT 99.2
+
+
+ITEM 7 INFORMATION
+
+
+        The
+shares of Comcast Class A Common Stock beneficially owned by Microsoft
+Corporation are held directly by Microsoft T-Holdings, Inc., which is a
+wholly-owned subsidiary of Microsoft Licensing, Inc. and an indirect subsidiary
+of Microsoft Corporation.
+
+

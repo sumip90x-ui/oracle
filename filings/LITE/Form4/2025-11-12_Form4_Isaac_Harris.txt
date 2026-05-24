@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-12
+Transaction Date: 2025-11-07
+Person: Isaac Harris — 
+Type: SELL
+Shares: 200 at $243.32
+Shares After: 11
+=== TICKER: LITE ===
+===

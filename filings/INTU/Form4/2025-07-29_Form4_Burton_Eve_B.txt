@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-29
+Transaction Date: 2025-07-25
+Person: Burton Eve B — Director
+Type: OTHER
+Shares: 279 at $0
+Shares After: 0
+=== TICKER: INTU ===
+===

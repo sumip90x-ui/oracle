@@ -1,0 +1,229 @@
+=== FILING DATE: 2021-02-16 ===
+=== PERIOD COVERED: 2021-02-16 ===
+=== SOURCE: SC13G filed 2021-02-16 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: SNOW ===
+
+
+
+SC 13G
+
+1
+
+schedule13g-slootman2020.htm
+
+SC 13G
+
+
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+SCHEDULE 13G
+Under the Securities Exchange Act of 1934
+(Amendment No.     )*
+ 
+ 
+Snowflake Inc.
+(Name of Issuer)
+Class A Common Stock, $0.0001 par value per share
+(Title of Class of Securities)
+833445109
+(CUSIP Number)
+December 31, 2020
+(Date of Event Which Requires Filing of this Statement)
+ 
+ 
+Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+☐ Rule 13d-l(b)
+☐ Rule 13d-l(c)
+☒ Rule 13d-l(d)
+ 
+*
+The remainder of this cover page shall be filled out for a reporting person’s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
+The information required in the remainder of this cover page shall not be deemed to be “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+  
+CUSIP No. 833445109
+SCHEDULE 13G
+Page 2 of 5
+  1.     
+ 
+Names of Reporting Persons
+Frank Slootman
+  2.    
+ 
+Check the Appropriate Box if a Member of a Group (See Instructions)
+  (a)  ☐        (b)  ☐
+  3.    
+ 
+  SEC Use Only
+  4.    
+ 
+Citizenship or Place of Organization
+United States of America
+Number of
+Shares
+  Beneficially  
+Owned by
+Each
+Reporting
+Person
+With:
+ 5.
+Sole Voting Power
+13,768,735 (See Item 4(a) below)
+ 6.
+Shared Voting Power
+1,449,106 (See Item 4(a) below)
+ 7.
+Sole Dispositive Power
+13,768,735 (See Item 4(a) below)
+ 8.
+Shared Dispositive Power
+1,449,106 (See Item 4(a) below)
+  9.    
+ 
+Aggregate Amount Beneficially Owned by Each Reporting Person
+15,217,841 (See Items 4(a) and 4(b) below)
+10.    
+ 
+Check if the Aggregate Amount in Row (9) Excludes Certain Shares (See Instructions)
+☐
+11.    
+ 
+Percent of Class Represented by Amount in Row (9)
+13.4% (See Item 4(b) below)
+12.    
+ 
+Type of Reporting Person (See Instructions)
+IN
+Item 1.
+ 
+(a)
+Name of Issuer:
+Snowflake Inc. (the “Issuer”)
+ 
+(b)
+Address of Issuer’s Principal Executive Offices:
+450 Concar Drive
+San Mateo, California 94402
+Item 2.
+ 
+(a)
+Name of Person Filing:
+Frank Slootman
+ 
+(b)
+Address of Principal Business Office or, if none, Residence:
+The address for the Reporting Person is:
+c/o Snowflake Inc.
+450 Concar Drive
+San Mateo, California 94402
+ 
+CUSIP No. 833445109
+SCHEDULE 13G
+Page 3 of 5
+(c)
+Citizenship:
+United States
+ 
+(d)
+Title of Class of Securities:
+Class A Common Stock, $0.0001 par value per share
+ 
+(e)
+CUSIP Number:
+833445109
+Item 3. If this statement is filed pursuant to Rules 13d-1(b), or 13d-2(b) or (c), check whether the person filing is a:
+(a)
+☐ Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o).
+(b)
+☐ Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c).
+(c)
+☐ Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c).
+(d)
+☐ Investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8).
+(e)
+☐ An investment advisor in accordance with §240.13d-1(b)(1)(ii)(E);
+(f)
+☐ An employee benefit plan or endowment fund in accordance with §240.13d-1(b)(1)(ii)(F);
+(g)
+☐ A parent holding company or control person in accordance with §240.13d-1(b)(1)(ii)(G);
+(h)
+☐ A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+(i)
+☐ A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C. 80a-3);
+(j)
+☐ A non-U.S. institution in accordance with § 240.13d-1(b)(1)(ii)(J); or
+(k)
+☐ Group, in accordance with § 240.13d-1(b)(1)(ii)(K).
+Item 4. Ownership.
+The following information with respect to the ownership of the Common Stock of the Issuer by the Reporting Person is provided as of December 31, 2020:
+ 
+(a)
+Amount beneficially owned:
+The Reporting Person has sole voting and dispositive power over:
+i.
+74,367 shares of Class B Common Stock held of record by Mr. Slootman; and
+ii.
+13,694,368 shares of Class B Common Stock subject to options exercisable within 60 days of December 31, 2020, of which 5,462,553 shares of Class B Common Stock are vested as of such date.
+The Reporting Person also has shared voting and dispositive power over:
+i.
+1,349,106 shares of Class B Common Stock held by the Slootman Living Trust dtd 9/8/1999, for which Mr. Slootman and his spouse serve as co-trustees; and
+ii.
+100,000 shares of Class B Common Stock held by the Slootman Family 2019 Extended Family Trust, for which Mr. Slootman and his spouse serve as co-trustees.
+Each share of Class B Common Stock will automatically convert into one share of Class A Common Stock upon certain events specified in the Issuer’s certificate of incorporation.
+CUSIP No. 833445109
+SCHEDULE 13G
+Page 4 of 5
+ 
+(b)
+Percent of Class:
+The percent of class was calculated based on (a) 98,110,276 shares of Class A Common Stock and (b) 188,592,130 shares of Class B Common Stock outstanding as of December 31, 2020.
+Each share of Class A Common Stock is entitled to one vote, and each share of Class B Common Stock is entitled to ten votes.
+Based on the aggregate number of shares of Class B Common Stock beneficially owned by the Reporting Person, which pursuant to Rule 13d-3 of the Securities Exchange Act of 1934, as amended, is treated as converted into Class A Common Stock only for purposes of computing the percentage ownership of the Reporting Person.  In accordance with Rule 13d-3, the percentage reported does not reflect the ten for one voting power of the Class B Common Stock because the Class B Common Stock is not a registered class of voting equity securities under the Securities Exchange Act of 1934, as amended.  The 15,217,841 shares of Class B Common Stock held by Reporting Person represents 7.2% of the aggregate combined voting power of the Class A Common Stock and Class B Common Stock.
+ 
+(c)
+Number of shares as to which such person has:
+(i) Sole power to vote or to direct the vote:
+  
+13,768,735 (See Item 4(a) above)
+(ii) Shared power to vote or to direct the vote:
+  
+1,449,106 (See Item 4(a) above)
+(iii) Sole power to dispose or to direct the disposition of:
+  
+13,768,735 (See Item 4(a) above)
+(iv) Shared power to dispose or to direct the disposition of:
+  
+1,449,106 (See Item 4(a) above)
+Item 5. Ownership of Five Percent or Less of a Class.
+If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than 5 percent of the class of securities, check the following ☐.
+Item 6. Ownership of More than Five Percent on Behalf of Another Person.
+Not Applicable.
+Item 7. Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company or Control Person.
+Not applicable.
+Item 8. Identification and Classification of Members of the Group.
+Not applicable.
+Item 9. Notice of Dissolution of Group.
+Not applicable.
+Item 10. Certifications.
+Not applicable.
+ 
+CUSIP No. 833445109
+SCHEDULE 13G
+Page 5 of 5
+SIGNATURES
+After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+ 
+ 
+  
+Frank Slootman
+Date: February 16, 2021
+ 
+  
+/s/ Frank Slootman
+
+

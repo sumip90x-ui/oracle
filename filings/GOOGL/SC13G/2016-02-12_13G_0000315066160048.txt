@@ -1,0 +1,255 @@
+=== FILING DATE: 2016-02-12 ===
+=== PERIOD COVERED: 2016-02-12 ===
+=== SOURCE: SC13G filed 2016-02-12 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: GOOGL ===
+
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>filing.txt
+<TEXT>
+SCHEDULE 13G
+
+Amendment No. 0
+ALPHABET INC
+CLASS A COMMON STOCK
+Cusip #02079K305
+Check the appropriate box to designate the rule pursuant to which this
+Schedule is filed:
+[x] 	  Rule 13d-1(b)
+[ ] 	  Rule 13d-1(c)
+[ ] 	  Rule 13d-1(d)
+Cusip #02079K305
+Item 1: 	   	Reporting Person - FMR LLC
+Item 2: 	   	(a)  	[ ]
+   	   	(b)  	[ ]
+Item 4: 	   	Delaware
+Item 5: 	   	1,942,944
+Item 6: 	   	0
+Item 7: 	   	18,397,196
+Item 8: 	   	0
+Item 9: 	   	18,397,196
+Item 11: 	   	6.314%
+Item 12: 	   	HC
+Cusip #02079K305
+Item 1: 	   	Reporting Person - Abigail P. Johnson
+Item 2: 	   	(a)  	[ ]
+   	   	(b)  	[ ]
+Item 4: 	   	United States of America
+Item 5: 	   	0
+Item 6: 	   	0
+Item 7: 	   	18,397,196
+Item 8: 	   	0
+Item 9: 	   	18,397,196
+Item 11: 	   	6.314%
+Item 12: 	   	IN
+
+Item 1(a). 	    	Name of Issuer:
+
+  	  	          	ALPHABET INC
+
+Item 1(b). 	    	Address of Issuer's Principal Executive Offices:
+
+  	  	          	1600 AMPHITHEATRE PARKWAY
+  	  	          	MOUNTAIN VIEW, CA 94043
+  	  	          	USA
+
+Item 2(a). 	     	 Name of Person Filing:
+
+  	   	               	 FMR LLC
+
+Item 2(b). 	     	 Address or Principal Business Office or, if None,
+Residence:
+
+  	   	               	 245 Summer Street, Boston, Massachusetts 02210
+
+Item 2(c). 	     	 Citizenship:
+
+  	   	               	 Not applicable
+
+Item 2(d). 	     	 Title of Class of Securities:
+
+  	   	               	 CLASS A COMMON STOCK
+
+Item 2(e). 	     	 CUSIP Number:
+
+  	   	               	 02079K305
+
+Item 3. 	    	This statement is filed pursuant to Rule 13d-1(b) or 13d-2(b)
+or (c) and the
+person filing, FMR LLC, is a parent holding company in accordance with
+Section 240.13d-1(b)(1)(ii)(G).   (Note:  See Exhibit A).
+
+Item 4. 	    	Ownership
+
+  	  	     	(a)    Amount Beneficially Owned: 	18,397,196
+
+  	  	     	(b)    Percent of Class: 	6.314%
+
+  	  	     	(c)    Number of shares as to which such person has:
+
+  	  	     	       (i)    sole power to vote or to direct the vote:
+1,942,944
+
+  	  	     	       (ii)    shared power to vote or to direct the vote: 	0
+
+  	  	     	       (iii)    sole power to dispose or to direct the
+disposition of: 	18,397,196
+
+  	  	     	       (iv)    shared power to dispose or to direct the
+disposition of: 	0
+
+Item 5. 	    	Ownership of Five Percent or Less of a Class.
+
+  	    	     	Not applicable.
+
+Item 6. 	    	Ownership of More than Five Percent on Behalf of Another
+Person.
+
+  	 Various persons have the right to receive or the power to direct the
+receipt of dividends from, or the proceeds from the sale of, the CLASS A
+COMMON STOCK of ALPHABET INC. No one other person's interest in the CLASS A
+COMMON STOCK of ALPHABET INC is more than five percent of the total
+outstanding CLASS A COMMON STOCK.
+
+Item 7. 	    	Identification and Classification of the Subsidiary Which
+Acquired the Security Being Reported on By the Parent Holding Company.
+
+  	    	     	See attached Exhibit A.
+
+Item 8. 	    	Identification and Classification of Members of the Group.
+
+  	    	     	Not applicable.
+
+Item 9. 	    	Notice of Dissolution of Group.
+
+  	    	  	Not applicable.
+
+Item 10. 	    	Certifications.
+
+
+By signing below I certify that, to the best of my knowledge and belief,
+the securities referred to above were acquired and are held in the ordinary
+course of business and were not acquired and are not held for the purpose
+of or with the effect of changing or influencing the control of the issuer
+of the securities and were not acquired and are not held in connection with
+or as a participant in any transaction having that purpose or effect.
+
+
+Signature
+
+
+After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete
+and correct.
+
+  	February 12, 2016
+  	Date
+
+  	/s/ Marc R. Bryant
+  	Signature
+
+  	Marc R. Bryant
+  	 Duly authorized under Power of Attorney effective as of September 23,
+2015, by and on behalf of FMR LLC and its direct and indirect subsidiaries*
+
+
+* This power of attorney is incorporated herein by reference to Exhibit 24
+to the Form 4 filed by FMR LLC on November 25, 2015, accession number:
+0000315066-15-003312
+
+
+Exhibit A
+
+
+                 Pursuant to the instructions in Item 7 of Schedule 13G,
+the following table lists the identity and Item 3 classification, if
+applicable, of each relevant entity that beneficially owns shares of the
+security class being reported on this Schedule 13G.
+
+
+Entity 	ITEM 3 Classification
+CROSBY ADVISORS LLC 	N/A
+FIAM LLC (formerly known as PYRAMIS GLOBAL ADVISORS, LLC) 	IA
+FIDELITY (CANADA) ASSET MANAGEMENT ULC (formerly known as PYRAMIS GLOBAL
+        ADVISORS (CANADA) ULC) 	FI
+FIDELITY INSTITUTIONAL ASSET MANAGEMENT TRUST COMPANY (formerly known as
+        PYRAMIS GLOBAL ADVISORS TRUST COMPANY) 	BK
+FIDELITY MANAGEMENT & RESEARCH (HONG KONG) LIMITED 	IA
+FIDELITY MANAGEMENT TRUST COMPANY, INC. 	BK
+FMR CO., INC * 	IA
+STRATEGIC ADVISERS, INC. 	IA
+
+
+* Entity beneficially owns 5% or greater of the outstanding shares of the
+security class being reported on this Schedule 13G.
+
+
+                Abigail P. Johnson is a Director, the Vice Chairman, the
+Chief Executive Officer and the President of FMR LLC.
+
+
+                Members of the Johnson family, including Abigail P.
+Johnson, are the predominant owners, directly or through trusts, of Series
+B voting common shares of FMR LLC, representing 49% of the voting power of
+FMR LLC. The Johnson family group and all other Series B shareholders have
+entered into a shareholders' voting agreement under which all Series B
+voting common shares will be voted in accordance with the majority vote of
+Series B voting common shares. Accordingly, through their ownership of
+voting common shares and the execution of the shareholders' voting
+agreement, members of the Johnson family may be deemed, under the
+Investment Company Act of 1940, to form a controlling group with respect to
+FMR LLC.
+
+
+                Neither FMR LLC nor Abigail P. Johnson has the sole power
+to vote or direct the voting of the shares owned directly by the various
+investment companies registered under the Investment Company Act ("Fidelity
+Funds") advised by Fidelity Management & Research Company ("FMR Co"), a
+wholly owned subsidiary of FMR LLC, which power resides with the Fidelity
+Funds' Boards of Trustees. Fidelity Management & Research Company carries
+out the voting of the shares under written guidelines established by the
+Fidelity Funds' Boards of Trustees.
+
+
+                This filing reflects the securities beneficially owned, or
+that may be deemed to be beneficially owned, by FMR LLC, certain of its
+subsidiaries and affiliates, and other companies (collectively, the "FMR
+Reporters"). This filing does not reflect securities, if any, beneficially
+owned by certain other companies whose beneficial ownership of securities
+is disaggregated from that of the FMR Reporters in accordance with
+Securities and Exchange Commission Release No. 34-39538 (January 12, 1998).
+
+
+RULE 13d-1(k)(1) AGREEMENT
+
+
+                The undersigned persons, on February 12, 2016, agree and
+consent to the joint filing on their behalf of this Schedule 13G in
+connection with their beneficial ownership of the CLASS A COMMON STOCK of
+ALPHABET INC at December 31, 2015.
+
+
+  	FMR LLC
+
+  	By /s/ Marc R. Bryant
+  	Marc R. Bryant
+  	Duly authorized under Power of Attorney effective as of September 23,
+2015, by and on behalf of FMR LLC and its direct and indirect subsidiaries*
+
+  	Abigail P. Johnson
+
+  	By /s/ Marc R. Bryant
+  	Marc R. Bryant
+  	Duly authorized under Power of Attorney effective as of October 12,
+2015, by and on behalf of Abigail P. Johnson*
+
+
+* This power of attorney is incorporated herein by reference to Exhibit 24
+to the Form 4 filed by FMR LLC on November 25, 2015, accession number:
+0000315066-15-003312
+
+
+</TEXT>
+</DOCUMENT>

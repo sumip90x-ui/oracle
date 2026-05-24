@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-02
+Transaction Date: 2025-12-01
+Person: Jolla Alice L. — Chief Accounting Officer
+Type: OTHER
+Shares: 412 at $492.0100
+Shares After: 72603.2416
+=== TICKER: MSFT ===
+===

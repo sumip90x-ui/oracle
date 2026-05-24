@@ -1,0 +1,1805 @@
+=== FILING DATE: 2016-02-12 ===
+=== PERIOD COVERED: 2016-02-12 ===
+=== SOURCE: SC13G filed 2016-02-12 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: GOOGL ===
+
+
+
+SC 13G
+
+1
+
+d125619dsc13g.htm
+
+SC 13G
+
+
+SC 13G
+
+
+ 
+
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, DC 20549
+
+ 
+
+
+ 
+
+SCHEDULE 13G
+
+
+Under the Securities Exchange Act of 1934
+
+
+(Amendment No.    )*
+
+ 
+
+
+ 
+
+Alphabet Inc.
+
+
+(Name of Issuer)
+
+
+Class A Common Stock
+
+
+Class B Common Stock
+
+
+(Title of Class of Securities)
+
+
+Class A Common Stock: 02079K305
+
+
+Class B Common Stock: 02079K206
+
+
+(CUSIP Number)
+
+
+December 31, 2015
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+ 
+
+
+ 
+
+Check the appropriate box to
+designate the rule pursuant to which this Schedule is filed:
+
+ 
+
+
+ 
+
+
+¨
+
+
+Rule 13d-1(b)
+
+ 
+
+
+ 
+
+
+¨
+
+
+Rule 13d-1(c)
+
+ 
+
+
+ 
+
+
+x
+
+
+Rule 13d-1(d)
+
+ 
+
+
+*
+ 
+
+
+The remainder of this cover page shall be filled out for a reporting person’s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information
+which would alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page
+shall not be deemed to be “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions
+of the Act (however,
+see
+ the
+Notes
+).
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+Page 1 of 10
+
+
+ 
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ 
+
+
+  CUSIP NO. Class A: 02079K305; Class B: 02079K206
+
+
+  
+1
+.
+    
+
+
+ 
+
+
+
+NAMES OF REPORTING PERSONS
+
+
+I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+ 
+
+
+Eric E. Schmidt
+
+
+  
+2
+.
+    
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP (see instructions)
+
+
+(a)  
+¨
+        (b)  
+¨
+
+ 
+
+
+  
+3
+.
+    
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  
+4
+.
+    
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+United States
+
+
+
+NUMBER OF
+
+
+SHARES
+
+
+ BENEFICIALLY  
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+ 
+
+
+  
+
+
+  
+5
+.
+    
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+1,442,131 of Class A Common Stock
+(1)
+(2)
+
+1,194,309 of Class B Common Stock
+
+
+  
+
+
+  
+6
+.
+    
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+3,220,105 of Class A Common Stock
+(1)
+(3)
+
+3,220,105 of Class B Common Stock
+(3)
+
+
+  
+
+
+  
+7
+.
+    
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+1,442,131 of Class A Common Stock
+(1)
+(2)
+
+1,194,309 of Class B Common Stock
+
+
+  
+
+
+  
+8
+.
+    
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+3,220,105 of Class A Common Stock
+(1)
+(3)
+
+3,220,105 of Class B Common Stock
+(3)
+
+
+  
+9
+.
+    
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+4,662,236 of Class A Common Stock
+(1) (4)
+
+
+4,414,414 of Class B Common Stock
+(5)
+
+
+10
+.
+    
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9) EXCLUDES CERTAIN SHARES (see instructions)  
+¨
+
+ 
+
+
+    
+
+
+11
+.
+    
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+1.6% of Class A Common Stock
+(1) (4)
+
+8.8% of Class B Common Stock
+(5)
+
+
+12
+.
+    
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON (see
+instructions)
+
+ 
+
+IN
+
+
+
+ 
+
+
+ 
+
+
+(1)
+
+
+Each share of Class B Common Stock is convertible at the option of the holder into one share of Class A Common Stock. The rights of the holders of Class A Common Stock and Class B Common Stock are
+identical, except with respect to conversion rights (noted above) and voting rights. Each share of Class B Common Stock is entitled to ten votes per share, whereas each share of Class A Common Stock is entitled to one vote per share.
+Ownership of Class A Common Stock assumes conversion of all such reporting person’s shares of Class B Common Stock into shares of Class A Common Stock.
+
+
+ 
+
+Page 2 of 10
+
+
+ 
+
+
+(2)
+
+
+Comprises (i) 60,491 shares of Class A Common Stock held directly by Mr. Schmidt, (ii) 181,840 shares of Class A Common Stock issuable upon exercise of vested stock options, (iii) 5,491
+shares of Class A Common Stock issuable upon Google Stock Units vesting within 60 days of December 31, 2015, and (iv) 1,194,309 shares of Class B Common Stock held directly by Mr. Schmidt.
+
+
+ 
+
+
+(3)
+
+
+Comprises (i) 2,432,107 shares of Class B Common Stock held by The Schmidt Family Living Trust and (ii) 787,998 shares of Class B Common Stock held by Schmidt Investments, L.P. of which The Schmidt
+Family Living Trust is the sole general partner.
+
+
+ 
+
+
+(4)
+
+
+Represents shares described in (2) and (3) above.
+
+
+ 
+
+
+(5)
+
+
+Comprises (i) 1,194,309 shares of Class B Common Stock held directly by Mr. Schmidt, (ii) 2,432,107 shares of Class B Common Stock held by The Schmidt Family Living Trust and (iii) 787,998
+shares of Class B Common Stock held by Schmidt Investments, L.P. of which The Schmidt Family Living Trust is the sole general partner.
+
+
+ 
+
+Page 3 of 10
+
+
+ 
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+ 
+
+
+  CUSIP NO. Class A: 02079K305; Class B: 02079K206
+
+
+  
+1
+.
+    
+
+
+ 
+
+
+
+NAMES OF REPORTING PERSONS
+
+
+I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+ 
+
+
+The Schmidt Family Living Trust
+
+
+  
+2
+.
+    
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP (see instructions)
+
+
+(a)  
+¨
+        (b)  
+¨
+
+ 
+
+
+  
+3
+.
+    
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+ 
+
+
+  
+4
+.
+    
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+N/A
+
+
+
+NUMBER OF
+
+
+SHARES
+
+
+ BENEFICIALLY  
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+ 
+
+
+  
+
+
+  
+5
+.
+    
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+0 shares of Class A Common Stock
+
+
+0 shares of Class B Common Stock
+
+
+  
+
+
+  
+6
+.
+    
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+3,220,105 of Class A Common Stock
+
+(1)
+
+(2)
+
+3,220,105 of Class B Common Stock
+(2)
+
+
+  
+
+
+  
+7
+.
+    
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+0 shares of Class A Common Stock
+
+
+0 shares of Class B Common Stock
+
+
+  
+
+
+  
+8
+.
+    
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+3,220,105 of Class A Common Stock
+
+(1)
+
+(2)
+
+3,220,105 of Class B Common Stock
+ (2)
+
+
+  
+9
+.
+    
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+3,220,105 of Class A Common Stock
+(1)
+
+(2)
+
+
+3,220,105 of Class B Common Stock
+ (2)
+
+
+10
+.
+    
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9) EXCLUDES CERTAIN SHARES (see instructions)  
+¨
+
+ 
+
+
+    
+
+
+11
+.
+    
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+1.1% of Class A Common Stock
+
+(1) (2)
+
+6.4% of Class B Common Stock
+
+(2)
+
+
+12
+.
+    
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON (see
+instructions)
+
+ 
+
+OO
+
+
+ 
+
+Page 4 of 10
+
+
+ 
+
+
+(1)
+
+
+Each share of Class B Common Stock is convertible at the option of the holder into one share of Class A Common Stock. The rights of the holders of Class A Common Stock and Class B Common Stock are
+identical, except with respect to conversion rights (noted above) and voting rights. Each share of Class B Common Stock is entitled to ten votes per share, whereas each share of Class A Common Stock is entitled to one vote per share.
+Ownership of Class A Common Stock assumes conversion of all such reporting person’s shares of Class B Common Stock into shares of Class A Common Stock.
+
+
+ 
+
+
+(2)
+
+
+Comprises (i) 2,432,107 shares of Class B Common Stock held by The Schmidt Family Living Trust and (ii) 787,998 shares of Class B Common Stock held by Schmidt Investments, L.P. of which The Schmidt
+Family Living Trust is the sole general partner.
+
+
+ 
+
+Page 5 of 10
+
+
+Item 1.
+
+
+
+ 
+
+
+ 
+
+
+(a)
+
+
+Name of Issuer: Alphabet Inc.
+
+ 
+
+
+ 
+
+
+(b)
+
+
+Address of Issuer’s Principal Executive Offices:
+
+1600 Amphitheatre Parkway, Mountain
+View, CA 94043
+
+ 
+
+
+Item 2.
+
+
+
+ 
+
+
+ 
+
+
+(a)
+
+
+Name of Person(s) Filing:
+
+Eric E. Schmidt
+
+
+The Schmidt Family Living Trust
+
+ 
+
+
+ 
+
+
+(b)
+
+
+Address of Principal Business Office or, if none, Residence:
+
+c/o Alphabet Inc., 1600
+Amphitheatre Parkway, Mountain View, CA 94043
+
+ 
+
+
+ 
+
+
+(c)
+
+
+Citizenship:
+
+ 
+
+
+
+Eric E. Schmidt
+
+
+ 
+
+
+United States of America
+
+
+
+The Schmidt Family Living Trust
+
+
+ 
+
+
+N/A
+
+
+
+ 
+
+
+ 
+
+
+(d)
+
+
+Title of Class of Securities:
+
+Class A Common Stock, par value $0.001 per share
+
+
+Class B Common Stock, par value $0.001 per share
+
+ 
+
+
+ 
+
+
+(e)
+
+
+CUSIP Number:
+
+Class A Common Stock: 02079K305
+
+
+Class B Common Stock: 02079K206
+
+ 
+
+
+Item 3.
+
+
+If this statement is filed pursuant to §§240.13d-l(b) or 240.13d-2(b) or (c), check whether the person filing is a:
+
+
+ 
+
+
+(a)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o);
+
+
+(b)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c);
+
+
+(c)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c);
+
+
+(d)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C 80a-8);
+
+
+(e)
+
+
+  
+
+
+¨
+
+
+  
+
+
+An investment adviser in accordance with §240.13d-1(b)(1)(ii)(E);
+
+
+(f)
+
+
+  
+
+
+¨
+
+
+  
+
+
+An employee benefit plan or endowment fund in accordance with §240.13d-1(b)(1)(ii)(F);
+
+
+(g)
+
+
+  
+
+
+¨
+
+
+  
+
+
+A parent holding company or control person in accordance with § 240.13d-1(b)(1)(ii)(G);
+
+
+(h)
+
+
+  
+
+
+¨
+
+
+  
+
+
+A savings association as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+
+
+(i)
+
+
+  
+
+
+¨
+
+
+  
+
+
+A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C. 80a-3);
+
+
+(j)
+
+
+  
+
+
+¨
+
+
+  
+
+
+A non-U.S. institution in accordance with §240.13d-1(b)(1)(ii)(J);
+
+
+(k)
+
+
+  
+
+
+¨
+
+
+  
+
+
+Group, in accordance with §240.13d-1(b)(1)(ii)(K).
+
+
+
+ 
+
+
+ 
+
+Page 6 of 10
+
+
+Item 4.
+
+
+Ownership.
+
+Ownership. On August 10, 2015, Google Inc., a Delaware corporation
+(“Google”), announced plans to create a new public holding company, Alphabet Inc., a Delaware corporation (“Alphabet”), by implementing a holding company reorganization (the “Alphabet Merger”). Following the Alphabet
+Merger, Alphabet became the successor issuer to Google. On October 2, 2015, Google implemented the Alphabet Merger pursuant to the Agreement and Plan of Merger, dated as of October 2, 2015, among Google, Alphabet and Maple Technologies
+Inc., a Delaware corporation, which resulted in Alphabet owning all of the outstanding capital stock of Google.
+
+Pursuant to Rule
+13d-3(d)(1), all shares of Class B Common Stock (which are convertible into shares of Class A Common Stock) held by the reporting person were deemed to be converted for the purposes of (i) determining the aggregate amount of shares of
+Class A Common Stock beneficially owned by the reporting person and (ii) calculating the percentages of the Class A Common Stock owned by such person. Consequently, all Class A Common Stock amounts and percentages are inclusive
+of the Class B Common Stock amounts and percentages set forth herein. The percentages of ownership set forth below are based on 292,296,901 shares of Class A Common Stock and 50,294,813 shares of Class B Common Stock of Alphabet outstanding at
+December 31, 2015.
+
+ 
+
+
+ 
+
+
+  
+
+
+Class A
+ (1)
+
+
+ 
+
+
+ 
+
+
+Class B
+
+
+ 
+
+
+
+(a)    Amount beneficially owned:
+
+
+  
+
+
+ 
+
+
+
+Eric E. Schmidt
+(2)
+
+
+  
+
+
+ 
+
+
+4,662,236
+
+
+  
+
+
+ 
+
+
+ 
+
+
+4,414,414
+
+
+  
+
+
+
+The Schmidt Family Living Trust
+(3)
+
+
+  
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+ 
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+
+(b)    Percent of class:
+
+
+  
+
+
+ 
+
+
+
+Eric E. Schmidt
+
+
+  
+
+
+ 
+
+
+1.6
+
+
+% 
+
+
+ 
+
+
+ 
+
+
+8.8
+
+
+% 
+
+
+
+The Schmidt Family Living Trust
+
+
+  
+
+
+ 
+
+
+1.1
+
+
+% 
+
+
+ 
+
+
+ 
+
+
+6.4
+
+
+% 
+
+
+
+(c)    Number of shares as to which the person has:
+
+
+  
+
+
+ 
+
+
+
+(i)     Sole power to vote or to direct the vote
+
+
+  
+
+
+ 
+
+
+
+Eric E. Schmidt
+
+
+  
+
+
+ 
+
+
+1,442,131
+
+
+  
+
+
+ 
+
+
+ 
+
+
+1,194,309
+
+
+  
+
+
+
+The Schmidt Family Living Trust
+
+
+  
+
+
+ 
+
+
+0
+
+
+  
+
+
+ 
+
+
+ 
+
+
+0
+
+
+  
+
+
+
+(ii)    Shared power to vote or to direct the vote
+
+
+  
+
+
+ 
+
+
+
+Eric E. Schmidt
+
+
+  
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+ 
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+
+The Schmidt Family Living Trust
+
+
+  
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+ 
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+
+(iii)  Sole power to dispose or to direct the disposition of
+
+
+  
+
+
+ 
+
+
+
+Eric E. Schmidt
+
+
+  
+
+
+ 
+
+
+1,442,131
+
+
+  
+
+
+ 
+
+
+ 
+
+
+1,194,309
+
+
+  
+
+
+
+The Schmidt Family Living Trust
+
+
+  
+
+
+ 
+
+
+0
+
+
+  
+
+
+ 
+
+
+ 
+
+
+0
+
+
+  
+
+
+
+(iv)   Shared power to dispose or to direct the disposition of
+
+
+  
+
+
+ 
+
+
+
+Eric E. Schmidt
+
+
+  
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+ 
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+
+The Schmidt Family Living Trust
+
+
+  
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+ 
+
+
+ 
+
+
+3,220,105
+
+
+  
+
+
+
+ 
+
+
+ 
+
+
+(1)
+
+
+Assumes conversion of all such reporting person’s shares of Class B Common Stock into shares of Class A Common Stock.
+
+
+ 
+
+
+(2)
+
+
+Comprises (i) 60,491 shares of Class A Common Stock held directly by Mr. Schmidt, (ii) 181,840 shares of Class A Common Stock issuable upon exercise of vested stock options, (iii) 5,491
+shares of Class A Common Stock issuable upon Google Stock Units vesting within 60 days of December 31, 2015, (iv) 1,194,309 shares of Class B Common Stock held directly by Mr. Schmidt and (v) 3,220,105 shares of
+Class A Common Stock beneficially held by The Schmidt Family Living Trust of which Mr. Schmidt is a
+co-trustee.
+
+
+
+ 
+
+Page 7 of 10
+
+
+ 
+
+
+(3)
+
+
+Includes (i) 2,432,107 shares of Class B Common Stock held by The Schmidt Family Living Trust and (ii) 787,998 shares of Class B Common Stock held by Schmidt Investments, L.P. of which The Schmidt
+Family Living Trust is the sole general partner.
+
+ 
+
+
+Item 5.
+
+
+Ownership of Five Percent or Less of a Class
+
+Not applicable.
+
+
+ 
+
+
+Item 6.
+
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+Not applicable.
+
+
+ 
+
+
+Item 7.
+
+
+Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company
+
+
+Not applicable.
+
+ 
+
+
+Item 8.
+
+
+Identification and Classification of Members of the Group
+
+Not applicable.
+
+
+ 
+
+
+Item 9.
+
+
+Notice of Dissolution of Group
+
+Not applicable.
+
+
+ 
+
+
+Item 10.
+
+
+Certification
+
+Not applicable.
+
+
+ 
+
+
+
+Exhibit
+
+
+  
+
+
+
+Document Description
+
+
+99.1
+
+
+  
+
+
+Agreement Pursuant to Rule 13d-1(k)(1)(iii)
+
+
+ 
+
+Page 8 of 10
+
+
+SIGNATURE
+
+
+After reasonable inquiry and to the best of the Reporting Person’s knowledge and belief, the Reporting Person certifies that the
+information set forth in this statement is true, complete and correct.
+
+Date: February 11, 2016
+
+
+ 
+
+
+ERIC E. SCHMIDT
+
+
+
+/s/ Eric E. Schmidt
+
+
+ 
+
+
+Eric E. Schmidt
+
+
+THE SCHMIDT FAMILY LIVING TRUST
+
+
+By:
+
+
+ 
+
+
+
+/s/ Eric E. Schmidt
+
+
+ 
+
+
+Eric E. Schmidt, Co-Trustee
+
+
+ 
+
+Page 9 of 10
+
+

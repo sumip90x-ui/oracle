@@ -1,0 +1,58 @@
+=== FILING DATE: 2025-09-03 ===
+=== PERIOD COVERED: 2025-07-31 ===
+=== SOURCE: 10-K filed 2025-09-03 ===
+=== SECTION: Item 1A — Risk Factors ===
+=== TICKER: INTU ===
+
+Item 1A
+ of Part I of this Annual Report.
+34
+ Intuit
+ Fiscal 2025 Form 10-K
+Table
+ of Contents
+Overview of Financial Results
+The most important financial indicators that we use to assess our business are revenue growth for the company as a whole and for each reportable segment; operating income growth for the company as a whole; earnings per share; and cash flow from operations. We also track certain non-financial drivers of revenue growth and, when material, identify them in the applicable discussions of segment results below. Service offerings are a significant part of our business. Our total service revenue was $16.4 billion, or 87% of our total revenue in fiscal 2025, and we expect our total service revenue as a percentage of our total revenue to grow over the long term.
+Key highlights for fiscal 2025 include the following:
+Revenue of
+Global Business Solutions revenue of
+Consumer revenue of
+$18.8 B
+$11.1 B
+$4.9 B
+up 16% from fiscal 2024
+up 16% from fiscal 2024
+up 10% from fiscal 2024
+Credit Karma revenue of
+ProTax revenue of
+Operating income of
+$2.3 B
+$621 M
+$4.9 B
+up 32% from fiscal 2024
+up 4% from fiscal 2024
+up 36% from fiscal 2024
+Net income of
+Diluted net income per share of
+Cash flow from operations of
+$3.9 B
+$13.67
+$6.2 B
+up 31% from fiscal 2024
+up 31% from fiscal 2024
+up 27% from fiscal 2024
+CRITICAL ACCOUNTING ESTIMATES
+In preparing our consolidated financial statements in accordance with U.S. generally accepted accounting principles (GAAP), we are required to make estimates, assumptions, and judgments that can have a material impact on our net revenue, operating income or loss, and net income or loss, as well as on the value of certain assets and liabilities on our consolidated balance sheets. Actual results could differ materially from our estimates. Critical accounting estimates are those estimates that involve a significant level of estimations and uncertainty and have had, or are reasonably likely to have, a material impact on our financial condition or results of operations. We believe that the estimates, assumptions, and judgments involved in the following accounting policies have the greatest potential impact on our consolidated financial statements, so we consider these to be our critical accounting estimates:
+•
+Revenue Recognition
+•
+Goodwill, Acquired Intangible Assets, and Other Long-Lived Assets – Impairment Assessments
+•
+Legal Contingencies
+•
+Accounting for Income Taxes
+
+– Estimates of Deferred Taxes, Valuation Allowances, and Uncertain Tax Positions
+Our senior management has reviewed the development and selection of these critical accounting estimates and their disclosure in this Annual Report on Form 10-K with the Audit and Risk Committee of our Board of Directors. For further information on all of our significant accounting policies, see Note 1, “
+Description of Business and Summary of Significant Accounting Policies
+” to the consolidated financial statements in

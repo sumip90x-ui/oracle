@@ -1,0 +1,110 @@
+=== FILING DATE: 2025-12-15 ===
+=== PERIOD COVERED: 2025-12-15 ===
+=== SOURCE: 8-K filed 2025-12-15 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: LITE ===
+
+
+
+lite-20251215
+0001633978
+false
+0001633978
+2025-12-15
+2025-12-15
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+Form 
+8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of report (Date of earliest event reported):
+
+December 15, 2025
+    
+Lumentum Holdings Inc.
+
+(Exact name of Registrant as specified in its charter)
+ 
+Delaware
+001-36861
+47-3108385
+(State or Other Jurisdiction
+of Incorporation)
+(Commission File Number)
+(IRS Employer
+Identification Number)
+1001 Ridder Park Drive
+,
+San Jose
+,
+California
+
+95131
+
+(Address of Principal Executive Offices including Zip code)
+(
+408
+)
+546-5483
+
+(Registrant’s Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value of $0.001 per share
+LITE
+Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Item 5.02. Departure of Directors or Principal Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On December 15, 2025, the board of directors (the “Board”) of Lumentum Holdings Inc. (the “Company”) appointed Thad Trent to serve as a member of the Board, effective immediately. Concurrent with his appointment to the Board, Mr. Trent was also appointed to serve on the Audit Committee of the Board. Mr. Trent will serve an initial term of office expiring at the Company’s 2026 annual meeting of stockholders and until his successor is duly elected and qualified. The Company announced Mr. Trent’s appointment in a press release, which is attached as Exhibit 99.1.
+Mr. Trent, 58, has served as Executive Vice President and Chief Financial Officer at ON Semiconductor Corporation (onsemi), a semiconductor supplier of power and sensing solutions, since February 2021. Prior to onsemi, Mr. Trent was the Chief Financial Officer at Cypress Semiconductor Corporation, a semiconductor design and manufacturing company, from June 2014 until its sale to Infineon Technologies AG in April 2020, and was Vice President, Finance from October 2005 to June 2014.  He held progressive leadership positions in finance at Wyle Electronics, Zaffire, Inc., Scion Photonics, Inc. and Wind River Systems, Inc. from 1992 to 2005. Mr. Trent holds a Bachelor of Science degree in Business Administration and Finance from San Diego State University.
+In accordance with the Company’s Outside Director Compensation Policy, the terms of which were described in the Company’s proxy statement for its 2025 annual meeting of stockholders, Mr. Trent is entitled to cash and equity compensation for his service on the Board. Mr. Trent will also enter into the Company’s standard form of indemnification agreement, which has been previously filed with the Securities and Exchange Commission. There are no arrangements or understandings between Mr. Trent and any other persons pursuant to which he was selected as a member of the Board. There are also no family relationships between Mr. Trent and any director or executive officer of the Company, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+Item 9.01. Financial Statements and Exhibits.
+ 
+(d)
+Exhibits.
+ 
+Exhibit No.
+Description
+99.1
+Press release entitled “Lumentum Appoints Thad Trent to Board of Directors” dated December 15, 2025.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL)
+ 
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+LUMENTUM HOLDINGS INC.
+By:
+/s/ Jae Kim
+Name:
+Jae Kim
+Title:
+Senior Vice President, General Counsel and Secretary
+December 15, 2025
+ 
+

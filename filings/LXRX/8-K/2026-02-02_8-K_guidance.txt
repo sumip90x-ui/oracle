@@ -1,0 +1,599 @@
+=== FILING DATE: 2026-02-02 ===
+=== PERIOD COVERED: 2026-01-29 ===
+=== SOURCE: 8-K filed 2026-02-02 ===
+=== SECTION: 8-K Event — guidance ===
+=== TICKER: LXRX ===
+
+
+
+
+8-K
+
+
+
+
+
+NASDAQ
+
+false
+
+0001062822
+
+--12-31
+
+
+
+
+
+
+
+
+0001062822
+
+
+
+2026-01-29
+
+2026-01-29
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+January 29, 2026
+
+ 
+
+
+ 
+
+
+Lexicon Pharmaceuticals, Inc.
+
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Delaware
+
+
+ 
+
+
+000-30111
+
+
+ 
+
+
+76-0474169
+
+
+(State or other jurisdiction of
+incorporation or organization)
+
+
+ 
+
+
+(Commission
+File Number)
+
+
+ 
+
+
+(I.R.S. Employer
+Identification Number)
+
+2445 Technology Forest Blvd.
+,
+11th Floor
+
+The Woodlands
+,
+Texas
+
+77381
+
+(Address of principal executive offices Zip Code)
+
+(281)
+
+863-3000
+
+Registrant’s telephone number, including area code
+
+ 
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common stock, par value $0.001
+
+
+ 
+
+
+LXRX
+
+
+ 
+
+
+
+The Nasdaq Capital Market
+
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule
+12b-2
+ of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 1.01
+
+
+
+Entry into a Material Definitive Agreement
+
+Underwriting Agreement
+
+On January 29, 2026, Lexicon Pharmaceuticals, Inc. (the “
+Company
+”) entered into an Underwriting Agreement (the “
+Underwriting Agreement
+”) with Jefferies LLC (“
+Jefferies
+”) and Piper Sandler & Co. (“
+Piper Sandler
+”), as representatives of the several underwriters named therein (the “
+Underwriters
+”), relating to a public offering (the “
+Public Offering
+”) of 32,000,000 shares (the “
+Shares
+”) of the Company’s common stock, par value $0.001 per share (“
+Common Stock
+”).
+
+The price offered to the public for the Shares was $1.30 per Share (the “
+Public Offering Price
+”). Pursuant to the terms of the Underwriting Agreement, the Company also granted the Underwriters an option, exercisable for 30 days, to purchase up to an additional 4,800,000 shares of Common Stock (the “
+Option Shares
+”) on the same terms as their purchase of the Shares. The gross proceeds to the Company from the Public Offering are expected to be approximately $41.6 million (or $47.84 million if the Underwriters exercise their option to purchase the Option Shares in the full amount), without accounting for underwriting discounts and commissions and estimated offering expenses payable by the Company.
+
+The Underwriting Agreement contains customary representations, warranties and agreements by the Company, obligations of the parties and termination provisions. Additionally, the Company has agreed to indemnify the Underwriters against certain liabilities, including liabilities under the Securities Act of 1933, as amended (the “
+Securities Act
+”). The Company has also agreed with the Underwriters not to offer or sell any shares of its Common Stock (or securities convertible into or exchangeable for Common Stock), subject to certain exceptions, for a period of 60 days after the date of the Underwriting Agreement without the prior written consent of Jefferies and Piper Sandler.
+
+The Public Offering was made pursuant to the Company’s shelf registration statement on Form
+S-3
+ (File
+No. 333-281208)
+ (the “
+Registration Statement
+”), declared effective by the Securities and Exchange Commission on August 15, 2024, and a related prospectus included in the Registration Statement, as supplemented by a preliminary prospectus supplement dated January 29, 2026 and a final prospectus supplement dated January 29, 2026.
+
+The foregoing summary of the terms of the Underwriting Agreement does not purport to be complete and is qualified in its entirety by reference to the Underwriting Agreement, which is attached to this Current Report on Form
+8-K
+ (this “
+Current Report
+”) as Exhibit 1.1, and which is incorporated herein by reference. Vinson & Elkins L.L.P., counsel to the Company, delivered an opinion as to the legality of the issuance and sale of the Shares in the Public Offering, a copy of which is attached hereto as Exhibit 5.1 and is incorporated herein by reference.
+
+Common Stock Purchase Agreement
+
+On January 29, 2026, the Company entered into a Purchase Agreement (the “
+Common Stock Purchase Agreement
+”) with Artal Participations S.à r.l., Invus Public Equities Advisors, LLC, Invus Global Management, LLC, Invus US Partners LLC, Invus Advisors, L.L.C., Invus Public Equities, L.P., Invus, L.P. (“
+Invus
+”), Siren, LLC, Ulys, L.L.C. and Mr. Raymond Debbane (collectively, the “
+Invus Entities
+”).
+
+On February 2, 2026, pursuant to the Common Stock Purchase Agreement and concurrently with the closing of the Public Offering, affiliates of Invus (the “
+Private Placement Purchasers
+”) purchased 22,400,000 shares of Common Stock at a price per share equal to Public Offering Price (the “
+Concurrent Private Placement
+” and, together with the Public Offering, the “
+Offering
+”) in partial satisfaction of the Invus Entities’ preemptive right under the Company’s Sixth Amended and Restated Certificate of Incorporation (the “
+Certificate of Incorporation
+”). The total purchase price of the Common Stock purchased by the Private Placement Purchasers was $29.12 million.
+
+The Common Stock Purchase Agreement incorporates the representations and warranties and covenants made by the Company in the Underwriting Agreement for the benefit of the Private Placement Purchasers and certain of their affiliates. The Common Stock Purchase Agreement also contains customary obligations of the parties, indemnification provisions and serves to waive certain preemptive rights held by the Invus Entities with respect to the Public Offering.
+
+
+ 
+
+2
+
+
+
+
+
+The securities to be issued and sold to the Private Placement Purchasers under the Common Stock Purchase Agreement will not be registered under the Securities Act, in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act, or under any state securities laws. The Company relied on this exemption from registration based in part on representations made by the Private Placement Purchasers under the Common Stock Purchase Agreement. The securities may not be offered or sold in the United States absent registration or an applicable exemption from registration requirements. Neither this Current Report, nor the exhibits attached hereto, is an offer to sell or the solicitation of an offer to buy the securities described herein.
+
+The Common Stock Purchase Agreement is filed as Exhibit 10.1 to this Current Report and is incorporated herein by reference. The description of the Common Stock Purchase Agreement in this Current Report is a summary and is qualified in its entirety by the terms of the Common Stock Purchase Agreement.
+
+Preferred Stock Purchase Agreement
+
+Additionally, on January 29, 2026, the Company entered into a Preferred Stock Purchase Agreement with an affiliate of Invus (the “
+Preferred Private Placement Purchaser
+” and, such agreement, the “
+Preferred Purchase Agreement
+”), pursuant to which the Company agreed to (i) sell 184,365.8 shares of its Series B Convertible Preferred Stock, par value $0.01 per share (the “
+Preferred Stock
+”), at a price of $65 per share in a private placement in partial satisfaction of the Invus Entities’ preemptive right under the Certificate of Incorporation, (ii) grant the Preferred Private Placement Purchaser the option to purchase up to an additional 94,854.88 shares of Preferred Stock at a price of $65 per share, in partial satisfaction of the Invus Entities’ preemptive right under the Certificate of Incorporation, should the Underwriters exercise their option to purchase the Option Shares (the “
+Preferred Option Shares
+”) and (iii) sell an additional 182,779.32 shares of Preferred Stock at a price of $65 per share (clauses (i)-(iii), together, the “
+Preferred Private Placement
+”). Each share of Preferred Stock is convertible into 50 shares of Common Stock, subject to certain conditions to conversion as further described under Item 5.03. The Preferred Private Placement is expected to result in gross proceeds to the Company of approximately $23.86 million (or $30.03 million if the Preferred Private Placement Purchaser exercises its conditional option to purchase the Preferred Option Shares in the full amount), before deducting offering expenses. The Preferred Purchase Agreement contains customary representations, warranties and agreements by the Company and customary conditions to closing, obligations of the parties and termination provisions.
+
+The securities to be issued and sold to the Preferred Private Placement Purchaser under the Preferred Purchase Agreement and the issuance of any Common Stock upon conversion of the Preferred Stock will not be registered under the Securities Act, in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act, or under any state securities laws. The Company relied on this exemption from registration based in part on representations made by the Preferred Private Placement Purchaser under the Preferred Purchase Agreement. The securities may not be offered or sold in the United States absent registration or an applicable exemption from registration requirements. Neither this Current Report, nor the exhibits attached hereto, is an offer to sell or the solicitation of an offer to buy the securities described herein.
+
+The foregoing summary of the terms of the Preferred Purchase Agreement does not purport to be complete and is qualified in its entirety by reference to the Preferred Purchase Agreement, which is attached to this Current Report as Exhibit 10.2, and which is incorporated herein by reference.
+
+Relationships
+
+After the Public Offering, the Concurrent Private Placement and the Preferred Private Placement and following the conversion of the Preferred Stock pursuant to the terms of the Certificate of Designations (as defined below), the Invus Entities will hold approximately 51% of the outstanding Common Stock.
+
+ 
+
+
+Item 3.02
+
+
+
+Unregistered Sales of Equity Securities.
+
+The information regarding the Concurrent Private Placement and the Preferred Private Placement contained in Item 1.01 of this Current Report is hereby incorporated in this Item 3.02 by reference. A total of 23,100,000 shares of Common Stock are issuable upon conversion of the maximum issuable number of shares Preferred Stock pursuant to the Preferred Private Placement. The Concurrent Private Placement, the Preferred Private Placement and the issuance of any Common Stock upon conversion of the Preferred Stock will be taken in reliance upon the exemption from the registration requirements of the Securities Act provided by Section 4(a)(2) thereof.
+
+
+
+
+
+Item 3.03
+
+
+
+Material Modification to Rights of Security Holders
+
+To the extent required, the information regarding the Certificate of Designations (as defined below) set forth in Item 5.03 of this Current Report on Form
+8-K
+ is incorporated herein by reference.
+
+ 
+
+
+Item 5.03
+
+
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+Certificate of Designations
+
+On February 2, 2026, in connection with the Preferred Private Placement, the Company filed with the Secretary of State of the State of Delaware to be effective upon filing the Certificate of Designations of Series B Convertible Preferred Stock of the Company (the “
+Certificate of Designations
+”), in the form approved and adopted by the board of directors of the Company, which sets forth the terms of the Preferred Stock. According to the terms and subject to the conditions set forth in the Certificate of Designations, each share of Preferred Stock will automatically convert into 50 shares (subject to adjustments) of Common Stock, immediately following the satisfaction of all of the following conditions: (i) the approval of the Seventh Amended and Restated Certificate of Incorporation of the Company (the “
+New Charter
+”), which would increase the total authorized shares of Common Stock under the New Charter from 450,000,000 to a number (A) at least equivalent to the number required to permit the immediate conversion of all of the Preferred Stock purchased pursuant to the terms of the Certificate of Designations, without violating the organizational documents of the Company and (B) approved by the Private Placement Purchaser (which approval shall not be unreasonably withheld, conditioned or delayed), by the stockholders of the Company at the upcoming 2026 annual meeting of the Company’s stockholders, (ii) the adoption of the New Charter by the Company’s board of directors and (iii) the filing and acceptance of the New Charter with and by the Secretary of State of the State of Delaware; provided, however, no such automatic conversion shall be permitted until all consents, approvals or clearances with respect to, or termination or expiration of any applicable waiting period (and any extensions thereof) imposed under, The Hart Scott Rodino Antitrust Improvements Act of 1976, as amended, required for the conversion by the holders of Preferred Stock, if any, shall have been obtained, received, deemed to have been received or terminated or expired as the case may be. The holders of the Preferred Stock are not entitled to vote on matters presented to the holders of Common Stock for approval.
+
+The foregoing summary of the Certificate of Designations does not purport to be complete and is qualified in its entirely by reference to the Certificate of Designations, which is attached to this Current Report as Exhibit 3.1, and which is incorporated herein by reference.
+
+ 
+
+
+Item 7.01
+
+
+
+Regulation FD Disclosure.
+
+On January 30, 2026, the Company issued a press release announcing the pricing of the Public Offering, the Concurrent Private Placement and the Preferred Private Placement (the “Pricing Press Release”). A copy of the Pricing Press Release is furnished as Exhibit 99.1 to this Current Report.
+
+In accordance with General Instruction B.2 of Form
+8-K,
+ the information furnished pursuant to this Item 7.01 and Exhibit 99.1 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. The information furnished pursuant to Item 7.01 shall not be deemed an admission as to the materiality of any information in this Current Report that is required to be disclosed solely to satisfy the requirements of Regulation FD.
+
+
+
+
+
+Item 9.01
+
+
+
+Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+ 
+
+
+Exhibit
+Number
+
+
+  
+
+
+
+Description
+
+
+1.1
+
+
+  
+
+
+Underwriting Agreement, dated as of January 29, 2026, by and among Lexicon Pharmaceuticals, Inc. and Jefferies LLC and Piper Sandler & Co., as representatives of the several underwriters named therein.
+
+
+3.3
+
+
+  
+
+
+Certificate of Designations, dated as of February 2, 2026.
+
+
+5.1
+
+
+  
+
+
+Opinion of Vinson & Elkins L.L.P.
+
+
+10.1
+
+
+  
+
+
+Purchase Agreement, dated as of January 29, 2026, among Lexicon Pharmaceuticals, Inc. and Artal Participations S.à r.l., Invus Public Equities Advisors, LLC, Invus Global Management, LLC, Invus US Partners LLC, Invus Advisors, L.L.C., Invus Public Equities, L.P., Invus, Siren, LLC, Ulys, L.L.C and Mr. Raymond Debbane.
+
+
+10.2+
+
+
+  
+
+
+Preferred Stock Purchase Agreement, dated as of January 29, 2026, by and among Lexicon Pharmaceuticals, Inc. and Artal Participations S.à r.l.
+
+
+23.1
+
+
+  
+
+
+Consent of Vinson & Elkins L.L.P. (included in Exhibit 5.1).
+
+
+99.1
+
+
+  
+
+
+Pricing Press Release, dated January 30, 2026.
+
+
+EX-104
+
+
+  
+
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+
+
+ 
+
+
++
+
+
+
+Certain schedules and similar attachments have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K.
+ The registrant undertakes to furnish supplemental copies of any of the omitted schedules upon request by the SEC
+
+
+
+
+
+Signatures
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+
+ 
+
+
+Lexicon Pharmaceuticals, Inc.
+
+
+Date: February 2, 2026
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+ 
+
+
+
+/s/ Brian T. Crum
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Brian T. Crum
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Senior Vice President and General Counsel
+
+

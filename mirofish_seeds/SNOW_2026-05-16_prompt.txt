@@ -1,0 +1,33 @@
+ORACLE V2 SIMULATION: SNOW
+
+CONTEXT:
+Claude's fundamental analysis rates SNOW as BUY (7/10).
+You have received Claude's full analysis as the seed document.
+
+YOUR MISSION:
+1. Search EDGAR and web to verify Claude's key claims
+2. Challenge any claim you find contradicting evidence for
+3. Form your OWN position based on verified evidence
+4. Debate to consensus
+
+THE CORE QUESTION:
+Does the evidence — as YOU have verified it — support Claude's BUY rating?
+Or does your independent research lead to a different conclusion?
+
+WHAT MATTERS:
+- Evidence you found beats claims you haven't verified
+- EDGAR data beats analyst estimates
+- Recent news beats stale data
+- Specific numbers beat general impressions
+
+PREDICTION MARKET:
+Starts at 50/50 (BULL/BEAR). Your trades move it.
+>0.65 = BUY confirmed
+0.50-0.65 = WATCH/HOLD
+0.35-0.50 = PASS
+<0.35 = ELIMINATE / Claude was wrong
+
+VALUATION FRAMEWORK: PLATFORM COMPOUNDER
+PRIMARY METRICS: NRR, RPO growth, ARPU trajectory, platform asset growth, attachment rates.
+DO NOT use EPV as primary valuation — it assumes zero growth.
+Focus on flywheel mechanics: does scale benefit customers?

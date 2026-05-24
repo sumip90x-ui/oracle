@@ -1,0 +1,10 @@
+=== FILING DATE: 2025-11-06 ===
+=== PERIOD COVERED: 2025-09-30 ===
+=== SOURCE: 10-Q filed 2025-11-06 ===
+=== SECTION: Item 1 — Business ===
+=== TICKER: LXRX ===
+
+Item 1
+.  Legal Proceedings
+ 
+We are from time to time party to claims and legal proceedings that arise in the normal course of our business and that we believe will not have, individually or in the aggregate, a material adverse effect on our results of operations, financial condition or liquidity.

@@ -1,0 +1,350 @@
+=== FILING DATE: 2025-11-10 ===
+=== PERIOD COVERED: 2025-11-06 ===
+=== SOURCE: 8-K filed 2025-11-10 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: LXRX ===
+
+
+
+
+8-K
+
+
+
+
+
+NASDAQ
+
+false
+
+0001062822
+
+
+
+
+
+
+
+
+0001062822
+
+
+
+2025-11-06
+
+2025-11-06
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+November 6, 2025
+
+ 
+
+
+ 
+
+
+Lexicon Pharmaceuticals, Inc.
+
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Delaware
+
+
+ 
+
+
+000-30111
+
+
+ 
+
+
+76-0474169
+
+
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+
+ 
+
+
+(Commission
+File Number)
+
+
+ 
+
+
+(I.R.S. Employer
+Identification Number)
+
+2445 Technology Forest Blvd.
+,
+11th Floor
+
+The Woodlands
+,
+Texas
+
+77381
+
+(Address of principal executive offices and Zip Code)
+
+(281)
+
+863-3000
+
+(Registrant’s telephone number, including area code)
+
+ 
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common stock, par value $0.001
+
+
+ 
+
+
+LXRX
+
+
+ 
+
+
+
+The Nasdaq Capital Market
+
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule
+12b-2
+ of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 8.01
+
+
+
+Other Events.
+
+On November 6, 2025, Lexicon Pharmaceuticals, Inc., a Delaware corporation (the “Company”), in connection with its previously announced Open Market Sale Agreement
+SM
+, dated December 29, 2023 (the “Agreement”), with Jefferies LLC, as sales agent, pursuant to which the Company may offer and sell, from time to time, through Jefferies, shares of its common stock, par value $0.001, having an aggregate sales price of up to $75,000,000 (the “Shares”), filed a prospectus supplement (the “prospectus supplement”) to its Registration Statement on Form
+S-3
+ filed with the Securities and Exchange Commission (the “SEC”) on August 2, 2024, and declared effective by the SEC on August 15, 2024 (File
+No. 333-281208)
+ with the SEC (the “Registration Statement”) with respect to the offer and sale of the Shares from time to time pursuant to the Agreement.
+
+The prospectus supplement contained an inadvertent statement that Ernst & Young LLP (“EY”), independent auditors of the Company’s consolidated financial statements, had audited the effectiveness of the Company’s internal control over financial reporting as of December 31, 2024. As a smaller reporting company and a
+non-accelerated
+ filer, the Company is exempt from the requirement to have an independent audit performed with respect to internal control over financial reporting, and, accordingly, EY did not (and was not required to) audit the effectiveness of such internal controls (and no such audit was contained in EY’s report incorporated by reference into the Registration Statement).
+
+This Current Report on Form
+8-K
+ shall not constitute an offer to sell or the solicitation of an offer to buy any Shares under the Agreement nor shall there be any sale of such Shares in any state in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state.
+
+ 
+
+
+
+
+
+Signatures
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+
+ 
+
+
+ 
+
+
+Lexicon Pharmaceuticals, Inc.
+
+
+Date: November 10, 2025
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+ 
+
+
+
+/s/ Brian T. Crum
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Brian T. Crum
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Senior Vice President and General Counsel
+
+

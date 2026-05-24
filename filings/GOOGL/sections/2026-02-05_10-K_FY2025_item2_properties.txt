@@ -1,0 +1,10 @@
+=== FILING DATE: 2026-02-05 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-02-05 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: GOOGL ===
+
+ITEM 2
+.
+PROPERTIES
+Our headquarters are located in Mountain View, California. We own and lease office facilities and data centers around the world, primarily in Asia, Europe, and North America. We believe our existing facilities are in good condition and suitable for the conduct of our business.

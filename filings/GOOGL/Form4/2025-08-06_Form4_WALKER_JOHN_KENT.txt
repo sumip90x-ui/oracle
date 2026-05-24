@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-06
+Transaction Date: 2025-08-04
+Person: WALKER JOHN KENT — President, Global Affairs, CLO
+Type: SELL
+Shares: 59424 at $194.70
+Shares After: 92451
+=== TICKER: GOOGL ===
+===

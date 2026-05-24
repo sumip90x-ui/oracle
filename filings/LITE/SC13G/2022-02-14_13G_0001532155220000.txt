@@ -1,0 +1,732 @@
+=== FILING DATE: 2022-02-14 ===
+=== PERIOD COVERED: 2022-02-14 ===
+=== SOURCE: SC13G filed 2022-02-14 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: LITE ===
+
+
+
+SC 13G
+
+1
+
+Lumentum.htm
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C.  20549
+
+
+
+SCHEDULE 13G
+
+
+Under the Securities Exchange Act of 1934
+
+
+
+(Amendment No.
+	_
+)
+*
+
+
+
+
+
+	Lumentum Holdings Inc
+
+
+(Name of Issuer)
+
+
+
+
+	Common Stock
+
+
+(Title of Class of Securities)
+
+
+
+
+	55024U109
+
+
+(CUSIP Number)
+
+
+
+
+    December 31, 2021
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+
+
+
+Check the appropriate box to designate the rule
+pursuant to which this Schedule is filed:
+
+
+[X]
+
+
+
+Rule 13d-1(b)
+
+
+
+[ ]
+
+
+
+Rule 13d-1(c)
+
+
+
+[ ]
+
+
+
+Rule 13d-1(d)
+
+
+
+*
+
+The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+
+
+The information required in the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 (the "Act") or otherwise subject to the liabilities of that section
+of the Act, but shall be subject to all other provisions of the Act (however,
+see the Notes.)
+
+
+
+CUSIP No.
+
+
+
+	55024U109
+
+
+
+
+1.
+
+
+
+NAMES OF REPORTING PERSONS
+
+I.R.S. IDENTIFICATION NO. OF ABOVE PERSONS (ENTITIES ONLY)
+
+
+AllianceBernstein L.P.
+
+
+	13-4064930
+
+
+2.
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP*
+
+(a)  [ ]
+
+(b)  [X]
+
+
+3.
+
+
+
+SEC USE ONLY
+
+
+
+4.
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+	Delaware
+
+
+
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+
+
+
+5. SOLE VOTING POWER
+
+
+
+3,790,706
+
+
+
+
+
+6.  SHARED VOTING POWER
+
+
+
+0
+
+
+
+
+
+7.  SOLE DISPOSITIVE POWER
+
+
+5,135,754
+
+
+
+
+
+8.  SHARED DISPOSITIVE POWER
+
+
+
+79,692
+
+
+
+
+
+9.
+
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+    5,215,446
+
+
+
+
+
+10.
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+
+  [X]
+
+
+11.
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+    7.2%
+
+
+
+
+12.
+
+
+
+TYPE OF REPORTING PERSON
+
+
+    IA
+
+
+
+
+Item 1.
+
+
+(a)
+
+
+Name of Issuer
+
+Lumentum Holdings Inc
+
+
+
+(b)
+
+
+Address of Issuer's Principal Executive Offices
+
+
+1001 RIDDER PARK DRIVE, SAN JOSE, CA  95131
+
+
+
+
+Item 2.
+
+
+(a)
+
+
+Name of Person Filing
+
+
+AllianceBernstein L.P.
+
+("AllianceBernstein L.P.")
+
+
+
+
+
+(b)
+
+
+Address of Principal Business Office or, if None, Residence
+
+
+    1345 Avenue of the Americas, New York, NY  10105
+
+
+All media outlets, please contact Jennifer Will at AllianceBernstein (212-969-1157) with any questions. All other questions can be directed to Section13USFilings@alliancebernstein.com.
+
+
+
+
+(c)
+
+
+Citizenship
+
+
+	Delaware
+
+
+
+
+
+(d)
+
+
+Title of Class of Securities
+
+
+	Common Stock
+
+
+
+
+(e)
+
+
+CUSIP Number
+
+
+	55024U109
+
+
+
+
+Item 3.
+
+
+If This Statement is Filed Pursuant to
+Rule 13d-1(b), or 13d-2(b) or (c),
+Check Whether the Person Filing is a:
+
+
+(a)
+
+
+
+[ ]
+
+
+
+Broker or dealer registered under Section 15 of the Act (15 U.S.C. 78o).
+
+
+
+(b)
+
+
+
+[ ]
+
+
+
+Bank as defined in Section 3(a)(6) of the Act (15 U.S.C. 78c).
+
+
+
+(c)
+
+
+
+[ ]
+
+
+
+Insurance Company as defined in Section 3(a)(19) of the Act (15 U.S.C. 78c).
+
+
+
+(d)
+
+
+
+[ ]
+
+
+
+Investment Company registered under
+Section 8 of the Investment Company Act of 1940
+(15 U.S.C. 80a-8).
+
+
+
+(e)
+
+
+
+[X]
+
+
+
+An investment adviser in accordance with
+Rule 240.13d-1(b)(1)(ii)(E);
+
+
+
+(f)
+
+
+
+[ ]
+
+
+
+An employee benefit plan or endowment fund in accordance with
+Rule 240.13d-1(b)(1)(ii)(F);
+
+
+
+(g)
+
+
+
+[ ]
+
+
+
+A parent holding company or control person in accordance with
+Rule 240.13d-1(b)(1)(ii)(G);
+
+
+
+(h)
+
+
+
+[ ]
+
+
+
+A savings association as defined in
+Section 3(b) of the Federal Deposit Insurance Act
+(12 U.S.C. 1813);
+
+
+
+(i)
+
+
+
+[ ]
+
+
+
+A church plan that is excluded from the
+definition of an investment company under
+Section 3(c)(14) of the Investment Company Act
+of 1940 (15 U.S.C. 80a-3);
+
+
+
+(j)
+
+
+
+[ ]
+
+
+
+Group, in accordance with Rule 240.13d-1(b)(1)(ii)(J).
+
+
+
+Item 4.
+
+
+Ownership.
+
+
+Provide the following information regarding the aggregate number and
+percentage of the class of securities of the issuer identified in Item 1.
+
+
+
+(a)
+
+
+
+Amount Beneficially Owned:
+
+
+
+    5,215,446
+ shares acquired solely for investment purposes on behalf of client discretionary investment advisory accounts.*
+
+
+
+
+
+(b)
+
+
+
+Percent of Class:
+
+
+
+    7.2%
+
+
+
+
+(c)
+
+
+
+Number of shares as to which such person has:
+
+
+
+(i)
+
+
+
+sole power to vote or to direct the vote
+
+
+
+3,790,706
+
+
+
+
+
+(ii)
+
+
+
+shared power to vote or to direct the vote
+
+
+
+0
+
+
+
+
+
+(iii)
+
+
+
+sole power to dispose or to direct the disposition of
+
+
+
+5,135,754
+
+
+
+
+
+(iv)
+
+
+
+shared power to dispose or to direct the disposition of
+
+
+
+79,692
+
+
+
+
+
+*AllianceBernstein L.P. is a majority owned subsidiary of Equitable Holdings, Inc. ("EQH").
+AllianceBernstein operates under independent management and makes independent decisions from
+EQH and its respective subsidiaries, and EQH calculates and reports beneficial ownership
+separately from AllianceBernstein pursuant to guidance provided by the Securities and Exchange
+Commission in Release Number 34-39538 (January 12, 1998).
+
+
+Item 5.
+
+
+Ownership of Five Percent or Less of Class.
+
+
+If this statement is being filed to report the fact that
+as of the date hereof the reporting person has ceased to
+be the beneficial owner of more than five percent of the
+class of securities, check the following:
+[
+
+]
+
+
+
+Item 6.
+
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+
+  Not Applicable
+
+
+Item 7.
+
+
+Identification and Classification of the Subsidiary Which Acquired
+the Security Being Reported on by the Parent Holding Company.
+
+
+  Not Applicable
+
+
+
+
+Item 8.
+
+
+Identification and Classification of Members of the Group.
+
+
+Not Applicable.  This schedule is not being filed pursuant to
+Rule 13d-1(b)(1)(ii)(J) or Rule 13d-1(d).
+
+
+Item 9.
+
+
+Notice of Dissolution of Group.
+
+
+Not Applicable
+
+
+Item 10.
+
+
+Certification.
+
+
+By signing below, I certify that, to the best
+of my knowledge and belief, the securities
+referred to above
+
+were acquired and are held
+in the ordinary course of business and
+
+were not acquired and are not held for the purpose
+of or with the effect of changing or
+influencing the control of the issuer of the
+securities and were not acquired and are not held
+in connection with or as a participant in any
+transaction having that purpose or effect.
+
+
+
+SIGNATURE
+
+
+
+
+
+After reasonable inquiry and to the best of my knowledge and belief,
+I certify that the information set forth in this statement is true,
+complete and correct.
+
+
+
+
+
+
+
+
+
+AllianceBernstein L.P.
+
+
+
+
+
+By:
+/s/ Brenda Coulter
+
+
+
+
+
+Date:
+
+
+    February 14, 2022
+
+
+
+
+
+Name: Brenda Coulter
+
+
+
+
+
+Title:   VP and Head of Regulatory Reporting
+
+
+
+
+
+
+
+

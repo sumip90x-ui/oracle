@@ -1,0 +1,239 @@
+=== FILING DATE: 2003-02-14 ===
+=== PERIOD COVERED: 2003-02-14 ===
+=== SOURCE: SC13G filed 2003-02-14 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: AAPL ===
+
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>apple2102003.txt
+<TEXT>
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+
+SCHEDULE 13G
+
+Under the Securities Exchange Act of 1934
+
+
+Amendment No.:      *
+
+
+Name of Issuer: Apple Computer Inc.
+
+
+Title of Class of Securities: Common Stock
+
+
+CUSIP Number: 03783310-0
+
+
+Date of Event Which Requires Filing of this Statement: 12/31/2002
+
+
+Check the appropriate box to designate the rule pursuant to which
+this Schedule if filed.
+
+[X] Rule 13d-1(b)
+[ ] Rule 13d-1(c)
+[ ] Rule 13d-1(d)
+
+* The remainder of this cover page shall be filled out for a
+reporting person's initial filing on this form with respect to the
+subject class of securities, and for any subsequent amendment
+containing information which would alter the disclosures provided
+in a prior cover page.
+
+The information required in the remainder of this cover page shall
+not be deemed to be "filed" for the purpose of Section 18 of the
+Securities Exchange Act of 1934 ("Act") or otherwise subject to
+the liabilities of that section of the Act but shall be subject to
+all other provisions of the Act (however, see the Notes).
+
+
+CUSIP No.: 03783310-0
+
+1.  NAME OF REPORTING PERSON
+    S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+    Janus Capital Management LLC
+    EIN #75-3019302
+
+2.  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+    a.   ___
+    b.   ___
+
+3.  SEC USE ONLY
+
+4.  CITIZENSHIP OR PLACE OF ORGANIZATION
+         Colorado
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+
+    5.   SOLE VOTING POWER
+         22,590,124**
+
+    6.   SHARED VOTING POWER
+         715,500**
+
+    7.   SOLE DISPOSITIVE POWER
+         22,590,124**
+
+    8.   SHARED DISPOSITIVE POWER
+         715,500**
+
+    9.   AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+PERSON
+         23,305,624**
+
+    10.  CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+CERTAIN SHARES
+         Not applicable
+
+11. PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+    6.5%**
+
+12. TYPE OF REPORTING PERSON
+    IA, HC
+
+**  See Item 4 of this filing
+
+
+Item 1.
+
+    (a). Name of Issuer: Apple Computer Inc. ("Apple Computer")
+
+    (b). Address of Issuer's Principal Executive Offices:
+
+         1 Infinite Loop
+         Cupertino, CA 95014
+
+Item 2.
+
+    (a).-(c). Name, Principal Business Address, and Citizenship of
+Persons
+              Filing:
+
+         (1)  Janus Capital Management LLC ("Janus Capital")
+              100 Fillmore Street
+              Denver, Colorado  80206-4923
+              Citizenship:  Colorado
+
+    (d). Title of Class of Securities:  Common Stock
+
+    (e). CUSIP Number:  03783310-0
+
+Item 3.
+
+This statement is filed pursuant to Rule 13d-1 (b) or 13d-2(b) and
+the person filing, Janus Capital, is an investment adviser in
+accordance with Section 240.13d-1(b)(ii)(E) as well as a parent
+holding company/control person in accordance with Section 240.13d-
+1(b)(ii)(G).  See Item 4 for additional information.
+
+Item 4.  Ownership
+
+The information in items 1 and 5 through 11 on the cover page(s)
+on Schedule 13G is hereby incorporated by reference.
+
+Janus Capital has an indirect 100% ownership stake in Bay Isle
+Financial LLC ("Bay Isle") and an indirect 50.1% ownership stake
+in Enhanced Investment Technologies LLC ("INTECH").  Due to the
+above ownership structure, holdings for Janus Capital, Bay Isle
+and INTECH are aggregated for purposes of this filing. Janus
+Capital, Bay Isle and INTECH are registered investment advisers,
+each furnishing investment advice to various investment companies
+registered under Section 8 of the Investment Company Act of 1940
+and to individual and institutional clients (collectively referred
+to herein as "Managed Portfolios").
+
+As a result of its role as investment adviser or sub-adviser to
+the Managed Portfolios, Janus Capital may be deemed to be the
+beneficial owner of 22,590,124 shares or 6.3% of the shares
+outstanding of Apple Computer Common Stock held by such Managed
+Portfolios.  However, Janus Capital does not have the right to
+receive any dividends from, or the proceeds from the sale of, the
+securities held in the Managed Portfolios and disclaims any
+ownership associated with such rights.
+
+As a result of its role as investment adviser or sub-adviser to
+the Managed Portfolios, INTECH may be deemed to be the beneficial
+owner of 715,500 shares or 0.2% of the shares outstanding of Apple
+Computer Common Stock held by such Managed Portfolios.  However,
+INTECH does not have the right to receive any dividends from, or
+the proceeds from the sale of, the securities held in the Managed
+Portfolios and disclaims any ownership associated with such
+rights.
+
+Item 5.  Ownership of Five Percent or Less of a Class
+
+Not applicable.
+
+Item 6.  Ownership of More than Five Percent on Behalf of Another
+Person
+
+The Managed Portfolios, set forth in Item 4 above, have the right
+to receive all dividends from, and the proceeds from the sale of,
+the securities held in their respective accounts.
+
+The interest of any one such person does not exceed 5% of the
+class of securities.
+
+These shares were acquired in the ordinary course of business, and
+not with the purpose of changing or influencing control of the
+Issuer.
+
+Item 7.  Identification and Classification of the Subsidiary Which
+Acquired the Security Being Reported on by the Parent Holding
+Company
+
+INTECH is an indirect subsidiary of Janus Capital (Janus Capital
+has a indirect 50.1% ownership stake) and is a registered
+investment adviser furnishing investment advice to various
+investment companies registered under Section 8 of the Investment
+Company Act of 1940 and to individual and institutional clients.
+
+Item 8.  Identification and Classification of Members of the Group
+
+Not applicable.
+
+Item 9.  Notice of Dissolution of Group
+
+Not applicable.
+
+Item 10. Certification
+
+By signing below I certify that, to the best of my knowledge and
+belief, the securities referred to above were acquired in the
+ordinary course of business and were not acquired for the purpose
+of and do not have the effect of changing or influencing the
+control of the issuer of such securities and were not acquired in
+connection with or as a participant in any transaction having such
+purposes or effect.
+
+
+SIGNATURES
+
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement
+is true, complete and correct.
+
+JANUS CAPITAL MANAGEMENT LLC
+
+By  /s/  Heidi J. Walter                       02/14/2003
+  Heidi J. Walter,                               Date
+    Vice President and Assistant General Counsel
+
+ENHANCED INVESTMENT TECHNOLOGIES LLC
+
+By  /s/  Heidi J. Walter               02/14/2003
+    Heidi J. Walter                             Date
+        Under Power of Attorney dated 02/05/03
+        On file with Schedule 13G for
+        Lamar Advertising Company 02/14/03
+
+</TEXT>
+</DOCUMENT>

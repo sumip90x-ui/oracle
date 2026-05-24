@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-05
+Transaction Date: 2026-01-01
+Person: Storey Paul H. — Chief Supply Chain Officer
+Type: OTHER
+Shares: 2481 at $45.74
+Shares After: 450
+=== TICKER: CELH ===
+===

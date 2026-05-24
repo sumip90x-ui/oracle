@@ -1,0 +1,950 @@
+{
+  "ticker": "INTU",
+  "company_name": "INTUIT INC.",
+  "cik": "0000896878",
+  "sic": "7372",
+  "industry": "Services-Prepackaged Software",
+  "fiscal_year_end": "0731",
+  "last_checked": "2026-05-21T14:15:13.023036",
+  "newest_filing_date": "2026-05-20",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-20",
+      "oldest_included": "2025-05-22",
+      "count": 12,
+      "files": [
+        {
+          "filing_date": "2026-05-20",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2026-05-20_8-K_agreement.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/INTU/8-K/2026-05-20_8-K_agreement_ex991.txt"
+        },
+        {
+          "filing_date": "2026-04-28",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2026-04-28_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2026-03-16",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2026-03-16_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2026-02-26_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2026-01-30",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2026-01-30_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-01-27",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2026-01-27_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-01-12",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2026-01-12_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2025-11-20_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2025-11-20_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2025-08-21_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-06-16",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2025-06-16_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/INTU/8-K/2025-05-22_8-K_earnings.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-11",
+      "count": 118,
+      "transactions": [
+        {
+          "filing_date": "2026-05-11",
+          "person": "Norrod Forrest Eugene",
+          "type": "BUY",
+          "shares": "64",
+          "price": "396.31"
+        },
+        {
+          "filing_date": "2026-05-11",
+          "person": "Mawakana Tekedra",
+          "type": "BUY",
+          "shares": "64",
+          "price": "396.31"
+        },
+        {
+          "filing_date": "2026-05-11",
+          "person": "Liu Deborah",
+          "type": "BUY",
+          "shares": "75",
+          "price": "396.31"
+        },
+        {
+          "filing_date": "2026-05-11",
+          "person": "Burton Eve B",
+          "type": "BUY",
+          "shares": "70",
+          "price": "396.31"
+        },
+        {
+          "filing_date": "2026-05-11",
+          "person": "SZKUTAK THOMAS J",
+          "type": "OTHER",
+          "shares": "213",
+          "price": "401.04"
+        },
+        {
+          "filing_date": "2026-05-11",
+          "person": "DALZELL RICHARD L",
+          "type": "OTHER",
+          "shares": "235",
+          "price": "401.04"
+        },
+        {
+          "filing_date": "2026-05-05",
+          "person": "Burton Eve B",
+          "type": "OTHER",
+          "shares": "236",
+          "price": "248.86"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "Goodarzi Sasan K",
+          "type": "OTHER",
+          "shares": "7763",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "McLean Kerry J",
+          "type": "OTHER",
+          "shares": "1999",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "Hotz Lauren D",
+          "type": "OTHER",
+          "shares": "780",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "Hilliard Caryl Lyn",
+          "type": "OTHER",
+          "shares": "1150",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "Hanebrink Anton",
+          "type": "OTHER",
+          "shares": "2066",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "Aujla Sandeep",
+          "type": "OTHER",
+          "shares": "8445",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-12",
+          "person": "DALZELL RICHARD L",
+          "type": "SELL",
+          "shares": "999",
+          "price": "474.01"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "Yuan Eric S.",
+          "type": "BUY",
+          "shares": "497",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "Vazquez Raul",
+          "type": "OTHER",
+          "shares": "1191",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "SZKUTAK THOMAS J",
+          "type": "OTHER",
+          "shares": "2080",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "Roslansky Ryan",
+          "type": "OTHER",
+          "shares": "2588",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "PRABHU VASANT M",
+          "type": "BUY",
+          "shares": "497",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "Norrod Forrest Eugene",
+          "type": "BUY",
+          "shares": "542",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "NORA JOHNSON SUZANNE M",
+          "type": "OTHER",
+          "shares": "6838",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "Mawakana Tekedra",
+          "type": "OTHER",
+          "shares": "1930",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "Liu Deborah",
+          "type": "BUY",
+          "shares": "550",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "DALZELL RICHARD L",
+          "type": "OTHER",
+          "shares": "2106",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-26",
+          "person": "Burton Eve B",
+          "type": "BUY",
+          "shares": "546",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-21",
+          "person": "Burton Eve B",
+          "type": "OTHER",
+          "shares": "2704",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-09",
+          "person": "COOK SCOTT D",
+          "type": "OTHER",
+          "shares": "30750",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-08",
+          "person": "Goodarzi Sasan K",
+          "type": "SELL",
+          "shares": "41000",
+          "price": "650.0957"
+        },
+        {
+          "filing_date": "2026-01-06",
+          "person": "Aujla Sandeep",
+          "type": "SELL",
+          "shares": "1334",
+          "price": "627.415"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Goodarzi Sasan K",
+          "type": "OTHER",
+          "shares": "10217",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "McLean Kerry J",
+          "type": "OTHER",
+          "shares": "2549",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Hotz Lauren D",
+          "type": "OTHER",
+          "shares": "826",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Hilliard Caryl Lyn",
+          "type": "OTHER",
+          "shares": "1558",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Hanebrink Anton",
+          "type": "OTHER",
+          "shares": "2077",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Aujla Sandeep",
+          "type": "OTHER",
+          "shares": "8409",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-02",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "1402",
+          "price": "668.02"
+        },
+        {
+          "filing_date": "2025-12-31",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "75000",
+          "price": "669.0754"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "75000",
+          "price": "671.6569"
+        },
+        {
+          "filing_date": "2025-12-19",
+          "person": "Aujla Sandeep",
+          "type": "SELL",
+          "shares": "1098",
+          "price": "675"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "NORA JOHNSON SUZANNE M",
+          "type": "BUY",
+          "shares": "33",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-15",
+          "person": "Hilliard Caryl Lyn",
+          "type": "OTHER",
+          "shares": "390",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-15",
+          "person": "Goodarzi Sasan K",
+          "type": "OTHER",
+          "shares": "2721",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-15",
+          "person": "McLean Kerry J",
+          "type": "OTHER",
+          "shares": "732",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "DALZELL RICHARD L",
+          "type": "SELL",
+          "shares": "333",
+          "price": "659.95"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "DALZELL RICHARD L",
+          "type": "SELL",
+          "shares": "666",
+          "price": "653.42"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "149095",
+          "price": "654.1888"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "150000",
+          "price": "648.8159"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "43868",
+          "price": "632.1463"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "person": "Hotz Lauren D",
+          "type": "OTHER",
+          "shares": "242",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "person": "Norrod Forrest Eugene",
+          "type": "BUY",
+          "shares": "38",
+          "price": "667.55"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "person": "Mawakana Tekedra",
+          "type": "BUY",
+          "shares": "38",
+          "price": "667.55"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "person": "Liu Deborah",
+          "type": "BUY",
+          "shares": "45",
+          "price": "667.55"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "person": "DALZELL RICHARD L",
+          "type": "BUY",
+          "shares": "48",
+          "price": "667.55"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "person": "Burton Eve B",
+          "type": "OTHER",
+          "shares": "282",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-03",
+          "person": "SZKUTAK THOMAS J",
+          "type": "OTHER",
+          "shares": "212",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-21",
+          "person": "Mawakana Tekedra",
+          "type": "OTHER",
+          "shares": "388",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-07",
+          "person": "Aujla Sandeep",
+          "type": "SELL",
+          "shares": "1170",
+          "price": "677.06"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "Goodarzi Sasan K",
+          "type": "OTHER",
+          "shares": "5949",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "McLean Kerry J",
+          "type": "OTHER",
+          "shares": "1694",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "Hotz Lauren D",
+          "type": "OTHER",
+          "shares": "821",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "Hilliard Caryl Lyn",
+          "type": "OTHER",
+          "shares": "806",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "Aujla Sandeep",
+          "type": "OTHER",
+          "shares": "8445",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "Hanebrink Anton",
+          "type": "OTHER",
+          "shares": "2075",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-11",
+          "person": "DALZELL RICHARD L",
+          "type": "SELL",
+          "shares": "999",
+          "price": "669.31"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Goodarzi Sasan K",
+          "type": "OTHER",
+          "shares": "48278",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Hotz Lauren D",
+          "type": "OTHER",
+          "shares": "3429",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Hanebrink Anton",
+          "type": "OTHER",
+          "shares": "27071",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Hilliard Caryl Lyn",
+          "type": "OTHER",
+          "shares": "9068",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "McLean Kerry J",
+          "type": "OTHER",
+          "shares": "18012",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-26",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "529",
+          "price": "664.99"
+        },
+        {
+          "filing_date": "2025-08-26",
+          "person": "Aujla Sandeep",
+          "type": "SELL",
+          "shares": "42",
+          "price": "664.99"
+        },
+        {
+          "filing_date": "2025-08-14",
+          "person": "Hotz Lauren D",
+          "type": "OTHER",
+          "shares": "173",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-14",
+          "person": "McLean Kerry J",
+          "type": "OTHER",
+          "shares": "898",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-14",
+          "person": "Hilliard Caryl Lyn",
+          "type": "OTHER",
+          "shares": "538",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-14",
+          "person": "Hanebrink Anton",
+          "type": "OTHER",
+          "shares": "1007",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-14",
+          "person": "Aujla Sandeep",
+          "type": "OTHER",
+          "shares": "525",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Aujla Sandeep",
+          "type": "BUY",
+          "shares": "386",
+          "price": "749"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Hanebrink Anton",
+          "type": "BUY",
+          "shares": "292",
+          "price": "749"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Hotz Lauren D",
+          "type": "BUY",
+          "shares": "170",
+          "price": "749"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "McLean Kerry J",
+          "type": "BUY",
+          "shares": "288",
+          "price": "749"
+        },
+        {
+          "filing_date": "2025-07-31",
+          "person": "SZKUTAK THOMAS J",
+          "type": "OTHER",
+          "shares": "164",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-29",
+          "person": "DALZELL RICHARD L",
+          "type": "BUY",
+          "shares": "41",
+          "price": "785.95"
+        },
+        {
+          "filing_date": "2025-07-29",
+          "person": "Liu Deborah",
+          "type": "BUY",
+          "shares": "34",
+          "price": "785.95"
+        },
+        {
+          "filing_date": "2025-07-29",
+          "person": "Mawakana Tekedra",
+          "type": "BUY",
+          "shares": "32",
+          "price": "785.95"
+        },
+        {
+          "filing_date": "2025-07-29",
+          "person": "Norrod Forrest Eugene",
+          "type": "BUY",
+          "shares": "35",
+          "price": "785.95"
+        },
+        {
+          "filing_date": "2025-07-29",
+          "person": "SZKUTAK THOMAS J",
+          "type": "BUY",
+          "shares": "44",
+          "price": "785.95"
+        },
+        {
+          "filing_date": "2025-07-29",
+          "person": "Burton Eve B",
+          "type": "OTHER",
+          "shares": "279",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "Goodarzi Sasan K",
+          "type": "BUY",
+          "shares": "67503",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "Tessel Marianna",
+          "type": "BUY",
+          "shares": "28290",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "Notarainni Mark P.",
+          "type": "BUY",
+          "shares": "28290",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "Balazs Alex G.",
+          "type": "BUY",
+          "shares": "27314",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "Aujla Sandeep",
+          "type": "BUY",
+          "shares": "28290",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "McLean Kerry J",
+          "type": "BUY",
+          "shares": "16585",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "Hotz Lauren D",
+          "type": "BUY",
+          "shares": "7806",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-10",
+          "person": "DALZELL RICHARD L",
+          "type": "SELL",
+          "shares": "333",
+          "price": "768.43"
+        },
+        {
+          "filing_date": "2025-07-09",
+          "person": "DALZELL RICHARD L",
+          "type": "SELL",
+          "shares": "666",
+          "price": "784.57"
+        },
+        {
+          "filing_date": "2025-07-09",
+          "person": "Balazs Alex G.",
+          "type": "SELL",
+          "shares": "881",
+          "price": "781.5509"
+        },
+        {
+          "filing_date": "2025-07-08",
+          "person": "Aujla Sandeep",
+          "type": "OTHER",
+          "shares": "7773",
+          "price": "525.51"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Goodarzi Sasan K",
+          "type": "OTHER",
+          "shares": "8350",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Notarainni Mark P.",
+          "type": "OTHER",
+          "shares": "6204",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Tessel Marianna",
+          "type": "OTHER",
+          "shares": "7246",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "McLean Kerry J",
+          "type": "OTHER",
+          "shares": "2144",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Hotz Lauren D",
+          "type": "OTHER",
+          "shares": "1557",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "FENNELL LAURA A",
+          "type": "OTHER",
+          "shares": "3494",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Balazs Alex G.",
+          "type": "OTHER",
+          "shares": "4592",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Aujla Sandeep",
+          "type": "OTHER",
+          "shares": "12926",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "Hotz Lauren D",
+          "type": "SELL",
+          "shares": "1738",
+          "price": "784.0867"
+        },
+        {
+          "filing_date": "2025-06-10",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "62816",
+          "price": "763.209"
+        },
+        {
+          "filing_date": "2025-06-05",
+          "person": "Tessel Marianna",
+          "type": "OTHER",
+          "shares": "102987",
+          "price": "281.60"
+        },
+        {
+          "filing_date": "2025-06-05",
+          "person": "Balazs Alex G.",
+          "type": "SELL",
+          "shares": "1458",
+          "price": "768.9312"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "Hotz Lauren D",
+          "type": "OTHER",
+          "shares": "227",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "Balazs Alex G.",
+          "type": "OTHER",
+          "shares": "1163",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-30",
+          "person": "FENNELL LAURA A",
+          "type": "OTHER",
+          "shares": "76944",
+          "price": "525.51"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "COOK SCOTT D",
+          "type": "SELL",
+          "shares": "72442",
+          "price": "726.4636"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "McLean Kerry J",
+          "type": "OTHER",
+          "shares": "50100",
+          "price": "303.94"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "Aujla Sandeep",
+          "type": "OTHER",
+          "shares": "44197",
+          "price": "303.94"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "Notarainni Mark P.",
+          "type": "SELL",
+          "shares": "469",
+          "price": "725"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "FENNELL LAURA A",
+          "type": "OTHER",
+          "shares": "123702",
+          "price": "303.94"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-05-20",
+      "quarters_covered": [
+        "Q4FY2026",
+        "Q3FY2026",
+        "Q2FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/INTU/10-Q/2026-05-20_10-Q_Q4FY2026.txt",
+        "/home/sumith/ORACLE/filings/INTU/10-Q/2026-02-26_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/INTU/10-Q/2025-11-20_10-Q_Q2FY2025.txt"
+      ],
+      "newest_period": "2025-10-31"
+    },
+    "earnings_8k_by_quarter": {
+      "Q4FY2026": "/home/sumith/ORACLE/filings/INTU/8-K/2026-05-20_8-K_agreement_ex991.txt",
+      "Q3FY2026": "/home/sumith/ORACLE/filings/INTU/8-K/2026-02-26_8-K_earnings.txt",
+      "Q2FY2025": "/home/sumith/ORACLE/filings/INTU/8-K/2025-11-20_8-K_earnings.txt"
+    },
+    "10-K": {
+      "newest_filing_date": "2025-09-03",
+      "period_covered": "2025-07-31",
+      "local_path": "/home/sumith/ORACLE/filings/INTU/10-K/2025-09-03_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2025-11-26",
+      "local_path": "/home/sumith/ORACLE/filings/INTU/DEF14A/2025-11-26_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/INTU/sections/2026-05-20_10-Q_Q4FY2026_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/INTU/sections/2026-05-20_10-Q_Q4FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/INTU/sections/2026-05-20_10-Q_Q4FY2026_item8_financials.txt",
+    "newest_footnotes": "/home/sumith/ORACLE/filings/INTU/sections/2026-05-20_10-Q_Q4FY2026_footnotes.txt",
+    "newest_business": "/home/sumith/ORACLE/filings/INTU/sections/2026-05-20_10-Q_Q4FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/INTU/8-K/2026-03-16_8-K_earnings.txt",
+    "newest_segments": "/home/sumith/ORACLE/filings/INTU/sections/2026-05-20_10-Q_Q4FY2026_segments.txt"
+  },
+  "failed_downloads": []
+}

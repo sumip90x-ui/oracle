@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-15
+Transaction Date: 2025-07-11
+Person: Nightingale Todd — President and COO
+Type: BUY
+Shares: 466060 at $0.0
+Shares After: 466060
+=== TICKER: ANET ===
+===

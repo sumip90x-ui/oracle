@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-13
+Transaction Date: 2026-03-12
+Person: Hoffman Reid — Director
+Type: BUY
+Shares: 37 at $0
+Shares After: 16698.716
+=== TICKER: MSFT ===
+===

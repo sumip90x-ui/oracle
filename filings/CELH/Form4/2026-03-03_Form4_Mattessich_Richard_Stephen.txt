@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-03
+Transaction Date: 2026-02-27
+Person: Mattessich Richard Stephen — Chief Legal Officer
+Type: OTHER
+Shares: 12229 at $53.61
+Shares After: 44253
+=== TICKER: CELH ===
+===

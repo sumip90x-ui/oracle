@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-12
+Transaction Date: 2025-12-11
+Person: MacGregor Catherine — Director
+Type: BUY
+Shares: 3 at $0
+Shares After: 1685.999
+=== TICKER: MSFT ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-04-17
+Transaction Date: 2026-04-15
+Person: Wassenaar Yvonne — Director
+Type: SELL
+Shares: 1395 at $151.0697
+Shares After: 9784
+=== TICKER: ANET ===
+===

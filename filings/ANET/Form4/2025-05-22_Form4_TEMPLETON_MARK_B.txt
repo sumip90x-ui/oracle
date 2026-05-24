@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-05-22
+Transaction Date: 2025-05-20
+Person: TEMPLETON MARK B — Director
+Type: OTHER
+Shares: 1688 at $0.0
+Shares After: 0
+=== TICKER: ANET ===
+===

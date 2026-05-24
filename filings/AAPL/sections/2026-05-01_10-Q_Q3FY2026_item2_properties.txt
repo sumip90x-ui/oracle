@@ -1,0 +1,47 @@
+=== FILING DATE: 2026-05-01 ===
+=== PERIOD COVERED: 2026-03-28 ===
+=== SOURCE: 10-Q filed 2026-05-01 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: AAPL ===
+
+Item 2
+.    Unregistered Sales of Equity Securities and Use of Proceeds
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+Share repurchase activity during the three months ended March 28, 2026, was as follows (in millions, except number of shares, which are reflected in thousands, and per-share amounts):
+Periods
+Total Number
+of Shares Purchased
+Average Price
+Paid Per Share
+Total Number of Shares
+Purchased as Part of Publicly
+Announced Plans or Programs
+Approximate Dollar Value of
+Shares That May Yet Be Purchased
+Under the Plans or Programs
+(1)
+December 28, 2025 to January 31, 2026:
+Open market and privately negotiated purchases
+41,032 
+$
+259.26 
+41,032 
+February 1, 2026 to February 28, 2026:
+Open market and privately negotiated purchases
+1,395 
+$
+265.20 
+1,395 
+March 1, 2026 to March 28, 2026:
+Open market and privately negotiated purchases
+— 
+$
+— 
+— 
+Total
+42,427 
+$
+63,771 
+(1)
+On May 1, 2025, the Company announced a program to repurchase up to $100 billion of the Company’s common stock. As of March 28, 2026, $36.2 billion of the May 2025 program had been utilized. On April 30, 2026, the Company announced the Board of Directors had authorized an additional program to repurchase up to $100 billion of the Company’s common stock. The programs do not obligate the Company to acquire a minimum amount of shares. Under the programs, shares may be repurchased in privately negotiated or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.
+Apple Inc. | Q2 2026 Form 10-Q | 24

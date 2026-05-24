@@ -1,0 +1,1335 @@
+{
+  "ticker": "GOOGL",
+  "company_name": "Alphabet Inc.",
+  "cik": "0001652044",
+  "sic": "7370",
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "fiscal_year_end": "1231",
+  "last_checked": "2026-05-19T06:08:22.509073",
+  "newest_filing_date": "2026-05-18",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-11",
+      "oldest_included": "2025-06-12",
+      "count": 14,
+      "files": [
+        {
+          "filing_date": "2026-05-11",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-05-11_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-04-29",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-04-29_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-04-29_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-04-10",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-04-10_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-04-02",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-04-02_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-03-06",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-03-06_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-02-13",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-02-13_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-02-04",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-02-04_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-02-04_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-11-06",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-11-06_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-10-29",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-10-29_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-10-29_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-09-05",
+          "type": "guidance",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-09-05_8-K_guidance.txt"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "type": "other",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-09-03_8-K_other.txt"
+        },
+        {
+          "filing_date": "2025-07-23",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-07-23_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-07-23_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-07-18",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-07-18_8-K_agreement.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-07-18_8-K_agreement_ex991.txt"
+        },
+        {
+          "filing_date": "2025-06-12",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-06-12_8-K_agreement.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-18",
+      "count": 171,
+      "transactions": [
+        {
+          "filing_date": "2026-05-18",
+          "person": "GV 2019 GP, L.L.C.",
+          "type": "OTHER",
+          "shares": "295104",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-01",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "102",
+          "price": "371"
+        },
+        {
+          "filing_date": "2026-04-29",
+          "person": "Porat Ruth",
+          "type": "OTHER",
+          "shares": "254342",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-29",
+          "person": "Schindler Philipp",
+          "type": "OTHER",
+          "shares": "24014",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-28",
+          "person": "WALKER JOHN KENT",
+          "type": "OTHER",
+          "shares": "19545",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-28",
+          "person": "Ashkenazi Anat",
+          "type": "OTHER",
+          "shares": "21219",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-28",
+          "person": "Pichai Sundar",
+          "type": "OTHER",
+          "shares": "11032",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-17",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "1050",
+          "price": "330.54"
+        },
+        {
+          "filing_date": "2026-04-10",
+          "person": "Porat Ruth",
+          "type": "BUY",
+          "shares": "83899",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-10",
+          "person": "Schindler Philipp",
+          "type": "BUY",
+          "shares": "106272",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-10",
+          "person": "Ashkenazi Anat",
+          "type": "BUY",
+          "shares": "87255",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-10",
+          "person": "WALKER JOHN KENT",
+          "type": "BUY",
+          "shares": "83899",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "617",
+          "price": "289.63"
+        },
+        {
+          "filing_date": "2026-03-31",
+          "person": "WALKER JOHN KENT",
+          "type": "SELL",
+          "shares": "26979",
+          "price": "273.91"
+        },
+        {
+          "filing_date": "2026-03-31",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "102",
+          "price": "275.19"
+        },
+        {
+          "filing_date": "2026-03-27",
+          "person": "Porat Ruth",
+          "type": "OTHER",
+          "shares": "27066",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-27",
+          "person": "Ashkenazi Anat",
+          "type": "OTHER",
+          "shares": "25703",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-27",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2382",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-27",
+          "person": "WALKER JOHN KENT",
+          "type": "OTHER",
+          "shares": "27066",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-27",
+          "person": "Schindler Philipp",
+          "type": "OTHER",
+          "shares": "34396",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-27",
+          "person": "Pichai Sundar",
+          "type": "OTHER",
+          "shares": "33096",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Porat Ruth",
+          "type": "BUY",
+          "shares": "73",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Ashkenazi Anat",
+          "type": "BUY",
+          "shares": "70",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Schindler Philipp",
+          "type": "BUY",
+          "shares": "94",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "1054",
+          "price": "302.48"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "WALKER JOHN KENT",
+          "type": "BUY",
+          "shares": "73",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "O'Toole Amie Thuener",
+          "type": "BUY",
+          "shares": "12644",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Pichai Sundar",
+          "type": "BUY",
+          "shares": "32683",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "CHAVEZ R. MARTIN",
+          "type": "BUY",
+          "shares": "4",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Ferguson Roger W. Jr.",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "DOERR L JOHN",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Shriram Kavitark Ram",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Washington Robin L",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "ARNOLD FRANCES",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-06",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "297501",
+          "price": "301.57"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "112",
+          "price": "302.99"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "955",
+          "price": "298"
+        },
+        {
+          "filing_date": "2026-03-02",
+          "person": "Pichai Sundar",
+          "type": "OTHER",
+          "shares": "3334392",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-27",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2879",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-25",
+          "person": "Sergey Brin",
+          "type": "OTHER",
+          "shares": "875000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-20",
+          "person": "WALKER JOHN KENT",
+          "type": "OTHER",
+          "shares": "95148",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-20",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "302.6"
+        },
+        {
+          "filing_date": "2026-02-19",
+          "person": "WALKER JOHN KENT",
+          "type": "SELL",
+          "shares": "47574",
+          "price": "297.7"
+        },
+        {
+          "filing_date": "2026-02-17",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "600",
+          "price": "306.12"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "Hennessy John L.",
+          "type": "OTHER",
+          "shares": "3530",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-06",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "2058062",
+          "price": "330.13"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "933",
+          "price": "336.55"
+        },
+        {
+          "filing_date": "2026-01-30",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "102",
+          "price": "340"
+        },
+        {
+          "filing_date": "2026-01-30",
+          "person": "GV 2017 GP, L.L.C.",
+          "type": "OTHER",
+          "shares": "13052614",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-01-27",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2852",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-23",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "320.35"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "Schindler Philipp",
+          "type": "BUY",
+          "shares": "227313",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "WALKER JOHN KENT",
+          "type": "BUY",
+          "shares": "94715",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "Porat Ruth",
+          "type": "BUY",
+          "shares": "94715",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "600",
+          "price": "335.13"
+        },
+        {
+          "filing_date": "2026-01-08",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "315.39"
+        },
+        {
+          "filing_date": "2026-01-02",
+          "person": "WALKER JOHN KENT",
+          "type": "OTHER",
+          "shares": "35658",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-31",
+          "person": "Schindler Philipp",
+          "type": "OTHER",
+          "shares": "66926",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-31",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "102",
+          "price": "313.45"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "WALKER JOHN KENT",
+          "type": "SELL",
+          "shares": "71522",
+          "price": "314.61"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "Porat Ruth",
+          "type": "OTHER",
+          "shares": "53694",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2875",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "Ashkenazi Anat",
+          "type": "OTHER",
+          "shares": "55329",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-30",
+          "person": "Pichai Sundar",
+          "type": "OTHER",
+          "shares": "112178",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-18",
+          "person": "Ferguson Roger W. Jr.",
+          "type": "BUY",
+          "shares": "2",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-18",
+          "person": "ARNOLD FRANCES",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-18",
+          "person": "Shriram Kavitark Ram",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-18",
+          "person": "DOERR L JOHN",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-18",
+          "person": "Washington Robin L",
+          "type": "BUY",
+          "shares": "2",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "Schindler Philipp",
+          "type": "BUY",
+          "shares": "121",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "WALKER JOHN KENT",
+          "type": "BUY",
+          "shares": "97",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "Ashkenazi Anat",
+          "type": "BUY",
+          "shares": "93",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "CHAVEZ R. MARTIN",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32551",
+          "price": "298.11"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "604",
+          "price": "306.68"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "2796",
+          "price": "312.3"
+        },
+        {
+          "filing_date": "2025-12-11",
+          "person": "Shriram Kavitark Ram",
+          "type": "OTHER",
+          "shares": "156800",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "315.16"
+        },
+        {
+          "filing_date": "2025-12-02",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "954",
+          "price": "317"
+        },
+        {
+          "filing_date": "2025-12-02",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "102",
+          "price": "317.66"
+        },
+        {
+          "filing_date": "2025-11-28",
+          "person": "Sergey Brin",
+          "type": "OTHER",
+          "shares": "7114600",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-26",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2875",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "287.88"
+        },
+        {
+          "filing_date": "2025-11-19",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "2778",
+          "price": "285.14"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "600",
+          "price": "279.07"
+        },
+        {
+          "filing_date": "2025-11-07",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "278.52"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "954",
+          "price": "282.33"
+        },
+        {
+          "filing_date": "2025-11-03",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "112",
+          "price": "291.8"
+        },
+        {
+          "filing_date": "2025-10-29",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2875",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "2778",
+          "price": "247.49"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "247.48"
+        },
+        {
+          "filing_date": "2025-10-15",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "600",
+          "price": "241.52"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "WALKER JOHN KENT",
+          "type": "OTHER",
+          "shares": "35632",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "953",
+          "price": "241.2"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "240.08"
+        },
+        {
+          "filing_date": "2025-10-01",
+          "person": "WALKER JOHN KENT",
+          "type": "SELL",
+          "shares": "17816",
+          "price": "243.9"
+        },
+        {
+          "filing_date": "2025-09-30",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "103",
+          "price": "243.13"
+        },
+        {
+          "filing_date": "2025-09-29",
+          "person": "Pichai Sundar",
+          "type": "OTHER",
+          "shares": "112100",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-29",
+          "person": "Schindler Philipp",
+          "type": "OTHER",
+          "shares": "66878",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-29",
+          "person": "Shriram Kavitark Ram",
+          "type": "OTHER",
+          "shares": "974112",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-29",
+          "person": "WALKER JOHN KENT",
+          "type": "OTHER",
+          "shares": "53657",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-29",
+          "person": "Ashkenazi Anat",
+          "type": "OTHER",
+          "shares": "55289",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-29",
+          "person": "Porat Ruth",
+          "type": "OTHER",
+          "shares": "53657",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-29",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2873",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32625",
+          "price": "247.59"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "CHAVEZ R. MARTIN",
+          "type": "BUY",
+          "shares": "6",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Ashkenazi Anat",
+          "type": "BUY",
+          "shares": "146",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Schindler Philipp",
+          "type": "BUY",
+          "shares": "187",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "WALKER JOHN KENT",
+          "type": "BUY",
+          "shares": "149",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Porat Ruth",
+          "type": "BUY",
+          "shares": "149",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Ferguson Roger W. Jr.",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "DOERR L JOHN",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Shriram Kavitark Ram",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Washington Robin L",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "ARNOLD FRANCES",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-16",
+          "person": "O'Toole Amie Thuener",
+          "type": "SELL",
+          "shares": "2806",
+          "price": "245"
+        },
+        {
+          "filing_date": "2025-09-16",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "607",
+          "price": "245.4"
+        },
+        {
+          "filing_date": "2025-09-05",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "225.8"
+        },
+        {
+          "filing_date": "2025-08-29",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "102",
+          "price": "207.8"
+        },
+        {
+          "filing_date": "2025-08-26",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2873",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-21",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "198.22"
+        },
+        {
+          "filing_date": "2025-08-18",
+          "person": "Shriram Kavitark Ram",
+          "type": "SELL",
+          "shares": "26000",
+          "price": "205"
+        },
+        {
+          "filing_date": "2025-08-14",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "600",
+          "price": "200.58"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "1000",
+          "price": "200"
+        },
+        {
+          "filing_date": "2025-08-07",
+          "person": "Hennessy John L.",
+          "type": "OTHER",
+          "shares": "3806",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-06",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "195.02"
+        },
+        {
+          "filing_date": "2025-08-06",
+          "person": "WALKER JOHN KENT",
+          "type": "SELL",
+          "shares": "59424",
+          "price": "194.70"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "person": "GV 2021 GP, L.L.C.",
+          "type": "BUY",
+          "shares": "1500000",
+          "price": "3.30"
+        },
+        {
+          "filing_date": "2025-07-31",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "101",
+          "price": "196.31"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2873",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "GV 2017 GP, L.L.C.",
+          "type": "OTHER",
+          "shares": "12168489",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-07-21",
+          "person": "Shriram Kavitark Ram",
+          "type": "SELL",
+          "shares": "33566",
+          "price": "185.76"
+        },
+        {
+          "filing_date": "2025-07-17",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "183.80"
+        },
+        {
+          "filing_date": "2025-07-16",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "400",
+          "price": "181.64"
+        },
+        {
+          "filing_date": "2025-07-11",
+          "person": "CHAVEZ R. MARTIN",
+          "type": "BUY",
+          "shares": "2016",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-11",
+          "person": "Shriram Kavitark Ram",
+          "type": "BUY",
+          "shares": "2016",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-11",
+          "person": "Washington Robin L",
+          "type": "BUY",
+          "shares": "2016",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-11",
+          "person": "Ferguson Roger W. Jr.",
+          "type": "BUY",
+          "shares": "2016",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-11",
+          "person": "DOERR L JOHN",
+          "type": "BUY",
+          "shares": "2016",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-11",
+          "person": "ARNOLD FRANCES",
+          "type": "BUY",
+          "shares": "2016",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-11",
+          "person": "Hennessy John L.",
+          "type": "BUY",
+          "shares": "2879",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "176.69"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "121",
+          "price": "180.72"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "WALKER JOHN KENT",
+          "type": "OTHER",
+          "shares": "53613",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "Porat Ruth",
+          "type": "OTHER",
+          "shares": "53613",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "Ashkenazi Anat",
+          "type": "OTHER",
+          "shares": "55245",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "Schindler Philipp",
+          "type": "OTHER",
+          "shares": "66822",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "Pichai Sundar",
+          "type": "OTHER",
+          "shares": "112007",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2871",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "174.2397"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "ARNOLD FRANCES",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Washington Robin L",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Shriram Kavitark Ram",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "DOERR L JOHN",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Schindler Philipp",
+          "type": "BUY",
+          "shares": "316",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "CHAVEZ R. MARTIN",
+          "type": "BUY",
+          "shares": "7",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Ferguson Roger W. Jr.",
+          "type": "BUY",
+          "shares": "5",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Pichai Sundar",
+          "type": "BUY",
+          "shares": "265",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "Porat Ruth",
+          "type": "BUY",
+          "shares": "251",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "O'Toole Amie Thuener",
+          "type": "BUY",
+          "shares": "46",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-18",
+          "person": "WALKER JOHN KENT",
+          "type": "BUY",
+          "shares": "251",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-17",
+          "person": "Ashkenazi Anat",
+          "type": "BUY",
+          "shares": "250",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-17",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "405",
+          "price": "175"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "168.421"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "ARNOLD FRANCES",
+          "type": "SELL",
+          "shares": "111",
+          "price": "172.41"
+        },
+        {
+          "filing_date": "2025-05-28",
+          "person": "O'Toole Amie Thuener",
+          "type": "OTHER",
+          "shares": "2870",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Pichai Sundar",
+          "type": "SELL",
+          "shares": "32500",
+          "price": "165.5848"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Shriram Kavitark Ram",
+          "type": "SELL",
+          "shares": "19500",
+          "price": "175"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Hennessy John L.",
+          "type": "SELL",
+          "shares": "600",
+          "price": "175"
+        },
+        {
+          "filing_date": "2025-05-21",
+          "person": "Sergey Brin",
+          "type": "OTHER",
+          "shares": "8192000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-19",
+          "person": "GV 2016 GP, L.L.C.",
+          "type": "OTHER",
+          "shares": "47980156",
+          "price": "N/A"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-04-30",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q1FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/GOOGL/10-Q/2026-04-30_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/GOOGL/10-Q/2025-10-30_10-Q_Q1FY2025.txt",
+        "/home/sumith/ORACLE/filings/GOOGL/10-Q/2025-07-24_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-06-30"
+    },
+    "earnings_8k_by_quarter": {
+      "Q3FY2026": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-04-29_8-K_earnings_ex991.txt",
+      "Q1FY2025": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-10-29_8-K_earnings_ex991.txt",
+      "Q4FY2025": "/home/sumith/ORACLE/filings/GOOGL/8-K/2025-07-23_8-K_earnings_ex991.txt"
+    },
+    "10-K": {
+      "newest_filing_date": "2026-02-05",
+      "period_covered": "2025-12-31",
+      "local_path": "/home/sumith/ORACLE/filings/GOOGL/10-K/2026-02-05_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2026-04-24",
+      "local_path": "/home/sumith/ORACLE/filings/GOOGL/DEF14A/2026-04-24_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/GOOGL/sections/2026-04-30_10-Q_Q3FY2026_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/GOOGL/sections/2026-04-30_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/GOOGL/sections/2026-04-30_10-Q_Q3FY2026_item8_financials.txt",
+    "newest_footnotes": "/home/sumith/ORACLE/filings/GOOGL/sections/2026-04-30_10-Q_Q3FY2026_footnotes.txt",
+    "newest_business": "/home/sumith/ORACLE/filings/GOOGL/sections/2026-04-30_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/GOOGL/8-K/2026-04-29_8-K_earnings_ex991.txt",
+    "newest_segments": "/home/sumith/ORACLE/filings/GOOGL/sections/2026-04-30_10-Q_Q3FY2026_segments.txt"
+  },
+  "failed_downloads": []
+}

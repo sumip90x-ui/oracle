@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-10
+Transaction Date: 2026-03-07
+Person: Sibley Tarrant L. — EVP, CLO and Corp Secretary
+Type: OTHER
+Shares: 3086 at $93.51
+Shares After: 58042.97
+=== TICKER: HAS ===
+===

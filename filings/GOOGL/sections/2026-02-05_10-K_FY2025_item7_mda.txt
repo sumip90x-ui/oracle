@@ -1,0 +1,10 @@
+=== FILING DATE: 2026-02-05 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-02-05 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: GOOGL ===
+
+Item 7
+ of our 2024 Annual Report on Form 10-K.
+Understanding Alphabet’s Financial Results
+Alphabet is a collection of businesses — the largest of which is Google. We report Google in two segments, Google Services and Google Cloud, and all non-Google businesses collectively as Other Bets. Supporting these businesses, we have centralized certain AI-related research and development focused on advanced research in AI and developing the frontier models that serve our businesses, which is reported in Alphabet-level activities. For further details on our segments, see Part I,

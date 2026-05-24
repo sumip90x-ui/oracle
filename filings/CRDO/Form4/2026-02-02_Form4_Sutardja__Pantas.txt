@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-02
+Transaction Date: 2026-01-30
+Person: Sutardja, Pantas — Director
+Type: SELL
+Shares: 1875 at $128.67
+Shares After: 5892034
+=== TICKER: CRDO ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-05
+Transaction Date: 2026-01-01
+Person: Langhans Jarrod — Chief Financial Officer
+Type: OTHER
+Shares: 3994 at $45.74
+Shares After: 101985
+=== TICKER: CELH ===
+===

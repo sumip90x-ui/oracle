@@ -1,0 +1,537 @@
+{
+  "ticker": "HAS",
+  "company_name": "HASBRO, INC.",
+  "cik": "0000046080",
+  "sic": "3944",
+  "industry": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
+  "fiscal_year_end": "1227",
+  "last_checked": "2026-05-21T04:03:53.212422",
+  "newest_filing_date": "2026-05-20",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-20",
+      "oldest_included": "2025-05-27",
+      "count": 10,
+      "files": [
+        {
+          "filing_date": "2026-05-20",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-05-20_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-05-20_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-04-23",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-04-23_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-04-23_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-04-01",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-04-01_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2026-03-12",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-03-12_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-02-20",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-02-20_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-02-10",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-02-10_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-02-10_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-01-22",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-01-22_8-K_personnel.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/HAS/8-K/2026-01-22_8-K_personnel_ex991.txt"
+        },
+        {
+          "filing_date": "2025-10-23",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2025-10-23_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/HAS/8-K/2025-10-23_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-07-23",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2025-07-23_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/HAS/8-K/2025-07-23_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-05-27",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/HAS/8-K/2025-05-27_8-K_personnel.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-19",
+      "count": 60,
+      "transactions": [
+        {
+          "filing_date": "2026-05-19",
+          "person": "KILPIN TIMOTHY J.",
+          "type": "OTHER",
+          "shares": "5939",
+          "price": "95.13"
+        },
+        {
+          "filing_date": "2026-05-19",
+          "person": "GOETTER GINA M",
+          "type": "OTHER",
+          "shares": "9796",
+          "price": "95.13"
+        },
+        {
+          "filing_date": "2026-05-19",
+          "person": "Bunge Jason M",
+          "type": "OTHER",
+          "shares": "2506",
+          "price": "95.13"
+        },
+        {
+          "filing_date": "2026-04-02",
+          "person": "Stoddart Richard S",
+          "type": "BUY",
+          "shares": "125",
+          "price": "93.60"
+        },
+        {
+          "filing_date": "2026-04-02",
+          "person": "Gersh Lisa",
+          "type": "BUY",
+          "shares": "686",
+          "price": "93.60"
+        },
+        {
+          "filing_date": "2026-04-02",
+          "person": "Bowser Douglas S",
+          "type": "BUY",
+          "shares": "293",
+          "price": "93.60"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Sibley Tarrant L.",
+          "type": "BUY",
+          "shares": "8422",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Hight John",
+          "type": "BUY",
+          "shares": "10695",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "GOETTER GINA M",
+          "type": "BUY",
+          "shares": "21389",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Bunge Jason M",
+          "type": "BUY",
+          "shares": "4540",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Cocks Christian P",
+          "type": "BUY",
+          "shares": "56144",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Barbacovi Holly",
+          "type": "BUY",
+          "shares": "6918",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "GOETTER GINA M",
+          "type": "OTHER",
+          "shares": "4201",
+          "price": "94.65"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "Sibley Tarrant L.",
+          "type": "OTHER",
+          "shares": "2071",
+          "price": "94.65"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "KILPIN TIMOTHY J.",
+          "type": "OTHER",
+          "shares": "2791",
+          "price": "94.65"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "Cocks Christian P",
+          "type": "OTHER",
+          "shares": "13782",
+          "price": "94.65"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "Hight John",
+          "type": "OTHER",
+          "shares": "2068",
+          "price": "94.65"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "Barbacovi Holly",
+          "type": "OTHER",
+          "shares": "1354",
+          "price": "94.65"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "Bunge Jason M",
+          "type": "OTHER",
+          "shares": "1019",
+          "price": "94.65"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "Bunge Jason M",
+          "type": "OTHER",
+          "shares": "2325",
+          "price": "93.51"
+        },
+        {
+          "filing_date": "2026-03-10",
+          "person": "Sibley Tarrant L.",
+          "type": "OTHER",
+          "shares": "3086",
+          "price": "93.51"
+        },
+        {
+          "filing_date": "2026-03-10",
+          "person": "KILPIN TIMOTHY J.",
+          "type": "OTHER",
+          "shares": "4710",
+          "price": "93.51"
+        },
+        {
+          "filing_date": "2026-03-10",
+          "person": "GOETTER GINA M",
+          "type": "OTHER",
+          "shares": "7442",
+          "price": "93.51"
+        },
+        {
+          "filing_date": "2026-03-10",
+          "person": "Cocks Christian P",
+          "type": "OTHER",
+          "shares": "16621",
+          "price": "93.51"
+        },
+        {
+          "filing_date": "2026-03-02",
+          "person": "Cocks Christian P",
+          "type": "OTHER",
+          "shares": "589233",
+          "price": "55.78"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Cocks Christian P",
+          "type": "OTHER",
+          "shares": "8030",
+          "price": "99.64"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Sibley Tarrant L.",
+          "type": "OTHER",
+          "shares": "1680",
+          "price": "99.64"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "KILPIN TIMOTHY J.",
+          "type": "BUY",
+          "shares": "19115",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Sibley Tarrant L.",
+          "type": "BUY",
+          "shares": "28709",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "person": "Cocks Christian P",
+          "type": "BUY",
+          "shares": "142123",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-23",
+          "person": "Barbacovi Holly",
+          "type": "SELL",
+          "shares": "4337",
+          "price": "100.975"
+        },
+        {
+          "filing_date": "2026-02-17",
+          "person": "Cocks Christian P",
+          "type": "OTHER",
+          "shares": "544743",
+          "price": "86.66"
+        },
+        {
+          "filing_date": "2026-02-17",
+          "person": "KILPIN TIMOTHY J.",
+          "type": "SELL",
+          "shares": "7773",
+          "price": "103"
+        },
+        {
+          "filing_date": "2026-02-13",
+          "person": "GOETTER GINA M",
+          "type": "SELL",
+          "shares": "12429",
+          "price": "103.457"
+        },
+        {
+          "filing_date": "2026-02-13",
+          "person": "Bunge Jason M",
+          "type": "SELL",
+          "shares": "2380",
+          "price": "106.0259"
+        },
+        {
+          "filing_date": "2026-02-13",
+          "person": "Sibley Tarrant L.",
+          "type": "OTHER",
+          "shares": "45444",
+          "price": "86.66"
+        },
+        {
+          "filing_date": "2026-01-21",
+          "person": "Bowser Douglas S",
+          "type": "BUY",
+          "shares": "750",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-21",
+          "person": "Vernon Carla",
+          "type": "BUY",
+          "shares": "750",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Stoddart Richard S",
+          "type": "BUY",
+          "shares": "142",
+          "price": "82"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Gersh Lisa",
+          "type": "BUY",
+          "shares": "776",
+          "price": "82"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "Cochran Hope F",
+          "type": "SELL",
+          "shares": "4000",
+          "price": "77.2431"
+        },
+        {
+          "filing_date": "2025-10-01",
+          "person": "Stoddart Richard S",
+          "type": "BUY",
+          "shares": "152",
+          "price": "75.85"
+        },
+        {
+          "filing_date": "2025-10-01",
+          "person": "Gersh Lisa",
+          "type": "BUY",
+          "shares": "820",
+          "price": "75.85"
+        },
+        {
+          "filing_date": "2025-08-28",
+          "person": "Thomson Roberta K",
+          "type": "SELL",
+          "shares": "2500",
+          "price": "81.13"
+        },
+        {
+          "filing_date": "2025-08-27",
+          "person": "KILPIN TIMOTHY J.",
+          "type": "SELL",
+          "shares": "8557",
+          "price": "81.44"
+        },
+        {
+          "filing_date": "2025-08-22",
+          "person": "Cocks Christian P",
+          "type": "SELL",
+          "shares": "27800",
+          "price": "78.9042"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Hight John",
+          "type": "OTHER",
+          "shares": "7286",
+          "price": "80.72"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Barbacovi Holly",
+          "type": "OTHER",
+          "shares": "7196",
+          "price": "80.72"
+        },
+        {
+          "filing_date": "2025-08-18",
+          "person": "Thomson Roberta K",
+          "type": "SELL",
+          "shares": "1002",
+          "price": "79.8114"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Gersh Lisa",
+          "type": "BUY",
+          "shares": "904",
+          "price": "73.82"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "person": "Stoddart Richard S",
+          "type": "BUY",
+          "shares": "155",
+          "price": "73.82"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Stone West Mary E",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Stoddart Richard S",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Richie Laurel",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Mahoney Owen",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "HARRIS DARIN S",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Hamren Elizabeth",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "GIBEAU FRANK D",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Gersh Lisa",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Cochran Hope F",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-05-13",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q1FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/HAS/10-Q/2026-05-13_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/HAS/10-Q/2025-11-05_10-Q_Q1FY2025.txt",
+        "/home/sumith/ORACLE/filings/HAS/10-Q/2025-07-31_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-06-29"
+    },
+    "earnings_8k_by_quarter": {
+      "Q3FY2026": "/home/sumith/ORACLE/filings/HAS/8-K/2026-05-20_8-K_earnings_ex991.txt"
+    },
+    "10-K": {
+      "newest_filing_date": "2026-02-25",
+      "period_covered": "2025-12-28",
+      "local_path": "/home/sumith/ORACLE/filings/HAS/10-K/2026-02-25_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2026-04-17",
+      "local_path": "/home/sumith/ORACLE/filings/HAS/DEF14A/2026-04-17_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/HAS/sections/2026-05-13_10-Q_Q3FY2026_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/HAS/sections/2026-05-13_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/HAS/sections/2026-02-25_10-K_FY2025_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/HAS/sections/2026-05-13_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/HAS/8-K/2026-05-20_8-K_earnings_ex991.txt",
+    "newest_segments": "/home/sumith/ORACLE/filings/HAS/sections/2026-05-13_10-Q_Q3FY2026_segments.txt"
+  },
+  "failed_downloads": []
+}

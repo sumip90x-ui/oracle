@@ -1,0 +1,15 @@
+=== FILING DATE: 2025-07-30 ===
+=== PERIOD COVERED: 2025-06-30 ===
+=== SOURCE: 10-K filed 2025-07-30 ===
+=== SECTION: Item 1A — Risk Factors ===
+=== TICKER: MSFT ===
+
+Item 1A
+ of this Form 10-K) for a discussion of these factors and other risks.
+Seasonality
+Our revenue fluctuates quarterly and is generally higher in the fourth quarter of our fiscal year. Fourth quarter revenue is driven by a higher volume of multi-year contracts executed during the period.
+
+Reportable Segments
+We report our financial performance based on the following segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. The segment amounts included in MD&A are presented on a basis consistent with our internal management reporting.
+In August 2024, we announced changes to the composition of our segments. These changes align our segments with how we currently manage our business, most notably bringing the commercial components of Microsoft 365 together in the Productivity and Business Processes segment. Beginning in fiscal year 2025, the information that our chief operating decision maker is regularly provided and reviews for purposes of allocating resources and assessing performance reflects these segment changes. Prior period segment information has been recast to conform to the way we internally manage and monitor our business during fiscal year 2025.
+Additional information on our reportable segments is contained in Note 18 – Segment Information and Geographic Data of the Notes to Financial Statements (Part II,

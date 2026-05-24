@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-05-19
+Transaction Date: 2026-05-15
+Person: Bunge Jason M — Chief Marketing Officer
+Type: OTHER
+Shares: 2506 at $95.13
+Shares After: 41282
+=== TICKER: HAS ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-18
+Transaction Date: 2026-02-13
+Person: DEBBANE RAYMOND — Director
+Type: BUY
+Shares: 268497 at $1.3093
+Shares After: 35402689
+=== TICKER: LXRX ===
+===

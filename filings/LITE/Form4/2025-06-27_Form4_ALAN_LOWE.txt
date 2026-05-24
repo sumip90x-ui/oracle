@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-27
+Transaction Date: 2025-06-26
+Person: ALAN LOWE — 
+Type: SELL
+Shares: 20000 at $93.47
+Shares After: 06
+=== TICKER: LITE ===
+===

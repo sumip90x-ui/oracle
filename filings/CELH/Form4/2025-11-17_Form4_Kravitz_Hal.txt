@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-17
+Transaction Date: 2025-11-13
+Person: Kravitz Hal — Director
+Type: BUY
+Shares: 10000 at $45.24
+Shares After: 216147
+=== TICKER: CELH ===
+===

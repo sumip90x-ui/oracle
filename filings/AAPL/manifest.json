@@ -1,0 +1,384 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "sic": "3571",
+  "industry": "Electronic Computers",
+  "fiscal_year_end": "0926",
+  "last_checked": "2026-05-17T01:55:24.574976",
+  "newest_filing_date": "2026-05-12",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-04-30",
+      "oldest_included": "2025-07-09",
+      "count": 10,
+      "files": [
+        {
+          "filing_date": "2026-04-30",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2026-04-30_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2026-04-30_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-04-20",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2026-04-20_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2026-02-24_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-01-29",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2026-01-29_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2026-01-29_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-01-02",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2026-01-02_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2025-12-05_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-10-30",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2025-10-30_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2025-10-30_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-07-31",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2025-07-31_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2025-07-31_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-07-25",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2025-07-25_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-07-09",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/AAPL/8-K/2025-07-09_8-K_personnel.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-12",
+      "count": 39,
+      "transactions": [
+        {
+          "filing_date": "2026-05-12",
+          "person": "Borders Ben",
+          "type": "SELL",
+          "shares": "1274",
+          "price": "290"
+        },
+        {
+          "filing_date": "2026-05-08",
+          "person": "LEVINSON ARTHUR D",
+          "type": "SELL",
+          "shares": "255000",
+          "price": "284.57"
+        },
+        {
+          "filing_date": "2026-04-27",
+          "person": "Parekh Kevan",
+          "type": "SELL",
+          "shares": "1534",
+          "price": "275"
+        },
+        {
+          "filing_date": "2026-04-17",
+          "person": "Borders Ben",
+          "type": "OTHER",
+          "shares": "4326",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-04-17",
+          "person": "Parekh Kevan",
+          "type": "OTHER",
+          "shares": "26649",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "O'BRIEN DEIRDRE",
+          "type": "OTHER",
+          "shares": "192951",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "Khan Sabih",
+          "type": "OTHER",
+          "shares": "161951",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-04-03",
+          "person": "COOK TIMOTHY D",
+          "type": "OTHER",
+          "shares": "394728",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "Newstead Jennifer",
+          "type": "OTHER",
+          "shares": "152944",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "WAGNER SUSAN",
+          "type": "BUY",
+          "shares": "1139",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "SUGAR RONALD D",
+          "type": "BUY",
+          "shares": "1139",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "LOZANO MONICA C",
+          "type": "BUY",
+          "shares": "1139",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "LEVINSON ARTHUR D",
+          "type": "OTHER",
+          "shares": "2124",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "JUNG ANDREA",
+          "type": "BUY",
+          "shares": "1139",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Gorsky Alex",
+          "type": "BUY",
+          "shares": "1139",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Austin Wanda M",
+          "type": "BUY",
+          "shares": "1139",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "WAGNER SUSAN",
+          "type": "OTHER",
+          "shares": "2510",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "SUGAR RONALD D",
+          "type": "OTHER",
+          "shares": "2510",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "LOZANO MONICA C",
+          "type": "OTHER",
+          "shares": "2510",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "LEVINSON ARTHUR D",
+          "type": "OTHER",
+          "shares": "2226",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "JUNG ANDREA",
+          "type": "OTHER",
+          "shares": "2510",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "Gorsky Alex",
+          "type": "OTHER",
+          "shares": "2510",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "Austin Wanda M",
+          "type": "OTHER",
+          "shares": "2510",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-11-14",
+          "person": "Adams Katherine L.",
+          "type": "OTHER",
+          "shares": "3750",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "KONDO CHRIS",
+          "type": "SELL",
+          "shares": "3752",
+          "price": "271.23"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "Parekh Kevan",
+          "type": "OTHER",
+          "shares": "45175",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "KONDO CHRIS",
+          "type": "OTHER",
+          "shares": "18361",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-10-03",
+          "person": "COOK TIMOTHY D",
+          "type": "OTHER",
+          "shares": "831618",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-10-03",
+          "person": "O'BRIEN DEIRDRE",
+          "type": "OTHER",
+          "shares": "277209",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-10-03",
+          "person": "Khan Sabih",
+          "type": "OTHER",
+          "shares": "234196",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-10-03",
+          "person": "Adams Katherine L.",
+          "type": "OTHER",
+          "shares": "277209",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2025-09-30",
+          "person": "Parekh Kevan",
+          "type": "BUY",
+          "shares": "97864",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-30",
+          "person": "O'BRIEN DEIRDRE",
+          "type": "BUY",
+          "shares": "97864",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-30",
+          "person": "Khan Sabih",
+          "type": "BUY",
+          "shares": "97864",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-30",
+          "person": "COOK TIMOTHY D",
+          "type": "BUY",
+          "shares": "195727",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-30",
+          "person": "Adams Katherine L.",
+          "type": "BUY",
+          "shares": "97864",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-29",
+          "person": "LEVINSON ARTHUR D",
+          "type": "SELL",
+          "shares": "90000",
+          "price": "232.07"
+        },
+        {
+          "filing_date": "2025-08-27",
+          "person": "KONDO CHRIS",
+          "type": "OTHER",
+          "shares": "435",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "O'BRIEN DEIRDRE",
+          "type": "SELL",
+          "shares": "34821",
+          "price": "223.20"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-05-01",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q2FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/AAPL/10-Q/2026-05-01_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/AAPL/10-Q/2026-01-30_10-Q_Q2FY2025.txt",
+        "/home/sumith/ORACLE/filings/AAPL/10-Q/2025-08-01_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-06-28"
+    },
+    "10-K": {
+      "newest_filing_date": "2025-10-31",
+      "period_covered": "2025-09-27",
+      "local_path": "/home/sumith/ORACLE/filings/AAPL/10-K/2025-10-31_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2026-01-08",
+      "local_path": "/home/sumith/ORACLE/filings/AAPL/DEF14A/2026-01-08_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/AAPL/sections/2025-10-31_10-K_FY2025_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/AAPL/sections/2026-05-01_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/AAPL/sections/2026-05-01_10-Q_Q3FY2026_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/AAPL/sections/2026-05-01_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/AAPL/8-K/2026-04-30_8-K_earnings_ex991.txt"
+  },
+  "failed_downloads": []
+}

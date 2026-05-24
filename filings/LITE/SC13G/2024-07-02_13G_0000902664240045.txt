@@ -1,0 +1,1112 @@
+=== FILING DATE: 2024-07-02 ===
+=== PERIOD COVERED: 2024-07-02 ===
+=== SOURCE: SC13G filed 2024-07-02 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: LITE ===
+
+
+
+SC 13G
+
+1
+
+p24-2314sc13g.htm
+
+LUMENTUM HOLDINGS INC.
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+
+
+ 
+
+
+ 
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+Under the Securities Exchange Act of 1934
+
+
+(Amendment No.  )*
+
+
+ 
+
+
+Lumentum Holdings
+    Inc.
+
+
+(Name of Issuer)
+
+
+ 
+
+
+Common Stock, par
+    value $0.001 per share
+
+
+(Title of Class of Securities)
+
+
+ 
+
+
+55024U109
+
+
+(CUSIP Number)
+
+
+ 
+
+
+July 1, 2024
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+
+ 
+
+
+ 
+
+
+Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+
+
+ 
+
+
+¨
+
+
+Rule 13d-1(b)
+
+
+ý
+
+
+Rule 13d-1(c)
+
+
+¨
+
+
+Rule 13d-1(d)
+
+
+ 
+
+
+(Page 1 of 7 Pages)
+
+
+ 
+
+
+______________________________
+
+
+*The remainder of this
+cover page shall be filled out for a reporting person's initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
+
+
+The information required
+in the remainder of this cover page shall not be deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("
+Act
+") or otherwise subject to the liabilities of that section of the Act but shall be subject to all other
+provisions of the Act (however, see the Notes).
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+CUSIP No. 55024U109
+13G
+Page
+2
+ of 7 Pages
+
+
+ 
+
+
+1
+
+
+NAME OF REPORTING PERSON
+
+
+ 
+
+
+Point72 Asset Management, L.P.
+
+
+2
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+
+(a)
+¨
+
+
+(b)
+x
+
+
+3
+
+
+SEC USE ONLY
+
+
+4
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+Delaware
+
+
+NUMBER OF
+
+SHARES
+
+BENEFICIALLY
+
+OWNED BY
+
+EACH
+
+REPORTING
+
+PERSON WITH
+
+
+5
+
+
+SOLE VOTING POWER
+
+
+0
+
+
+6
+
+
+SHARED VOTING POWER
+
+
+3,382,398
+
+
+7
+
+
+SOLE DISPOSITIVE POWER
+
+
+0
+
+
+8
+
+
+SHARED DISPOSITIVE POWER
+
+
+3,382,398
+
+
+9
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+3,382,398
+
+
+10
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+
+¨
+
+
+11
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+5.0%
+
+
+12
+
+
+TYPE OF REPORTING PERSON
+
+
+PN
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+CUSIP No. 55024U109
+13G
+Page
+3
+ of 7 Pages
+
+
+ 
+
+
+ 
+
+
+1
+
+
+NAME OF REPORTING PERSON
+
+
+ 
+
+
+Point72 Capital Advisors, Inc.
+
+
+2
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+
+(a)
+¨
+
+
+(b)
+x
+
+
+3
+
+
+SEC USE ONLY
+
+
+4
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+Delaware
+
+
+NUMBER OF
+
+SHARES
+
+BENEFICIALLY
+
+OWNED BY
+
+EACH
+
+REPORTING
+
+PERSON WITH
+
+
+5
+
+
+SOLE VOTING POWER
+
+
+0
+
+
+6
+
+
+SHARED VOTING POWER
+
+
+3,382,398
+
+
+7
+
+
+SOLE DISPOSITIVE POWER
+
+
+0
+
+
+8
+
+
+SHARED DISPOSITIVE POWER
+
+
+3,382,398
+
+
+9
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+3,382,398
+
+
+10
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+
+¨
+
+
+11
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+5.0%
+
+
+12
+
+
+TYPE OF REPORTING PERSON
+
+
+CO
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+CUSIP No. 55024U109
+13G
+Page
+4
+ of 7 Pages
+
+
+ 
+
+
+ 
+
+
+1
+
+
+NAME OF REPORTING PERSON
+
+
+ 
+
+
+Steven A. Cohen
+
+
+2
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+
+(a)
+¨
+
+
+(b)
+x
+
+
+3
+
+
+SEC USE ONLY
+
+
+4
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+United States
+
+
+NUMBER OF
+
+SHARES
+
+BENEFICIALLY
+
+OWNED BY
+
+EACH
+
+REPORTING
+
+PERSON WITH
+
+
+5
+
+
+SOLE VOTING POWER
+
+
+0
+
+
+6
+
+
+SHARED VOTING POWER
+
+
+3,382,398
+
+
+7
+
+
+SOLE DISPOSITIVE POWER
+
+
+0
+
+
+8
+
+
+SHARED DISPOSITIVE POWER
+
+
+3,382,398
+
+
+9
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+3,382,398
+
+
+10
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+
+¨
+
+
+11
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+5.0%
+
+
+12
+
+
+TYPE OF REPORTING PERSON
+
+
+IN
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+CUSIP No. 55024U109
+13G
+Page
+5
+ of 7 Pages
+
+
+ 
+
+
+Item 1(a).
+
+
+Name of Issuer.
+
+
+ 
+
+
+Lumentum Holdings Inc. (the “
+Issuer
+”).
+
+
+ 
+
+
+Item 1(b).
+
+
+Address of Issuer's Principal Executive Offices.
+
+
+ 
+
+
+1001 Ridder Park Drive, San Jose, California 95131.
+
+
+ 
+
+
+Item 2(a).
+
+
+Name of Person Filing.
+
+
+ 
+
+
+This statement is filed by: (i) Point72 Asset Management, L.P. (“
+Point72 Asset Management
+”) with respect to shares of common stock, par value $0.001 per share (“
+Shares
+”), of the Issuer held by Point72 Associates, LLC, an investment fund it manages (“
+Point72 Associates
+”); (ii) Point72 Capital Advisors, Inc. (“
+Point72 Capital Advisors Inc
+.”) with respect to Shares held by Point72 Associates; and (iii) Steven A. Cohen (“
+Mr. Cohen
+”) with respect to Shares beneficially owned by Point72 Asset Management and Point72 Capital Advisors Inc.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Point72 Asset Management, Point72 Capital Advisors Inc., and Mr. Cohen have entered into a Joint Filing Agreement, a copy of which is filed with this Schedule 13G as
+Exhibit 99.1
+, pursuant to which they have agreed to file this Schedule 13G jointly in accordance with the provisions of Rule 13d-1(k) of the Act.
+
+
+ 
+
+
+Item 2(b).
+
+
+Address of Principal Business Office.
+
+
+ 
+
+
+The address of the principal business office of Point72 Asset Management, Point72 Capital Advisors Inc., and Mr. Cohen is 72 Cummings Point Road, Stamford, CT 06902.
+
+
+ 
+
+
+Item 2(c).
+
+
+Place of Organization.
+
+
+ 
+
+
+Point72 Asset Management is a Delaware limited partnership. Point72 Capital Advisors Inc. is a Delaware corporation.  Mr. Cohen is a United States citizen.
+
+
+ 
+
+
+Item 2(d).
+
+
+Title of Class of Securities.
+
+
+ 
+
+
+Common Stock, par value $0.001 per share.
+
+
+ 
+
+
+Item 2(e).
+
+
+CUSIP Number.
+
+
+ 
+
+
+55024U109
+
+
+ 
+
+
+Item 3.
+
+
+If this Statement is Filed Pursuant to §§ 240.13d-1(b) or 240.13d-2(b), or (c), check whether the Person Filing is a:
+
+
+ 
+
+
+Not applicable.
+
+
+ 
+
+
+Item 4.
+
+
+Ownership.
+
+
+ 
+
+
+The information required by Items 4(a) – (c) is set forth in Rows (5) – (11) of the cover page for each Reporting Person hereto and is incorporated herein by reference for each Reporting Person.  Such information is as of the close of business on July 1, 2024.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Point72 Asset Management, Point72 Capital Advisors Inc., and Mr. Cohen own directly no Shares. Pursuant to an investment management agreement, Point72 Asset Management maintains investment and voting power with respect to the securities held by Point72 Associates. Point72 Capital Advisors Inc. is the general partner of Point72 Asset Management.  Mr. Cohen controls each of Point72 Asset Management and Point72 Capital Advisors Inc.   The filing of this statement should not be construed as an admission that any of the foregoing persons or any Reporting Person is, for the purposes of Section 13 of the Act, the beneficial owner of the Shares reported herein.
+
+
+ 
+
+
+  
+
+
+ 
+
+
+CUSIP No. 55024U109
+13G
+Page
+6
+ of 7 Pages
+
+
+ 
+
+
+ 
+
+
+Item 5.
+
+
+Ownership of Five Percent or Less of a Class.
+
+
+ 
+
+
+If this statement is being filed to report the fact that as of the date hereof the Reporting Person has ceased to be the beneficial owner of more than 5 percent of the class of securities, check the following [ ].
+
+
+ 
+
+
+Item 6.
+
+
+Ownership of More Than Five Percent on Behalf of Another Person.
+
+
+ 
+
+
+Point72 Associates has the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, more than 5 percent of the outstanding Shares.
+
+
+ 
+
+
+Item 7.
+
+
+Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on by the Parent Holding Company or Control Person.
+
+
+ 
+
+
+Not applicable.
+
+
+ 
+
+
+Item 8.
+
+
+Identification and Classification of Members of the Group.
+
+
+ 
+
+
+Not applicable.
+
+
+ 
+
+
+Item 9.
+
+
+Notice of Dissolution of Group.
+
+
+ 
+
+
+Not applicable.
+
+
+ 
+
+
+Item 10.
+
+
+Certification.
+
+
+ 
+
+
+By signing below each Reporting Person certifies that, to the best of its knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.
+
+
+ 
+
+
+ 
+
+
+CUSIP No. 55024U109
+13G
+Page
+7
+ of 7 Pages
+
+
+ 
+
+
+SIGNATURE
+
+
+After reasonable inquiry and to the best of my knowledge
+and belief, each of the undersigned certifies that the information set forth in this statement is true, complete and correct.
+
+
+ 
+
+
+Date: July 2, 2024
+
+
+ 
+
+
+ 
+
+
+POINT72 ASSET MANAGEMENT, L.P.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+/s/ Jason M. Colombo
+
+
+ 
+
+
+Name:  Jason M. Colombo
+
+
+ 
+
+
+Title:    Authorized Person
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+POINT72 CAPITAL ADVISORS, INC.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+/s/ Jason M. Colombo
+
+
+ 
+
+
+Name:  Jason M. Colombo
+
+
+ 
+
+
+Title:    Authorized Person
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+STEVEN A. COHEN
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+/s/ Jason M. Colombo
+
+
+ 
+
+
+Name:  Jason M. Colombo
+
+
+ 
+
+
+Title:    Authorized Person
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+

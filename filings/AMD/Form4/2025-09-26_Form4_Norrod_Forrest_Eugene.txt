@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-26
+Transaction Date: 2025-09-24
+Person: Norrod Forrest Eugene — EVP & GM DESG
+Type: SELL
+Shares: 2250 at $165.01
+Shares After: 311598
+=== TICKER: AMD ===
+===

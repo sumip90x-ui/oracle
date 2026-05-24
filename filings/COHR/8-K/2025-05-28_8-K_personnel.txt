@@ -1,0 +1,391 @@
+=== FILING DATE: 2025-05-28 ===
+=== PERIOD COVERED: 2025-05-28 ===
+=== SOURCE: 8-K filed 2025-05-28 ===
+=== SECTION: 8-K Event — personnel ===
+=== TICKER: COHR ===
+
+
+
+
+8-K
+
+
+
+
+
+false
+
+0000820318
+
+
+
+
+
+
+
+
+0000820318
+
+
+
+2025-05-28
+
+2025-05-28
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+May 28, 2025
+
+ 
+
+
+ 
+
+
+Coherent Corp.
+
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Pennsylvania
+
+
+ 
+
+
+001-39375
+
+
+ 
+
+
+25-1214948
+
+
+(State or Other Jurisdiction
+of Incorporation)
+
+
+ 
+
+
+
+(Commission
+
+File Number)
+
+
+ 
+
+
+(I.R.S. Employer
+Identification No.)
+
+375 Saxonburg Boulevard
+
+Saxonburg
+,
+Pennsylvania
+
+16056
+
+(Address of Principal Executive Offices) (Zip Code)
+
+(724)
+
+352-4455
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+ 
+
+
+ 
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common Stock, no par value
+
+
+ 
+
+
+COHR
+
+
+ 
+
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+ of the Securities Exchange Act of 1934
+(§240.12b-2
+ of this chapter).
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 7.01
+
+
+
+Regulation FD Disclosure.
+
+On May 28, 2025, Coherent Corp. (“Coherent”) held a previously announced meeting with analysts and investors in New York (the “2025 Investor Day”) and made the 2025 Investor Day meeting publicly available via webcast for analysts, investors, and the general public. At the 2025 Investor Day, management made a presentation concerning Coherent’s strategy, markets, products, customers, and financial performance and targets, among other topics. A replay of the webcast and copy of the presentation are available on the Investor Relations section of Coherent’s website at coherent.com/company/investor-relations.
+
+Coherent also issued a press release summarizing the highlights from the 2025 Investor Day presentation. Copies of the press release and the presentation are furnished (not filed) as Exhibits 99.1 and 99.2, respectively, to this Current Report on Form
+8-K.
+ The press release and presentation include forward-looking statements and cautionary statements identifying important factors that could cause actual results to differ materially from those anticipated. The information in Item 7.01, including the exhibits furnished pursuant to Item 9.01, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into the filings of Coherent under the Securities Act of 1933.
+
+ 
+
+
+Item 9.01
+
+
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+ 
+
+
+Exhibit
+No.
+
+
+  
+
+
+Description
+
+
+ 99.1
+
+
+  
+
+
+Press Release, dated May 28, 2025
+
+
+ 99.2
+
+
+  
+
+
+2025 Investor Day Presentation
+
+
+104.0
+
+
+  
+
+
+Cover Page Interactive Data File (embedded within the inline XBRL document)
+
+
+
+ 
+
+
+
+
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+
+ 
+
+
+ 
+
+
+Coherent Corp.
+
+
+Date: May 28, 2025
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+ 
+
+
+
+/s/ Rob Beard
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Rob Beard
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Chief Legal and Global Affairs Officer
+
+

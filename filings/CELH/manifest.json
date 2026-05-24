@@ -1,0 +1,1061 @@
+{
+  "ticker": "CELH",
+  "company_name": "Celsius Holdings, Inc.",
+  "cik": "0001341766",
+  "sic": "2086",
+  "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "fiscal_year_end": "1231",
+  "last_checked": "2026-05-22T03:04:18.531664",
+  "newest_filing_date": "2026-05-19",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-07",
+      "oldest_included": "2025-05-28",
+      "count": 12,
+      "files": [
+        {
+          "filing_date": "2026-05-07",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2026-05-07_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CELH/8-K/2026-05-07_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2026-02-26_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CELH/8-K/2026-02-26_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-02-10",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2026-02-10_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-11-10",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-11-10_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-11-10_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-11-06",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-11-06_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-11-06_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-10-02_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-09-22",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-09-22_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-09-22_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-08-29",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-08-29_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-08-07",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-08-07_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-08-07_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-06-20_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-05-29_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-05-28",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-05-28_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/CELH/8-K/2025-05-28_8-K_earnings_ex991.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-19",
+      "count": 133,
+      "transactions": [
+        {
+          "filing_date": "2026-05-19",
+          "person": "Fieldly John",
+          "type": "OTHER",
+          "shares": "1058",
+          "price": "30.16"
+        },
+        {
+          "filing_date": "2026-05-06",
+          "person": "Storey Paul H.",
+          "type": "OTHER",
+          "shares": "2025",
+          "price": "33.52"
+        },
+        {
+          "filing_date": "2026-04-20",
+          "person": "Langhans Jarrod",
+          "type": "OTHER",
+          "shares": "4391",
+          "price": "35.25"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Russell Joyce",
+          "type": "BUY",
+          "shares": "5491",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Castaldo Nicholas",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "DeSantis Damon",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Kravitz Hal",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Melotte Hans MJ",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Levy Caroline S",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "MILLER CHERYL",
+          "type": "BUY",
+          "shares": "2611",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Fieldly John",
+          "type": "OTHER",
+          "shares": "54025",
+          "price": "53.61"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Langhans Jarrod",
+          "type": "OTHER",
+          "shares": "20616",
+          "price": "53.61"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Hanson Eric",
+          "type": "BUY",
+          "shares": "10725",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Mattessich Richard Stephen",
+          "type": "OTHER",
+          "shares": "12229",
+          "price": "53.61"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Storey Paul H.",
+          "type": "OTHER",
+          "shares": "12120",
+          "price": "53.61"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Lam Thi Tuyet Trinh",
+          "type": "BUY",
+          "shares": "9238",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-21",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-21",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-21",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-12",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-12",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-12",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-07",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-07",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-07",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Storey Paul H.",
+          "type": "OTHER",
+          "shares": "2481",
+          "price": "45.74"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Fieldly John",
+          "type": "OTHER",
+          "shares": "6453",
+          "price": "45.74"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Guilfoyle Tony",
+          "type": "OTHER",
+          "shares": "2481",
+          "price": "45.74"
+        },
+        {
+          "filing_date": "2026-01-05",
+          "person": "Langhans Jarrod",
+          "type": "OTHER",
+          "shares": "3994",
+          "price": "45.74"
+        },
+        {
+          "filing_date": "2026-01-02",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-02",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2026-01-02",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "720000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2025-12-29",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "480000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2025-12-29",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "480000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2025-12-29",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "480000",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "710748",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "710748",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2025-12-23",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "710748",
+          "price": "38.7911"
+        },
+        {
+          "filing_date": "2025-12-11",
+          "person": "Storey Paul H.",
+          "type": "BUY",
+          "shares": "15514",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-11",
+          "person": "Guilfoyle Tony",
+          "type": "BUY",
+          "shares": "15514",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-11",
+          "person": "Mattessich Richard Stephen",
+          "type": "BUY",
+          "shares": "15514",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-11",
+          "person": "Hanson Eric",
+          "type": "BUY",
+          "shares": "15514",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-11",
+          "person": "Langhans Jarrod",
+          "type": "BUY",
+          "shares": "15514",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-11",
+          "person": "Fieldly John",
+          "type": "BUY",
+          "shares": "25857",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-08",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "450000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-08",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "750000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-08",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "750000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-08",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "450000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-08",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "750000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-04",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "675000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-04",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-04",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-04",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "675000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-04",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "450000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "750000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "450000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "750000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "750000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-25",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "675000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-25",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-25",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "675000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-25",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-25",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "675000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "675000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-20",
+          "person": "Guilfoyle Tony",
+          "type": "OTHER",
+          "shares": "10832",
+          "price": "41.20"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "Kravitz Hal",
+          "type": "BUY",
+          "shares": "10000",
+          "price": "45.24"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "675000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "675000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1125000",
+          "price": "37.0234"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "Hanson Eric",
+          "type": "BUY",
+          "shares": "4558",
+          "price": "43.93"
+        },
+        {
+          "filing_date": "2025-11-03",
+          "person": "Mattessich Richard Stephen",
+          "type": "OTHER",
+          "shares": "1319",
+          "price": "60.23"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "Langhans Jarrod",
+          "type": "SELL",
+          "shares": "5000",
+          "price": "65"
+        },
+        {
+          "filing_date": "2025-10-15",
+          "person": "Milmoe William H.",
+          "type": "SELL",
+          "shares": "40000",
+          "price": "62.50"
+        },
+        {
+          "filing_date": "2025-09-09",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "7900000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-09",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "7900000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-09",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "7900000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-05",
+          "person": "Storey Paul H.",
+          "type": "SELL",
+          "shares": "7500",
+          "price": "60.93"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Langhans Jarrod",
+          "type": "SELL",
+          "shares": "5000",
+          "price": "60"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "Langhans Jarrod",
+          "type": "SELL",
+          "shares": "5000",
+          "price": "51.18"
+        },
+        {
+          "filing_date": "2025-08-08",
+          "person": "Fieldly John",
+          "type": "SELL",
+          "shares": "143167",
+          "price": "51.18"
+        },
+        {
+          "filing_date": "2025-08-04",
+          "person": "Milmoe William H.",
+          "type": "SELL",
+          "shares": "100000",
+          "price": "47.5"
+        },
+        {
+          "filing_date": "2025-08-04",
+          "person": "DeSantis Deborah",
+          "type": "SELL",
+          "shares": "100000",
+          "price": "47.50"
+        },
+        {
+          "filing_date": "2025-08-04",
+          "person": "DeSantis Dean",
+          "type": "SELL",
+          "shares": "100000",
+          "price": "47.5"
+        },
+        {
+          "filing_date": "2025-07-30",
+          "person": "Milmoe William H.",
+          "type": "SELL",
+          "shares": "200000",
+          "price": "47.00"
+        },
+        {
+          "filing_date": "2025-07-30",
+          "person": "DeSantis Deborah",
+          "type": "SELL",
+          "shares": "200000",
+          "price": "47"
+        },
+        {
+          "filing_date": "2025-07-30",
+          "person": "DeSantis Dean",
+          "type": "SELL",
+          "shares": "200000",
+          "price": "47"
+        },
+        {
+          "filing_date": "2025-07-30",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-30",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-25",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-25",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-22",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-22",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-17",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-17",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-14",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-14",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-09",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-09",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Milmoe William H.",
+          "type": "SELL",
+          "shares": "300000",
+          "price": "47.50"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-07-03",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-06-26",
+          "person": "Fieldly John",
+          "type": "SELL",
+          "shares": "130803",
+          "price": "45"
+        },
+        {
+          "filing_date": "2025-06-26",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-06-25",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-06-23",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "100000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-06-20",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1800000",
+          "price": "40.1588"
+        },
+        {
+          "filing_date": "2025-06-12",
+          "person": "Fieldly John",
+          "type": "SELL",
+          "shares": "132171",
+          "price": "43.06"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1039188",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "1039188",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1039188",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Hanson Eric",
+          "type": "BUY",
+          "shares": "46857",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1039188",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "1039188",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1039188",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1558782",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "1558782",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1558782",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Milmoe William H.",
+          "type": "OTHER",
+          "shares": "1558782",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "DeSantis Deborah",
+          "type": "OTHER",
+          "shares": "1558782",
+          "price": "26.2379"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "DeSantis Dean",
+          "type": "OTHER",
+          "shares": "1558782",
+          "price": "26.2379"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-05-07",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q1FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/CELH/10-Q/2026-05-07_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/CELH/10-Q/2025-11-07_10-Q_Q1FY2025.txt",
+        "/home/sumith/ORACLE/filings/CELH/10-Q/2025-08-08_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-06-30"
+    },
+    "earnings_8k_by_quarter": {
+      "Q3FY2026": "/home/sumith/ORACLE/filings/CELH/8-K/2026-05-07_8-K_earnings_ex991.txt",
+      "Q1FY2025": "/home/sumith/ORACLE/filings/CELH/8-K/2025-11-06_8-K_earnings_ex991.txt",
+      "Q4FY2025": "/home/sumith/ORACLE/filings/CELH/8-K/2025-08-07_8-K_earnings_ex991.txt"
+    },
+    "10-K": {
+      "newest_filing_date": "2026-03-02",
+      "period_covered": "2025-12-31",
+      "local_path": "/home/sumith/ORACLE/filings/CELH/10-K/2026-03-02_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2026-04-14",
+      "local_path": "/home/sumith/ORACLE/filings/CELH/DEF14A/2026-04-14_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/CELH/sections/2026-05-07_10-Q_Q3FY2026_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/CELH/sections/2026-05-07_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/CELH/sections/2026-03-02_10-K_FY2025_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/CELH/sections/2026-05-07_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/CELH/8-K/2026-05-07_8-K_earnings_ex991.txt",
+    "newest_segments": "/home/sumith/ORACLE/filings/CELH/sections/2026-05-07_10-Q_Q3FY2026_segments.txt"
+  },
+  "failed_downloads": []
+}

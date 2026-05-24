@@ -1,0 +1,437 @@
+=== FILING DATE: 2026-01-29 ===
+=== PERIOD COVERED: 2026-01-29 ===
+=== SOURCE: 8-K filed 2026-01-29 ===
+=== SECTION: 8-K Event — guidance ===
+=== TICKER: LXRX ===
+
+
+
+
+8-K
+
+
+
+
+
+NASDAQ
+
+false
+
+0001062822
+
+
+
+
+
+
+
+
+0001062822
+
+
+
+2026-01-29
+
+2026-01-29
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+FORM
+8-K
+
+ 
+
+
+ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+January 29, 2026
+
+ 
+
+
+ 
+
+
+Lexicon Pharmaceuticals, Inc.
+
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+ 
+
+ 
+
+
+Delaware
+
+
+ 
+
+
+000-30111
+
+
+ 
+
+
+76-0474169
+
+
+(State or other jurisdiction of
+incorporation or organization)
+
+
+ 
+
+
+(Commission
+File Number)
+
+
+ 
+
+
+(I.R.S. Employer
+Identification No.)
+
+2445 Technology Forest Blvd.
+,
+11th Floor
+
+The Woodlands
+,
+Texas
+
+77381
+
+(Address of principal executive offices Zip Code)
+
+(281)
+
+863-3000
+
+Registrant’s telephone number, including area code
+
+ 
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+
+Trading
+
+Symbol(s)
+
+
+ 
+
+
+
+Name of each exchange
+on which registered
+
+
+Common stock, par value $0.001
+
+
+ 
+
+
+LXRX
+
+
+ 
+
+
+
+The Nasdaq Capital Market
+
+
+Check the appropriate box below if the Form
+8-K
+ filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+
+ 
+
+
+☐
+
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+
+☐
+
+
+
+Soliciting material pursuant to Rule
+14a-12
+ under the Exchange Act (17 CFR
+240.14a-12)
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+
+ 
+
+
+☐
+
+
+
+Pre-commencement
+ communications pursuant to Rule
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule
+12b-2
+ of the Securities Exchange Act of 1934 (17 CFR
+§240.12b-2).
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Item 2.02
+
+
+
+Results of Operations and Financial Disclosure
+
+The Company previously announced that it ended 2025 with cash, investments and restricted cash of $125.2 million (unaudited), sufficient to support planned operations into 2027, and that it achieved a $10 million milestone in January pursuant to its licensing agreement with Novo Nordisk, with the potential for up to an additional $20 million in milestone payments throughout 2026 (although there is no certainty such milestones will be reached on the timeline expected or at all). The cash, investments and restricted cash amount was calculated prior to the completion of an audit by the Company’s independent registered public accounting firm and is therefore subject to change upon completion of the filing of the Company’s annual report for the year ended December 31, 2025. Additional information and disclosures would be required for a more complete understanding of the Company’s financial position and results of operations as of December 31, 2025.
+
+ 
+
+
+Item 7.01
+
+
+
+Regulation FD Disclosure.
+
+On January 29, 2026, Lexicon Pharmaceuticals, Inc., a Delaware corporation (the “
+Company
+”), issued a press release (the “
+Launch Press Release
+”) announcing the launch of its underwritten public offering to offer and sell, subject to market and other conditions, shares of its common stock, par value $0.001 (the “
+Common Stock
+”) and its intention to sell shares of its Common Stock in a concurrent private placement to an affiliate of Invus, L.P., the Company’s largest stockholder. A copy of the Launch Press Release is furnished as Exhibit 99.1 to this Current Report.
+
+In accordance with General Instruction B.2 of Form
+8-K,
+ the information furnished pursuant to this Item 7.01 and Exhibit 99.1 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. The information furnished pursuant to Item 7.01 shall not be deemed an admission as to the materiality of any information in this Current Report that is required to be disclosed solely to satisfy the requirements of Regulation FD.
+
+ 
+
+
+Item 8.01
+
+
+
+Other Events
+
+The information set forth in Item 2.02 of this Current Report is hereby incorporated in this Item 8.01 by reference.
+
+On January 29, 2026, the Company provided certain updated disclosures to potential investors, the relevant excerpts of which are set forth below.
+
+******
+
+The Company previously announced that the
+SONATA-HCM
+ pivotal Phase 3 study evaluating sotagliflozin in hypertrophic cardiomyopathy (HCM) is targeting enrollment of 500 patients with both obstructive and
+non-obstructive
+ HCM, with anticipated enrollment completion in
+mid-2026,
+ and that topline results from the study are anticipated in the first quarter of 2027.
+
+******
+
+The Company previously announced that the FDA raised no objections to the advancement of pilavapadin into Phase 3 development for diabetic peripheral neuropathic pain (DPNP).
+
+Further, based on pooled analyses of Phase 2 studies of pilavapadin in DPNP, the Company has concluded that pilavapadin has demonstrated validated biological activity (as evidenced by a linear relationship between increased plasma levels of pilavapadin and pain reduction), clinically meaningful efficacy of the 10mg dose (with a
+two-point
+ average daily pain score reduction from baseline at 12 weeks), and an acceptable safety profile in line with standard of care.
+
+The Company previously announced that the FDA has provided feedback that STENO1, a third-party-funded, investigator-initiated study of sotagliflozin being conducted by the Steno Diabetes Center, appears to be of adequate design and employs sufficient data collection methods to provide viable evidence of the incidence of diabetic ketoacidosis (DKA) with adequate
+
+
+
+
+
+safety data, prior to its completion, to support review of a resubmission of its New Drug Application (NDA) for ZYNQUISTA
+®
+ (sotagliflozin) in type 1 diabetes. Based on current STENO1 enrollment estimates, the Company is preparing to potentially resubmit the NDA in 2026 if supported by patient exposure and safety data from STENO1.
+
+ 
+
+
+Item 9.01
+
+
+
+Financial Statements and Exhibits
+
+(d) Exhibits.
+
+ 
+
+
+
+Exhibit
+Number
+
+
+  
+
+
+
+Description
+
+
+99.1
+
+
+  
+
+
+Launch Press Release, dated January 29, 2026.
+
+
+EX-104
+
+
+  
+
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+
+
+
+
+Signatures
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+ 
+
+
+ 
+
+
+Lexicon Pharmaceuticals, Inc.
+
+
+Date: January 29, 2026
+
+
+ 
+
+
+ 
+
+
+By:
+
+
+ 
+
+
+
+/s/ Brian T. Crum
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Brian T. Crum
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Senior Vice President and General Counsel
+
+

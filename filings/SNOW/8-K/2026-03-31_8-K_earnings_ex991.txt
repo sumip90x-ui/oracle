@@ -1,0 +1,41 @@
+=== FILING DATE: 2026-03-31 ===
+=== PERIOD COVERED: 2026-03-31 ===
+=== SOURCE: 8-K Exhibit 99.1 filed 2026-03-31 ===
+=== SECTION: 8-K Exhibit 99.1 — earnings ===
+=== TICKER: SNOW ===
+
+
+
+EX-99.1
+
+2
+
+ex991_pressreleasex033126.htm
+
+EX-99.1
+
+
+Document
+Snowflake Appoints Jonathan Beaulier as Chief Revenue Officer
+Reaffirms Guidance for First Quarter and Full-Year of Fiscal 2027
+MENLO PARK, Calif. – March 31, 2026
+ - Snowflake (NYSE: SNOW), the AI Data Cloud company, today announced that Jonathan Beaulier (JB), a Snowflake veteran who has been instrumental in driving Snowflake’s growth since 2016, has been appointed as the company’s Chief Revenue Officer, effective March 31, 2026. In his new role, Beaulier will be responsible for Snowflake’s revenue and go-to-market teams, helping to lead Snowflake through its next chapter of growth. Mike Gannon, Snowflake’s current CRO, has decided to leave the company for personal reasons.
+“JB has been a key driver of our success for the past ten years, and has consistently proven his ability to deliver results at scale,” said Sridhar Ramaswamy, Snowflake’s Chief Executive Officer. “His trusted position in the sales team and with our customers, and his passion for driving change, makes him uniquely positioned to deliver aggressive growth during this transformational time in the market. I also want to thank Mike Gannon for his contribution to Snowflake, and I wish him well in the future.”
+“Having spent the last decade helping to build this organization, I am incredibly energized to take on this new role,” said Beaulier. “Our AI-first approach has opened up a unique opportunity for us to deliver even more value to our customers and I look forward to leveraging my experience with our products and customers to spearhead our next chapter of growth.”
+Beaulier has served as Snowflake’s GVP, U.S. Majors Sales since August 2024. Prior to that, he served in various senior sales roles with Snowflake, including as VP of Sales – Financial Services & Insurance from February 2022 to August 2024.
+Additionally, Snowflake reaffirms its guidance for the first quarter and full-year of fiscal 2027, as previously announced on February 25, 2026 in its earnings release for the fiscal fourth quarter and fiscal year ended January 31, 2026. Snowflake’s guidance philosophy remains unchanged.
+Forward‑Looking Statements
+This release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, regarding our leadership transition, plans, beliefs, and expectations, and outlook for the first quarter and full-year of fiscal 2027 financial results. Words such as “guidance,” “outlook,” “expect,” “should,” “believe,” “may,” “will,” “might,” “could,” and variations of these terms or the negative of these terms and similar expressions are intended to identify these forward-looking statements. Other than statements of historical fact, all statements contained in this release are forward-looking statements. The forward-looking statements contained in this release are subject to known and unknown risks, uncertainties, assumptions, and other factors that may cause actual results or outcomes to be materially different from any future results or outcomes expressed or implied by the forward-looking statements. These risks, uncertainties, assumptions, and other factors include, but are not limited to, those related to our business and financial performance; general market and business conditions, downturns, or uncertainty, including higher inflation, tariffs and trade wars, extended federal government shutdowns, higher interest rates, fluctuations or volatility in capital markets or foreign currency exchange rates, and geopolitical instability; our ability to attract and retain
+customers that use our platform to support their end-to-end data lifecycle; our ability to execute on our business strategy, including our strategy across our product categories; our ability to respond rapidly and effectively to emerging technology trends, including the adoption and use of AI, and the extent to which our investments in new technologies are successful; the extent to which customers continue to optimize consumption; the impact of new or optimized product features and pricing strategies on consumption, including Iceberg tables and tiered storage pricing; our ability to consummate and realize the anticipated benefits of any acquisitions, strategic investments, partnerships, or alliances; unforeseen technical, operational, or business challenges impacting the timing, scope, or success of strategic partnerships; the extent to which customers continue to rationalize budgets and prioritize cash flow management, including through shortened contract durations; our ability to develop new products and services and enhance existing products and services; the extent to which customer adoption of new product capabilities results in durable consumption; the growth of successful native applications on the Snowflake Marketplace; our ability to increase and predict customer consumption of our platform, particularly in light of the impact of holidays on customer consumption patterns; our ability to compete effectively in a continually evolving market in which enterprises are increasingly adopting AI to perform core functions and significant disruption is being driven by AI; our ability to increase our penetration into existing markets and enter and grow new markets, including highly-regulated markets such as financial services, healthcare, and the public sector; our ability to attract, recruit, and retain qualified personnel to support our operations and growth; the impact of cybersecurity threat activity directed at us or our customers and any resulting reputational or financial damage; our ability to manage growth; and those described under the caption “Risk Factors” and elsewhere in our Form 10-K for the fiscal year ended January 31, 2026 and other filings and reports we make with the Securities and Exchange Commission from time to time.
+Moreover, we operate in a very competitive and rapidly changing environment, and new risks may emerge from time to time. It is not possible for us to predict all risks, nor can we assess the impact of all factors on our business, including our leadership transitions, or the extent to which any factor, or combination of factors, may cause actual results or outcomes to differ materially from those contained in any forward-looking statements we may make. Forward-looking statements speak only as of the date the statements are made and are based on information available to us at the time those statements are made and/or our management's good faith belief as of that time with respect to future events. Except as required by law, we undertake no obligation, and do not intend, to update these forward-looking statements to reflect events that occur or circumstances that exist after the date on which they were made.
+About Snowflake
+Snowflake is the platform for the AI era, making it easy for enterprises to innovate faster and get more value from data. More than 13,300 customers around the globe, including hundreds of the world’s largest companies, use Snowflake’s AI Data Cloud to build, use and share data, applications and AI. With Snowflake, data and AI are transformative for everyone. Learn more at snowflake.com (NYSE: SNOW).
+Investor Contact
+Katherine McCracken
+IR@snowflake.com
+Press Contact
+Eszter Szikora
+Press@snowflake.com
+Source: Snowflake Inc.
+
+

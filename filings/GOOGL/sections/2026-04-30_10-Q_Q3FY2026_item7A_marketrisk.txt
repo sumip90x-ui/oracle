@@ -1,0 +1,8 @@
+=== FILING DATE: 2026-04-30 ===
+=== PERIOD COVERED: 2026-03-31 ===
+=== SOURCE: 10-Q filed 2026-04-30 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: GOOGL ===
+
+Item 7A
+, "Quantitative and Qualitative Disclosures About Market Risk" in our Annual Report on Form 10-K for the year ended December 31, 2025.

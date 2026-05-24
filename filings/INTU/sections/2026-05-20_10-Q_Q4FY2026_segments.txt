@@ -1,0 +1,111 @@
+=== FILING DATE: 2026-05-20 ===
+=== PERIOD COVERED: 2026-04-30 ===
+=== SOURCE: 10-Q filed 2026-05-20 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: INTU ===
+
+
+Credit Karma
+631
+ 
+549
+ 
+1,898
+ 
+1,562
+ 
+ProTax
+278
+ 
+278
+ 
+613
+ 
+589
+ 
+Consumer
+5,273
+ 
+4,905
+ 
+7,654
+ 
+6,936
+ 
+Total net revenue
+$
+8,558
+ 
+$
+7,754
+ 
+$
+17,094
+ 
+$
+15,000
+ 
+ Intuit
+ Q3 Fiscal 2026 Form 10-Q
+30
+Table of Contents
+13. Subsequent Events
+In May 2026, our management approved and initiated a plan (the 2026 Plan) to simplify its organizational structure and become a faster, leaner, more focused company. As part of the 2026 Plan, we will reduce our full-time workforce and are considering the closure of certain sites in service to growing technology teams and capabilities in strategic locations. We estimate that we will incur approximately $
+300
+ million to $
+340
+ million in restructuring charges in connection with the 2026 Plan, primarily in the fourth fiscal quarter ending July 31, 2026. These charges will consist primarily of cash expenditures related to severance payments and employee benefits. We expect the actions associated with the 2026 Plan to be substantially complete by the first quarter of fiscal 2027. Actual costs may vary from the estimates provided above.
+ Intuit
+ Q3 Fiscal 2026 Form 10-Q
+31
+Table of Contents
+ITEM 2 - MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to provide readers of our condensed consolidated financial statements with the perspectives of management. This should allow the readers of this report to obtain a comprehensive understanding of our businesses, strategies, current trends, and future prospects. Our MD&A includes the following sections:
+•
+
+Executive Overview:
+
+High-level discussion of our operating results and some of the trends that affect our business.
+•
+
+Critical Accounting Estimates:
+ Significant changes since our most recent Annual Report on Form 10-K that we believe are important to understanding the assumptions and judgments underlying our financial statements.
+•
+
+Results of Operations:
+ A more detailed discussion of our revenue and expenses.
+•
+
+Liquidity and Capital Resources:
+
+Discussion of key aspects of our condensed consolidated statements of cash flows, changes in our condensed consolidated balance sheets, and our financial commitments.
+You should note that this MD&A contains forward-looking statements that involve risks and uncertainties. Please see the section entitled
+“Forward-Looking Statements”
+immediately preceding Part I of this Quarterly Report for important information to consider when evaluating such statements.
+You should read this MD&A in conjunction with the financial statements and related notes in Part I, Item 1 of this Quarterly Report and our Annual Report on Form 10-K for the fiscal year ended July 31, 2025.
+In the Results of Operations section of this MD&A, where we describe two or more factors that contributed to changes in revenue and operating income, we have, where possible, quantified the impact of those factors. Where a change is the result of multiple factors that are interrelated and cannot be separately quantified, we have identified the interrelated factors without quantifying them.
+Effective August 1, 2025, we combined our Consumer, Credit Karma, and ProTax businesses into a single Consumer segment in order to better serve the diverse financial needs of our customers as one consumer platform. Our chief operating decision maker allocates resources and assesses segment performance using regularly provided segment revenue and segment operating income information under this updated segment structure. To align results under this segment change, certain selling and marketing, product development, and general and administrative expenses for Credit Karma that were managed at the segment level are now managed at the platform level and are included in other corporate expenses rather than in segment expenses. Also on August 1, 2025, we reorganized certain marketing, communications, and customer success functions in our Global Business Solutions segment that support and benefit our overall platform and are managed at that level rather than at the segment level. Additionally, certain data science and analytics teams that were managed at the platform level are now managed at the segment level. We have recast certain previously reported amounts to conform to these segment changes. As a result of these changes, for the three and nine months ended April 30, 2025, we reclassified expenses totaling $1 million and $7 million from Global Business Solutions and $155 million and $456 million from Consumer to other corporate expenses, respectively, to conform to the current presentation.
+See Note 12,
+"Segment Information
+,
+"
+ for more information.
+
+In May 2026, our management approved and initiated a plan (the 2026 Plan) to simplify its organizational structure and become a faster, leaner, more focused company. As part of the 2026 Plan, we will reduce our full-time workforce and are considering the closure of certain sites in service to growing technology teams and capabilities in strategic locations. We estimate that we will incur approximately $300 million to $340 million in restructuring charges in connection with the 2026 Plan, primarily in the fourth fiscal quarter ending July 31, 2026. These charges will consist primarily of cash expenditures related to severance payments and employee benefits. We expect the actions associated with the 2026 Plan to be substantially complete by the first quarter of fiscal 2027. Actual costs may vary from the estimates provided above.
+EXECUTIVE OVERVIEW
+This overview provides a high-level discussion of our operating results and some of the trends that affect our business. We believe that an understanding of these trends is important in order to understand our financial results, as well as our future prospects. This summary is not intended to be exhaustive, nor is it a substitute for the detailed discussion and analysis provided elsewhere in this Quarterly Report on Form 10-Q.
+About Intuit
+Intuit helps consumers and small and mid-market businesses prosper by delivering financial management, compliance, and marketing products and services. We also provide specialized tax products to accounting professionals. We organize our businesses into two reportable segments – Global Business Solutions and Consumer.
+ Intuit
+ Q3 Fiscal 2026 Form 10-Q
+32
+Table of Contents
+Global Business Solutions
+:
+ This segment serves small and mid-market businesses around the world, and the accounting professionals who assist and advise them. QuickBooks and Intuit Enterprise Suite are offerings powered by our all-in-one business platform which includes financial management services, human capital management solutions such as payroll and time tracking, money solutions, such as merchant payment processing, bill pay, checking accounts through an FDIC-member bank partner, and financing for small and mid-market businesses. Intuit Enterprise Suite provides mid-market businesses with a configurable, AI-powered solution that includes multi-entity and multi-dimensional financial management capabilities designed to seamlessly scale and enhance productivity and profitability for more complex businesses to streamline operations. Mailchimp offerings include marketing automation and customer relationship tools.
+Consumer
+:
+
+This segment primarily serves consumers and professional accountants.
+Our TurboTax offerings primarily help consumers complete their taxes with confidence and maximize their financial outcomes—whether they do it themselves or with the help of an AI-enabled human expert. TurboTax delivers do-it-yourself and assisted income tax preparation products and services sold in the United States (U.S.) and Canada. We offer a variety of money products directly to consumers, including early refund access to any bank, as well as Credit Karma Money branded savings and checking accounts through an FDIC-member bank partner.
+Credit Karma is a per

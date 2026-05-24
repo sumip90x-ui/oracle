@@ -1,0 +1,84 @@
+=== FILING DATE: 2025-08-08 ===
+=== PERIOD COVERED: 2025-06-30 ===
+=== SOURCE: 10-Q filed 2025-08-08 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: CELH ===
+
+raints, inflationary impacts or reduced consumer demand for our products as a result of such tariffs or ongoing macroeconomic uncertainty could impact our results. While tariffs increased certain costs, the aggregate impact was not a key driver of our cost of revenue. As our second quarter benefited from timing of tariff implementation, we currently expect that tariffs may have greater impact in future quarters; however, the rapidly changing landscape around tariffs does not allow us to estimate that impact with reasonable certainty.
+Impact of One Big Beautiful Bill Act
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was signed into law in the United States. The legislation introduced a wide array of changes to the U.S. corporate tax system, including permanent extensions of certain provisions of the Tax Cuts and Jobs Act of 2017 and substantial modifications to the international tax regime applicable to U.S. multinational corporations. Key international provisions include changes to the Global Intangible Low-Taxed Income regime, the treatment of foreign tax credits, and interest expense limitations under Section 163(j). While certain provisions take effect in 2025, others are phased in over subsequent years. We are currently evaluating the potential impacts of the OBBBA on our consolidated financial statements. As the legislation was signed into law after the close of our second quarter, no impacts are included in our operating results for either the three or six months ended June 30, 2025.
+Interest Rate Risk
+Fluctuations in market interest rates may cause future cash flows to vary. Interest rates are highly sensitive to many factors, including fiscal and monetary policies and domestic and international economic and political considerations, as well as other factors beyond our control. This can affect both our borrowing costs and the fair value of our debt obligations. We are subject to interest rate risk in connection with the term loan facility, which bears interest at variable rates. For additional information see Note 6.
+Debt
+ in the notes to the unaudited condensed consolidated financial statements included in this Report.
+Results of Operations
+Three months ended June 30, 2025 compared to three months ended June 30, 2024
+Revenue
+For the three months ended June 30, 2025, revenue was approximately $739.3 million, an increase of $337.3 million, or 83.9%, from $402.0 million for the three months ended June 30, 2024.
+For the three months ended June 30, 2025, revenue in North America increased by $332.1 million, or 86.9%, compared to the three months ended June 30, 2024. This increase was primarily driven by the acquisition of Alani Nu, which contributed approximately $301.2 million of revenue, driven by the success of the limited time offer programs and strong overall performance. Celsius' core products also contributed to the growth, supported by favorable channel mix, increases in total distribution points, and increased sell-through under the Company’s major distribution partnerships.
+European revenue for the three months ended June 30, 2025 was approximately $18.3 million, representing an increase of $1.6 million, or 9.7%, from the three months ended June 30, 2024. Asia-Pacific revenue generated approximately $4.4 million for the three months ended June 30, 2025, with other international markets contributing an additional $2.1 million in revenue for the three months ended June 30, 2025. The growth in the Asia-Pacific region was primarily attributable to the launch of Celsius in Australia and New Zealand.
+36
+The following table sets forth the amount of revenue by geographical location for the three months ended June 30, 2025 and June 30, 2024:
+Three Months Ended June 30,
+(Amounts in thousands)
+2025
+2024
+North America
+$
+714,459 
+$
+382,351 
+Europe
+18,301 
+16,684 
+Asia-Pacific
+4,381 
+860 
+Other
+2,118 
+2,082 
+Revenue
+$
+739,259
+ 
+$
+401,977
+ 
+Gross Profit
+For the three months ended June 30, 2025, gross profit increased by $171.8 million to $380.9 million, an increase of 82.1% from $209.1 million for the three months ended June 30, 2024. This increase was driven primarily by the acquisition of Alani Nu. Gross profit margin was 51.5% for the three months ended June 30, 2025 and 52.0%
+
+for the three months ended June 30, 2024. Although we observed gross profit margin improvements resulting from material cost savings, and benefits from product mix and s
+cale efficiencies as revenue increased, these positive margin trends were offset by a lower gross profit margin profile of Alani Nu and a one-time inventory valuation step-up adjustment following the acquisition, see Note 5.
+Acquisitions
+in the notes to the unaudited condensed consolidated financial statements
+.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses ("SG&A") for the three months ended June 30, 2025 were $237.9 million, an increase of $123.0 million, or 107.1%, from $114.9 million for the three months ended June 30, 2024.
+The changes within SG&A expenses included:
+An increase of $60.6 million in marketing and selling expense. These increases were primarily due to:
+•
+$29.7 million attributable to Alani Nu, primarily related to sales and marketing employee costs, marketing investments to support brand growth, and storage and distribution expenses associated with the brand’s commercial expansion;
+•
+$17.5 million in marketing expenses, primarily attributable to the launch of the Live. Fit. Go. campaign, our largest marketing initiative to date, designed to support long-term brand development and international expansion;
+•
+$7.9 million in employee-related costs, primarily due to the Alani Nu acquisition and continued investment in sales and marketing personnel to support strategic growth initiatives; and
+•
+$5.5 million in other selling expenses, including storage and distribution costs associated with expanded sales volume and channel growth.
+An increase of $62.4 million in administrative expenses. These increases were primarily due to:
+•
+$15.8 million attributable to Alani Nu, primarily related to administrative employee costs, amortization of intangible
+assets, and other general administrative expenses;
+•
+$16.0 million in acquisition-related costs, primarily legal and professional service fees associated with the Alani Nu acquisition;
+•
+$13.8 million due to the remeasurement of contingent consideration related to the Alani Nu acquisition, reflecting stronger-than-expected revenue performance and an upward revision to forecasted results;
+•
+$11.7 million in general administrative
+costs, including legal, consulting, and other professional service expenses; and
+•
+$5.1 million in other administrative expenses, including administrative employee related costs, amortization of intangibles, and stock-based compensation.
+37
+Other (Expense) Income
+Total other expense for the three months ended June 30, 2025 was $13.5 million compared to other income of $10.4 million for the three months ended June 30, 2024, reflecting an unfavorable change of $23.9 million. This increase in other expense was primarily driven by $18.1 million of interest expense related to our outstanding debt, whereas no such debt existed in the prior-year period. This was partially offset by interest income earned on cash held in money market accounts.
+Provision for Income Taxes
+For the three months ended June 30, 2025, the Company’s effective tax rate was 22.9%, as compared to 23.7% for the same period in 2024. The year-over-year decline primarily reflects increased tax benefits from foreign operations, partially offset by income tax expense from shortfalls and non-deductible expenses related to issuance of stock awards. The current period’s effective tax rate exceeded the U.S. federal statutory rate of 21.0%, primarily due to non-deductible stock-based compensation expenses and state income taxes. In the prior-year quarter, the rate was similarly elevated above the statutory rate, driven b

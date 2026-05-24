@@ -1,0 +1,48 @@
+=== FILING DATE: 2025-11-07 ===
+=== PERIOD COVERED: 2025-09-30 ===
+=== SOURCE: 10-Q filed 2025-11-07 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: CELH ===
+
+Item 7
+,
+Management's Discussion and Analysis of Financial
+
+Condition and Results of Operations
+ included in our
+Annual Report
+.
+Business Combinations
+We account for acquisitions using the acquisition method, under which, upon obtaining control, we recognize each identifiable asset
+
+acquired and liability assumed at its acquisition date fair value. The determination of those fair values requires significant judgment and
+
+the use of valuation techniques when observable market inputs are unavailable. We value intangible assets using models such as the
+
+income approach (relief-from-royalty model) and other cost-based techniques. Key unobservable inputs include but are not limited to
+
+forecasted revenue growth rates, discount rates, royalty rates and estimated useful lives. We engage third-party valuation specialists to
+
+review these critical assumptions and prepare detailed fair value analyses for material acquisitions.
+Any excess of the purchase consideration over the fair values of identifiable net assets is recorded as goodwill. During the measurement
+
+period, up to one year from the acquisition date, significant provisional amounts are adjusted with a corresponding offset to
+goodwill
+.
+Preferred Stock
+On the
+Closing Date of the Pepsi Transactions
+, we measured the fair value of our Preferred Stock using a Monte Carlo simulation
+
+because these instruments include path dependent features, multiple redemption and conversion decision dates, an automatic conversion
+
+and a 10-day VWAP test. The model used observable market data at the measurement date, such as the price of our common stock. Since
+
+the valuation required significant unobservable inputs, including the probability of meeting certain triggering conditions, equity volatility
+
+and discount rates for redemption cash flows, the measurement is classified within Level 3 of the fair value hierarchy.
+We engaged third-party valuation specialists to review these critical assumptions and prepare detailed fair value analyses for our
+
+Preferred Stock. Key assumptions included the probability of meeting triggering conditions, equity volatility, the time horizon to
+
+decision dates and discount rates. These estimates were judgmental and could materially affect results.

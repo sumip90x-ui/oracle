@@ -1,0 +1,18 @@
+=== FILING DATE: 2025-10-31 ===
+=== PERIOD COVERED: 2025-09-27 ===
+=== SOURCE: 10-K filed 2025-10-31 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: AAPL ===
+
+Item 8
+, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K.
+104**
+Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.
+*
+Indicates management contract or compensatory plan or arrangement.
+**
+Filed herewith.
+***
+Furnished herewith.
+(1)
+Certain instruments defining the rights of holders of long-term debt securities of the Registrant are omitted pursuant to

@@ -1,0 +1,12 @@
+=== FILING DATE: 2025-08-15 ===
+=== PERIOD COVERED: 2025-06-30 ===
+=== SOURCE: 10-K filed 2025-08-15 ===
+=== SECTION: Item 9A — Controls and Procedures ===
+=== TICKER: COHR ===
+
+Item 9A
+.    CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+The Company’s management evaluated, with the participation of the Company’s Chief Executive Officer, and the Company’s Chief Financial Officer and Treasurer, the effectiveness of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) as of the end of the period covered by this Annual Report on Form 10-K. The Company’s disclosure controls were designed to provide reasonable assurance that information required to be disclosed in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC. It should be noted that the design of any system of controls is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions, regardless of how remote. However, the controls have been designed to provide reasonable assurance of achieving the controls’ stated goals. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that, as of June 30, 2025, the Company’s disclosure controls and procedures were effective.
+Management’s Report on Internal Control Over Financial Reporting
+Refer to Management’s Report on Internal Control Over Financial Reporting included in

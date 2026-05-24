@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-11-05
+Transaction Date: 2025-11-03
+Person: Giancarlo Charles H — Director
+Type: SELL
+Shares: 8000 at $156.3252
+Shares After: 220607
+=== TICKER: ANET ===
+===

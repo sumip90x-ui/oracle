@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-19
+Transaction Date: 2025-08-15
+Person: Hu Jean X. — EVP, CFO and Treasurer
+Type: BUY
+Shares: 62688 at $0
+Shares After: 10391
+=== TICKER: AMD ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-13
+Transaction Date: 2025-06-12
+Person: List Teri — Director
+Type: BUY
+Shares: 39 at $0
+Shares After: 22887.771
+=== TICKER: MSFT ===
+===

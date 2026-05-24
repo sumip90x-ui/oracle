@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-17
+Transaction Date: 2026-02-12
+Person: Martens Rachel Yap — SVP, Partnerships & Corp Strat
+Type: BUY
+Shares: 484360 at $0
+Shares After: 290620
+=== TICKER: LXRX ===
+===

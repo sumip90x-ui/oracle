@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-25
+Transaction Date: 2026-02-19
+Person: Sergey Brin — Insider
+Type: OTHER
+Shares: 875000 at $0
+Shares After: 172700
+=== TICKER: GOOGL ===
+===

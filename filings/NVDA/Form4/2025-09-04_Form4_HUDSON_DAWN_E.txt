@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-04
+Transaction Date: 2025-09-02
+Person: HUDSON DAWN E — Director
+Type: SELL
+Shares: 90000 at $170.6259
+Shares After: 368887
+=== TICKER: NVDA ===
+===

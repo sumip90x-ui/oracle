@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-03
+Transaction Date: 2026-03-02
+Person: Althoff Judson — CEO, Commercial
+Type: OTHER
+Shares: 3401 at $392.74
+Shares After: 125947.4340
+=== TICKER: MSFT ===
+===

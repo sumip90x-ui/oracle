@@ -1,0 +1,963 @@
+{
+  "ticker": "MSFT",
+  "company_name": "MICROSOFT CORP",
+  "cik": "0000789019",
+  "sic": "7372",
+  "industry": "Services-Prepackaged Software",
+  "fiscal_year_end": "0630",
+  "last_checked": "2026-05-17T02:03:28.449492",
+  "newest_filing_date": "2026-05-14",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-14",
+      "oldest_included": "2025-07-01",
+      "count": 8,
+      "files": [
+        {
+          "filing_date": "2026-05-14",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2026-05-14_8-K_personnel.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2026-05-14_8-K_personnel_ex991.txt"
+        },
+        {
+          "filing_date": "2026-04-29",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2026-04-29_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2026-04-29_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-01-28",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2026-01-28_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2026-01-28_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-12-08",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2025-12-08_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-10-29",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2025-10-29_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2025-10-29_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-09-30",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2025-09-30_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-07-30",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2025-07-30_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2025-07-30_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-07-01",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/MSFT/8-K/2025-07-01_8-K_personnel.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-04-15",
+      "count": 123,
+      "transactions": [
+        {
+          "filing_date": "2026-04-15",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "1363",
+          "price": "393.11"
+        },
+        {
+          "filing_date": "2026-03-16",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "31",
+          "price": "395.55"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "Walmsley Emma N",
+          "type": "BUY",
+          "shares": "2",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "Rainey John D",
+          "type": "BUY",
+          "shares": "0",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "PRITZKER PENNY S",
+          "type": "BUY",
+          "shares": "31",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "PETERSON SANDRA E",
+          "type": "BUY",
+          "shares": "58",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "MacGregor Catherine",
+          "type": "BUY",
+          "shares": "4",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "List Teri",
+          "type": "BUY",
+          "shares": "52",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "Johnston Hugh F",
+          "type": "BUY",
+          "shares": "4",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "Hoffman Reid",
+          "type": "BUY",
+          "shares": "37",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-09",
+          "person": "Hogan Kathleen T",
+          "type": "SELL",
+          "shares": "12320",
+          "price": "409.52"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Numoto Takeshi",
+          "type": "OTHER",
+          "shares": "1351",
+          "price": "392.74"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Hood Amy",
+          "type": "OTHER",
+          "shares": "4789",
+          "price": "392.74"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Jolla Alice L.",
+          "type": "OTHER",
+          "shares": "424",
+          "price": "392.74"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "SMITH BRADFORD L",
+          "type": "OTHER",
+          "shares": "3589",
+          "price": "392.74"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Hogan Kathleen T",
+          "type": "OTHER",
+          "shares": "977",
+          "price": "392.74"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Althoff Judson",
+          "type": "OTHER",
+          "shares": "3401",
+          "price": "392.74"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "638",
+          "price": "392.74"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "STANTON JOHN W",
+          "type": "BUY",
+          "shares": "5000",
+          "price": "397.35"
+        },
+        {
+          "filing_date": "2026-02-17",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "85",
+          "price": "401.32"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "Rainey John D",
+          "type": "BUY",
+          "shares": "145",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "Johnston Hugh F",
+          "type": "BUY",
+          "shares": "244",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "PRITZKER PENNY S",
+          "type": "BUY",
+          "shares": "232",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "SCHARF CHARLES W",
+          "type": "BUY",
+          "shares": "145",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "Mason Mark",
+          "type": "BUY",
+          "shares": "145",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "List Teri",
+          "type": "BUY",
+          "shares": "145",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "MacGregor Catherine",
+          "type": "BUY",
+          "shares": "238",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "STANTON JOHN W",
+          "type": "BUY",
+          "shares": "145",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "PETERSON SANDRA E",
+          "type": "BUY",
+          "shares": "267",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "Hoffman Reid",
+          "type": "BUY",
+          "shares": "217",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "person": "Walmsley Emma N",
+          "type": "BUY",
+          "shares": "145",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "32",
+          "price": "459.38"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "Jolla Alice L.",
+          "type": "OTHER",
+          "shares": "617",
+          "price": "478.53"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "335",
+          "price": "478.53"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Walmsley Emma N",
+          "type": "BUY",
+          "shares": "1",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Rodriguez Carlos A",
+          "type": "BUY",
+          "shares": "8",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "PRITZKER PENNY S",
+          "type": "BUY",
+          "shares": "25",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "PETERSON SANDRA E",
+          "type": "BUY",
+          "shares": "48",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "MacGregor Catherine",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "List Teri",
+          "type": "BUY",
+          "shares": "43",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Johnston Hugh F",
+          "type": "BUY",
+          "shares": "3",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Hoffman Reid",
+          "type": "BUY",
+          "shares": "30",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Hogan Kathleen T",
+          "type": "OTHER",
+          "shares": "150",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "SMITH BRADFORD L",
+          "type": "BUY",
+          "shares": "7684",
+          "price": "377.4650"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "STANTON JOHN W",
+          "type": "BUY",
+          "shares": "130",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "SCHARF CHARLES W",
+          "type": "BUY",
+          "shares": "130",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "PRITZKER PENNY S",
+          "type": "BUY",
+          "shares": "207",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "PETERSON SANDRA E",
+          "type": "BUY",
+          "shares": "239",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "Mason Mark",
+          "type": "BUY",
+          "shares": "130",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "List Teri",
+          "type": "BUY",
+          "shares": "130",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "Hoffman Reid",
+          "type": "BUY",
+          "shares": "194",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "MacGregor Catherine",
+          "type": "BUY",
+          "shares": "194",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "Walmsley Emma N",
+          "type": "BUY",
+          "shares": "129",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "Johnston Hugh F",
+          "type": "BUY",
+          "shares": "218",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "Rodriguez Carlos A",
+          "type": "BUY",
+          "shares": "220",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-05",
+          "person": "Numoto Takeshi",
+          "type": "SELL",
+          "shares": "2850",
+          "price": "478.720"
+        },
+        {
+          "filing_date": "2025-12-03",
+          "person": "Althoff Judson",
+          "type": "SELL",
+          "shares": "12750",
+          "price": "491.516"
+        },
+        {
+          "filing_date": "2025-12-02",
+          "person": "Jolla Alice L.",
+          "type": "OTHER",
+          "shares": "412",
+          "price": "492.0100"
+        },
+        {
+          "filing_date": "2025-12-02",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "461",
+          "price": "492.0100"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Althoff Judson",
+          "type": "OTHER",
+          "shares": "3463",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "89",
+          "price": "510.18"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "Nadella Satya",
+          "type": "OTHER",
+          "shares": "3977",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-07",
+          "person": "SMITH BRADFORD L",
+          "type": "OTHER",
+          "shares": "10000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "person": "SMITH BRADFORD L",
+          "type": "SELL",
+          "shares": "38500",
+          "price": "518.4907"
+        },
+        {
+          "filing_date": "2025-10-15",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "31",
+          "price": "513.57"
+        },
+        {
+          "filing_date": "2025-10-03",
+          "person": "Coleman Amy",
+          "type": "BUY",
+          "shares": "4358",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "SMITH BRADFORD L",
+          "type": "BUY",
+          "shares": "26151",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Numoto Takeshi",
+          "type": "BUY",
+          "shares": "11583",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Hood Amy",
+          "type": "BUY",
+          "shares": "26151",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Hogan Kathleen T",
+          "type": "BUY",
+          "shares": "6513",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Coleman Amy",
+          "type": "BUY",
+          "shares": "4022",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Althoff Judson",
+          "type": "BUY",
+          "shares": "26151",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-15",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "77",
+          "price": "509.90"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Walmsley Emma N",
+          "type": "BUY",
+          "shares": "126",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "STANTON JOHN W",
+          "type": "BUY",
+          "shares": "125",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "SCHARF CHARLES W",
+          "type": "BUY",
+          "shares": "125",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Rodriguez Carlos A",
+          "type": "BUY",
+          "shares": "219",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "PRITZKER PENNY S",
+          "type": "BUY",
+          "shares": "222",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "PETERSON SANDRA E",
+          "type": "BUY",
+          "shares": "271",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Mason Mark",
+          "type": "BUY",
+          "shares": "125",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "MacGregor Catherine",
+          "type": "BUY",
+          "shares": "189",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Johnston Hugh F",
+          "type": "BUY",
+          "shares": "212",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "List Teri",
+          "type": "BUY",
+          "shares": "162",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Hoffman Reid",
+          "type": "BUY",
+          "shares": "214",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-04",
+          "person": "Nadella Satya",
+          "type": "BUY",
+          "shares": "580437",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "STANTON JOHN W",
+          "type": "OTHER",
+          "shares": "3621",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "SMITH BRADFORD L",
+          "type": "BUY",
+          "shares": "72869",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Numoto Takeshi",
+          "type": "BUY",
+          "shares": "26508",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Jolla Alice L.",
+          "type": "BUY",
+          "shares": "4327",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Hood Amy",
+          "type": "BUY",
+          "shares": "82042",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Hogan Kathleen T",
+          "type": "BUY",
+          "shares": "30791",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "474",
+          "price": "506.69"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Althoff Judson",
+          "type": "BUY",
+          "shares": "69039",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-18",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "88",
+          "price": "522.48"
+        },
+        {
+          "filing_date": "2025-08-13",
+          "person": "Numoto Takeshi",
+          "type": "SELL",
+          "shares": "4850",
+          "price": "525.555"
+        },
+        {
+          "filing_date": "2025-08-11",
+          "person": "SMITH BRADFORD L",
+          "type": "OTHER",
+          "shares": "20000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-16",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "32",
+          "price": "503.02"
+        },
+        {
+          "filing_date": "2025-06-16",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "77",
+          "price": "474.96"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "Walmsley Emma N",
+          "type": "BUY",
+          "shares": "1",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "Rodriguez Carlos A",
+          "type": "BUY",
+          "shares": "7",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "PRITZKER PENNY S",
+          "type": "BUY",
+          "shares": "23",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "PETERSON SANDRA E",
+          "type": "BUY",
+          "shares": "43",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "MacGregor Catherine",
+          "type": "BUY",
+          "shares": "2",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "List Teri",
+          "type": "BUY",
+          "shares": "39",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "Johnston Hugh F",
+          "type": "BUY",
+          "shares": "2",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "Hoffman Reid",
+          "type": "BUY",
+          "shares": "27",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Rodriguez Carlos A",
+          "type": "BUY",
+          "shares": "225",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Walmsley Emma N",
+          "type": "BUY",
+          "shares": "132",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "STANTON JOHN W",
+          "type": "BUY",
+          "shares": "132",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "SCHARF CHARLES W",
+          "type": "BUY",
+          "shares": "132",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "PRITZKER PENNY S",
+          "type": "BUY",
+          "shares": "212",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "PETERSON SANDRA E",
+          "type": "BUY",
+          "shares": "244",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Mason Mark",
+          "type": "BUY",
+          "shares": "132",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "MacGregor Catherine",
+          "type": "BUY",
+          "shares": "199",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "List Teri",
+          "type": "BUY",
+          "shares": "132",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Johnston Hugh F",
+          "type": "BUY",
+          "shares": "222",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-11",
+          "person": "Hoffman Reid",
+          "type": "BUY",
+          "shares": "199",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "Numoto Takeshi",
+          "type": "SELL",
+          "shares": "3000",
+          "price": "463.00"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "Numoto Takeshi",
+          "type": "SELL",
+          "shares": "1158",
+          "price": "460.008"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "Jolla Alice L.",
+          "type": "OTHER",
+          "shares": "431",
+          "price": "460.36"
+        },
+        {
+          "filing_date": "2025-06-02",
+          "person": "Coleman Amy",
+          "type": "OTHER",
+          "shares": "453",
+          "price": "460.36"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "Hogan Kathleen T",
+          "type": "SELL",
+          "shares": "21500",
+          "price": "453.7745"
+        },
+        {
+          "filing_date": "2025-05-20",
+          "person": "Althoff Judson",
+          "type": "SELL",
+          "shares": "16000",
+          "price": "457.970"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-04-29",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q2FY2025",
+        "Q1FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/MSFT/10-Q/2026-04-29_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/MSFT/10-Q/2026-01-28_10-Q_Q2FY2025.txt",
+        "/home/sumith/ORACLE/filings/MSFT/10-Q/2025-10-29_10-Q_Q1FY2025.txt"
+      ],
+      "newest_period": "2025-09-30"
+    },
+    "10-K": {
+      "newest_filing_date": "2025-07-30",
+      "period_covered": "2025-06-30",
+      "local_path": "/home/sumith/ORACLE/filings/MSFT/10-K/2025-07-30_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2025-10-21",
+      "local_path": "/home/sumith/ORACLE/filings/MSFT/DEF14A/2025-10-21_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/MSFT/sections/2025-07-30_10-K_FY2025_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/MSFT/sections/2026-04-29_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/MSFT/sections/2025-07-30_10-K_FY2025_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/MSFT/sections/2026-04-29_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/MSFT/8-K/2026-04-29_8-K_earnings_ex991.txt"
+  },
+  "failed_downloads": []
+}

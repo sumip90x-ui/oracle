@@ -1,0 +1,8 @@
+=== FILING DATE: 2026-01-30 ===
+=== PERIOD COVERED: 2025-12-27 ===
+=== SOURCE: 10-Q filed 2026-01-30 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: AAPL ===
+
+Item 8
+ of the 2025 Form 10-K describe the significant accounting policies and methods used in the preparation of the Company’s condensed consolidated financial statements. There have been no material changes to the Company’s critical accounting estimates since the 2025 Form 10-K.

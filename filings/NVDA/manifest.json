@@ -1,0 +1,952 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA CORP",
+  "cik": "0001045810",
+  "sic": "3674",
+  "industry": "Semiconductors & Related Devices",
+  "fiscal_year_end": "0131",
+  "last_checked": "2026-05-17T02:51:10.379598",
+  "newest_filing_date": "2026-05-12",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-08",
+      "oldest_included": "2025-05-28",
+      "count": 10,
+      "files": [
+        {
+          "filing_date": "2026-05-08",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2026-05-08_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-04-27",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2026-04-27_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-03-06",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2026-03-06_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2026-02-25",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2026-02-25_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2026-02-25_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-01-23",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2026-01-23_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-11-19",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2025-11-19_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2025-11-19_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-08-27",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2025-08-27_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2025-08-27_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2025-08-05_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-07-01",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2025-07-01_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-05-28",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2025-05-28_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/NVDA/8-K/2025-05-28_8-K_earnings_ex991.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-03-24",
+      "count": 120,
+      "transactions": [
+        {
+          "filing_date": "2026-03-24",
+          "person": "STEVENS MARK A",
+          "type": "SELL",
+          "shares": "221682",
+          "price": "172.6068"
+        },
+        {
+          "filing_date": "2026-03-20",
+          "person": "Shah Aarti S.",
+          "type": "SELL",
+          "shares": "19000",
+          "price": "176.2743"
+        },
+        {
+          "filing_date": "2026-03-20",
+          "person": "Robertson Donald F Jr",
+          "type": "OTHER",
+          "shares": "9971",
+          "price": "181.93"
+        },
+        {
+          "filing_date": "2026-03-20",
+          "person": "Teter Timothy S.",
+          "type": "OTHER",
+          "shares": "66506",
+          "price": "181.93"
+        },
+        {
+          "filing_date": "2026-03-20",
+          "person": "Shoquist Debora",
+          "type": "OTHER",
+          "shares": "65140",
+          "price": "181.93"
+        },
+        {
+          "filing_date": "2026-03-20",
+          "person": "Puri Ajay K",
+          "type": "OTHER",
+          "shares": "369529",
+          "price": "181.93"
+        },
+        {
+          "filing_date": "2026-03-20",
+          "person": "Kress Colette",
+          "type": "OTHER",
+          "shares": "139185",
+          "price": "181.93"
+        },
+        {
+          "filing_date": "2026-03-20",
+          "person": "HUANG JEN HSUN",
+          "type": "OTHER",
+          "shares": "118363112",
+          "price": "181.93"
+        },
+        {
+          "filing_date": "2026-03-19",
+          "person": "SEAWELL A BROOKE",
+          "type": "OTHER",
+          "shares": "530",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-17",
+          "person": "Dabiri John",
+          "type": "SELL",
+          "shares": "3004",
+          "price": "184.90"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Teter Timothy S.",
+          "type": "BUY",
+          "shares": "47048",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Shoquist Debora",
+          "type": "BUY",
+          "shares": "47048",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Kress Colette",
+          "type": "BUY",
+          "shares": "47048",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "Puri Ajay K",
+          "type": "BUY",
+          "shares": "347048",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "Puri Ajay K",
+          "type": "BUY",
+          "shares": "103278",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "Shoquist Debora",
+          "type": "BUY",
+          "shares": "98328",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "Kress Colette",
+          "type": "BUY",
+          "shares": "106660",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "Teter Timothy S.",
+          "type": "BUY",
+          "shares": "98328",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "HUANG JEN HSUN",
+          "type": "BUY",
+          "shares": "936771",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-06",
+          "person": "Kress Colette",
+          "type": "SELL",
+          "shares": "47640",
+          "price": "172.543"
+        },
+        {
+          "filing_date": "2026-01-23",
+          "person": "Drell Persis",
+          "type": "OTHER",
+          "shares": "N/A",
+          "price": "N/A"
+        },
+        {
+          "filing_date": "2026-01-23",
+          "person": "Puri Ajay K",
+          "type": "SELL",
+          "shares": "200000",
+          "price": "180.0358"
+        },
+        {
+          "filing_date": "2026-01-15",
+          "person": "Kress Colette",
+          "type": "SELL",
+          "shares": "47640",
+          "price": "184.1655"
+        },
+        {
+          "filing_date": "2026-01-09",
+          "person": "Puri Ajay K",
+          "type": "SELL",
+          "shares": "200000",
+          "price": "187.2513"
+        },
+        {
+          "filing_date": "2026-01-06",
+          "person": "Robertson Donald F Jr",
+          "type": "SELL",
+          "shares": "80000",
+          "price": "188.8476"
+        },
+        {
+          "filing_date": "2025-12-22",
+          "person": "STEVENS MARK A",
+          "type": "OTHER",
+          "shares": "481150",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-22",
+          "person": "Robertson Donald F Jr",
+          "type": "SELL",
+          "shares": "24590",
+          "price": "176.9075"
+        },
+        {
+          "filing_date": "2025-12-19",
+          "person": "Kress Colette",
+          "type": "OTHER",
+          "shares": "113182",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-19",
+          "person": "HUANG JEN HSUN",
+          "type": "OTHER",
+          "shares": "59270190",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-17",
+          "person": "JONES HARVEY C",
+          "type": "SELL",
+          "shares": "250000",
+          "price": "177.3338"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Puri Ajay K",
+          "type": "OTHER",
+          "shares": "38973",
+          "price": "184.97"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Shoquist Debora",
+          "type": "OTHER",
+          "shares": "266172",
+          "price": "184.97"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Robertson Donald F Jr",
+          "type": "OTHER",
+          "shares": "5390",
+          "price": "184.97"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Teter Timothy S.",
+          "type": "OTHER",
+          "shares": "37089",
+          "price": "184.97"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Kress Colette",
+          "type": "OTHER",
+          "shares": "93604",
+          "price": "184.97"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "HUANG JEN HSUN",
+          "type": "OTHER",
+          "shares": "40168",
+          "price": "184.97"
+        },
+        {
+          "filing_date": "2025-12-10",
+          "person": "Shoquist Debora",
+          "type": "SELL",
+          "shares": "80000",
+          "price": "184.2515"
+        },
+        {
+          "filing_date": "2025-12-09",
+          "person": "STEVENS MARK A",
+          "type": "SELL",
+          "shares": "350000",
+          "price": "181.7259"
+        },
+        {
+          "filing_date": "2025-12-04",
+          "person": "SEAWELL A BROOKE",
+          "type": "SELL",
+          "shares": "12728",
+          "price": "183.9344"
+        },
+        {
+          "filing_date": "2025-11-26",
+          "person": "SEAWELL A BROOKE",
+          "type": "OTHER",
+          "shares": "520000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-26",
+          "person": "Dabiri John",
+          "type": "SELL",
+          "shares": "626",
+          "price": "179.42"
+        },
+        {
+          "filing_date": "2025-11-05",
+          "person": "Kress Colette",
+          "type": "SELL",
+          "shares": "47640",
+          "price": "207.0334"
+        },
+        {
+          "filing_date": "2025-10-31",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "25000",
+          "price": "205.6542"
+        },
+        {
+          "filing_date": "2025-10-28",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "125000",
+          "price": "184.2404"
+        },
+        {
+          "filing_date": "2025-10-23",
+          "person": "Kress Colette",
+          "type": "SELL",
+          "shares": "47640",
+          "price": "180.4073"
+        },
+        {
+          "filing_date": "2025-10-23",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "180.4651"
+        },
+        {
+          "filing_date": "2025-10-20",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "180.5366"
+        },
+        {
+          "filing_date": "2025-10-15",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "186.6596"
+        },
+        {
+          "filing_date": "2025-10-10",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "187.574"
+        },
+        {
+          "filing_date": "2025-10-07",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "186.1133"
+        },
+        {
+          "filing_date": "2025-10-02",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "182.1939"
+        },
+        {
+          "filing_date": "2025-09-29",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "173.847"
+        },
+        {
+          "filing_date": "2025-09-24",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "175.4751"
+        },
+        {
+          "filing_date": "2025-09-23",
+          "person": "Drell Persis",
+          "type": "SELL",
+          "shares": "40000",
+          "price": "177.653"
+        },
+        {
+          "filing_date": "2025-09-23",
+          "person": "STEVENS MARK A",
+          "type": "SELL",
+          "shares": "350000",
+          "price": "176.3923"
+        },
+        {
+          "filing_date": "2025-09-22",
+          "person": "JONES HARVEY C",
+          "type": "SELL",
+          "shares": "250000",
+          "price": "176.2148"
+        },
+        {
+          "filing_date": "2025-09-19",
+          "person": "Robertson Donald F Jr",
+          "type": "OTHER",
+          "shares": "10787",
+          "price": "174.88"
+        },
+        {
+          "filing_date": "2025-09-19",
+          "person": "Teter Timothy S.",
+          "type": "OTHER",
+          "shares": "37090",
+          "price": "174.88"
+        },
+        {
+          "filing_date": "2025-09-19",
+          "person": "Shoquist Debora",
+          "type": "OTHER",
+          "shares": "36333",
+          "price": "174.88"
+        },
+        {
+          "filing_date": "2025-09-19",
+          "person": "Puri Ajay K",
+          "type": "OTHER",
+          "shares": "38988",
+          "price": "174.88"
+        },
+        {
+          "filing_date": "2025-09-19",
+          "person": "Kress Colette",
+          "type": "OTHER",
+          "shares": "93600",
+          "price": "174.88"
+        },
+        {
+          "filing_date": "2025-09-19",
+          "person": "HUANG JEN HSUN",
+          "type": "OTHER",
+          "shares": "265163",
+          "price": "174.88"
+        },
+        {
+          "filing_date": "2025-09-16",
+          "person": "Neal Stephen C",
+          "type": "SELL",
+          "shares": "28000",
+          "price": "177.5837"
+        },
+        {
+          "filing_date": "2025-09-16",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "1350000",
+          "price": "177.249"
+        },
+        {
+          "filing_date": "2025-09-15",
+          "person": "STEVENS MARK A",
+          "type": "SELL",
+          "shares": "497797",
+          "price": "177.4701"
+        },
+        {
+          "filing_date": "2025-09-11",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "167.479"
+        },
+        {
+          "filing_date": "2025-09-10",
+          "person": "COXE TENCH",
+          "type": "OTHER",
+          "shares": "1000000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-08",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "170.2439"
+        },
+        {
+          "filing_date": "2025-09-04",
+          "person": "HUDSON DAWN E",
+          "type": "SELL",
+          "shares": "90000",
+          "price": "170.6259"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Shoquist Debora",
+          "type": "OTHER",
+          "shares": "55172",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "SEAWELL A BROOKE",
+          "type": "OTHER",
+          "shares": "1200000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "Neal Stephen C",
+          "type": "OTHER",
+          "shares": "1700",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-03",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "173.8729"
+        },
+        {
+          "filing_date": "2025-08-18",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "150000",
+          "price": "180.127"
+        },
+        {
+          "filing_date": "2025-08-13",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "180.9738"
+        },
+        {
+          "filing_date": "2025-08-08",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "176.8756"
+        },
+        {
+          "filing_date": "2025-08-06",
+          "person": "Kress Colette",
+          "type": "SELL",
+          "shares": "47640",
+          "price": "175.0895"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "171.5924"
+        },
+        {
+          "filing_date": "2025-07-31",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "175.9113"
+        },
+        {
+          "filing_date": "2025-07-28",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "172.0758"
+        },
+        {
+          "filing_date": "2025-07-23",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "171.9176"
+        },
+        {
+          "filing_date": "2025-07-18",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "169.7369"
+        },
+        {
+          "filing_date": "2025-07-17",
+          "person": "Kress Colette",
+          "type": "SELL",
+          "shares": "47650",
+          "price": "170.0271"
+        },
+        {
+          "filing_date": "2025-07-15",
+          "person": "SEAWELL A BROOKE",
+          "type": "SELL",
+          "shares": "96904",
+          "price": "164.2132"
+        },
+        {
+          "filing_date": "2025-07-15",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "164.1768"
+        },
+        {
+          "filing_date": "2025-07-10",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "159.0669"
+        },
+        {
+          "filing_date": "2025-07-10",
+          "person": "SEAWELL A BROOKE",
+          "type": "SELL",
+          "shares": "148402",
+          "price": "159.0372"
+        },
+        {
+          "filing_date": "2025-07-07",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "153.6703"
+        },
+        {
+          "filing_date": "2025-07-07",
+          "person": "SEAWELL A BROOKE",
+          "type": "SELL",
+          "shares": "101925",
+          "price": "153.8818"
+        },
+        {
+          "filing_date": "2025-07-01",
+          "person": "SEAWELL A BROOKE",
+          "type": "SELL",
+          "shares": "102652",
+          "price": "156.7071"
+        },
+        {
+          "filing_date": "2025-07-01",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "225000",
+          "price": "156.0159"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "COXE TENCH",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0.0000"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "JONES HARVEY C",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "HUDSON DAWN E",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "Ochoa Ellen",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "STEVENS MARK A",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "Shah Aarti S.",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "SEAWELL A BROOKE",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "LORA MELISSA",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "Drell Persis",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "Dabiri John",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "BURGESS ROBERT K",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-30",
+          "person": "Neal Stephen C",
+          "type": "BUY",
+          "shares": "1799",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "Puri Ajay K",
+          "type": "SELL",
+          "shares": "168195",
+          "price": "150.5096"
+        },
+        {
+          "filing_date": "2025-06-27",
+          "person": "SEAWELL A BROOKE",
+          "type": "SELL",
+          "shares": "155209",
+          "price": "149.9687"
+        },
+        {
+          "filing_date": "2025-06-26",
+          "person": "HUANG JEN HSUN",
+          "type": "SELL",
+          "shares": "200000",
+          "price": "146.1433"
+        },
+        {
+          "filing_date": "2025-06-24",
+          "person": "SEAWELL A BROOKE",
+          "type": "SELL",
+          "shares": "165430",
+          "price": "143.2326"
+        },
+        {
+          "filing_date": "2025-06-23",
+          "person": "STEVENS MARK A",
+          "type": "SELL",
+          "shares": "608248",
+          "price": "145.2633"
+        },
+        {
+          "filing_date": "2025-06-23",
+          "person": "HUANG JEN HSUN",
+          "type": "OTHER",
+          "shares": "140163",
+          "price": "144.12"
+        },
+        {
+          "filing_date": "2025-06-23",
+          "person": "Puri Ajay K",
+          "type": "OTHER",
+          "shares": "38978",
+          "price": "144.12"
+        },
+        {
+          "filing_date": "2025-06-23",
+          "person": "Kress Colette",
+          "type": "OTHER",
+          "shares": "93599",
+          "price": "144.12"
+        },
+        {
+          "filing_date": "2025-06-23",
+          "person": "Shoquist Debora",
+          "type": "OTHER",
+          "shares": "36332",
+          "price": "144.12"
+        },
+        {
+          "filing_date": "2025-06-23",
+          "person": "Teter Timothy S.",
+          "type": "OTHER",
+          "shares": "37089",
+          "price": "144.12"
+        },
+        {
+          "filing_date": "2025-06-23",
+          "person": "Robertson Donald F Jr",
+          "type": "OTHER",
+          "shares": "11803",
+          "price": "144.12"
+        },
+        {
+          "filing_date": "2025-06-10",
+          "person": "COXE TENCH",
+          "type": "SELL",
+          "shares": "1000000",
+          "price": "142.8046"
+        },
+        {
+          "filing_date": "2025-06-10",
+          "person": "STEVENS MARK A",
+          "type": "SELL",
+          "shares": "358849",
+          "price": "141.8553"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "HUANG JEN HSUN",
+          "type": "OTHER",
+          "shares": "660000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "STEVENS MARK A",
+          "type": "SELL",
+          "shares": "1060836",
+          "price": "137.7879"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "BURGESS ROBERT K",
+          "type": "SELL",
+          "shares": "50000",
+          "price": "134.8164"
+        },
+        {
+          "filing_date": "2025-06-03",
+          "person": "Dabiri John",
+          "type": "SELL",
+          "shares": "660",
+          "price": "138.80"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2025-11-19",
+      "quarters_covered": [
+        "Q2FY2025",
+        "Q1FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/NVDA/10-Q/2025-11-19_10-Q_Q2FY2025.txt",
+        "/home/sumith/ORACLE/filings/NVDA/10-Q/2025-08-27_10-Q_Q1FY2025.txt",
+        "/home/sumith/ORACLE/filings/NVDA/10-Q/2025-05-28_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-04-27"
+    },
+    "10-K": {
+      "newest_filing_date": "2026-02-25",
+      "period_covered": "2026-01-25",
+      "local_path": "/home/sumith/ORACLE/filings/NVDA/10-K/2026-02-25_10-K_FY2026.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2026-05-12",
+      "local_path": "/home/sumith/ORACLE/filings/NVDA/DEF14A/2026-05-12_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/NVDA/sections/2026-02-25_10-K_FY2026_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/NVDA/sections/2026-02-25_10-K_FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/NVDA/sections/2026-02-25_10-K_FY2026_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/NVDA/sections/2026-02-25_10-K_FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/NVDA/8-K/2026-02-25_8-K_earnings_ex991.txt",
+    "newest_segments": "/home/sumith/ORACLE/filings/NVDA/sections/2026-02-25_10-K_FY2026_segments.txt"
+  },
+  "failed_downloads": []
+}

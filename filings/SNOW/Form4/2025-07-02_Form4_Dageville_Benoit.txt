@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-02
+Transaction Date: 2025-06-30
+Person: Dageville Benoit — President of Products
+Type: OTHER
+Shares: 75000 at $0.74
+Shares After: 419863
+=== TICKER: SNOW ===
+===

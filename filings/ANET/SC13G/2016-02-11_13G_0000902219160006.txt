@@ -1,0 +1,1655 @@
+=== FILING DATE: 2016-02-11 ===
+=== PERIOD COVERED: 2016-02-11 ===
+=== SOURCE: SC13G filed 2016-02-11 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: ANET ===
+
+
+
+SC 13G
+
+1
+
+SEC13G_Filing.htm
+
+SEC SCHEDULE 13G
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C.  20549
+
+
+
+SCHEDULE 13G
+
+
+Under the Securities Exchange Act of 1934
+
+
+
+(Amendment No.
+	_
+)
+*
+
+
+
+
+
+Arista Networks, Inc.
+
+
+(Name of Issuer)
+
+
+Common Stock
+
+
+(Title of Class of Securities)
+
+
+040413106
+
+
+(CUSIP Number)
+
+
+December 31, 2015
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+
+Check the  appropriate box to designate the rule
+pursuant to which this Schedule is filed:
+
+
+[X]
+
+
+
+Rule 13d-1(b)
+
+
+
+[ ]
+
+
+
+Rule 13d-1(c)
+
+
+
+[ ]
+
+
+
+Rule 13d-1(d)
+
+
+
+*
+
+The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities,
+and for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+
+
+The information required in the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 (the "Act") or otherwise subject to the liabilities of that section
+of the Act, but shall be subject to all other provisions of the Act (however,
+see the Notes.)
+
+
+
+CUSIP No.
+
+
+
+040413106
+
+
+
+1.
+
+
+
+NAMES OF REPORTING PERSONS
+
+
+Wellington Management Group LLP
+
+
+
+2.
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+(a)  [ ]
+
+(b)  [ ]
+
+
+
+3.
+
+
+
+SEC USE ONLY
+
+
+
+4.
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+Massachusetts
+
+
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+
+
+
+5. SOLE VOTING POWER
+
+
+
+0
+
+
+
+6.  SHARED VOTING POWER
+
+
+
+3,497,059
+
+
+
+
+
+7.  SOLE DISPOSITIVE POWER
+
+
+0
+
+
+
+8.  SHARED DISPOSITIVE POWER
+
+
+
+4,186,237
+
+
+
+
+
+9.
+
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+4,186,237
+
+
+
+10.
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+[ ]
+
+
+
+11.
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+6.18%
+
+
+
+12.
+
+
+
+TYPE OF REPORTING PERSON
+
+
+HC
+
+
+
+
+CUSIP No.
+
+
+
+040413106
+
+
+
+1.
+
+
+
+NAMES OF REPORTING PERSONS
+
+
+Wellington Group Holdings LLP
+
+
+
+2.
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+(a)  [ ]
+
+(b)  [ ]
+
+
+
+3.
+
+
+
+SEC USE ONLY
+
+
+
+4.
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+Delaware
+
+
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+
+
+
+5. SOLE VOTING POWER
+
+
+
+0
+
+
+
+6.  SHARED VOTING POWER
+
+
+
+3,497,059
+
+
+
+
+
+7.  SOLE DISPOSITIVE POWER
+
+
+0
+
+
+
+8.  SHARED DISPOSITIVE POWER
+
+
+
+4,186,237
+
+
+
+
+
+9.
+
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+4,186,237
+
+
+
+10.
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+[ ]
+
+
+
+11.
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+6.18%
+
+
+
+12.
+
+
+
+TYPE OF REPORTING PERSON
+
+
+HC
+
+
+
+
+CUSIP No.
+
+
+
+040413106
+
+
+
+1.
+
+
+
+NAMES OF REPORTING PERSONS
+
+
+Wellington Investment Advisors Holdings LLP
+
+
+
+2.
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+(a)  [ ]
+
+(b)  [ ]
+
+
+
+3.
+
+
+
+SEC USE ONLY
+
+
+
+4.
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+Delaware
+
+
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+
+
+
+5. SOLE VOTING POWER
+
+
+
+0
+
+
+
+6.  SHARED VOTING POWER
+
+
+
+3,497,059
+
+
+
+
+
+7.  SOLE DISPOSITIVE POWER
+
+
+0
+
+
+
+8.  SHARED DISPOSITIVE POWER
+
+
+
+4,186,237
+
+
+
+
+
+9.
+
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+4,186,237
+
+
+
+10.
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+[ ]
+
+
+
+11.
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+6.18%
+
+
+
+12.
+
+
+
+TYPE OF REPORTING PERSON
+
+
+HC
+
+
+
+
+CUSIP No.
+
+
+
+040413106
+
+
+
+1.
+
+
+
+NAMES OF REPORTING PERSONS
+
+
+Wellington Management Company LLP
+
+
+
+2.
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+
+(a)  [ ]
+
+(b)  [ ]
+
+
+
+3.
+
+
+
+SEC USE ONLY
+
+
+
+4.
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+Delaware
+
+
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH
+
+
+
+5. SOLE VOTING POWER
+
+
+
+0
+
+
+
+6.  SHARED VOTING POWER
+
+
+
+3,299,199
+
+
+
+
+
+7.  SOLE DISPOSITIVE POWER
+
+
+0
+
+
+
+8.  SHARED DISPOSITIVE POWER
+
+
+
+3,911,591
+
+
+
+
+
+9.
+
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+
+3,911,591
+
+
+
+10.
+
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+[ ]
+
+
+
+11.
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+5.77%
+
+
+
+12.
+
+
+
+TYPE OF REPORTING PERSON
+
+
+IA
+
+
+
+
+Item 1.
+
+
+(a)
+
+
+Name of Issuer
+
+Arista Networks, Inc.
+
+
+
+(b)
+
+
+Address of Issuer's Principal Executive Offices
+
+5453 Great America Parkway
+
+
+Santa Clara, CA
+  95054
+
+
+
+Item 2.
+
+
+(a)
+
+
+Name of Person Filing
+
+
+Wellington Management Group LLP
+
+
+Wellington Group Holdings LLP
+
+
+Wellington Investment Advisors Holdings LLP
+
+
+Wellington Management Company LLP
+
+
+(b)
+
+
+Address of Principal Business Office or, if None, Residence
+
+c/o Wellington Management Company LLP
+
+280 Congress Street
+
+Boston, MA
+  02210
+
+
+
+(c)
+
+
+Citizenship
+
+
+Wellington Management Group LLP -
+
+Massachusetts
+
+
+Wellington Group Holdings LLP -
+
+Delaware
+
+
+Wellington Investment Advisors Holdings LLP -
+
+Delaware
+
+
+Wellington Management Company LLP -
+
+Delaware
+
+
+(d)
+
+
+Title of Class of Securities
+
+Common Stock
+
+
+
+(e)
+
+
+CUSIP Number
+
+040413106
+
+
+
+Item 3.
+
+
+If This Statement is Filed Pursuant to
+Rule 13d-1(b), or 13d-2(b) or (c),
+Check Whether the Person Filing is a:
+
+
+(a)
+
+
+
+  [ ]
+
+
+
+
+Broker or dealer registered under Section 15 of the Act (15 U.S.C. 78o).
+
+
+
+(b)
+
+
+
+  [ ]
+
+
+
+
+Bank as defined in Section 3(a)(6) of the Act (15 U.S.C. 78c).
+
+
+
+(c)
+
+
+
+  [ ]
+
+
+
+
+Insurance Company as defined in Section 3(a)(19) of the Act (15 U.S.C. 78c).
+
+
+
+(d)
+
+
+
+  [ ]
+
+
+
+
+Investment Company registered under
+Section 8 of the Investment Company Act of 1940
+(15 U.S.C. 80a-8).
+
+
+
+(e)
+
+
+
+  [X]
+
+
+
+
+An investment adviser in accordance with
+Rule 240.13d-1(b)(1)(ii)(E);
+
+  *
+
+
+
+
+(f)
+
+
+
+  [ ]
+
+
+
+
+An employee benefit plan or endowment fund in accordance with
+Rule 240.13d-1(b)(1)(ii)(F);
+
+
+
+(g)
+
+
+
+  [X]
+
+
+
+
+A parent holding company or control person in accordance with
+Rule 240.13d-1(b)(1)(ii)(G);
+
+
+
+(h)
+
+
+
+  [ ]
+
+
+
+
+A savings association as defined in
+Section 3(b) of the Federal Deposit Insurance Act
+(12 U.S.C. 1813);
+
+
+
+(i)
+
+
+
+  [ ]
+
+
+
+
+A church plan that is excluded from the
+definition of an investment company under
+Section 3(c)(14) of the Investment Company Act
+of 1940 (15 U.S.C. 80a-3);
+
+
+
+(j)
+
+
+
+[ ]
+
+
+
+Group, in accordance with Rule 240.13d-1(b)(1)(ii)(J).
+
+
+
+If this statement is filed pursuant to Rule 13d-1(c),
+check this box [ ]
+
+
+
+Wellington Management Group LLP -
+
+HC
+
+
+Wellington Group Holdings LLP -
+
+HC
+
+
+Wellington Investment Advisors Holdings LLP -
+
+HC
+
+
+Wellington Management Company LLP -
+
+IA
+
+
+Item 4.
+
+
+Ownership.
+
+
+Provide the following information regarding the aggregate number and
+percentage of the class of securities of the issuer identified in Item 1.
+
+
+
+(a)
+
+
+
+Amount Beneficially Owned:
+
+
+
+See the responses to Item 9 on the attached cover pages.
+
+
+
+
+(b)
+
+
+
+Percent of Class:
+
+
+
+See the responses to Item 11 on the attached cover pages.
+
+
+
+
+(c)
+
+
+
+Number of shares as to which such person has:
+
+
+
+(i)
+
+
+
+sole power to vote or to direct the vote
+
+
+
+0
+
+
+
+(ii)
+
+
+
+shared power to vote or to direct the vote
+
+
+
+See the responses to Item 6 on the attached cover pages.
+
+
+
+
+(iii)
+
+
+
+sole power to dispose or to direct the disposition of
+
+
+
+0
+
+
+
+(iv)
+
+
+
+shared power to dispose or to direct the disposition of
+
+
+
+See the responses to Item 8 on the attached cover pages.
+
+
+
+
+Item 5.
+
+
+Ownership of Five Percent or Less of Class.
+
+
+If this statement is being filed to report the fact that
+as of the date hereof the reporting person has ceased to
+be the beneficial owner of more than five percent of the
+class of securities, check the following:
+[ ]
+
+
+
+Item 6.
+
+
+Ownership of More than Five Percent on Behalf of Another Person.
+
+
+The securities as to which this Schedule is filed
+
+are owned of record by clients of one or more investment advisers identified
+in Exhibit A directly or indirectly owned by
+Wellington Management Group LLP.
+
+Those clients have the right to receive, or the power to direct the
+receipt of, dividends from, or the proceeds from the sale of, such
+securities. No such client is known to have such right or
+power with respect to more than five percent of this class of
+securities, except as follows:
+
+
+            Not Applicable.
+
+
+
+Item 7.
+
+
+Identification and Classification of the Subsidiary Which Acquired
+the Security Being Reported on by the Parent Holding Company.
+
+
+  See attached Exhibit A.
+
+
+
+
+Item 8.
+
+
+Identification and Classification of Members of the Group.
+
+
+Not Applicable.
+
+
+
+Item 9.
+
+
+Notice of Dissolution of Group.
+
+
+Not Applicable.
+
+
+
+Item 10.
+
+
+Certification.
+
+
+By signing below I certify that, to the best
+of my knowledge and belief, the securities
+referred to above
+
+were acquired and are held
+in the ordinary course of business and
+
+were not acquired and are not held for the purpose
+of or with the effect of changing or
+influencing the control of the issuer of the
+securities and were not acquired and are not held
+in connection with or as a participant in any
+transaction having that purpose or effect.
+
+
+
+SIGNATURE
+
+
+
+
+
+            After reasonable inquiry and to the best of my knowledge and belief,
+            I certify that the information set forth in this statement is true,
+            complete and correct.
+
+
+
+
+
+
+
+
+
+By:  Wellington Management Group LLP
+
+
+
+
+
+By:
+/s/ Steven M. Hoffman
+
+
+
+
+
+Name:    Steven M. Hoffman
+
+
+
+
+
+Title:   Authorized Person
+
+
+
+
+
+Date:
+
+
+    February
+
+
+    16,
+
+    2016
+
+
+
+
+
+
+
+
+By:
+Wellington Group Holdings LLP
+
+
+
+
+
+By:
+/s/
+Steven M. Hoffman
+
+
+
+
+
+Name:
+Steven M. Hoffman
+
+
+
+
+
+Title:
+Authorized Person
+
+
+
+
+
+Date:
+
+
+    February
+
+
+    16,
+
+    2016
+
+
+
+
+
+
+
+
+By:
+Wellington Investment Advisors Holdings LLP
+
+
+
+
+
+By:
+/s/
+Steven M. Hoffman
+
+
+
+
+
+Name:
+Steven M. Hoffman
+
+
+
+
+
+Title:
+Authorized Person
+
+
+
+
+
+Date:
+
+
+    February
+
+
+    16,
+
+    2016
+
+
+
+
+
+
+
+
+By:
+Wellington Management Company LLP
+
+
+
+
+
+By:
+/s/
+Steven M. Hoffman
+
+
+
+
+
+Name:
+Steven M. Hoffman
+
+
+
+
+
+Title:
+Managing Director
+
+
+
+
+
+Date:
+
+
+    February
+
+
+    16,
+
+    2016
+
+
+
+
+
+Exhibit A
+
+
+
+
+
+Pursuant to the instructions in Item 7 of Schedule 13G,
+the following lists the identity and Item 3 classification
+of each relevant entity that beneficially owns shares of the
+security class being reported on this Schedule 13G.
+
+
+
+
+
+
+
+
+Wellington Group Holdings LLP – HC
+
+
+
+
+
+
+
+
+
+Wellington Investment Advisors LLP – HC
+
+
+
+
+
+
+
+
+
+Wellington Management Global Holdings, Ltd. - HC
+
+
+
+
+
+
+
+
+One or more of the following investment advisers (the “Wellington Investment Advisers”):
+
+
+
+
+
+
+
+
+Wellington Management Company LLP – IA
+
+
+
+
+
+
+
+
+
+Wellington Management Canada LLC – IA
+
+
+
+
+
+
+
+
+
+Wellington Management Singapore Pte Ltd – IA
+
+
+
+
+
+
+
+
+
+Wellington Management Hong Kong Ltd – IA
+
+
+
+
+
+
+
+
+
+Wellington Management International Ltd – IA
+
+
+
+
+
+
+
+
+
+Wellington Management Japan Pte Ltd – IA
+
+
+
+
+
+
+
+
+
+Wellington Management Australia Pty Ltd - IA
+
+
+
+
+
+
+
+
+The securities as to which this Schedule is filed by
+Wellington Management Group LLP,
+as parent holding company of certain holding companies and
+the Wellington Investment Advisers, are owned of record by
+clients of the Wellington Investment Advisers.
+Wellington Investment Advisors Holdings LLP controls directly,
+or indirectly through Wellington Management Global Holdings, Ltd.,
+the Wellington Investment Advisers.
+Wellington Investment Advisors Holdings LLP is owned by
+Wellington Group Holdings LLP. Wellington Group Holdings LLP
+is owned by Wellington Management Group LLP.
+
+
+
+
+
+
+EXHIBIT B
+
+
+JOINT FILING AGREEMENT
+
+
+
+
+
+The undersigned hereby agree that this Schedule 13G (the “Schedule 13G”)
+with respect to the common stock of Arista Networks, Inc. is,
+and any additional
+amendment thereto signed by each of the undersigned shall be, filed on
+behalf of each undersigned pursuant to and in accordance with the
+provisions of 13d-1(k) under the Securities Exchange Act of 1934,
+as amended, and that all subsequent amendments to the Schedule 13G
+shall be filed on behalf of each of the undersigned without the necessity
+of filing additional joint filing agreements. The undersigned acknowledge
+that each shall be responsible for the timely filing of such amendments,
+and for the completeness and accuracy of the information concerning it
+contained therein, but shall not be responsible for the completeness and
+accuracy of the information concerning the other, except to the extent that
+it knows or has reason to believe that such information is inaccurate. It is
+understood and agreed that the joint filing of the Schedule 13G shall not be
+construed as an admission that the persons named herein constitute a group for
+purposes of Regulation 13D-G of the Securities Exchange Act of 1934, nor is a
+joint venture for purposes of the Investment Company Act of 1940.
+
+
+
+
+
+
+
+
+By:  Wellington Management Group LLP
+
+
+
+
+
+By:
+/s/ Steven M. Hoffman
+
+
+
+
+
+Name:    Steven M. Hoffman
+
+
+
+
+
+Title:   Authorized Person
+
+
+
+
+
+Date:
+
+
+    February
+
+
+    16,
+
+    2016
+
+
+
+
+
+
+
+
+By:
+Wellington Group Holdings LLP
+
+
+
+
+
+By:
+/s/
+Steven M. Hoffman
+
+
+
+
+
+Name:
+Steven M. Hoffman
+
+
+
+
+
+Title:
+Authorized Person
+
+
+
+
+
+Date:
+
+
+    February
+
+
+    16,
+
+    2016
+
+
+
+
+
+
+
+
+By:
+Wellington Investment Advisors Holdings LLP
+
+
+
+
+
+By:
+/s/
+Steven M. Hoffman
+
+
+
+
+
+Name:
+Steven M. Hoffman
+
+
+
+
+
+Title:
+Authorized Person
+
+
+
+
+
+Date:
+
+
+    February
+
+
+    16,
+
+    2016
+
+
+
+
+
+
+
+
+By:
+Wellington Management Company LLP
+
+
+
+
+
+By:
+/s/
+Steven M. Hoffman
+
+
+
+
+
+Name:
+Steven M. Hoffman
+
+
+
+
+
+Title:
+Managing Director
+
+
+
+
+
+Date:
+
+
+    February
+
+
+    16,
+
+    2016
+
+
+
+
+

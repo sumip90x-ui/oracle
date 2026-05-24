@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-17
+Transaction Date: 2026-02-12
+Person: Coiante Scott M — SVP, Chief Financial Officer
+Type: BUY
+Shares: 681700 at $0
+Shares After: 409020
+=== TICKER: LXRX ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-04
+Transaction Date: 2025-09-02
+Person: Hahn Ava — SVP, GC & Corporate Secretary
+Type: SELL
+Shares: 143 at $158.10
+Shares After: 11901
+=== TICKER: AMD ===
+===

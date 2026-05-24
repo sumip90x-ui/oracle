@@ -1,0 +1,1355 @@
+=== FILING DATE: 2024-01-08 ===
+=== PERIOD COVERED: 2024-01-08 ===
+=== SOURCE: SC13G filed 2024-01-08 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: CELH ===
+
+
+
+SC 13G
+
+1
+
+CELSIUS_HOLDINGS_INC.htm
+
+FILING CELSIUS HOLDINGS, INC.
+
+
+Schedule 13G
+
+
+ 
+
+
+UNITED
+        STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+
+
+ 
+
+
+
+SCHEDULE 13G
+
+
+ 
+
+
+
+ 
+
+
+
+Under
+        the Securities Exchange Act of 1934
+
+
+        (Amendment No.
+
+)*
+
+
+
+ 
+
+
+
+CELSIUS HOLDINGS, INC.
+ 
+
+
+(Name of
+        Issuer)
+
+
+
+ 
+
+
+
+Common Stock, $0.001 par value
+
+
+        (Title of Class of Securities)
+
+
+ 
+
+
+
+15118V207
+
+
+        (CUSIP Number)
+
+
+ 
+
+
+
+December 29, 2023
+
+
+        (Date of Event Which Requires Filing of this Statement)
+
+
+ 
+
+
+
+        Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+
+
+
+ 
+
+
+
+    
+
+x
+
+         Rule
+        13d-1(b)
+
+
+ 
+
+
+
+    
+
+o
+
+         Rule
+        13d-1(c)
+
+
+ 
+
+
+
+    
+
+o
+
+         Rule
+        13d-1(d)
+
+
+ 
+
+
+
+*
+        The remainder of this cover page shall be filled out for a reporting person’s
+        initial filing on this form with respect to the subject class of securities,
+        and for any subsequent amendment containing information which would alter the
+        disclosures provided in a prior cover page.
+
+
+ 
+
+
+
+The
+        information required in the remainder of this cover page shall not be deemed to
+        be “filed” for the purpose of Section 18 of the Securities Exchange Act of
+        1934 (“Act”) or otherwise subject to the liabilities of that section of the Act
+        but shall be subject to all other provisions of the Act (however, see the
+        Notes).
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+CUSIP
+                No. 
+
+
+15118V207
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+1
+
+
+ 
+
+
+            NAMES OF REPORTING PERSONS
+I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS
+            (ENTITIES ONLY)
+
+
+
+ 
+
+
+JPMORGAN CHASE & CO.
+13-2624428
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2
+
+
+ 
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE
+            INSTRUCTIONS)
+
+
+ 
+
+
+(a)  
+
+o
+
+
+ 
+
+
+(b)  
+
+o
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+3
+
+
+ 
+
+
+SEC USE ONLY
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+4
+
+
+ 
+
+
+CITIZENSHIP OR PLACE OF ORGANIZATION
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Delaware
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+NUMBER OF SHARES
+            BENEFICIALLY  OWNED BY EACH REPORTING PERSON WITH: 
+
+
+
+5
+
+
+ 
+
+
+SOLE VOTING POWER
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+11,640,220
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+6
+
+
+ 
+
+
+SHARED VOTING POWER
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+75
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+7
+
+
+ 
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+12,754,867
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+8
+
+
+ 
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+75
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING
+            PERSON
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+12,757,071
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+10
+
+
+ 
+
+
+CHECK IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES
+            CERTAIN SHARES (SEE INSTRUCTIONS)
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+o
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+11
+
+
+ 
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+5.5 %
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+12
+
+
+ 
+
+
+TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+HC
+
+
+ 
+
+
+FOOTNOTES
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+Item
+              1.
+
+
+ 
+
+
+
+(a)
+
+
+Name
+                    of Issuer
+
+
+ 
+
+
+
+ 
+
+
+
+CELSIUS HOLDINGS, INC.
+
+
+ 
+
+
+
+(b)
+
+
+Address
+                    of Issuer’s Principal Executive Offices
+
+
+ 
+
+
+
+ 
+
+
+
+2424 N Federal Highway, Suite 208,
+Boca Raton, Florida 33431
+
+
+Item
+              2.
+
+
+ 
+
+
+
+(a)
+
+
+Name
+                    of Person Filing
+
+
+ 
+
+
+
+ 
+
+
+
+JPMORGAN CHASE & CO.
+
+
+ 
+
+
+
+(b)
+
+
+Address
+                    of Principal Business Office or, if none, Residence
+
+
+ 
+
+
+
+ 
+
+
+
+383 Madison Avenue
+New York, NY 10179
+
+
+
+ 
+
+
+
+(c)
+
+
+Citizenship
+
+
+ 
+
+
+
+ 
+
+
+
+Delaware
+
+
+ 
+
+
+
+(d)
+
+
+Title
+                    of Class of Securities
+
+
+ 
+
+
+
+ 
+
+
+
+Common Stock, $0.001 par value
+
+
+ 
+
+
+
+(e)
+
+
+CUSIP
+                    Number
+
+
+ 
+
+
+
+ 
+
+
+
+15118V207
+
+
+ 
+
+
+Item
+                        3.
+
+
+If
+                        this statement is filed pursuant to §§240.13d-1(b) or
+                        240.13d-2(b) or (c),
+                        check whether the person filing is a:
+
+
+ 
+
+
+
+(a)
+
+
+o
+
+
+Broker
+                      or dealer registered under section 15 of the Act (15 U.S.C. 78o).
+
+
+ 
+
+
+
+(b)
+
+
+o
+
+
+Bank
+                      as defined in section 3(a)(6) of the Act (15 U.S.C. 78c).
+
+
+ 
+
+
+
+(c)
+
+
+o
+
+
+                      Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c).
+
+
+
+ 
+
+
+
+(d)
+
+
+o
+
+
+Investment
+                      company registered under section 8 of the Investment Company Act of 1940 (15
+                      U.S.C 80a-8).
+
+
+ 
+
+
+
+(e)
+
+
+o
+
+
+An
+                      investment adviser in accordance with §240.13d-1(b)(1)(ii)(E);
+
+
+ 
+
+
+
+(f)
+
+
+o
+
+
+An
+                      employee benefit plan or endowment fund in accordance with
+                      §240.13d-1(b)(1)(ii)(F);
+
+
+ 
+
+
+
+(g)
+
+
+x
+
+
+A
+                      parent holding company or control person in accordance with §
+                      240.13d-1(b)(1)(ii)(G);
+
+
+ 
+
+
+
+(h)
+
+
+o
+
+
+A
+                      savings associations as defined in Section 3(b) of the Federal Deposit
+                      Insurance Act (12 U.S.C. 1813);
+
+
+ 
+
+
+
+(i)
+
+
+o
+
+
+A
+                      church plan that is excluded from the definition of an investment company
+                      under
+                      section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C.
+                      80a-3);
+
+
+                       
+
+
+
+(j)
+
+
+o
+
+
+A
+                      non-U.S. institution in accordance with §
+                      240.13d-1(b)(1)(ii)(J).
+
+
+                       
+
+
+
+(k)
+
+
+o
+
+
+                      A group, in accordance with § 240.13d-1(b)(1)(ii)(K). If filing as a
+                      non-U.S. institution in accordance with § 240.13d-1(b)(1)(ii)(J),
+                      please specify
+                      the type of institution:
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+Item
+                    4.
+
+
+Ownership.
+
+
+ 
+
+
+Provide
+          the following information regarding the aggregate number and percentage of the
+          class of securities of the issuer identified in Item 1.
+
+
+ 
+
+
+
+(a)
+
+
+                  Amount beneficially owned:
+                  12,757,071
+
+
+ 
+
+
+
+(b)
+
+
+                  Percent of class: 5.5 %
+
+
+ 
+
+
+
+(c)
+
+
+Number
+                  of shares as to which the person has:
+
+
+ 
+
+
+
+(i)
+
+
+                  Sole power to vote or to direct the vote:
+                  11,640,220
+
+
+ 
+
+
+
+(ii)
+
+
+                  Shared power to vote or to direct the vote:
+                  75
+
+
+ 
+
+
+
+(iii)
+
+
+                  Sole power to dispose or to direct the disposition of:
+                  12,754,867
+
+
+ 
+
+
+
+(iv)
+
+
+                  Shared power to dispose or to direct the disposition of:
+                  75
+
+
+Item
+                    5.
+
+
+Ownership
+                    of Five Percent or Less of a Class
+
+
+ 
+
+
+If
+              this statement is being filed to report the fact that as of the date hereof the
+              reporting person has ceased to be the beneficial owner of more than five
+              percent of the class of securities, check the following
+
+o
+
+              .
+
+
+ 
+
+
+           
+
+
+
+ 
+
+
+Item
+                    6.
+
+
+Ownership
+                    of More than Five Percent on Behalf of Another Person.
+
+
+ 
+
+
+Not Applicable
+
+
+ 
+
+
+Item
+                    7.
+
+
+Identification
+                    and Classification of the Subsidiary Which Acquired the Security Being Reported
+                    on By the Parent Holding Company
+
+
+ 
+
+
+J.P. Morgan Trust Company of Delaware
+
+J.P. Morgan Securities LLC
+
+JPMorgan Chase Bank, National Association
+
+JPMorgan Asset Management (UK) Limited
+
+J.P. MORGAN SE
+
+J.P. Morgan Investment Management Inc.
+
+55I, LLC
+
+J.P. Morgan Private Wealth Advisors LLC
+
+
+ 
+
+
+Item
+                    8.
+
+
+Identification
+                    and Classification of Members of the Group
+
+
+ 
+
+
+Not Applicable
+
+
+ 
+
+
+Item
+                    9.
+
+
+Notice
+                    of Dissolution of Group
+
+
+ 
+
+
+Not Applicable
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+Item
+                      10.
+
+
+Certification
+
+
+ 
+
+
+ 
+
+
+                    By signing below I certify that, to the best of my knowledge and belief, the
+                    securities referred to above
+                    were acquired and are held in the ordinary course of business and were not
+                    acquired and are not held for
+                    the purpose of or with the effect of changing or influencing the control of the
+                    issuer of the securities
+                    and were not acquired and are not held in connection with or as a participant in
+                    any transaction having
+                    that purpose or effect, other than activities solely in connection with a
+                    nomination under §240.14a-11.
+
+
+
+ 
+
+
+ 
+
+
+SIGNATURE
+
+
+After
+        reasonable inquiry and to the best of my knowledge and belief, I certify that
+        the information set forth in this statement is true, complete and correct.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+JPMORGAN CHASE & CO.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+                  Date:
+                  January 08, 2024
+
+
+By:
+
+
+
+/s/ 
+                Rachel Tsvaygoft
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+                Name: Rachel Tsvaygoft
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+                Title: 
+                Vice President
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Footnotes:
+
+
+Attention:
+
+
+Intentional
+                misstatements or omissions of fact constitute Federal criminal violations (See
+                18 U.S.C. 1001)
+
+
+ 
+
+
+ 
+
+

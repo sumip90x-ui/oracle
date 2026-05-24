@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-19
+Transaction Date: 2025-09-17
+Person: Teter Timothy S. — EVP, General Counsel and Sec
+Type: OTHER
+Shares: 37090 at $174.88
+Shares After: 2597935
+=== TICKER: NVDA ===
+===

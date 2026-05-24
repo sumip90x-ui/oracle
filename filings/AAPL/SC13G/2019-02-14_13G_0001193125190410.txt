@@ -1,0 +1,14986 @@
+=== FILING DATE: 2019-02-14 ===
+=== PERIOD COVERED: 2019-02-14 ===
+=== SOURCE: SC13G filed 2019-02-14 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: AAPL ===
+
+
+
+SC 13G
+
+1
+
+d667611dsc13g.htm
+
+SC 13G
+
+
+SC 13G
+
+
+ 
+
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, DC 20549
+
+ 
+
+
+ 
+
+SCHEDULE 13G
+
+
+(Rule
+13d-102)
+
+
+
+INFORMATION TO BE INCLUDED IN STATEMENTS FILED PURSUANT
+
+
+TO §
+240.13d-1(b),
+ (c) AND (d) AND AMENDMENTS THERETO FILED
+
+
+PURSUANT TO §
+240.13d-2
+
+
+
+(Amendment No.
+    
+)
+
+ 
+
+
+ 
+
+APPLE INC.
+
+
+(Name of Issuer)
+
+
+COMMON STOCK
+
+(Title of
+Class of Securities)
+
+037833100
+
+
+(CUSIP Number)
+
+
+December 31, 2018
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+
+ 
+
+ 
+
+
+Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+
+
+☒
+ Rule
+13d-1
+ (b)
+
+
+
+☐
+ Rule
+13d-1
+ (c)
+
+
+
+☐
+ Rule
+13d-1
+ (d)
+
+
+
+ 
+
+
+*
+
+
+
+The remainder of this cover page shall be filled out for a reporting person’s initial filing on this form
+with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page.
+
+
+The information required on the remainder of this cover page shall not be deemed to be “filed” for the purpose of Section 18 of the Securities
+Exchange Act of 1934 (the “Act”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes.)
+
+
+ 
+
+ 
+
+
+ 
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 2 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Warren E. Buffett
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+United States Citizen
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+255,300,329 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+255,300,329 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+255,300,329 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+Applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+5.4%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IN
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 3 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Berkshire Hathaway Inc.
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+255,300,329 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+255,300,329 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+255,300,329 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+5.4%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+HC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 4 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+National Indemnity Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+210,800,329 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+210,800,329 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+210,800,329 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+4.4%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 5 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+GEICO Corporation
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+15,385,747 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+15,385,747 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+15,385,747 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+0.3%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+HC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 6 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Government Employees Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Maryland
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+12,255,747 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+12,255,747 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+12,255,747 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+0.3%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 7 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Columbia Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+19,098,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+19,098,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+19,098,00 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+0.4%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 8 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Berkshire Hathaway Assurance Corporation
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of New York
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+1,441,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+1,441,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+1,441,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 9 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Finial Reinsurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Connecticut
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+451,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+451,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+451,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 10 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+National Indemnity Company of the South
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Florida
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+91,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+91,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+91,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 11 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Berkshire Hathaway Specialty Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+1,381,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+1,381,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+1,381,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 12 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+National Fire & Marine Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+13,640,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+13,640,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+13,640,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+0.3%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 13 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Redwood Fire & Casualty Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+1,664,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+1,664,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+1,664,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 14 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+National Indemnity Company of Mid America
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Iowa
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+137,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+137,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+137,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 15 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Oak River Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+271,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+271,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+271,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 16 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+AmGUARD Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Pennsylvania
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+216,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+216,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+216,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 17 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Berkshire Hathaway Homestate Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+960,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+960,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+960,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 18 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Berkshire Hathaway Direct Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+54,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+54,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+54,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 19 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+National Liability & Fire Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Connecticut
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+678,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+678,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+678,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 20 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Cypress Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of California
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+681,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+681,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+681,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 21 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+MedPro Group Inc.
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Indiana
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+3,038,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+3,038,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+3,038,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 22 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+The Medical Protective Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Indiana
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+2,588,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+2,588,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+2,588,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 23 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Princeton Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of New Jersey
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+270,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+270,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+270,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 24 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Berkshire Hathaway Life Insurance Company of
+Nebraska
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+960,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+960,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+960,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 25 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Old United Casualty Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Kansas
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+105,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+105,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+105,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 26 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Old United Life Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Arizona
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+74,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+74,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+74,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 27 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Mount Vernon Fire Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Pennsylvania
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+454,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+454,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+454,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 28 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Radnor Specialty Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+36,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+36,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+36,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 29 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+United States Liability Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Pennsylvania
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+454,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+454,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+454,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 30 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+PLICO Inc.
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Oklahoma
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+180,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+180,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+180,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 31 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+GEICO Choice Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+550,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+550,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+550,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 32 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+GEICO Indemnity Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Maryland
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+1,298,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+1,298,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+1,298,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 33 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+GEICO Secure Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+366,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+366,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+366,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 34 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+GEICO Advantage Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+916,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+916,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+916,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 35 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+General Re Corporation
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+5,711,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+5,711,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+5,711,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+CO, HC
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 36 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+General Reinsurance Corporation
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+5,711,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+5,711,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+5,711,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 37 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+General Re Life Corporation
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Connecticut
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+1,172,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+1,172,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+1,172,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 38 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+General Star Indemnity Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+181,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+181,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+181,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 39 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+General Star National Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+45,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+45,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+45,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 40 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Genesis Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+45,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+45,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+45,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 41 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+East Guard Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Pennsylvania
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+72,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+72,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+72,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 42 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Applied Underwriters Captive Risk Assurance Company,
+Inc.
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Iowa
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+45,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+45,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+45,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 43 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+California Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of California
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+419,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+419,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+419,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 44 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Continental Indemnity Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Iowa
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+73,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+73,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+73,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 45 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Central States Indemnity Company of Omaha
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Nebraska
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+173,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+173,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+173,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 46 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+MLMIC Insurance Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of NewYork
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+75,850 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+75,850 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+75,850 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+IC, CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 47 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+Brilliant National Services, Inc.
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+310,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+310,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+310,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 48 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+NRG America Holding Company
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Delaware
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+240,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+240,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+240,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+CO
+
+
+CUSIP No. 037833100
+
+
+ 
+
+
+13G
+
+
+ 
+
+
+Page 49 of 64 Pages
+
+
+
+ 
+
+
+  1 
+
+
+ 
+
+
+
+NAME OF
+REPORTING PERSON
+
+ 
+
+MPP Company Inc.
+
+
+  2
+
+
+ 
+
+
+
+CHECK THE APPROPRIATE BOX IF A MEMBER
+OF A GROUP
+
+(a)  ☒        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+State of Kansas
+
+
+
+NUMBER OF
+
+
+SHARES
+
+BENEFICIALLY
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5 
+
+
+  
+
+
+
+SOLE VOTING POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+6
+
+
+  
+
+
+
+SHARED VOTING POWER
+
+
+ 
+
+916,000 shares of Common Stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+SOLE DISPOSITIVE POWER
+
+
+ 
+
+NONE
+
+
+  
+
+
+8
+
+
+  
+
+
+
+SHARED DISPOSITIVE POWER
+
+
+ 
+
+916,000 shares of Common Stock
+
+
+  9
+
+
+ 
+
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+916,000 shares of Common Stock
+
+
+10
+
+
+ 
+
+
+
+CHECK BOX IF THE AGGREGATE AMOUNT IN
+ROW (9)
+ EXCLUDES CERTAIN SHARES  ☐
+
+ 
+
+Not
+applicable.
+
+
+11
+
+
+ 
+
+
+
+PERCENT OF CLASS REPRESENTED BY AMOUNT
+IN ROW 9
+
+ 
+
+Less than 0.1%
+
+
+12
+
+
+ 
+
+
+
+TYPE OF REPORTING PERSON
+
+
+ 
+
+CO
+
+
+Item 1. 
+
+ 
+
+
+ 
+
+
+(a)
+
+
+
+Name of Issuer
+
+
+Apple Inc.
+
+ 
+
+
+ 
+
+
+(b)
+
+
+
+Address of Issuer’s Principal Executive Offices
+
+
+One Apple Park Way, Cupertino, CA 95014
+
+
+Item 2(a). Name of Person Filing:
+
+
+Item 2(b). Address of Principal Business Office:
+
+
+Item 2
+©
+. Citizenship:
+
+
+ 
+
+
+
+Warren E. Buffett
+
+
+3555 Farnam Street
+
+Omaha,
+Nebraska 68131
+
+United States Citizen
+
+
+  
+
+
+
+Berkshire Hathaway Inc.
+
+3555 Farnam Street
+
+
+Omaha, Nebraska 68131
+
+Delaware corporation
+
+
+
+National Indemnity Company
+
+
+3024 Harney Street
+
+Omaha,
+Nebraska 68131
+
+Nebraska corporation
+
+
+  
+
+
+
+National Liability & Fire Insurance Company
+
+
+1314 Douglas Street
+
+Omaha, NE 68102
+
+
+Connecticut corporation
+
+
+
+The Medical Protective Company
+
+
+5814 Reed Road
+
+Fort
+Wayne, IN 46835
+
+Indiana corporation
+
+
+  
+
+
+
+Cypress Insurance Company
+
+1314 Douglas
+Street
+
+Omaha, NE 68102
+
+California
+
+
+
+National Indemnity Company of the South
+
+
+1314 Douglas Street
+
+
+Omaha, NE 68102
+
+
+Florida
+
+
+  
+
+
+
+National Fire & Marine Insurance Company
+
+
+1314 Douglas Street
+
+Omaha, Nebraska 681302
+
+
+Nebraska
+
+
+
+Redwood Fire & Casualty Insurance Company
+
+
+1314 Douglas Street
+
+
+Omaha, NE 68102
+
+
+Nebraska
+
+
+  
+
+
+
+GEICO Corporation
+
+One GEICO Plaza
+
+
+Washington, DC 20076
+
+Delaware
+
+
+
+Columbia Insurance Company
+
+
+1314 Douglas Street
+
+
+Omaha, Nebraska 68102
+
+
+Nebraska
+
+
+  
+
+
+
+MedPro Group, Inc.
+
+5814 Reed Road
+
+
+Fort Wayne, IN 46835
+
+Indiana
+corporation
+
+
+AmGUARD Insurance Company of Nebraska
+
+
+c/o Berkshire Hathaway GUARD
+
+P.O. Box A-H
+
+
+Wilkes-Barre, PA 18703
+
+Pennsylvania
+
+
+Berkshire Hathaway Life Insurance Company of Nebraska
+
+1314
+Douglas Street
+
+Omaha, NE 68102
+
+Nebraska
+
+
+Princeton Insurance Company
+
+746 Alexander Road
+
+
+Princeton, NJ 08540
+
+New Jersey
+
+
+Oak River Insurance Company
+
+1314 Douglas Street
+
+
+Omaha, NE 68102
+
+Nebraska
+
+
+Old United Casualty Company
+
+8500 Shawnee Mission Parkway
+
+
+Merriam, KS 66202
+
+Kansas
+
+
+Finial Reinsurance Company
+
+1314 Douglas street
+
+
+Omaha, NE 68102
+
+Connecticut
+
+
+ 
+
+
+Berkshire Hathaway Assurance Corporation
+
+
+1314 Douglas Street
+
+Omaha, NE 68102
+
+
+New York
+
+Berkshire Hathaway Specialty Insurance Company
+
+
+1314 Douglas Street
+
+Omaha, NE 68102
+
+
+Nebraska
+
+Berkshire Hathaway Homestate Insurance Company
+
+
+1314 Douglas Street
+
+Omaha, NE 68102
+
+
+Nebraska
+
+National Indemnity Company of Mid America
+
+
+1314 Douglas Street
+
+Omaha, NE 68102
+
+
+Iowa
+
+NorGUARD Insurance Company
+
+
+16 South River Street
+
+Wilkes-Barre, PA 18703
+
+
+Pennsylvania
+
+Government Employees Insurance Company
+
+
+5260 Western Ave.
+
+Chevy Chase, MD 20815
+
+
+Nebraska
+
+Berkshire Hathaway Direct Insurance Company
+
+
+1314 Douglas Street
+
+Omaha, NE 68102
+
+
+Delaware
+ 
+
+
+
+NRG America Holding Company
+
+
+1314 Douglas Street
+
+
+Omaha, NE 68102
+
+
+Delaware
+
+
+  
+
+
+
+Brilliant National Services, Inc.
+
+1314 Douglas
+Street
+
+Omaha, NE 68102
+
+Delaware
+
+
+
+PLICO Inc.
+
+
+5814 Reed Road
+
+Ft. Wayne,
+IN 46835
+
+Indiana Corporation
+
+
+  
+
+
+
+MPP Company Inc.
+
+8500 Shawnee Mission
+Parkway
+
+Meriam, KS 66202
+
+Kansas
+
+
+
+Continental Indemnity Company
+
+
+10805 Old Mill Road
+
+
+Omaha, NE 68154
+
+Iowa
+Corporation
+
+
+  
+
+
+
+Applied Underwriters Captive Risk Assurance Company, Inc.
+
+
+10805 Old Mill Road
+
+Omaha, NE 68154
+
+
+Iowa Corporation
+
+
+
+Central States Indemnity Company of Omaha
+
+
+1212 North 96
+th
+ Street
+
+
+Omaha, NE 68114
+
+Nebraska
+Corporation
+
+
+  
+
+
+
+California Insurance Company
+
+10805 Old Mill
+Road
+
+Omaha, NE 68154
+
+California Corporation
+
+
+
+General Re Life Corporation
+
+
+120 Long Ridge Road
+
+
+Stamford, CT 06902
+
+
+Connecticut Corporation
+
+
+  
+
+
+
+Genesis Insurance Company
+
+120 Long Ridge
+Road
+
+Stamford, CT 06902
+
+Delaware Corporation
+
+
+
+GEICO Choice Insurance Company
+
+
+5260 Western Avenue
+
+Chevy
+Chase, MD 20815
+
+Nebraska Corporation
+
+
+  
+
+
+
+GEICO Advantage Insurance Company
+
+5260 Western
+Avenue
+
+Chevy Chase, MD 20815
+
+Nebraska
+Corporation
+
+
+
+GEICO Secure Insurance Company
+
+
+5260 Western Avenue
+
+Chevy
+Chase, MD 20815
+
+Nebraska Corporation
+
+
+  
+
+
+
+GEICO Indemnity Company
+
+5260 Western Avenue
+
+
+Chevy Chase, MD 20815
+
+Maryland Corporation
+
+
+
+General Re Corporation
+
+
+120 Long Ridge Road
+
+
+Stamford, CT 06902
+
+
+Delaware Corporation
+
+
+  
+
+
+
+General Reinsurance Corporation
+
+120 Long Ridge
+Road
+
+Stamford, CT 06902
+
+Delaware Corporation
+
+
+
+General Star National Insurance Company
+
+
+120 Long Ridge Road
+
+
+Stamford, CT 06902
+
+
+Delaware Corporation
+
+
+  
+
+
+
+General Star Indemnity Company
+
+120 Long Ridge
+Road
+
+Stamford, CT 06902
+
+Delaware Corporation
+
+
+
+Mt. Vernon Fire Insurance Company
+
+
+1190 Devon Park Drive
+
+
+Wayne, PA 19807
+
+
+Pennsylvania Corporation
+
+
+  
+
+
+
+EastGUARD Insurance Company
+
+16 S. River
+Street
+
+Wilkes-Barre, PA 18703
+
+Pennsylvania
+Corporation
+
+
+
+United States Liability Insurance Company
+
+
+1190 Devon Park Drive
+
+
+Wayne, PA 19807
+
+
+Pennsylvania Corporation
+
+
+  
+
+
+
+Radnor Specialty Insurance Company
+
+1190 Devon
+Park Drive
+
+Wayne, PA 19807
+
+Nebraska Corporation
+
+
+
+Old United Life Insurance Company
+
+
+8500 Shawnee Mission Parkway
+
+
+Merriam, KS 66202
+
+Kansas
+Corporation
+
+
+  
+
+
+
+MLMIC Insurance Company
+
+Two Park Avenue
+
+
+New York, NY 10016
+
+New York Corporation
+
+
+ 
+
+
+(d)
+
+
+
+Title of Class of Securities
+
+
+Common Stock
+
+ 
+
+
+ 
+
+
+(e)
+
+
+
+CUSIP Number
+
+
+037833100
+
+Item 3. If this statement is
+filed pursuant to §
+240.13d-1(b),
+ or §
+240.13d-2(b)
+ or (c), check whether the person filing is a:
+
+
+Warren E. Buffett (an individual who may be deemed to control Berkshire Hathaway Inc.), Berkshire Hathaway Inc., GEICO Corporation, General Re
+Corporation and MedPro Group, Inc. are each a Parent Holding Company or Control Person, in accordance with §
+240.13d-1(b)(1)(ii)(G).
+
+
+
+National Indemnity Company, National Fire & Marine Insurance Company, Columbia Insurance Company, National Liability & Fire
+Insurance Company, Cypress Insurance Company, National Indemnity Company of the South, Redwood Fire & Casualty Insurance Company, Government Employees Insurance Company, The Medical Protective Company, Berkshire Hathaway Assurance
+Corporation, Berkshire Hathaway Life Insurance Company of Nebraska, Berkshire Hathaway Homestate Insurance Company, Princeton Insurance Company, National Indemnity Company of Mid America, Berkshire Hathaway Specialty Insurance Company, AmGUARD
+Insurance Company, Finial Reinsurance Company, Oak River Insurance Company, NorGUARD Insurance Company, Old United Casualty Company, Berkshire Hathaway Direct Insurance Company, PLICO Inc., Applied Underwriters Captive Risk Assurance Company, Inc.,
+California Insurance Company, Continental Indemnity Company, Central States Indemnity Company of Omaha, Genesis Insurance Company, GEICO Advantage Insurance Company, GEICO Choice Insurance Company, GEICO Indemnity Insurance Company, GEICO Secure
+Insurance Company, General Star National Insurance Company, General Re Life Corporation, General Reinsurance Corporation, General Star Indemnity Company, Mt. Vernon Fire Insurance Company, United States Liability Insurance Company, Radnor Specialty
+Insurance Company, MLMIC Insurance Company and Old United Life Insurance Company are each an Insurance Company as defined in section 3(a)(19) of the Act.
+
+
+Item 4. Ownership
+
+Provide the following information
+regarding the aggregate number and percentage of the class of securities of the issuer identified in Item 1.
+
+ 
+
+
+ 
+
+
+(a)
+
+
+
+Amount beneficially Owned
+
+
+See the Cover Pages for each of the Reporting Persons.
+
+ 
+
+
+ 
+
+
+(b)
+
+
+
+Percent of Class
+
+
+See the Cover Pages for each of the Reporting Persons.
+
+ 
+
+
+ 
+
+
+(c)
+
+
+
+Number of shares as to which such person has:
+
+
+ 
+
+
+ 
+
+
+(i)
+
+
+
+sole power to vote or to direct the vote
+
+
+ 
+
+
+ 
+
+
+(ii)
+
+
+
+shared power to vote or to direct the vote
+
+
+ 
+
+
+(iii)
+
+
+
+sole power to dispose or to direct the disposition of
+
+
+ 
+
+
+ 
+
+
+(iv)
+
+
+
+shared power to dispose or to direct the disposition of
+
+
+See the Cover Pages for each of the Reporting Persons
+.
+
+
+
+Item 5. Ownership of Five Percent or Less of a Class.
+
+
+Not Applicable.
+
+Item 6. Ownership of
+More than Five Percent on Behalf of Another Person.
+
+Not Applicable.
+
+
+Item 7. Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company or Control
+Person.
+
+See Exhibit A.
+
+Item 8.
+Identification and Classification of Members of the Group.
+
+See Exhibit A.
+
+
+Item 9. Notice of Dissolution of Group.
+
+
+Not Applicable.
+
+Item 10. Certification.
+
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held
+in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a
+participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under §
+240.14a-11.
+
+
+
+SIGNATURES
+
+After
+reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+
+Dated this 14
+th
+ day of February, 2019
+
+
+ 
+
+
+/s/ Warren E. Buffett
+
+
+Warren E. Buffett
+
+
+BERKSHIRE HATHAWAY INC.
+
+
+By:
+
+
+ 
+
+
+
+/s/ Warren E. Buffett
+
+
+ 
+
+
+Warren E. Buffett
+
+
+ 
+
+
+Chairman of the Board
+
+
+
+NATIONAL INDEMNITY COMPANY, NATIONAL FIRE AND MARINE INSURANCE COMPANY, COLUMBIA INSURANCE COMPANY, NATIONAL LIABILITY &
+FIRE INSURANCE COMPANY, CYPRESS INSURANCE COMPANY, NATIONAL INDEMNITY COMPANY OF THE SOUTH, REDWOOD FIRE AND CASUALTY INSURANCE COMPANY, AMGUARD INSURANCE COMPANY, GEICO CORPORATION, GOVERNMENT EMPLOYEES INSURANCE CORPORATION, MEDPRO GROUP INC., THE
+MEDICAL PROTECTIVE COMPANY, BERKSHIRE HATHAWAY ASSURANCE CORPORATION, BERKSHIRE HATHAWAY LIFE INSURANCE COMPANY OF NEBRASKA, BERKSHIRE HATHAWAY HOMESTATE INSURANCE COMPANY, PRINCETON
+
+
+INSURANCE COMPANY, NATIONAL INDEMNITY COMPANY OF MID AMERICA, BERKSHIRE HATHAWAY SPECIALTY INSURANCE COMPANY, BRILLIANT NATIONAL SERVICES, INC., FINIAL
+REINSURANCE COMPANY, OAK RIVER INSURANCE COMPANY, NORGUARD INSURANCE COMPANY, OLD UNITED CASUALTY COMPANY, NRG AMERICA HOLDING COMPANY, MPP COMPANY, INC., BNSF MASTER RETIREMENT TRUST, BERKSHIRE HATHAWAY DIRECT INSURANCE COMPANY, APPLIED
+UNDERWRITERS CAPTIVE RISK ASSURANCE COMPANY, INC., CALIFORNIA INSURANCE COMPANY, CONTINENTAL INDEMNITY COMPANY, CENTRAL STATES INDEMNITY COMPANY OF OMAHA, PLICO INC., GENESIS INSURANCE COMPANY, GEICO ADVANTAGE INSURANCE COMPANY, GEICO CHOICE
+INSURANCE COMPANY, GEICO INDEMNITY COMPANY, GEICO SECURE INSURANCE COMPANY, GENERAL RE CORPORATION, GENERAL STAR NATIONAL INSURANCE COMPANY, MT.VERNON FIRE INSURANCE COMPANY, UNITED STATES LIABILITY, INSURANCE COMPANY, GENERAL RE LIFE CORPORATION,
+GENERAL REINSURANCE CORPORATION, GENERAL STAR INDEMNITY COMPANY, EAST GUARD INSURANCE COMPANY, RADNOR SPECIALTY INSURANCE COMPANY, OLD UNITED LIFE INSURANCE COMPANY AND MLMIC INSURANCE COMPANY
+
+
+By
+
+
+ 
+
+
+
+/s/ Warren E. Buffett
+
+
+ 
+
+
+
+Warren E. Buffett
+
+Attorney-in-Fact
+
+
+SCHEDULE 13G
+
+
+EXHIBIT A
+
+
+RELEVANT SUBSIDIARIES AND MEMBERS OF FILING GROUP
+
+
+PARENT HOLDING COMPANIES OR CONTROL PERSONS:
+
+
+Warren E. Buffett (an individual who may be deemed to control Berkshire Hathaway Inc.)
+
+
+Berkshire Hathaway Inc.
+
+GEICO
+Corporation
+
+MedPro Group, Inc.
+
+
+General Re Corporation
+
+INSURANCE COMPANIES AS
+DEFINED IN SECTION 3(a)(19) OF THE ACT:
+
+National Indemnity Company
+
+
+National Fire & Marine Insurance Company
+
+
+Columbia Insurance Company
+
+
+National Liability & Fire Insurance Company
+
+
+Cypress Insurance Company
+
+
+National Indemnity Company of the South
+
+
+Redwood Fire & Casualty Company
+
+
+Government Employees Insurance Company
+
+
+The Medical Protective Company
+
+
+Berkshire Hathaway Assurance Corporation
+
+
+Berkshire Hathaway Life Insurance Company of Nebraska
+
+
+Berkshire Hathaway Homestate Insurance Company
+
+
+Princeton Insurance Company
+
+
+National Indemnity Company of Mid America
+
+
+Berkshire Hathaway Specialty Insurance Company
+
+
+AmGUARD Insurance Company
+
+Finial
+Reinsurance Company
+
+Oak River Insurance Company
+
+
+NorGUARD Insurance Company
+
+Old
+United Casualty Company
+
+MLMIC Insurance Company
+
+
+Applied Underwriters Captive Risk Assurance Company, Inc.
+
+
+California Insurance Company
+
+
+Continental Indemnity Company
+
+
+Central States Indemnity Company of Omaha
+
+
+PLICO Inc.
+
+Genesis Insurance
+Company
+
+GEICO Advantage Insurance Company
+
+
+GEICO Choice Insurance Company
+
+
+GEICO Indemnity Company
+
+GEICO
+Secure Insurance Company
+
+General Star National Insurance Company
+
+
+Mt. Vernon Fire Insurance Company
+
+
+United States Liability Insurance Company
+
+
+General Re Life Corporation
+
+
+General Reinsurance Corporation
+
+
+General Star Indemnity Company
+
+
+East GUARD Insurance Company
+
+
+Radnor Specialty Insurance Company
+
+
+Old United Life Insurance Company
+
+
+Berkshire Hathaway Direct Insurance Company
+
+
+Brilliant National Services, Inc.
+
+Note: No
+Common Stock of Apple Inc. is held directly by Berkshire Hathaway Inc. or by Warren E. Buffett, an individual who may be deemed to control Berkshire Hathaway Inc. 1,466,000 shares or approximately less than 0.1% of Common Stock of Apple Inc. are
+held directly by Brilliant National Services, Inc., MPP Company, Inc. and NRG America Holding Company, none of which are persons specified in Rule
+13d-1
+ (b) (1) (ii) (A) through (J).
+
+
+SCHEDULE 13G
+
+
+EXHIBIT B
+
+JOINT
+FILING AGREEMENT PURSUANT TO RULE
+13d-1(k)(1)
+
+
+The undersigned persons hereby agree that
+reports on Schedule 13G, and amendments thereto, with respect to the Common Stock of The Bank of New York Mellon Corporation. may be filed in a single statement on behalf of each of such persons, and further, each of such persons designates Warren
+E. Buffett as its agent and
+Attorney-in-Fact
+ for the purpose of executing any and all Schedule 13G filings required to be made by it with the Securities and Exchange
+Commission.
+
+ 
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Warren E. Buffett
+
+
+  
+
+
+    
+
+
+ 
+
+
+  
+
+
+Warren E. Buffett
+
+
+  
+
+
+ 
+
+
+  
+
+
+Berkshire Hathaway Inc.
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Warren E. Buffett
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Warren E. Buffett
+Title: Chairman of the Board
+
+
+  
+
+
+ 
+
+
+  
+
+
+National Indemnity Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Marc D. Hamburg
+Title: Chairman of the Board
+
+
+  
+
+
+ 
+
+
+    
+
+
+  
+
+
+National Fire & Marine Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Chairman of the Board
+
+
+  
+
+
+ 
+
+
+  
+
+
+Columbia Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Chairman of the Board
+
+
+  
+
+
+ 
+
+
+  
+
+
+National Liability & Fire Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Cypress Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Assistant Secretary
+
+
+  
+
+
+ 
+
+
+  
+
+
+National Indemnity Company of the South
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Chairman of the Board
+
+
+  
+
+
+ 
+
+
+  
+
+
+Redwood Fire & Casualty Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Marc D. Hamburg
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Assistant Secretary
+
+
+  
+
+
+ 
+
+
+  
+
+
+GEICO Corporation
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+    
+
+
+  
+
+
+
+/S/ Stephen C. Parsons
+
+
+  
+
+
+    
+
+
+ 
+
+
+  
+
+
+By: Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+
+Government Employees Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+The Medical Protective Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Anthony A. Bowser
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Anthony A. Bowser
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+MedPro Group Inc.
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Anthony A. Bowser
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Anthony A. Bowser
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Berkshire Hathaway Assurance Corporation
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+    
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+    
+
+
+ 
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Berkshire Hathaway Life Insurance Company of Nebraska
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Berkshire Hathaway Homestate Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Jackie L. Perry
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Jackie L. Perry
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Princeton Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Anthony A. Bowser
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Anthony A. Bowser
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+National Indemnity Company of Mid America
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+    
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+    
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+AmGUARD Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Sy Foguel
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Sy Foguel
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: President
+
+
+  
+
+
+ 
+
+
+  
+
+
+Berkshire Hathaway Specialty Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Finial Reinsurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Oak River Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Andrew Linkhart
+
+
+  
+
+
+ 
+
+
+    
+
+
+  
+
+
+By: Andrew Linkhart
+
+
+  
+
+
+    
+
+
+ 
+
+
+  
+
+
+Title: Chief Financial Officer
+
+
+  
+
+
+ 
+
+
+  
+
+
+NorGUARD Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Sy Foguel
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Sy Foguel
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Chief Executive Officer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Old United Casualty Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Glen A. Mayer
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Glen A. Mayer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: President
+
+
+  
+
+
+ 
+
+
+  
+
+
+MPP Company, Inc.
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Glen A. Mayer
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Glen A. Mayer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: President
+
+
+  
+
+
+ 
+
+
+    
+
+
+  
+
+
+Berkshire Hathaway Direct Insurance Company
+
+
+  
+
+
+    
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Brilliant National Services, Inc.
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+NRG America Holding Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/S/ Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+  
+
+
+By: Dale D. Geistkemper
+
+
+  
+
+
+ 
+
+
+    
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+    
+
+
+ 
+
+
+  
+
+
+Genesis Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Edward M. Nosenzo
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Edward M . Nosenzo
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+GEICO Advantage Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+General Re Corporation
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Michael P. O’Dea
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Michael P. O’Dea
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Senior Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+General Re Life Corporation
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Edward M. Nosenzo
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Edward M. Nosenzo
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+General Reinsurance Corporation
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Michael P. O’Dea
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Michael P. O’Dea
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Senior Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+General Star Indemnity Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Edward M. Nosenzo
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Edward M. Nosenzo
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+General Star National Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Edward M. Nosenzo
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Edward M. Nosenzo
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Treasurer
+
+
+  
+
+
+ 
+
+
+  
+
+
+EastGUARD Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Sy Foguel
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Sy Foguel
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: President
+
+
+  
+
+
+ 
+
+
+  
+
+
+Mt. Vernon Fire Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Stephen J. Rivituso
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Stephen J. Rivituso
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Senior Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+Radnor Specialty Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Stephen J. Rivituso
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Stephen J. Rivituso
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Executive Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+United States Liability Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Stephen J. Rivituso
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Stephen J. Rivituso
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Senior Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+PLICO Inc.
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Anthony A. Bowser
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Anthony A. Bowser
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Chief Financial Officer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Old United Life Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Glen I. Mayer
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Glen I. Mayer
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: President
+
+
+  
+
+
+ 
+
+
+  
+
+
+Applied Underwriters Captive Risk Assurance Company, Inc.
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Robert L. Stafford
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Robert L. Stafford
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+California Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Robert L. Stafford
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Robert L. Stafford
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+Continental Indemnity Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Robert L. Stafford
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Robert L. Stafford
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+Central States Indemnity Company of Omaha
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Kim Young
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Kim Young
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Chief Financial Officer
+
+
+  
+
+
+ 
+
+
+  
+
+
+GEICO Choice Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+GEICO Indemnity Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+GEICO Secure Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Stephen C. Parsons
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: Vice President
+
+
+  
+
+
+ 
+
+
+  
+
+
+MLMIC Insurance Company
+
+
+  
+
+
+Dated: February 14, 2019
+
+
+ 
+
+
+  
+
+
+
+/s/ Edward Amsler
+
+
+  
+
+
+ 
+
+
+  
+
+
+by Edward Amsler
+
+
+  
+
+
+ 
+
+
+  
+
+
+Title: President
+
+
+  
+
+

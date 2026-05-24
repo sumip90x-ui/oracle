@@ -1,0 +1,221 @@
+
+████████████████████████████████████████████████████████████
+  ORACLE FACTSHEET — ANET
+  Generated: 2026-05-16 | Source: EDGAR local files + Alpaca
+  ZERO training data. Every figure cites its source file.
+████████████████████████████████████████████████████████████
+
+════════════════════════════════════════════════════════════
+  SECTION 1 — COMPANY IDENTITY
+════════════════════════════════════════════════════════════
+  Company Name                        Arista Networks, Inc.  [Source: manifest.json]
+  Ticker                              ANET  [Source: manifest.json]
+  CIK                                 0001596532  [Source: manifest.json]
+  SIC Code                            3576  [Source: manifest.json]
+  Industry                            Computer Communications Equipment  [Source: manifest.json]
+  Fiscal Year End                     1231  [Source: manifest.json]
+  Last EDGAR Check                    2026-05-16T23:09:48.516440  [Source: manifest.json]
+
+════════════════════════════════════════════════════════════
+  SECTION 2 — LIVE PRICE DATA (Alpaca)
+════════════════════════════════════════════════════════════
+  ANET - $141.95
+  Today: O$144.90 H$145.86 L$141.79 | Volume: 394,252
+  52-week range: $83.86 - $179.80
+  Source: Alpaca live data
+  [Source: Alpaca live data, 2026-05-16 16:16:07 UTC]
+
+════════════════════════════════════════════════════════════
+  SECTION 3 — ANNUAL FINANCIALS (10-K)
+════════════════════════════════════════════════════════════
+
+  Filing: 10-K | Filed: 2026-02-17 | Period: 2025-12-31 | Age: 88d — CURRENT
+  Revenue                             [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Gross Profit                        [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Operating Income                    [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Net Income                          [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Rd Expense                          [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Sales Marketing                     [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Cash                                [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Operating Cashflow                  [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Total Assets                        [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Total Liabilities                   [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Stockholders Equity                 [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Long Term Debt                      [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Gross Margin Pct                    [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+  Eps Diluted                         [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17, period 2025-12-31]
+
+════════════════════════════════════════════════════════════
+  SECTION 4 — LATEST QUARTERLY FINANCIALS (10-Q)
+════════════════════════════════════════════════════════════
+
+  Filing: 10-Q Q3FY2026 | Filed: 2026-05-06 | Age: 10d — CURRENT
+  Revenue                             $2,709.0M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Gross Profit                        $1,032.2M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Operating Income                    $1,022.9M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Net Income                          $1,022.9M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Rd Expense                          $1,157.8M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Sales Marketing                     $1,157.8M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Cash                                $2,789.5M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Operating Cashflow                  $1,693.5M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Total Assets                        $21,656.5M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Total Liabilities                   $0.0M  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Stockholders Equity                 [NOT FOUND IN LOCAL FILE]  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Long Term Debt                      [NOT FOUND IN LOCAL FILE]  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Gross Margin Pct                    31.4%  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+  Eps Diluted                         $0.81  [Source: 10-Q Q3FY2026 filed 2026-05-06]
+
+════════════════════════════════════════════════════════════
+  SECTION 5 — REVENUE TREND (10-K + 3x 10-Q)
+════════════════════════════════════════════════════════════
+
+  FY Annual  (2025-12-31) [10-K filed 2026-02-17]: $2,025.0M
+  Q3FY2026 [10-Q filed 2026-05-06]: $2,709.0M
+  Q1FY2025 [10-Q filed 2025-11-05]: $1,036.7M
+  Q4FY2025 [10-Q filed 2025-08-06]: $2,204.8M
+
+════════════════════════════════════════════════════════════
+  SECTION 6 — MD&A KEY POINTS (verbatim from filing)
+════════════════════════════════════════════════════════════
+
+  Source: 10-Q Q3FY2026 filed 2026-05-06
+
+  [1] The results for the three months ended March 31, 2026, are not necessarily indicative of the results expected for the full fiscal year.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [2] On December 2025, the FASB issued ASU 2025-11, Interim Reporting (Topic 270) which is intended to streamline the guidance in ASC 270, Interim Reporting, and clarify when it applies.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [3] Revenue from Total Remaining Performance Obligations     T otal revenue from our contract liabilities, deferred revenue and other performance obligations that is expected to be recognized in future periods amounts to $ 7.7  billion as of March 31, 2026 .
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [4] A pproximately 91 % of this future revenue is expected to be recognized over the next two years  and the remaining 9 % is expected to be recognized during the third to the fifth year.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [5] As of March 31, 2026, we had non-cancellable purchase commitments not recorded on our balance sheet of $ 8.9  billion, of which $ 7.6  billion have expected receipt dates within 12 months, and $ 1.3  billion have expected receipt dates greater than 12 months.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [6] As of March 31, 2026, the estimated remaining capital expenditures related to this project are expected to be approximately $ 130.0  million to $ 150.0  million through the end of fiscal 2026 when we expect construction to be completed.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [7] The unamortized compensation costs are expected to be recognized over a weighted-average period of approximately 4.2  years.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [8] The financial information reviewed by the CODM reflects quarterly and year-to-date operating results, with a primary focus on revenue, gross margin, operating margin and net income as reported on the consolidated statements of income.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [9] This consolidated financial information is also what is used to establish and approve operating budgets and forecasts.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+  [10] The following table represents revenue based on customers’ shipping addresses (in millions): Three Months Ended March 31, 2026 2025 Americas (1) $ 2,290.1   $ 1,598.5   Europe, Middle East and Africa 235.0   174.6   Asia-Pacific 183.9   231.7      Total revenue $ 2,709.0   $ 2,004.8   (1) Includes $ 2,272.1  million and $ 1,581.5  million revenue generated from the U.S.
+      [MD&A, 10-Q Q3FY2026 filed 2026-05-06]
+
+════════════════════════════════════════════════════════════
+  SECTION 7 — RISK FACTORS SUMMARY (verbatim)
+════════════════════════════════════════════════════════════
+
+  Source: 2026-05-06_10-Q_Q3FY2026_item1A_riskfactors.txt (filed 2026-05-06)
+   1. some of the key components in our products come from sole or limited sour
+   2. we expect large purchases by a limited number of customers to continue to represent a substantial portion of our revenue;
+   3. escalated or escalating United States (the "U.S.") tariffs as well as countermeasures and retaliatory actions taken by other countries, may have a neg
+   4. adverse economic conditions, continuing uncertain economic conditions or reduced information technology and network infrastructure spending may advers
+   5. we have entered into significant purchase commitments and are susceptible to supply shortages, extended lead times or supply changes;
+   6. our revenue and revenue growth rates are volatile and may decline or not meet our or our investor's expectations;
+   7. we expect our gross margins to vary over time and may be adversely affected by numerous factors;
+   8. our results of operations have varied significantly from period to period and are unpredictable;
+   9. the networking market is rapidly evolving;
+  10. failure to successfully carry out new product and service offerings and expand into adjacent markets could adversely impact our business;
+  11. we face intense competition and industry consolidation may lead to increased competition;
+  12. we are subject to risks associated with the expansion of our international sales and operations;
+  13. we face risks associated with the investments in and acquisitions of other businesses;
+  14. industry cyclicality may cause fluctuations in our revenue;
+  15. fluctuations in currency exchange rates could adversely affect our business;
+
+════════════════════════════════════════════════════════════
+  SECTION 8 — RECENT 8-K EVENTS (newest first)
+════════════════════════════════════════════════════════════
+
+  2026-05-05 | EARNINGS
+  Preview: EX-99.1 2 ex991q126-earningsrelease.htm EX-99.1 Document
+
+  2026-02-12 | EARNINGS
+  Preview: EX-99.1 2 ex991q425-earningsrelease.htm EX-99.1 Document
+
+  2025-11-04 | EARNINGS
+  Preview: EX-99.1 2 ex991q325-earningsrelease.htm EX-99.1 Document
+
+  2025-09-08 | AGREEMENT
+  Preview: anet-20250905 0001596532 12/31 False 0001596532
+
+  2025-08-05 | EARNINGS
+  Preview: EX-99.1 2 ex991q225-earningsrelease.htm EX-99.1 Document
+
+  2025-06-16 | AGREEMENT
+  Preview: anet-20250613 0001596532 False 0001596532 2025-06-13
+
+  2025-06-03 | AGREEMENT
+  Preview: anet-20250530 0001596532 False 0001596532 2025-05-30
+
+════════════════════════════════════════════════════════════
+  SECTION 9 — INSIDER TRANSACTIONS (Form 4, last 12 months)
+════════════════════════════════════════════════════════════
+
+  Person                          Sold Shares       Sold $     Bought         Last Pattern     
+  ------------------------------------------------------------------------------------------
+  Ullal Jayshree                    8,712,604 $1,169,051,607          0   2026-04-24 NET SELLER  
+  Giancarlo Charles H                 146,000 $ 19,964,233      3,884   2026-05-05 NET SELLER  
+  Breithaupt Chantelle Yvette           8,890 $  1,378,164     19,170   2026-04-16 NET BUYER   
+  Wassenaar Yvonne                      4,773 $    646,289      3,884   2026-04-17 NET SELLER  
+  Battles Kelly Bodnar                  1,708 $    201,030      3,884   2026-02-25 NET BUYER   
+  Duda Kenneth                              0 $          0          0   2026-04-21 OTHER       
+  TEMPLETON MARK B                          0 $          0      3,884   2026-02-24 NET BUYER   
+  Scheinman Daniel                          0 $          0      3,884   2026-02-24 NET BUYER   
+  Lavender Robert G                         0 $          0          0   2026-02-24 OTHER       
+  CHEW LEWIS                                0 $          0      3,884   2026-02-24 NET BUYER   
+  Nightingale Todd                          0 $          0    466,060   2026-02-24 NET BUYER   
+
+════════════════════════════════════════════════════════════
+  SECTION 10 — DATA INTEGRITY REPORT
+════════════════════════════════════════════════════════════
+
+  Ticker:           ANET
+  Factsheet date:   2026-05-16
+  Manifest updated: 2026-05-16T23:09:48.516440
+  Newest filing:    2026-05-06
+
+  File                                                      Filed Age
+  --------------------------------------------------------------------------------
+  /home/sumith/ORACLE/filings/ANET/10-K/2026-02-17_10-K_FY2025.txt   2026-02-17  88d — CURRENT
+  /home/sumith/ORACLE/filings/ANET/10-Q/2026-05-06_10-Q_Q3FY2026.txt   2026-05-06  10d — CURRENT
+  2026-05-06_10-Q_Q3FY2026_item1A_riskfactors.txt      2026-05-06  10d — CURRENT
+  2026-05-05_8-K_earnings_ex991.txt                    2026-05-05  11d — CURRENT
+  2026-02-12_8-K_earnings_ex991.txt                    2026-02-12  93d — RECENT
+  2025-11-04_8-K_earnings_ex991.txt                    2025-11-04  193d — STALE
+  2025-09-08_8-K_agreement.txt                         2025-09-08  250d — STALE
+  2025-08-05_8-K_earnings_ex991.txt                    2025-08-05  284d — STALE
+  2025-06-16_8-K_agreement.txt                         2025-06-16  334d — STALE
+  2025-06-03_8-K_agreement.txt                         2025-06-03  347d — STALE
+
+  Total source files referenced: 10
+
+  MISSING FIGURES (16 not extractable from local files):
+    Revenue                             [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Gross Profit                        [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Operating Income                    [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Net Income                          [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Rd Expense                          [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Sales Marketing                     [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Cash                                [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Operating Cashflow                  [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Total Assets                        [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Total Liabilities                   [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Stockholders Equity                 [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Long Term Debt                      [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Gross Margin Pct                    [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Eps Diluted                         [NOT FOUND IN LOCAL FILE]  [Source: 10-K item8 filed 2026-02-17,
+    Stockholders Equity                 [NOT FOUND IN LOCAL FILE]  [Source: 10-Q Q3FY2026 filed 2026-05-
+    Long Term Debt                      [NOT FOUND IN LOCAL FILE]  [Source: 10-Q Q3FY2026 filed 2026-05-
+
+████████████████████████████████████████████████████████████
+  END OF FACTSHEET — ANET — 2026-05-16
+████████████████████████████████████████████████████████████

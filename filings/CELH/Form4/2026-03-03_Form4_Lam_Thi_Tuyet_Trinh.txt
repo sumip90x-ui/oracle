@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-03
+Transaction Date: 2026-03-02
+Person: Lam Thi Tuyet Trinh — Chief Human Resources Officer
+Type: BUY
+Shares: 9238 at $0
+Shares After: 9238
+=== TICKER: CELH ===
+===

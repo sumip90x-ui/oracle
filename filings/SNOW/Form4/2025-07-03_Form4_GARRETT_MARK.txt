@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-03
+Transaction Date: 2025-07-02
+Person: GARRETT MARK — Director
+Type: BUY
+Shares: 1373 at $0
+Shares After: 30252
+=== TICKER: SNOW ===
+===

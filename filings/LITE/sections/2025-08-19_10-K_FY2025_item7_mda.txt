@@ -1,0 +1,563 @@
+=== FILING DATE: 2025-08-19 ===
+=== PERIOD COVERED: 2025-06-28 ===
+=== SOURCE: 10-K filed 2025-08-19 ===
+=== SECTION: Item 7 — MD&A ===
+=== TICKER: LITE ===
+
+Item 7
+ of Form 10-K, filed on August 21, 2024.
+The following table summarizes selected consolidated statements of operations items as a percentage of net revenue:
+Years Ended
+June 28, 2025
+June 29, 2024
+July 1, 2023
+Segment net revenue:
+Cloud & Networking
+85.8 
+%
+79.8 
+%
+74.8 
+%
+Industrial Tech
+14.2 
+20.2 
+25.2 
+Net revenue
+100.0 
+100.0 
+100.0 
+Cost of sales
+67.0 
+75.3 
+63.0 
+Amortization of acquired developed intangibles
+5.0 
+6.2 
+4.8 
+Gross profit
+28.0 
+18.5 
+32.2 
+Operating expenses:
+Research and development
+18.5 
+22.2 
+17.4 
+Selling, general and administrative
+21.2 
+22.9 
+19.7 
+Restructuring and related charges
+1.4 
+5.3 
+1.6 
+Gain on sale of facility
+(2.1)
+— 
+— 
+Total operating expenses
+38.9 
+50.4 
+38.7 
+Loss from operations
+(10.9)
+(31.9)
+(6.5)
+Interest expense
+(1.3)
+(2.5)
+(2.0)
+Other income, net
+1.8 
+4.6 
+2.8 
+Loss before income taxes
+(10.5)
+(29.8)
+(5.7)
+Income tax (benefit) provision
+(12.0)
+10.4 
+1.7 
+Net income (loss)
+1.6 
+%
+(40.2)
+%
+(7.4)
+%
+50
+Financial Data for Fiscal Years 2025, 2024, and 2023
+The following table summarizes selected consolidated statements of operations items (
+in millions, except for percentages
+):
+2025
+2024
+Change
+Percentage Change
+2024
+2023
+Change
+Percentage Change
+Segment net revenue:
+Cloud & Networking
+$
+1,410.8
+$
+1,084.9
+$
+325.9 
+30.0 
+%
+$
+1,084.9
+$
+1,322.5
+$
+(237.6)
+(18.0)
+%
+Industrial Tech
+234.2
+274.3
+(40.1)
+(14.6)
+274.3
+444.5
+(170.2)
+(38.3)
+Net revenue
+$
+1,645.0
+$
+1,359.2
+$
+285.8 
+21.0 
+%
+$
+1,359.2
+$
+1,767.0
+$
+(407.8)
+(23.1)
+%
+Gross profit
+$
+459.9
+$
+251.5
+$
+208.4 
+82.9 
+%
+$
+251.5
+$
+569.0
+$
+(317.5)
+(55.8)
+%
+Gross margin
+28.0 
+%
+18.5 
+%
+18.5 
+%
+32.2 
+%
+Research and development
+$
+303.9
+$
+302.2
+$
+1.7
+0.6 
+%
+$
+302.2
+$
+307.8
+$
+(5.6)
+(1.8)
+%
+Percentage of net revenue
+18.5 
+%
+22.2 
+%
+22.2 
+%
+17.4 
+%
+Selling, general and administrative
+$
+348.2
+$
+310.7
+$
+37.5 
+12.1 
+%
+$
+310.7
+$
+348.8
+$
+(38.1)
+(10.9)
+%
+Percentage of net revenue
+21.2 
+%
+22.9 
+%
+22.9 
+%
+19.7 
+%
+Restructuring and related charges
+$
+22.8
+$
+72.6
+$
+(49.8)
+(68.6)
+%
+$
+72.6
+$
+28.1
+$
+44.5 
+158.4 
+%
+Percentage of net revenue
+1.4 
+%
+5.3 
+%
+5.3 
+%
+1.6 
+%
+Gain on sale of facility
+$
+(34.9)
+$
+— 
+$
+(34.9)
+— 
+%
+$
+— 
+$
+—
+$
+— 
+n/a
+Percentage of net revenue
+(2.1)
+%
+— 
+%
+— 
+%
+— 
+%
+Net Revenue
+Net revenue increased by $285.8 million, or 21.0%, during fiscal year 2025 as compared to fiscal year 2024, due to a $325.9 million increase in Cloud & Networking net revenue offset by a $40.1 million decrease in Industrial Tech net revenue.
+The increase in Cloud & Networking net revenue is primarily due to higher unit sales from cloud and AI/ML customers, which increased by $193.2 million, in part due to a full year of revenue from Cloud Light, which we acquired in the second quarter of fiscal year 2024. In addition, revenue from network equipment manufacturers increased by $132.7 million  as a result of higher unit sales from the market recovery and the related inventory normalization. The decrease in Industrial Tech net revenue is primarily due to a decline in unit sales of our imaging and sensing products due to higher market competition in the consumer end-market for these products, which was partially offset by a $17.5 million increase in our laser products due to higher market demand.
+During our fiscal years 2025, 2024 and 2023, net revenue generated from a single customer which represented 10% or greater of total net revenue is summarized as follows:
+Years Ended
+June 28, 2025
+June 29, 2024
+July 1, 2023
+Customer A
+16.0 
+%
+11.4 
+%
+15.3 
+%
+Customer B
+15.4 
+%
+18.9 
+%
+*
+Customer C
+*
+*
+12.1 
+%
+Customer D
+*
+*
+10.5 
+%
+*Represents less than 10% of total net revenue
+51
+Revenue by Region
+We operate in three geographic regions: Americas, Asia-Pacific, and EMEA (Europe, Middle East, and Africa). Net revenue is assigned to the geographic region and country where our product is initially shipped to. For example, certain customers may request shipment of our product to a contract manufacturer in one country, which may differ from the location of their end customers. The following table presents net revenue by the three geographic regions we operate in and net revenue from countries that represented 10% or more of our total net revenue
+(in millions, except percentage data):
+ 
+Years Ended
+ 
+June 28, 2025
+June 29, 2024
+July 1, 2023
+Net revenue:
+Americas:
+United States
+$
+312.3 
+19.0 
+%
+$
+356.1 
+26.2 
+%
+$
+241.3 
+13.7 
+%
+Mexico
+148.5 
+9.0 
+91.7 
+6.7 
+180.0 
+10.2 
+Other Americas
+20.1 
+1.2 
+3.4 
+0.3 
+9.3 
+0.5 
+Total Americas
+$
+480.9 
+29.2 
+%
+$
+451.2 
+33.2 
+%
+$
+430.6 
+24.4 
+%
+Asia-Pacific:
+Thailand
+$
+291.8 
+17.7 
+%
+$
+183.8 
+13.5 
+%
+$
+269.0 
+15.2 
+%
+Hong Kong
+398.6 
+24.2 
+261.9 
+19.3 
+246.7 
+14.0 
+South Korea
+32.4 
+2.0 
+75.2 
+5.5 
+170.2 
+9.6 
+Japan
+78.3 
+4.8 
+84.6 
+6.2 
+179.5 
+10.2 
+Other Asia-Pacific
+199.5 
+12.2 
+174.3 
+12.9 
+276.3 
+15.6 
+Total Asia-Pacific
+$
+1,000.6 
+60.9 
+%
+$
+779.8 
+57.4 
+%
+$
+1,141.7 
+64.6 
+%
+EMEA
+$
+163.5 
+9.9 
+%
+$
+128.2 
+9.4 
+%
+$
+194.7 
+11.0 
+%
+Total net revenue
+$
+1,645.0 
+100.0%
+$
+1,359.2 
+100.0%
+$
+1,767.0 
+100.0%
+During fiscal years 2025, 2024 and 2023, net revenue from customers outside the United States, based on customer shipping location, represented
+
+81.0%
+, 73.8%
+ and 86.3% of net revenue, respectively.
+Our net revenue is primarily denominated in U.S. dollars, including our net revenue from customers outside the United States as presented above. We expect revenue from customers outside of the United States to continue to be an important part of our overall net revenue and a focus for net revenue growth opportunities. However, regulatory and enforcement actions by the United States and other governmental agencies, as well as changes in tax and trade policies and tariffs, have impacted and may continue to adversely impact net revenue from customers outside the United States.
+Gross Margin
+Gross margin in fiscal year 2025 increased to 28.0% from 18.5% in fiscal year 2024. The increase was driven by a $20.8 million reduction in excess and obsolete inventory charges during fiscal year 2025, primarily as a result of the U.S. trade restrictions imposed during fiscal year 2024 whereby we were no longer able to sell certain products to one of our customers. In addition, costs incurred related to the acquisition of Cloud Light, including integration costs and amortization of inventory fair value adjustments were $23.5 million lower compared to the prior year. In fiscal year 2024, we also incurred $20.7 million of higher excess capacity charges as a result of our manufacturing synergy plans in connection with the NeoPhotonics integration, transferring product lines out of China due to U.S. export restrictions, and a drop in demand due to customers actively working to reduce their elevated inventory levels. Our Cloud & Networking gross profit increased year over year primarily due to higher unit sales of our products for both cloud and AI/ML applications. Our Industrial Tech segment gross margin decreased year over year primarily due to lower revenue, mainly from sales of imaging and sensing products.
+The markets in which we sell products are undergoing product, architectural and business model transitions, have high customer concentrations, are highly competitive, are price sensitive and/or are affected by customer seasonality and have variant buying patterns. We expect these factors to result in variability of our gross margin, and our gross margin may be subject to increasing downward pressure due to these factors.
+52
+Segment Profit
+Years Ended
+June 28, 2025
+June 29, 2024
+July 1, 2023
+Cloud & Networking
+$
+264.5 
+$
+124.5 
+$
+313.2 
+Industrial Tech
+12.1 
+25.1 
+152.7 
+Cloud & Networking segment profit
+ increased
+ by
+$140.0 million
+, or
+112.4%
+, during
+fiscal year 2025
+ as compared to
+fiscal year 2024
+
+primarily due to higher sales of our products for both cloud and AI/ML applications. Industrial Tech segment profit decreased by $13.0 million, or 51.8%,
+during
+fiscal year 2025
+ as compared to
+fiscal year 2024 primarily due to lower revenue, mainly from lower sales of imaging and sensing products due to increasing competition and share normalization
+.
+Research and Development (“R&D”)
+R&D expense was approximately flat in fiscal year 2025 as compared to fiscal year 2024. Salary expenses were lower by $10.0 million as a result of lower headcount and restructuring actions taken in the past, primarily due to the discontinuation of our in-house development of coherent DSPs and Radio Frequency Integrated Circuits (“RFICs”). The decrease was offset by higher variable compensation due to higher profit levels, which increased our cash incentive compensation by $5.3 million, and increased our stock-based incentive compensation by $5.0 million.
+
+We believe that continuing our investments in R&D is critical to attaining our strategic objectives. We plan to continue to invest in R&D and new products that we believe will further differentiate us in the marketplace.
+Selling, General and Administrative (“SG&A”)
+SG&A expense increased by $37.5 million, or 12.1%, during fiscal year 2025 as compared to fiscal year 2024, primarily driven by an increase of $38.0 million in stock-based compensation driven by equity award modifications and $5.2 million of severance payments, both primarily due to the resignation of our former Chief Executive Officer, as well as an increase of $8.1 million related to cash incentive compensation due to the higher levels of revenue and profit. This was partially offset by a $13.0 million decrease in salary expenses as a result of recent restructuring actions and a $2.8 million of reduction in integration related costs.
+
+       From time-to-time, we incur expenses that are not part of our ordinary operations, such as mergers and acquisition-related and litigation expenses, which generally increase our SG&A expenses and potentially impact our profitability expectations in any particular period.
+Restructuring and Related Charges
+We have initiated various strategic restructuring events primarily intended to reduce costs, consolidate our operations, rationalize the manufacturing of our products and align our business in response to market conditions and as a result of recent acquisitions.
+During fiscal year 2025,
+we recorded restructuring and related charges of $22.8 million, This included $14.6 million of assets written off, including property, plant and equipment, right-of-use assets, prepayments and other current assets as well as charges for other contractual commitments associated with site closures, and $4.3 million of employee severance primarily due to efforts to consolidate our sites and focus on other market opportunities, including cloud and AI markets. In addition, we also recorded $3.0 million of charges related to the discontinuation of our in-house development of coherent Digital Signal Processors (“DSPs”) and Radio Frequency Integrated Circuits (“RFICs”).
+Refer to “Note 12. Restructuring and Related Charges” to the consolidated financial statements.
+Gain on Sale of Facility
+On December 17, 2024, we entered into an agreement to sell our assets in an entity in Shenzhen, China. On March 5, 2025, we completed the sale and received net proceeds of $47.8 million, which was net of cash of $17.6 million and direct selling costs of $1.1 million. The net assets sold consisted primarily of building, building improvements and land rights as of December 17, 2024 with a net carrying value of $12.9 million, and were used by the Cloud and Networking segment for manufacturing and research and development activities. As a result, we recognized a gain on sale of facility of $34.9 million, which was recorded in our consolidated statements of operations for the year ended June 28, 2025. We paid $4.4 million of withholding taxes on this sale transaction, which is recorded as part of the income tax provision for the year ended June 28, 2025. We also incurred $0.7 million of indirect selling expenses related to this transaction, which was recorded as part of selling, general and administrative expenses in our consolidated statements of operations for the year ended June 28, 2025.
+53
+Refer to “Note 7. Balance Sheet Details” to the consolidated financial statements.
+Interest Expense
+Our interest expense is as follows for the years presented (
+in millions
+):
+Years Ended
+June 28, 2025
+June 29, 2024
+July 1, 2023
+Interest expense
+$
+22.2 
+$
+33.8 
+$
+35.5 
+Interest expense is primarily driven by interest on our convertible notes and term loans.
+I
+nterest expense in fiscal year 2025 decreased by $11.6 million, or 34.3%, as compared to fiscal year 2024, primarily due to the repayment in full of our 0.25% convertible senior notes due in 2024 (the “2024 Notes”) upon maturity in March 2024.
+Other Income, Net
+The components of other income, net are as follows for the years presented (
+in millions
+):
+Years Ended
+June 28, 2025
+June 29, 2024
+July 1, 2023
+Foreign exchange gains (losses), net
+$
+(4.2)
+$
+0.8 
+$
+7.0 
+Interest and investment income
+34.4 
+61.3 
+40.8 
+Other income (expense), net
+— 
+— 
+1.0 
+Other income, net
+$
+30.2 
+$
+62.1 
+$
+48.8 
+Other income, net in fiscal year 2025
+decreased by $31.9 million as compared to fiscal year 2024 primarily due to $26.9 million of decrease in interest and investment income driven by lower short term investment balances, as we used cash for the Cloud Light acquisition as well as the repayment of the 2024 Notes in March 2024. This was offset by an increase in net foreign exchange loss of $5.0 million as the U.S. dollars weakened against across all major currencies, including the Japanese Yen, which is the underlying currency for our term loans.
+Provision for Income Taxes
+Years Ended
+(in millions)
+June 28, 2025
+June 29, 2024
+July 1, 2023
+Income tax (benefit) provision
+$
+(198.0)
+$
+140.8 
+$
+29.2 
+Our provision for income taxes for fiscal year 2025 differs from the 21% U.S. statutory rate primarily due to the income tax benefit associated with the release of a valuation allowance on our UK deferred tax assets, earnings of our foreign subsidiaries being taxed at rates that differ from the U.S. statutory rate, partially offset by the income tax expense from U.S. income inclusions from Subpart F and GILTI, non-deductible stock-based compensation and changes in unrecognized tax benefits.
+Our provision for incomes taxes may be impacted by changes in the geographic mix of earnings, acquisitions, changes in the realizability of deferred tax assets, changes in our uncertain tax positions, the results of income tax audits, settlements with tax authorities, the expiration of statutes of limitations, the implementation of tax planning strategies, tax rulings, court decisions, and changes in tax laws and regulations.  It is also possible that significant negative or positive evidence may become available that causes us to change our conclusion regarding whether a valuation allowance is needed on certain of our deferred tax assets, which would affect our income tax provision in the period of such change.
+We also evaluate changes to regulations and requirements in the international jurisdictions where we conduct our business. For additional information, refer to Part II

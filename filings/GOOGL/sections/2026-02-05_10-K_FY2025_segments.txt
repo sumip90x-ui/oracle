@@ -1,0 +1,110 @@
+=== FILING DATE: 2026-02-05 ===
+=== PERIOD COVERED: 2025-12-31 ===
+=== SOURCE: 10-K filed 2026-02-05 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: GOOGL ===
+
+13,305 
+$
+253.20 
+$
+255.03 
+14,146 
+$
+71,231 
+November 1 - 30
+209 
+5,885 
+$
+286.00 
+$
+281.46 
+6,094 
+$
+69,503 
+December 1 - 31
+0 
+0 
+$
+0.00 
+$
+0.00 
+0 
+$
+69,503 
+Total
+1,050 
+19,190 
+20,240 
+(1)
+    
+In April 2024, the company's Board of Directors authorized a $70.0 billion share repurchase program for its Class A and Class C shares.
+In April 2025, the company's Board of Directors authorized an additional
+$70.0 billion
+ share repurchase program for its Class A and Class C shares.
+
+Repurchases are being executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase programs do not have an expiration date. For additional information related to share repurchases, see
+Note 11 o
+f the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+(2)
+    
+Average price paid per share includes costs associated with the repurchases.
+25.
+Table of Contents
+Alphabet Inc.
+Stock Performance Graphs
+The graph below matches Alphabet Inc. Class A's cumulative five-year total stockholder return on common stock with the cumulative total returns of the S&P 500 index, the NASDAQ Composite index, and the RDG Internet Composite index. The graph tracks the performance of a $100 investment in our common stock and in each index (with the reinvestment of all dividends) from December 31, 2020, to December 31, 2025. The returns shown are based on historical results and are not intended to suggest future performance.
+COMPARISON OF CUMULATIVE 5-YEAR TOTAL RETURN*
+ALPHABET INC. CLASS A COMMON STOCK
+Among Alphabet Inc., the S&P 500 Index, the
+NASDAQ Composite Index, and the RDG Internet Composite Index
+*$100 invested on December 31, 2020, in stock or index, including reinvestment of dividends.
+Copyright
+©
+ 2026 S&P, a division of The McGraw-Hill Companies Inc. All rights reserved.
+26.
+Table of Contents
+Alphabet Inc.
+The graph below matches Alphabet Inc. Class C's cumulative five-year total stockholder return on capital stock with the cumulative total returns of the S&P 500 index, the NASDAQ Composite index, and the RDG Internet Composite index. The graph tracks the performance of a $100 investment in our Class C capital stock and in each index (with the reinvestment of all dividends) from December 31, 2020, to December 31, 2025. The returns shown are based on historical results and are not intended to suggest future performance.
+COMPARISON OF CUMULATIVE 5-YEAR TOTAL RETURN*
+ALPHABET INC. CLASS C CAPITAL STOCK
+Among Alphabet Inc., the S&P 500 Index, the
+NASDAQ Composite Index, and the RDG Internet Composite Index
+*$100 invested on December 31, 2020, in stock or in index, including reinvestment of dividends.
+Copyright
+©
+ 2026 S&P, a division of The McGraw-Hill Companies Inc. All rights reserved.
+ITEM 6.
+[Reserved]
+27.
+Table of Contents
+Alphabet Inc.
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Please read the following discussion and analysis of our financial condition and results of operations together with “Note about Forward-Looking Statements,” Part I, Item 1 "Business," Part I, Item 1A "Risk Factors," and our consolidated financial statements and related notes included under Item 8 of this Annual Report on Form 10-K.
+The following section generally discusses 2025 results compared to 2024 results. Discussion of 2024 results compared to 2023 results to the extent not included in this report can be found in Item 7 of our 2024 Annual Report on Form 10-K.
+Understanding Alphabet’s Financial Results
+Alphabet is a collection of businesses — the largest of which is Google. We report Google in two segments, Google Services and Google Cloud, and all non-Google businesses collectively as Other Bets. Supporting these businesses, we have centralized certain AI-related research and development focused on advanced research in AI and developing the frontier models that serve our businesses, which is reported in Alphabet-level activities. For further details on our segments, see Part I, Item 1 Business and
+Note 15
+ of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Trends in Our Business and Financial Effect
+The following long-term trends have contributed to the results of our consolidated operations, and we anticipate that they will continue to affect our future results:
+•
+As we continue to grow our business and meet the evolving behaviors and needs of our users and customers, our revenue growth and mix along with our cost and margin profiles are being influenced by a number of factors, including:
+Expanded AI Offerings in our Products and Services:
+The continuing evolution of the online world has contributed to the growth of our business. We expect that this evolution, including user engagement with AI products and services, will continue to benefit our business and our revenues. As we continue to incorporate AI into our products and services, such as with AI Overviews and AI Mode in Search, and with enterprise AI solutions on our Google Cloud Platform, we may monetize differently than our historical consumer and enterprise offerings which could affect revenue growth rates and margin trends. When developing new products and services we generally focus first on user experience and then on monetization. At the same time, we face increasing competition, including from other developers and providers of AI products and services, which may affect our revenues.
+Increasing Revenues Beyond Advertising:
+Revenues from cloud, consumer subscriptions, platforms, and devices, which may have differing characteristics than our advertising revenues, have grown over time. Certain of these revenues have been growing at a rate higher than our advertising revenues, becoming a larger percentage of our consolidated revenues, and we expect this trend to continue. The margins on these revenues vary significantly and are generally lower than the margins on our advertising revenues.
+Increased Investment in Technical Infrastructure:
+ We continue to invest in capital expenditures as we scale our technical infrastructure, in particular for AI, to meet the demand of our users and enterprise customers and to support research internally. We invested heavily in capital expenditures in 2025 and in 2026, we expect to significantly increase
+, relative to 2025, our i
+nvestment in our technical infrastructure, including servers and network equipment, and data centers. The costs associated with operating our technical infrastructure - depreciation, energy, equipment, and network capacity - are expected to significantly increase as developing and serving AI offerings require more compute power than our historical consumer and enterprise offerings. While our technical infrastructure costs increase, we expect to continue to drive efficiencies in our data centers, for example, through the design of our AI models and our TPU and GPU-based technical infrastructure.
+Continued Investment in Intellectual Property through R&D and Acquisitions:
+We continue to make significant research and development investments in areas of strategic focus as we seek to develop new, innovative offerings, and improve our existing offerings across our businesse
+s. A
+cquisitions and strategic investments remain important elements in our use of capital and contribute to the breadth and depth of our offerings, expand our expertise in engineering and other functional areas, and build strong partnerships around strategic initiatives.
+Traffic Acquisition Costs Growth and Rate Changes:
+
+We expect traffic acquisition costs ("TAC") paid to our distribution partners and Google Network partners to increase as our advertising revenues grow. Our overall TAC as a percentage of our advertising revenues ("TAC rate") has been decreasing primarily due to a revenue mix
+28.
+Table

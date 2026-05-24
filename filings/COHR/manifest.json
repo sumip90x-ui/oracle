@@ -1,0 +1,560 @@
+{
+  "ticker": "COHR",
+  "company_name": "COHERENT CORP.",
+  "cik": "0000820318",
+  "sic": "3827",
+  "industry": "Optical Instruments & Lenses",
+  "fiscal_year_end": "0630",
+  "last_checked": "2026-05-16T22:45:19.674590",
+  "newest_filing_date": "2026-05-13",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-06",
+      "oldest_included": "2025-05-28",
+      "count": 11,
+      "files": [
+        {
+          "filing_date": "2026-05-06",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2026-05-06_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2026-04-28",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2026-04-28_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2026-03-02",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2026-03-02_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-02-04",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2026-02-04_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-12-16",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2025-12-16_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2025-11-21_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2025-11-17_8-K_personnel.txt"
+        },
+        {
+          "filing_date": "2025-11-05",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2025-11-05_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-09-26",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2025-09-26_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-08-13",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2025-08-13_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-05-28",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/COHR/8-K/2025-05-28_8-K_personnel.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-13",
+      "count": 64,
+      "transactions": [
+        {
+          "filing_date": "2026-05-13",
+          "person": "Howard Xia",
+          "type": "OTHER",
+          "shares": "000",
+          "price": "21.67"
+        },
+        {
+          "filing_date": "2026-05-13",
+          "person": "Sherri Luther",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "372.96"
+        },
+        {
+          "filing_date": "2026-04-24",
+          "person": "Sherri Luther",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "351"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "Howard Xia",
+          "type": "OTHER",
+          "shares": "000",
+          "price": "21.67"
+        },
+        {
+          "filing_date": "2026-03-12",
+          "person": "Julie Eng",
+          "type": "SELL",
+          "shares": "1454",
+          "price": "258.18"
+        },
+        {
+          "filing_date": "2026-03-11",
+          "person": "STEPHEN SKAGGS",
+          "type": "SELL",
+          "shares": "3523",
+          "price": "243.1309"
+        },
+        {
+          "filing_date": "2026-03-09",
+          "person": "Enrico Digirolomo",
+          "type": "SELL",
+          "shares": "911",
+          "price": "241.5"
+        },
+        {
+          "filing_date": "2026-03-04",
+          "person": "Julie Eng",
+          "type": "SELL",
+          "shares": "2792",
+          "price": "291.4205"
+        },
+        {
+          "filing_date": "2026-02-17",
+          "person": "Sherri Luther",
+          "type": "SELL",
+          "shares": "4000",
+          "price": "217.7386"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "Howard Xia",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "SANDEEP VIJ",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "MICHELLE STERLING",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "STEPHEN SKAGGS",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "SHAKER SADASIVAM",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "Elizabeth Patrick",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "Lisa Graves",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "Patricia Hatter",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "DAVID MOTLEY",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "Michael Dreyer",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "Enrico Digirolomo",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-12",
+          "person": "JOSEPH CORASANTI",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "JOSEPH CORASANTI",
+          "type": "SELL",
+          "shares": "5000",
+          "price": "196.74"
+        },
+        {
+          "filing_date": "2025-12-03",
+          "person": "MICHELLE STERLING",
+          "type": "SELL",
+          "shares": "000",
+          "price": "164.5111"
+        },
+        {
+          "filing_date": "2025-12-03",
+          "person": "Ilaria Mocciaro",
+          "type": "SELL",
+          "shares": "377",
+          "price": "162.71"
+        },
+        {
+          "filing_date": "2025-12-03",
+          "person": "Howard Xia",
+          "type": "OTHER",
+          "shares": "000",
+          "price": "21.67"
+        },
+        {
+          "filing_date": "2025-12-01",
+          "person": "Howard Xia",
+          "type": "OTHER",
+          "shares": "000",
+          "price": "21.67"
+        },
+        {
+          "filing_date": "2025-11-25",
+          "person": "Enrico Digirolomo",
+          "type": "SELL",
+          "shares": "831",
+          "price": "134.85"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "STEPHEN SKAGGS",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "150"
+        },
+        {
+          "filing_date": "2025-11-17",
+          "person": "Michael Dreyer",
+          "type": "SELL",
+          "shares": "1570",
+          "price": "144.875"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "CAPITAL BAIN",
+          "type": "OTHER",
+          "shares": "500000",
+          "price": "143.37"
+        },
+        {
+          "filing_date": "2025-11-12",
+          "person": "JOSEPH CORASANTI",
+          "type": "OTHER",
+          "shares": "700",
+          "price": "35.25"
+        },
+        {
+          "filing_date": "2025-11-10",
+          "person": "GIOVANNI BARBAROSSA",
+          "type": "SELL",
+          "shares": "60706",
+          "price": "160"
+        },
+        {
+          "filing_date": "2025-10-31",
+          "person": "GIOVANNI BARBAROSSA",
+          "type": "OTHER",
+          "shares": "4640",
+          "price": "35.25"
+        },
+        {
+          "filing_date": "2025-10-31",
+          "person": "STEPHEN SKAGGS",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "140"
+        },
+        {
+          "filing_date": "2025-10-28",
+          "person": "STEPHEN SKAGGS",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "130"
+        },
+        {
+          "filing_date": "2025-10-23",
+          "person": "Robert Beard",
+          "type": "OTHER",
+          "shares": "N/A",
+          "price": "120.2"
+        },
+        {
+          "filing_date": "2025-10-14",
+          "person": "Sherri Luther",
+          "type": "OTHER",
+          "shares": "N/A",
+          "price": "111.1"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "STEPHEN PAGLIUCA",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Sherri Luther",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Robert Beard",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Julie Eng",
+          "type": "BUY",
+          "shares": "328",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "JAMES ANDERSON",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Ilaria Mocciaro",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "GIOVANNI BARBAROSSA",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "JOSEPH CORASANTI",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "SANDEEP VIJ",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "STEPHEN SKAGGS",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "SHAKER SADASIVAM",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Patricia Hatter",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "MICHELLE STERLING",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Michael Dreyer",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Lisa Graves",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Howard Xia",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Enrico Digirolomo",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "DAVID MOTLEY",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-09-02",
+          "person": "Elizabeth Patrick",
+          "type": "BUY",
+          "shares": "N/A",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-14",
+          "person": "STEPHEN SKAGGS",
+          "type": "SELL",
+          "shares": "2000",
+          "price": "122.23"
+        },
+        {
+          "filing_date": "2025-07-18",
+          "person": "Christopher Koeppen",
+          "type": "SELL",
+          "shares": "500",
+          "price": "94.594"
+        },
+        {
+          "filing_date": "2025-06-16",
+          "person": "Howard Xia",
+          "type": "OTHER",
+          "shares": "000",
+          "price": "17.84"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "Howard Xia",
+          "type": "OTHER",
+          "shares": "000",
+          "price": "17.84"
+        },
+        {
+          "filing_date": "2025-06-05",
+          "person": "SHAKER SADASIVAM",
+          "type": "OTHER",
+          "shares": "240",
+          "price": "21.67"
+        },
+        {
+          "filing_date": "2025-06-04",
+          "person": "JAMES ANDERSON",
+          "type": "OTHER",
+          "shares": "N/A",
+          "price": "76.78"
+        },
+        {
+          "filing_date": "2025-05-29",
+          "person": "Lisa Graves",
+          "type": "SELL",
+          "shares": "200",
+          "price": "79.6477"
+        },
+        {
+          "filing_date": "2025-05-23",
+          "person": "Howard Xia",
+          "type": "OTHER",
+          "shares": "000",
+          "price": "17.84"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-05-06",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q2FY2025",
+        "Q1FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/COHR/10-Q/2026-05-06_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/COHR/10-Q/2026-02-04_10-Q_Q2FY2025.txt",
+        "/home/sumith/ORACLE/filings/COHR/10-Q/2025-11-05_10-Q_Q1FY2025.txt"
+      ],
+      "newest_period": "2025-09-30"
+    },
+    "10-K": {
+      "newest_filing_date": "2025-08-15",
+      "period_covered": "2025-06-30",
+      "local_path": "/home/sumith/ORACLE/filings/COHR/10-K/2025-08-15_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2025-10-02",
+      "local_path": "/home/sumith/ORACLE/filings/COHR/DEF14A/2025-10-02_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/COHR/sections/2025-08-15_10-K_FY2025_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/COHR/sections/2026-05-06_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/COHR/sections/2025-11-05_10-Q_Q1FY2025_item8_financials.txt",
+    "newest_footnotes": "/home/sumith/ORACLE/filings/COHR/sections/2025-11-05_10-Q_Q1FY2025_footnotes.txt",
+    "newest_business": "/home/sumith/ORACLE/filings/COHR/sections/2026-05-06_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/COHR/8-K/2026-05-06_8-K_earnings.txt"
+  },
+  "failed_downloads": []
+}

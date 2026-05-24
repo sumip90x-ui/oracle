@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-28
+Transaction Date: 2025-07-24
+Person: Aujla Sandeep — EVP and CFO
+Type: BUY
+Shares: 28290 at $0
+Shares After: 8923
+=== TICKER: INTU ===
+===

@@ -1,0 +1,8 @@
+=== FILING DATE: 2025-08-01 ===
+=== PERIOD COVERED: 2025-06-28 ===
+=== SOURCE: 10-Q filed 2025-08-01 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: AAPL ===
+
+Item 7A
+, “Quantitative and Qualitative Disclosures About Market Risk” of the 2024 Form 10-K.

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-14
+Transaction Date: 2025-08-13
+Person: Hennessy John L. — Insider
+Type: SELL
+Shares: 600 at $200.58
+Shares After: 2820
+=== TICKER: GOOGL ===
+===

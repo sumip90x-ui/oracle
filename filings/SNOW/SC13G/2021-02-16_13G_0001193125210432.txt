@@ -1,0 +1,4048 @@
+=== FILING DATE: 2021-02-16 ===
+=== PERIOD COVERED: 2021-02-16 ===
+=== SOURCE: SC13G filed 2021-02-16 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: SNOW ===
+
+
+
+SC 13G
+
+1
+
+d128401dsc13g.htm
+
+SC 13G
+
+
+SC 13G
+
+
+ 
+
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+
+ 
+
+
+ 
+
+SCHEDULE 13G
+
+
+(Rule 13d-102)
+
+
+Information to be Included in Statements Filed Pursuant to § 240.13d-1(b), (c) and (d) and
+
+
+Amendments Thereto Filed Pursuant to § 240.13d-2
+
+
+Under the Securities Exchange Act of 1934
+
+
+(Amendment No.     )*
+
+ 
+
+
+ 
+
+Snowflake
+Inc.
+
+(Name of Issuer)
+
+
+Class A Common Stock, par value $0.0001 per share
+
+
+(Title of Class of Securities)
+
+
+833445109**
+
+(CUSIP
+Number)
+
+December 31, 2020
+
+
+(Date of Event Which Requires Filing of this Statement)
+
+ 
+
+
+ 
+
+Check the
+appropriate box to designate the rule pursuant to which this schedule is filed:
+
+☐ Rule 13d-1(b)
+
+
+☐ Rule 13d-1(c)
+
+
+☒ Rule 13d-1(d)
+
+ 
+
+
+*
+
+
+
+The remainder of this cover page shall be filled out for a reporting person’s initial filing on this form
+with respect to the subject class of securities, and for any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.
+
+
+ 
+
+
+**
+
+
+
+This CUSIP number applies to the Issuer’s Class A Common Stock. Each share of Class B Common
+Stock is exchangeable for 1 share of Class A Common Stock.
+
+The information required in the remainder of this cover
+page shall not be deemed to be “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other
+provisions of the Act (however, see the Notes).
+
+ 
+
+ 
+
+
+ 
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SEQUOIA CAPITAL GROWTH FUND III, LP (“SEQUOIA CAPITAL GROWTH FUND III”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+
+  DELAWARE
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  3,154,816, of which 3,154,816 are Class B common stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  3,154,816, of which 3,154,816 are Class B common
+stock
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  3,154,816
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  5.9%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SEQUOIA CAPITAL U.S. GROWTH FUND VI, L.P. (“SEQUOIA CAPITAL U.S. GROWTH FUND VI”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  544,464, of which 544,464 are Class B common stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  544,464, of which 544,464 are Class B common
+stock
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  544,464
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  1.1%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND, L.P. (“SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  5,944, of which 5,944 are Class B common stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  5,944, of which 5,944 are Class B common
+stock
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  5,944
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  Less than 0.1%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SEQUOIA CAPITAL U.S. GROWTH FUND VII, L.P. (“SEQUOIA CAPITAL U.S. GROWTH FUND VII”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  6,291,460, of which 6,291,460 are Class B common stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  6,291,460, of which 6,291,460 are Class B common
+stock
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  6,291,460
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  11.0%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND, L.P. (“SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  409,424, of which 409,424 are Class B common stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  409,424, of which 409,424 are Class B common
+stock
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  409,424
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  0.8%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS, L.P. (“SEQUOIA CAPITAL GLOBAL GROWTH FUND III – ENDURANCE
+PARTNERS”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  9,994,488, of which 9,994,488 are Class B common stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  9,994,488, of which 9,994,488 are Class B common
+stock
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  9,994,488
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  16.5%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE PARTNERS PRINCIPALS FUND, L.P. (“SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE
+PARTNERS PRINCIPALS FUND”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+  218,560, of which 218,560 are Class B common stock
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+  218,560, of which 218,560 are Class B common
+stock
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  218,560
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  0.4%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SCGF III MANAGEMENT, LLC (“SCGF III MANAGEMENT”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+
+  DELAWARE
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+3,154,816 shares, of which 3,154,816 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL GROWTH FUND III. The Managing Member of SEQUOIA CAPITAL GROWTH FUND III is SCGF III MANAGEMENT.
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+3,154,816 shares, of which 3,154,816 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL GROWTH FUND III. The Managing Member of SEQUOIA CAPITAL GROWTH FUND III is SCGF III MANAGEMENT.
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  3,154,816
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  5.9%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  OO
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SC U.S. GROWTH VI MANAGEMENT, L.P. (“SC U.S. GROWTH VI MANAGEMENT”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+550,408 shares, of which 544,464 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH FUND VI and 5,944 shares of Class B common stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND. The General Partner of each of SEQUOIA CAPITAL U.S. GROWTH FUND VI
+and SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND is SC U.S. GROWTH VI MANAGEMENT.
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+550,408 shares, of which 544,464 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH FUND VI and 5,944 shares of Class B common stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND. The General Partner of each of SEQUOIA CAPITAL U.S. GROWTH FUND VI
+and SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND is SC U.S. GROWTH VI MANAGEMENT.
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  550,408
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  1.1%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SC U.S. GROWTH VII MANAGEMENT, LLC (“SC U.S. GROWTH VII MANAGEMENT”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+6,700,884 shares, of which 6,291,460 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH FUND VII and 409,424 shares of Class B common stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND. The General Partner of each of SEQUOIA CAPITAL U.S. GROWTH FUND
+VII and SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND is SC U.S. GROWTH VII MANAGEMENT.
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+6,700,884 shares, of which 6,291,460 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH FUND VII and 409,424 shares of Class B common stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND. The General Partner of each of SEQUOIA CAPITAL U.S. GROWTH FUND
+VII and SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND is SC U.S. GROWTH VII MANAGEMENT.
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  6,700,884
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  11.7%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  OO
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+SCGGF III –ENDURANCE PARTNERS MANAGEMENT, L.P. (“SCGGF III—ENDURANCE PARTNERS MANAGEMENT”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+10,213,048 shares, of which 9,994,488 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and 218,560 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE PARTNERS PRINCIPALS FUND. The General
+Partner of each of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND is SCGGF III –ENDURANCE PARTNERS MANAGEMENT.
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+10,213,048 shares, of which 9,994,488 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and 218,560 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE PARTNERS PRINCIPALS FUND. The General
+Partner of each of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND is SCGGF III –ENDURANCE PARTNERS
+MANAGEMENT.
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  10,213,048
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  16.8%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  PN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  SC US (TTGP), LTD. (“SC US (TTGP)”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+  CAYMAN
+ISLANDS
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+17,464,340 shares, of which 544,464 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH FUND VI, 5,944 shares of Class B common stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND, 6,291,460 shares of Class B common stock are directly owned by
+SEQUOIA U.S. GROWTH FUND VII, 409,424 shares of Class B common stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND, 9,994,488 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND
+III –ENDURANCE PARTNERS and 218,560 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE PARTNERS PRINCIPALS FUND. The General Partner of each of SEQUOIA CAPITAL U.S. GROWTH FUND VI and
+SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND is SC U.S. GROWTH VI MANAGEMENT. The General Partner of each of SEQUOIA CAPITAL U.S. GROWTH FUND VII and SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND is SC U.S. GROWTH VII MANAGEMENT. The General
+Partner of each of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE PARTNERS PRINCIPALS FUND is SCGF III –ENDURANCE PARTNERS MANAGEMENT. SC US TTGP is the General Partner of
+each of SC U.S. GROWTH VI MANAGEMENT and SCGGF III –ENDURANCE PARTNERS MANAGEMENT, and is the Managing Member of SC U.S. GROWTH VII MANAGEMENT.
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+17,464,340 shares, of which 544,464 shares of Class B common
+stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH FUND VI, 5,944 shares of Class B common stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND, 6,291,460 shares of Class B common stock are directly owned by
+SEQUOIA U.S. GROWTH FUND VII, 409,424 shares of Class B common stock are directly owned by SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND, 9,994,488 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND
+III –ENDURANCE PARTNERS and 218,560 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE PARTNERS PRINCIPALS FUND. The General Partner of each of SEQUOIA CAPITAL U.S. GROWTH FUND VI and
+SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND is SC U.S. GROWTH VI MANAGEMENT. The General Partner of each of SEQUOIA CAPITAL U.S. GROWTH FUND VII and SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND is SC U.S. GROWTH VII MANAGEMENT. The General
+Partner of each of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE PARTNERS PRINCIPALS FUND is SCGF III –ENDURANCE PARTNERS MANAGEMENT. SC US TTGP is the General Partner of
+each of SC U.S. GROWTH VI MANAGEMENT and SCGGF III –ENDURANCE PARTNERS MANAGEMENT, and is the Managing Member of SC U.S. GROWTH VII MANAGEMENT.
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  17,464,340
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  25.6%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  OO
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  DOUGLAS LEONE (“DL”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+
+  USA
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+10,213,048, of which 9,994,488 shares of Class B common stock
+are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and 218,560 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND. The General
+Partner of each of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND is SCGGF III –ENDURANCE PARTNERS MANAGEMENT. The General Partner of SCGGF III
+–ENDURANCE PARTNERS MANAGEMENT is SC US (TTGP). The directors and stockholders of SC US (TTGP) who exercise voting and investment discretion with respect to the shares held by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and
+SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND are Messrs. DL and RB.
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+10,213,048, of which 9,994,488 shares of Class B common stock
+are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and 218,560 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND. The General
+Partner of each of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND is SCGGF III –ENDURANCE PARTNERS MANAGEMENT. The General Partner of SCGGF III
+–ENDURANCE PARTNERS MANAGEMENT is SC US (TTGP). The directors and stockholders of SC US (TTGP) who exercise voting and investment discretion with respect to the shares held by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and
+SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND are Messrs. DL and RB.
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  10,213,048
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  16.8%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  IN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+  1  
+
+
+ 
+
+
+  NAME OF REPORTING PERSON
+
+ 
+
+
+  ROELOF BOTHA (“RB”)
+
+
+  2
+
+
+ 
+
+
+
+  CHECK THE APPROPRIATE BOX
+IF A MEMBER OF A GROUP
+
+  (a)  ☐        (b)  ☐
+
+
+ 
+
+
+  3
+
+
+ 
+
+
+
+  SEC USE ONLY
+
+
+ 
+
+
+  4
+
+
+ 
+
+
+
+  CITIZENSHIP OR PLACE OF
+ORGANIZATION
+
+ 
+
+
+  USA
+
+
+
+NUMBER OF
+
+
+SHARES
+
+ BENEFICIALLY 
+
+
+OWNED BY
+
+EACH
+
+
+REPORTING
+
+PERSON
+
+
+WITH
+
+
+  
+
+
+5  
+
+
+  
+
+
+
+  SOLE VOTING POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+6
+
+
+  
+
+
+
+  SHARED VOTING POWER
+
+
+ 
+
+10,213,048, of which 9,994,488 shares of Class B common stock
+are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and 218,560 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND. The General
+Partner of each of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND is SCGGF III –ENDURANCE PARTNERS MANAGEMENT. The General Partner of SCGGF III
+–ENDURANCE PARTNERS MANAGEMENT is SC US (TTGP). The directors and stockholders of SC US (TTGP) who exercise voting and investment discretion with respect to the shares held by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and
+SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND are Messrs. DL and RB.
+
+
+  
+
+
+7
+
+
+  
+
+
+
+  SOLE DISPOSITIVE POWER
+
+
+ 
+
+  0
+
+
+  
+
+
+8
+
+
+  
+
+
+
+  SHARED DISPOSITIVE POWER
+
+
+ 
+
+10,213,048, of which 9,994,488 shares of Class B common stock
+are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and 218,560 shares of Class B common stock are directly owned by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND. The General
+Partner of each of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND is SCGGF III –ENDURANCE PARTNERS MANAGEMENT. The General Partner of SCGGF III
+–ENDURANCE PARTNERS MANAGEMENT is SC US (TTGP). The directors and stockholders of SC US (TTGP) who exercise voting and investment discretion with respect to the shares held by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and
+SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND are Messrs. DL and RB.
+
+
+  9  
+
+
+ 
+
+
+  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+
+ 
+
+
+  10,213,048
+
+
+10
+
+
+ 
+
+
+
+  CHECK BOX IF THE AGGREGATE
+AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+
+ 
+
+  ☐
+
+
+11
+
+
+ 
+
+
+
+  PERCENT OF CLASS
+REPRESENTED BY AMOUNT IN ROW 9
+
+ 
+
+  16.8%
+1
+
+
+12
+
+
+ 
+
+
+
+  TYPE OF REPORTING
+PERSON
+
+ 
+
+  IN
+
+
+
+ 
+
+
+1
+
+
+
+Based on a total of 50,700,000 shares of Class A common stock outstanding as of November 25, 2020, as
+reported in the Issuer’s Quarterly Report on Form
+10-Q
+ filed with the Securities and Exchange Commission on December 3, 2020.
+
+
+ITEM 1.
+
+
+(a) Name of Issuer:
+
+Snowflake Inc.
+
+
+(b) Address of Issuer’s Principal Executive Offices:
+
+
+450 Concar Drive
+
+San Mateo, CA 94402
+
+
+ITEM 2.
+
+(a) Name of Persons Filing:
+
+
+Sequoia Capital Growth Fund III, L.P.
+
+Sequoia Capital U.S.
+Growth Fund VI, L.P.
+
+Sequoia Capital U.S. Growth Principals VI Fund, L.P.
+
+
+Sequoia Capital U.S. Growth Fund VII, L.P.
+
+Sequoia Capital U.S.
+Growth VII Principals Fund, L.P.
+
+Sequoia Capital Global Growth Fund III –Endurance Partners, L.P.
+
+
+Sequoia Capital Global Growth
+III-
+ Endurance Partners Principals Fund, L.P.
+
+
+SCGF III Management, LLC
+
+SC U.S. Growth VI Management, L.P.
+
+
+SC U.S. Growth VII Management, LLC
+
+SCGGF III –Endurance
+Partners Management, L.P.
+
+SC US (TTGP), Ltd.
+
+Douglas Leone
+
+
+Roelof Botha
+
+The Managing Member of SEQUOIA CAPITAL GROWTH
+FUND III is SCGF III MANAGEMENT.
+
+The General Partner of SEQUOIA CAPITAL U.S. GROWTH FUND VI and SEQUOIA CAPITAL U.S. GROWTH VI PRINCIPALS FUND is SC U.S.
+GROWTH VI MANAGEMENT. The General Partner of SC U.S. GROWTH VI MANAGEMENT is SC US (TTGP).
+
+The General Partner of SEQUOIA CAPITAL U.S. GROWTH FUND VII
+and SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND is SC U.S. GROWTH VII MANAGEMENT. The Managing Member of SC U.S. GROWTH VII MANAGEMENT is SC US (TTGP).
+
+
+The General Partner of SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH III –ENDURANCE PARTNERS
+PRINCIPALS FUND is SCGGF III –ENDURANCE PARTNERS MANAGEMENT. The General Partner of SC GLOBAL GROWTH III –ENDURANCE PARTNERS MANAGEMENT is SC US (TTGP). The directors and stockholders of SC US (TTGP) who exercise voting and investment
+discretion with respect to the shares held by SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS and SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS PRINCIPALS FUND are Messrs. DL and RB.
+
+
+(b) Address of Principal Business Office or, if none, Residence:
+
+
+2800 Sand Hill Road, Suite 101
+
+Menlo Park, CA 94025
+
+
+(c) Citizenship:
+
+SEQUOIA CAPITAL U.S. GROWTH
+FUND VI, SEQUOIA CAPITAL U.S. GROWTH PRINCIPALS VI FUND, SEQUOIA CAPITAL U.S. GROWTH FUND VII, SEQUOIA CAPITAL U.S. GROWTH VII PRINCIPALS FUND, SEQUOIA CAPITAL GLOBAL GROWTH FUND III –ENDURANCE PARTNERS, SEQUOIA CAPITAL GLOBAL GROWTH III
+–ENDURANCE PARTNERS PRINCIPALS FUND, SC U.S. GROWTH VI MANAGEMENT, SC U.S. GROWTH VII MANAGEMENT, SCGGF III –ENDURANCE PARTNERS MANAGEMENT, SC US (TTGP): Cayman Islands
+
+
+SEQUOIA CAPITAL GROWTH FUND III, SCGF III MANAGEMENT: Delaware
+
+
+DL, RB: USA
+
+(d) CUSIP No.: 833445109
+
+
+ITEM 3.
+
+If this statement is filed pursuant to
+§§240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:
+
+NOT APPLICABLE
+
+
+ 
+
+
+ITEM 4.
+
+
+
+OWNERSHIP
+
+
+SEE ROWS 5 THROUGH 11 OF COVER PAGES
+
+ 
+
+
+ITEM 5.
+
+
+
+OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS
+
+
+If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five
+percent of the class of securities, check the following   ☐.
+
+ 
+
+
+ITEM 6.
+
+
+
+OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON
+
+
+NOT APPLICABLE
+
+ 
+
+
+ITEM 7.
+
+
+
+IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH ACQUIRED THE SECURITY BEING REPORTED ON BY THE PARENT
+HOLDING COMPANY.
+
+NOT APPLICABLE
+
+ 
+
+
+ITEM 8.
+
+
+
+IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP.
+
+
+NOT APPLICABLE
+
+ 
+
+
+ITEM 9.
+
+
+
+NOTICE OF DISSOLUTION OF GROUP.
+
+
+NOT APPLICABLE
+
+ 
+
+
+ITEM 10.
+
+
+
+CERTIFICATION
+
+
+NOT APPLICABLE
+
+
+SIGNATURES
+
+
+After reasonable inquiry and to the best of my knowledge and belief, the undersigned certifies that the information set forth in this statement is true,
+complete and correct.
+
+Dated: February 16, 2021
+
+ 
+
+
+Sequoia Capital Growth Fund III, LP
+
+
+By:
+
+
+ 
+
+
+SCGF III Management, LLC
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+Sequoia Capital U.S. Growth Fund VI, L.P.
+
+
+By:
+
+
+ 
+
+
+SC U.S. Growth VI Management, L.P.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+Sequoia Capital U.S. Growth Principals VI Fund, L.P.
+
+
+By:
+
+
+ 
+
+
+SC U.S. Growth VI Management, L.P.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+Sequoia Capital U.S. Growth Fund VII, L.P.
+
+
+By:
+
+
+ 
+
+
+SC U.S. Growth VII Management, LLC
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+ 
+
+
+its Managing Member
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+Sequoia Capital U.S. Growth VII Principals Fund, L.P.
+
+
+By:
+
+
+ 
+
+
+SC U.S. Growth VII Management, LLC
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+ 
+
+
+its Managing Member
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+Sequoia Capital Global Growth Fund III – Endurance Partners, LP
+
+
+By:
+
+
+ 
+
+
+SCGF III –Endurance Partners Management, L.P.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+Sequoia Capital Global Growth Fund III – Endurance Partners Principals Fund, L.P.
+
+
+By:
+
+
+ 
+
+
+SCGGF III – Endurance Partners Management, L.P.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+SCGF III Management, LLC
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+SC U.S. Growth VI Management, L.P.
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+SC U.S. Growth VII Management, LLC
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+ 
+
+
+its Managing Member
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+SCGGF III –Endurance Partners Management, L.P.
+
+
+By:
+
+
+ 
+
+
+SC US (TTGP), Ltd.
+
+
+ 
+
+
+its General Partner
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+SC US (TTGP), Ltd.
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+ 
+
+
+Douglas Leone, Director
+
+
+Douglas Leone
+
+
+By:
+
+
+ 
+
+
+
+/s/ Douglas Leone
+
+
+Roelof Botha
+
+
+By:
+
+
+ 
+
+
+
+/s/ Roelof Botha
+
+

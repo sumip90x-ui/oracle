@@ -1,0 +1,258 @@
+=== FILING DATE: 2004-02-13 ===
+=== PERIOD COVERED: 2004-02-13 ===
+=== SOURCE: SC13G filed 2004-02-13 ===
+=== SECTION: Schedule 13G ===
+=== TICKER: AAPL ===
+
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>aapl.txt
+<TEXT>
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+SCHEDULE 13G
+
+(Name of Issuer)
+	Apple Computer Inc.
+
+(Title of Class of Securities)
+Common Stock
+
+(CUSIP Number)
+	037833100
+
+Rule 13d-1(b)
+
+NAME OF REPORTING PERSON
+Private Capital Management
+
+I.R.S. IDENTIFICATION NO.
+59-3654603
+
+MEMBER OF A GROUP?
+(b) X
+
+PLACE OF ORGANIZATION
+Delaware
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+SOLE VOTING POWER 	0
+SHARED VOTING POWER	22,398,487
+SOLE DISPOSITIVE POWER 	0
+SHARED DISPOSITIVE POWER 	22,398,487
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+	22,398,487
+
+PERCENT OF CLASS REPRESENTED BY AGGREGATE AMOUNT BENEFICIALLY
+OWNED
+	6.2%
+
+TYPE OF REPORTING PERSON
+IA
+
+NAME OF REPORTING PERSON
+Bruce S. Sherman
+
+I.R.S. IDENTIFICATION NO.
+
+
+MEMBER OF A GROUP?
+(b) X
+
+CITIZENSHIP
+U.S. Citizen
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+SOLE VOTING POWER 	540,700
+SHARED VOTING POWER 	22,431,487
+SOLE DISPOSITIVE POWER 	540,700
+SHARED DISPOSITIVE POWER 	22,431,487
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+	22,972,187
+
+
+PERCENT OF CLASS REPRESENTED BY AGGREGATE AMOUNT BENEFICIALLY
+OWNED
+	6.3%
+
+TYPE OF REPORTING PERSON
+IN
+
+
+NAME OF REPORTING PERSON
+Gregg J. Powers
+
+I.R.S. IDENTIFICATION NO.
+
+
+MEMBER OF A GROUP?
+(b) X
+
+CITIZENSHIP
+U.S. Citizen
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+SOLE VOTING POWER 	50,000
+SHARED VOTING POWER 	22,398,487
+SOLE DISPOSITIVE POWER 	50,000
+SHARED DISPOSITIVE POWER 	22,398,487
+
+AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+	22,448,487
+
+
+PERCENT OF CLASS REPRESENTED BY AGGREGATE AMOUNT BENEFICIALLY
+OWNED
+	6.2%
+
+TYPE OF REPORTING PERSON
+IN
+
+
+ITEMS 1 - 10 OF GENERAL INSTRUCTIONS
+
+Item 1.
+(a)Name of Issuer: 	Apple Computer Inc.
+(b)Address of Issuer: 	1 Infinite Loop, Cuperino CA  95014
+
+Item 2.
+(a)Name of Person Filing:  See Exhibit 1
+(b)Address of Person Filing: 8889 Pelican Bay Blvd., Naples, FL  34108
+(c)Citizenship:  See Exhibit 1
+(d)Title of Class of Securities:  Common Stock
+(e)CUSIP Number:  	037833100
+
+Item 3.
+The reporting person is filing as an Investment Adviser registered
+under section 203 of the Investment Advisers Act of 1940.
+
+Item 4. Ownership
+(a)Amount Beneficially Owned:  See Exhibit 1
+(b)Percent of Class:  See Exhibit 1
+(c)Number of Shares as to which such person has:
+(i)sole power to vote or to direct the vote:
+     See Exhibit 1
+(ii)shared power to vote or to direct the vote:
+     See Exhibit 1
+(iii)sole power to dispose or to direct the disposition of:
+     See Exhibit 1
+(iv)shared power to dispose or to direct the disposition of:
+     See Exhibit 1
+
+Item 5. Ownership of Five Percent or Less of Class:
+        N/A
+
+Item 6. Ownership of More than Five Percent on Behalf of Another
+Person: N/A
+
+Item 7. Identification and Classification of the Subsidiary Which
+Acquired the Security Being Reported on By the Parent Holding
+Company: N/A
+
+Item 8. Identification and Classification of Members of the Group:
+        See Exhibit 1
+
+Item 9. Notice of Dissolution of Group:
+        N/A
+
+Item 10. Certification:
+        By signing below I certify that, to the best of my
+knowledge and belief, the securities referred to above were
+acquired in the ordinary course of business and were not acquired
+for the purpose of and do not have the effect of changing or
+influencing the control of the issuer of such securities and were
+not acquired in connection with or as a participant in any
+transaction having such purposes or effect.
+
+SIGNATURE
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement
+is true, complete and correct.
+
+Date:   See Exhibit 2
+Signature:  See Exhibit 2
+Name/Title: See Exhibit 2
+
+
+                    Exhibit 1
+
+
+Item 2.
+(a) Name of Person Filing
+     1)  Private Capital Management, L.P.
+     2)  Bruce S. Sherman
+     3) Gregg J. Powers
+
+(c)Citizenship
+     1)  Delaware
+     2)  U.S.
+     3)  U.S.
+
+Item 4.
+(a) Amount Beneficially Owned
+     1) 	22,398,487
+     2) 	22,972,187
+     3) 	22,448,487
+
+(b) Percent of Class
+     1) 	6.2%
+     2) 	6.3%
+     3) 	6.2%
+
+(c) Number of shares as to which such person has:
+   (i)   sole power to vote or to direct the vote
+         1)  	0
+         2)  	540,700
+         3)  	50,000
+
+   (ii)  shared power to vote or to direct the vote
+         1) 	22,398,487
+         2)  	22,431,487
+         3)  	22,398,487
+
+   (iii) sole power to dispose or to direct the disposition of
+         1)  	0
+         2)  	540,700
+         3)  	50,000
+
+   (iv)  shared power to dispose or to direct the disposition of
+         1)  	22,398,487
+         2)  	22,431,487
+         3)  	22,398,487
+
+ Bruce S. Sherman is CEO of Private Capital Management (PCM)
+and Gregg J. Powers is President of PCM.  In these capacities, Messrs.
+Sherman and Powers exercise shared dispositive and shared voting power
+with respect to shares held by PCM's clients and managed by PCM.
+Messrs. Sherman and Powers disclaim beneficial ownership for the shares
+held by PCM's clients and disclaim the existence of a group.
+
+Exhibit 2
+
+Signature
+
+After reasonable inquiry and to the best of my knowledge and
+belief, I certify that the information set forth in this statement
+is true, complete and correct.
+
+Date:  February 13, 2004
+
+
+_____________________________________
+Bruce S. Sherman
+as CEO, PCM
+as, individual, as applicable
+
+
+______________________________________
+Gregg J. Powers
+as President, PCM
+as, individual, as applicable
+
+</TEXT>
+</DOCUMENT>

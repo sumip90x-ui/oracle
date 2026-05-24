@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-05-22
+Transaction Date: 2025-05-20
+Person: Giancarlo Charles H — Director
+Type: OTHER
+Shares: 1688 at $N/A
+Shares After: 0
+=== TICKER: ANET ===
+===

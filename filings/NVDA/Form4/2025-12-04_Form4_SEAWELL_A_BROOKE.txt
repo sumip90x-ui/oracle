@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-04
+Transaction Date: 2025-12-02
+Person: SEAWELL A BROOKE — Director
+Type: SELL
+Shares: 12728 at $183.9344
+Shares After: 7137
+=== TICKER: NVDA ===
+===

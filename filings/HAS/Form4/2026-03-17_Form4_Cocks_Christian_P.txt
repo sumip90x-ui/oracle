@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-17
+Transaction Date: 2026-03-14
+Person: Cocks Christian P — Chief Executive Officer
+Type: OTHER
+Shares: 13782 at $94.65
+Shares After: 266295
+=== TICKER: HAS ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-05
+Transaction Date: 2025-12-03
+Person: Pichai Sundar — Chief Executive Officer
+Type: SELL
+Shares: 32500 at $315.16
+Shares After: 74874
+=== TICKER: GOOGL ===
+===

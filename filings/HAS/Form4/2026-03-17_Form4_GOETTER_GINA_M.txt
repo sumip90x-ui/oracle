@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-17
+Transaction Date: 2026-03-14
+Person: GOETTER GINA M — EVP & CFO
+Type: OTHER
+Shares: 4201 at $94.65
+Shares After: 56905
+=== TICKER: HAS ===
+===

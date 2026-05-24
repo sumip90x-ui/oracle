@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-05-11
+Transaction Date: 2026-05-08
+Person: Liu Deborah — Director
+Type: BUY
+Shares: 75 at $396.31
+Shares After: 75
+=== TICKER: INTU ===
+===

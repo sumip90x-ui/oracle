@@ -1,0 +1,115 @@
+=== FILING DATE: 2026-04-01 ===
+=== PERIOD COVERED: 2026-04-01 ===
+=== SOURCE: 8-K filed 2026-04-01 ===
+=== SECTION: 8-K Event — earnings ===
+=== TICKER: HAS ===
+
+
+
+has-20260401
+0000046080
+false
+0000046080
+2026-04-01
+2026-04-01
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+ 
+FORM
+8-K
+
+ 
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+ 
+Date of Report (Date of earliest event reported):
+
+April 1, 2026
+ 
+Hasbro, Inc.
+
+(Exact name of registrant as specified in its charter)
+Rhode Island
+1-6682
+05-0155090
+(State or other jurisdiction of incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+1027 Newport Avenue
+Pawtucket,
+Rhode Island
+02861
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s telephone number, including area code:  
+
+(
+401
+)
+431-8697
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+☐
+   Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+☐
+
+  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+☐
+   Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+☐
+   Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act.
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.50 par value per share
+HAS
+The NASDAQ Global Select Market
+ 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+Emerging growth company   
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period provided pursuant to Section 13(a) of the Exchange Act. 
+
+☐
+
+
+Item 8.01  Other Events
+On March 28, 2026, Hasbro, Inc. (the “Company”) identified unauthorized access to the Company’s network. Upon discovery, the Company promptly activated its security incident response protocols, implemented containment measures, including proactively taking certain systems offline, and launched an investigation with the assistance of third-party cybersecurity professionals.
+The Company’s investigation is ongoing, and it is working diligently to resolve the matter and determine the full scope of impact. The Company has implemented and continues to implement business continuity plans to enable it to continue to take orders, ship product and conduct other key operations while it resolves this situation. The need to run these interim measures may continue for several weeks before the situation is fully resolved and may result in some delays.
+The Company is also working to identify and review the files potentially impacted and will take additional actions as appropriate based on its review and findings, including providing any notifications deemed necessary under applicable law.
+The Company will continue to implement measures to secure its business operations and take additional steps as appropriate.
+Safe Harbor Statement
+Statements in this Current Report on Form 8-K that are not historical facts, such as those identified by the use of words “anticipate,” “believe,” “could,” “estimate,” “expect,” “feel,” “forecast,” “intend,” “may,” “plan,” “potential,” “project,” “should,” “would,” and similar expressions, are forward-looking statements under the provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements address the Company’s expectations or beliefs concerning future events, including the Company’s investigation of and containment efforts related to the cybersecurity incident and its impact on the Company’s financial condition and results of operations. These statements are made based on management’s views and assumptions as of the date of this report. Forward-looking statements by their nature address matters that are uncertain, and you are urged to view them with caution. A wide range of factors could materially affect future developments and performance, including but not limited to uncertainties related to the Company’s ongoing investigation of the cybersecurity incident and the possibility that the Company’s containment and remediation efforts may be unsuccessful. Detailed information about these and other risks is included in the Company’s Annual Report on Form 10-K for the year ended December 28, 2025, and its other reports filed with the Securities and Exchange Commission. Except as required by applicable law, we do not undertake any obligation to publicly update or revise any of these forward-looking statements, whether as a result of new information, future events, or otherwise.
+
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+HASBRO, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Gina Goetter
+ 
+Name:
+Gina Goetter
+ 
+Title:
+Chief Financial Officer and Chief Operating Officer
+Date: April 1, 2026
+

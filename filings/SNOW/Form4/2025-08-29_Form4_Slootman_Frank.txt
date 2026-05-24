@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-29
+Transaction Date: 2025-08-28
+Person: Slootman Frank — Director
+Type: OTHER
+Shares: 2130249 at $8.88
+Shares After: 7095364
+=== TICKER: SNOW ===
+===

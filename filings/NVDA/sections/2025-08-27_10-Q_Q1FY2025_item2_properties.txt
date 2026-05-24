@@ -1,0 +1,55 @@
+=== FILING DATE: 2025-08-27 ===
+=== PERIOD COVERED: 2025-07-27 ===
+=== SOURCE: 10-Q filed 2025-08-27 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: NVDA ===
+
+Item 2
+. Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+37
+We repurchased 67 million and 193 million shares of our common stock for $9.7 billion and $24.2 billion during the second quarter and first half of fiscal year 2026, respectively. As of July 27, 2025, we were authorized, subject to certain specifications, to repurchase up to $14.7 billion of our common stock.
+We paid cash dividends to our shareholders of $244 million and $488 million during the second quarter and first half of fiscal year 2026, respectively. The payment of future cash dividends is subject to our Board of Directors' continuing determination that the declaration of dividends is in the best interests of our shareholders.
+The following table presents details of our share repurchase transactions during the second quarter of fiscal year 2026:
+Period
+Total Number
+of Shares Purchased
+(In millions)
+Average Price Paid per Share (1)
+Total Number of Shares Purchased as Part of Publicly Announced Program
+(In millions)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program
+(In billions)
+April 28, 2025 - May 25, 2025
+19.2 
+$
+120.61 
+19.2 
+$
+22.0 
+May 26, 2025 - June 22, 2025
+18.1 
+$
+141.61 
+18.1 
+$
+19.4 
+June 23, 2025 - July 27, 2025
+29.2 
+$
+161.65 
+29.2 
+$
+14.7 
+Total
+66.5 
+66.5 
+(1)     Average price paid per share includes broker commissions, but excludes our liability under the 1% excise tax on the net amount of our share repurchases required by the Inflation Reduction Act of 2022.
+From July 28, 2025 through August 26, 2025, we repurchased 20 million shares for $3.5 billion pursuant to a pre-established trading plan. On August 26, 2025, our Board of Directors approved an additional $60.0 billion in share repurchase authorization, without expiration. As of August 26, 2025, a total of $71.2 billion was available for repurchase.
+We may execute repurchases from time to time, subject to market conditions, operating requirements and other investment opportunities, in the open market, in privately negotiated transactions, pursuant to a Rule 10b5-1 trading plan or in structured share repurchase agreements in compliance with Rule 10b-18 of the Exchange Act. Our share repurchase program may be suspended at any time at our discretion.
+Employee Equity Incentive Program Share Withholding
+We withhold shares of our common stock associated with net share settlements to cover tax withholding obligations of awards under our employee equity incentive program. During the second quarter and first half of fiscal year 2026, we withheld approximately 13 million and 26 million shares, respectively, for a total value of $1.9 billion and $3.4 billion, respectively, through net share settlements.
+Recent Sales of Unregistered Securities and Use of Proceeds
+On June 13, 2025, we acquired a company and agreed to issue to key employees a total of 387,158 shares of our common stock, valued at $55 million based on our closing stock price on the acquisition date. The shares will be issued in installments commencing in fiscal year 2027 and through fiscal year 2031.
+On June 17, 2025, we acquired a company and issued to key employees a total of 89,338 shares of our common stock, valued at $13 million based on our closing stock price on the issuance date.
+The above securities were issued in transactions not involving a public offering pursuant to an exemption from registration set forth in Section 4(a)(2) of the Securities Act (and Regulation D or Regulation S promulgated thereunder).

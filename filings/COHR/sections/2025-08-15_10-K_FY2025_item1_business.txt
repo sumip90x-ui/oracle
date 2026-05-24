@@ -1,0 +1,16 @@
+=== FILING DATE: 2025-08-15 ===
+=== PERIOD COVERED: 2025-06-30 ===
+=== SOURCE: 10-K filed 2025-08-15 ===
+=== SECTION: Item 1 — Business ===
+=== TICKER: COHR ===
+
+Item 1
+. Business - General Description of Business of this Annual Report on Form 10-K for further information.
+Trends and Other Matters Affecting our Business
+Industry Conditions
+Throughout fiscal 2025, we experienced stronger demand in our Communications market. The increase in the number of hyperscale and other cloud customers building AI datacenters and in the number and size of their AI datacenter buildouts drove demand for our datacenter transceivers. Strong demand for our new ZR/ZR+ transceiver products along with growing demand for traditional telecom transport products drove increased volumes for our telecom and other communications solutions.
+Additionally, within our Industrial market, we were able to grow our industrial lasers products and services revenue in the face of relatively weak overall industrial end demand. Our revenue growth in these portions of the Industrial market is a result of our focus on higher demand applications within the Industrial market, including display and semiconductor capital equipment.
+Restructuring Plans
+2023 Plan
+On May 23, 2023, the Board of Directors approved the 2023 Plan which includes site consolidations, facilities moves and closures, as well as the relocation and requalification of certain manufacturing facilities. These restructuring actions were intended to realign our cost structure as part of a transformation to a simpler, more streamlined, resilient and sustainable business model.
+In fiscal 2025, these activities resulted in charges of $53 million, primarily for impairment losses associated with the sale of our Newton Aycliffe business, impairment of right-of-use (“ROU”) assets, employee termination costs, site move costs and accelerated depreciation. In fiscal 2024, these activities resulted in charges of $27 million, primarily for accelerated depreciation, the write-off of property and equipment, and site move costs. In fiscal 2023, these activities resulted in $119 million of charges primarily for employee termination costs, and the write-off of property and equipment, net of $65 million from reimbursement arrangements. See Note 20. Restructuring Plans to the Company’s Consolidated Financial Statements included in

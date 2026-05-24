@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-16
+Transaction Date: 2026-03-12
+Person: Su Lisa T — Chair, President & CEO
+Type: SELL
+Shares: 447906 at $197.42
+Shares After: 362906
+=== TICKER: AMD ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-19
+Transaction Date: 2026-03-17
+Person: Duda Kenneth — President and CTO
+Type: OTHER
+Shares: 122000 at $15.2625
+Shares After: 64000
+=== TICKER: ANET ===
+===

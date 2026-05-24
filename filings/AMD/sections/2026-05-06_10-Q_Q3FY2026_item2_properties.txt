@@ -1,0 +1,45 @@
+=== FILING DATE: 2026-05-06 ===
+=== PERIOD COVERED: 2026-03-28 ===
+=== SOURCE: 10-Q filed 2026-05-06 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: AMD ===
+
+ITEM 2
+.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Issuer Purchases of Equity Securities
+We have an approved stock repurchase program authorizing repurchases of up to $14 billion of our common stock (Repurchase Program). We expect to fund repurchases through cash generated from operations. Our Repurchase Program does not obligate us to acquire any common stock, has no termination date and may be suspended or discontinued at any time.
+The following table provides information relating to our repurchase of common stock for the three months ended March 28, 2026:
+Total Number of Shares Repurchased
+Average Price Paid per Share
+Total Number of Shares Repurchased as Part of Publicly Announced Program
+Approximate Dollar Value of Shares That May Yet be Purchased Under the Program
+(In millions)
+Dec 28, 2025 to Jan 24, 2026
+— 
+$
+— 
+— 
+$
+9,376 
+Jan 25, 2026 to Feb 21, 2026
+119,427 
+$
+200.96 
+119,427 
+$
+9,352 
+Feb 22, 2026 to Mar 28, 2026
+1,006,647 
+$
+195.68 
+1,006,647 
+$
+9,155 
+Total
+1,126,074 
+The amounts above do not include the 1% excise tax on stock repurchases enacted by the Inflation Reduction Act of 2022.
+Equity Award Share Withholding
+During the three months ended March 28, 2026, there were $
+121
+ million in employee withholding taxes due upon the vesting of net settled equity awards. We withheld approximately 0.6 million shares of common stock from employees in connection with such net share settlement at an average price of $205.25 per share. These shares may be deemed to be “issuer purchases” of shares.

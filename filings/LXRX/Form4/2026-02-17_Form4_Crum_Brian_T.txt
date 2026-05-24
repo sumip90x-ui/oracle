@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-02-17
+Transaction Date: 2026-02-12
+Person: Crum Brian T — SVP, General Counsel & Secr.
+Type: BUY
+Shares: 749270 at $0
+Shares After: 449560
+=== TICKER: LXRX ===
+===

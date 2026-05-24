@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-07-02
+Transaction Date: 2025-06-30
+Person: Gersh Lisa — Director
+Type: BUY
+Shares: 904 at $73.82
+Shares After: 42966
+=== TICKER: HAS ===
+===

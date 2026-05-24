@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-10-02
+Transaction Date: 2025-10-01
+Person: Hotz Lauren D — SVP, Chief Accounting Officer
+Type: OTHER
+Shares: 821 at $0
+Shares After: 961
+=== TICKER: INTU ===
+===

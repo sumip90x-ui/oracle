@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-04-03
+Transaction Date: 2026-04-01
+Person: O'BRIEN DEIRDRE — Senior Vice President
+Type: OTHER
+Shares: 192951 at $N/A
+Shares After: 38938
+=== TICKER: AAPL ===
+===

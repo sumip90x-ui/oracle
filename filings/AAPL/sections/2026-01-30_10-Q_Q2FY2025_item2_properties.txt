@@ -1,0 +1,46 @@
+=== FILING DATE: 2026-01-30 ===
+=== PERIOD COVERED: 2025-12-27 ===
+=== SOURCE: 10-Q filed 2026-01-30 ===
+=== SECTION: Item 2 — Properties ===
+=== TICKER: AAPL ===
+
+Item 2
+.    Unregistered Sales of Equity Securities and Use of Proceeds
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+Share repurchase activity during the three months ended December 27, 2025, was as follows (in millions, except number of shares, which are reflected in thousands, and per-share amounts):
+Periods
+Total Number
+of Shares Purchased
+Average Price
+Paid Per Share
+Total Number of Shares
+Purchased as Part of Publicly
+Announced Plans or Programs
+Approximate Dollar Value of
+Shares That May Yet Be Purchased
+Under the Plans or Programs
+(1)
+September 28, 2025 to November 1, 2025:
+Open market and privately negotiated purchases
+28,567 
+$
+256.69 
+28,567 
+November 2, 2025 to November 29, 2025:
+Open market and privately negotiated purchases
+29,018 
+$
+272.25 
+29,018 
+November 30, 2025 to December 27, 2025:
+Open market and privately negotiated purchases
+35,309 
+$
+276.61 
+35,309 
+Total
+92,894 
+$
+74,779 
+(1)
+On May 1, 2025, the Company announced a program to repurchase up to $100 billion of the Company’s common stock. As of December 27, 2025, $25.2 billion of the May 2025 program had been utilized. The program does not obligate the Company to acquire a minimum amount of shares. Under the program, shares may be repurchased in privately negotiated or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.

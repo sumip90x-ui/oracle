@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-03
+Transaction Date: 2025-08-29
+Person: Neal Stephen C — Director
+Type: OTHER
+Shares: 1700 at $0
+Shares After: 3887
+=== TICKER: NVDA ===
+===

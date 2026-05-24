@@ -1,0 +1,103 @@
+=== FILING DATE: 2025-10-02 ===
+=== PERIOD COVERED: 2025-10-02 ===
+=== SOURCE: 8-K filed 2025-10-02 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: CELH ===
+
+
+
+celh-20251002
+FALSE
+0001341766
+561
+276-2239
+2381 NW Executive Center Drive, 4th Floor
+Boca Raton
+Florida
+33431
+0001341766
+2025-10-02
+2025-10-02
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+October 2, 2025
+CELSIUS HOLDINGS, INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+001-34611
+20-2745790
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(IRS Employer Identification No.)
+2381 NW Executive Center Drive, 4th Floor
+,
+Boca Raton
+,
+Florida
+33431
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+ (
+561
+)
+276-2239
+Not Applicable
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, $0.001 par value per share
+CELH
+Nasdaq
+ Capital Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Item 1.01. Entry into a Material Definitive Agreement.
+As previously reported, on April 1, 2025, Celsius Holdings, Inc., a Nevada corporation (the “Company"), and its wholly owned subsidiary, Celsius, Inc., as borrowers, certain subsidiaries of the Company as guarantors, the lenders and issuing banks from time to time party thereto and UBS AG, Stamford Branch, as administrative agent and collateral agent (the “Agent”), entered into a Credit Agreement (the “Credit Agreement”), providing for a term loan facility in an aggregate principal amount of up to $900.0 million (the “Term Loan Facility”), and a revolving credit facility in an aggregate principal amount of up to $100.0 million (the “Revolving Facility”).  Also as previously reported, the Company had drawn the entirety of the $900.0 million Term Loan Facility in connection with the Company’s previously reported acquisition of Alani Nutrition, LLC on April 1, 2025 (the “Existing Term Loan”).
+On October 2, 2025, the Company entered into a first refinancing amendment to the Credit Agreement (the “First Amendment”), together with Celsius Inc., certain subsidiaries of the Company, the Agent and the lenders party thereto, which amended the Credit Agreement to reduce the applicable interest rates with respect to the Term Loan Facility and the Revolving Facility in each case by 0.75%.  All other material terms of the Credit Agreement remain unchanged.
+In connection with the First Amendment, on October 2, 2025, the Company repaid the entirety of the Existing Term Loan using a combination of approximately $200.0 million of cash on hand and the proceeds from a new $700.0 million term loan under the Term Loan Facility, which bears interest at the reduced interest rate provided by the First Amendment. The Company did not incur any prepayment penalties in connection with such refinancing.
+The foregoing description of the First Amendment is only a summary and is qualified in its entirety by reference to the full text of the First Amendment (including the Credit Agreement, as amended by the First Amendment, attached as Exhibit A to the First Amendment), which is filed as Exhibit 10.1 to this Current Report on Form 8-K and incorporated by reference in this Item 1.01.
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+The information contained in Item 1.01 of this Current Report on Form 8-K is hereby incorporated by reference in this Item 2.03.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits
+Exhibit No
+Description
+10.1*+
+First Refinancing Amendment, dated October 2, 2025, by and among Celsius Holdings, Inc., Celsius, Inc., the lenders party thereto and UBS AG, Stamford Branch, as the administrative agent and the collateral agent.
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+*  Certain exhibits and schedules to this Exhibit have been omitted in accordance with Item 601(a)(5) of Regulation S-K. The Company agrees to furnish supplementally a copy of all omitted exhibits and schedules to the Securities and Exchange Commission or its staff upon request.
++  Certain provisions and terms of this Exhibit have been redacted in accordance with Item 601(b)(10)(iv) of Regulation S-K because the Company customarily and actually treats that information as private or confidential and the omitted information is not material. The Company will supplementally provide a copy of an unredacted copy of this exhibit to the Securities and Exchange Commission or its staff upon request.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CELSIUS HOLDINGS, INC.
+Date: October 2, 2025
+By:
+/s/ Jarrod Langhans
+Jarrod Langhans, Chief Financial Officer
+

@@ -1,0 +1,619 @@
+{
+  "ticker": "AMD",
+  "company_name": "ADVANCED MICRO DEVICES INC",
+  "cik": "0000002488",
+  "sic": "3674",
+  "industry": "Semiconductors & Related Devices",
+  "fiscal_year_end": "1226",
+  "last_checked": "2026-05-17T02:22:15.951125",
+  "newest_filing_date": "2026-05-15",
+  "coverage": {
+    "8-K": {
+      "newest_filing_date": "2026-05-15",
+      "oldest_included": "2025-05-19",
+      "count": 14,
+      "files": [
+        {
+          "filing_date": "2026-05-15",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-05-15_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-05-05",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-05-05_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-05-05_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-02-24",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-02-24_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-02-24_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-02-17",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-02-17_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2026-02-03",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-02-03_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-02-03_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2026-01-20",
+          "type": "personnel",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-01-20_8-K_personnel.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2026-01-20_8-K_personnel_ex991.txt"
+        },
+        {
+          "filing_date": "2025-12-15",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-12-15_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-11-04",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-11-04_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-11-04_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-10-27",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-10-27_8-K_agreement.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-10-27_8-K_agreement_ex991.txt"
+        },
+        {
+          "filing_date": "2025-10-06",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-10-06_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-10-06_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-08-25",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-08-25_8-K_agreement.txt"
+        },
+        {
+          "filing_date": "2025-08-05",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-08-05_8-K_earnings.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-08-05_8-K_earnings_ex991.txt"
+        },
+        {
+          "filing_date": "2025-07-02",
+          "type": "earnings",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-07-02_8-K_earnings.txt"
+        },
+        {
+          "filing_date": "2025-05-19",
+          "type": "agreement",
+          "local_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-05-19_8-K_agreement.txt",
+          "ex991_path": "/home/sumith/ORACLE/filings/AMD/8-K/2025-05-19_8-K_agreement_ex991.txt"
+        }
+      ]
+    },
+    "Form4": {
+      "newest_filing_date": "2026-05-15",
+      "count": 69,
+      "transactions": [
+        {
+          "filing_date": "2026-05-15",
+          "person": "Su Lisa T",
+          "type": "SELL",
+          "shares": "125000",
+          "price": "433.26"
+        },
+        {
+          "filing_date": "2026-05-15",
+          "person": "VANDERSLICE ELIZABETH W",
+          "type": "OTHER",
+          "shares": "6098",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-15",
+          "person": "TALWALKAR ABHIJIT Y",
+          "type": "BUY",
+          "shares": "872",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-15",
+          "person": "McClure Kathleen R",
+          "type": "BUY",
+          "shares": "363",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-15",
+          "person": "MARREN JOHN W",
+          "type": "BUY",
+          "shares": "872",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-15",
+          "person": "HOUSEHOLDER JOSEPH A",
+          "type": "OTHER",
+          "shares": "6098",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-15",
+          "person": "GREGOIRE MICHAEL P",
+          "type": "BUY",
+          "shares": "872",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-15",
+          "person": "Denzel Nora",
+          "type": "OTHER",
+          "shares": "6098",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-13",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "2350",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-05-12",
+          "person": "GRASBY PAUL DARREN",
+          "type": "SELL",
+          "shares": "24376",
+          "price": "444.39"
+        },
+        {
+          "filing_date": "2026-04-28",
+          "person": "Papermaster Mark D",
+          "type": "SELL",
+          "shares": "31320",
+          "price": "350"
+        },
+        {
+          "filing_date": "2026-04-17",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "45109",
+          "price": "84.85"
+        },
+        {
+          "filing_date": "2026-04-08",
+          "person": "Papermaster Mark D",
+          "type": "SELL",
+          "shares": "3293",
+          "price": "225"
+        },
+        {
+          "filing_date": "2026-03-18",
+          "person": "VANDERSLICE ELIZABETH W",
+          "type": "OTHER",
+          "shares": "3014",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-16",
+          "person": "Su Lisa T",
+          "type": "SELL",
+          "shares": "447906",
+          "price": "197.42"
+        },
+        {
+          "filing_date": "2026-03-13",
+          "person": "GRASBY PAUL DARREN",
+          "type": "SELL",
+          "shares": "7500",
+          "price": "204.87"
+        },
+        {
+          "filing_date": "2026-03-06",
+          "person": "Papermaster Mark D",
+          "type": "SELL",
+          "shares": "3034",
+          "price": "200"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "GUIDO PHILIP",
+          "type": "OTHER",
+          "shares": "106892",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-03-03",
+          "person": "Hu Jean X.",
+          "type": "OTHER",
+          "shares": "315804",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-26",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "826424",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-20",
+          "person": "Hahn Ava",
+          "type": "SELL",
+          "shares": "286",
+          "price": "198.65"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "Hu Jean X.",
+          "type": "OTHER",
+          "shares": "92948",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "HUYNH JACK M",
+          "type": "OTHER",
+          "shares": "92757",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "GRASBY PAUL DARREN",
+          "type": "OTHER",
+          "shares": "17498",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "Hahn Ava",
+          "type": "OTHER",
+          "shares": "5661",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-18",
+          "person": "Norrod Forrest Eugene",
+          "type": "OTHER",
+          "shares": "184219",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-02-13",
+          "person": "Norrod Forrest Eugene",
+          "type": "OTHER",
+          "shares": "35850",
+          "price": "34.19"
+        },
+        {
+          "filing_date": "2026-02-13",
+          "person": "Su Lisa T",
+          "type": "SELL",
+          "shares": "125000",
+          "price": "210.18"
+        },
+        {
+          "filing_date": "2026-01-21",
+          "person": "McClure Kathleen R",
+          "type": "BUY",
+          "shares": "1278",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-20",
+          "person": "Hahn Ava",
+          "type": "OTHER",
+          "shares": "47100",
+          "price": "0"
+        },
+        {
+          "filing_date": "2026-01-20",
+          "person": "Ellis Emily",
+          "type": "BUY",
+          "shares": "13976",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-12",
+          "person": "Su Lisa T",
+          "type": "OTHER",
+          "shares": "324577",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-12-08",
+          "person": "GRASBY PAUL DARREN",
+          "type": "SELL",
+          "shares": "10000",
+          "price": "218.77"
+        },
+        {
+          "filing_date": "2025-12-04",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "500",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-28",
+          "person": "Su Lisa T",
+          "type": "OTHER",
+          "shares": "40000",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-11-26",
+          "person": "Hu Jean X.",
+          "type": "SELL",
+          "shares": "14506",
+          "price": "206.57"
+        },
+        {
+          "filing_date": "2025-11-21",
+          "person": "Norrod Forrest Eugene",
+          "type": "OTHER",
+          "shares": "35850",
+          "price": "34.19"
+        },
+        {
+          "filing_date": "2025-11-18",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "51324",
+          "price": "34.19"
+        },
+        {
+          "filing_date": "2025-10-17",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "50400",
+          "price": "34.19"
+        },
+        {
+          "filing_date": "2025-10-08",
+          "person": "Hahn Ava",
+          "type": "SELL",
+          "shares": "2868",
+          "price": "226.01"
+        },
+        {
+          "filing_date": "2025-09-26",
+          "person": "Norrod Forrest Eugene",
+          "type": "SELL",
+          "shares": "2250",
+          "price": "165.01"
+        },
+        {
+          "filing_date": "2025-09-17",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "50400",
+          "price": "34.19"
+        },
+        {
+          "filing_date": "2025-09-12",
+          "person": "Norrod Forrest Eugene",
+          "type": "OTHER",
+          "shares": "33600",
+          "price": "34.19"
+        },
+        {
+          "filing_date": "2025-09-04",
+          "person": "Hahn Ava",
+          "type": "SELL",
+          "shares": "143",
+          "price": "158.10"
+        },
+        {
+          "filing_date": "2025-08-25",
+          "person": "Su Lisa T",
+          "type": "OTHER",
+          "shares": "674454",
+          "price": "34.19"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Carter Philip Matthew",
+          "type": "BUY",
+          "shares": "3972",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "GRASBY PAUL DARREN",
+          "type": "OTHER",
+          "shares": "134763",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "GUIDO PHILIP",
+          "type": "BUY",
+          "shares": "44249",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Hahn Ava",
+          "type": "BUY",
+          "shares": "25812",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "HUYNH JACK M",
+          "type": "OTHER",
+          "shares": "50961",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Norrod Forrest Eugene",
+          "type": "OTHER",
+          "shares": "123449",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "257240",
+          "price": "34.19"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Su Lisa T",
+          "type": "OTHER",
+          "shares": "554574",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-19",
+          "person": "Hu Jean X.",
+          "type": "BUY",
+          "shares": "62688",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-15",
+          "person": "Olson Jon A",
+          "type": "OTHER",
+          "shares": "2500",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "GRASBY PAUL DARREN",
+          "type": "OTHER",
+          "shares": "67449",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Su Lisa T",
+          "type": "OTHER",
+          "shares": "38825",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Hu Jean X.",
+          "type": "OTHER",
+          "shares": "14106",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Hahn Ava",
+          "type": "OTHER",
+          "shares": "2828",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "HUYNH JACK M",
+          "type": "OTHER",
+          "shares": "13230",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "GUIDO PHILIP",
+          "type": "OTHER",
+          "shares": "10973",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "30239",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-08-12",
+          "person": "Norrod Forrest Eugene",
+          "type": "OTHER",
+          "shares": "20597",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-07-17",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "53994",
+          "price": "19.10"
+        },
+        {
+          "filing_date": "2025-06-17",
+          "person": "GUIDO PHILIP",
+          "type": "OTHER",
+          "shares": "17085",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-06-17",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "52500",
+          "price": "19.10"
+        },
+        {
+          "filing_date": "2025-06-13",
+          "person": "VANDERSLICE ELIZABETH W",
+          "type": "OTHER",
+          "shares": "15859",
+          "price": "0"
+        },
+        {
+          "filing_date": "2025-05-22",
+          "person": "GUIDO PHILIP",
+          "type": "BUY",
+          "shares": "8800",
+          "price": "113.56"
+        },
+        {
+          "filing_date": "2025-05-19",
+          "person": "Papermaster Mark D",
+          "type": "OTHER",
+          "shares": "52500",
+          "price": "19.10"
+        }
+      ]
+    },
+    "10-Q": {
+      "newest_filing_date": "2026-05-06",
+      "quarters_covered": [
+        "Q3FY2026",
+        "Q1FY2025",
+        "Q4FY2025"
+      ],
+      "files": [
+        "/home/sumith/ORACLE/filings/AMD/10-Q/2026-05-06_10-Q_Q3FY2026.txt",
+        "/home/sumith/ORACLE/filings/AMD/10-Q/2025-11-05_10-Q_Q1FY2025.txt",
+        "/home/sumith/ORACLE/filings/AMD/10-Q/2025-08-06_10-Q_Q4FY2025.txt"
+      ],
+      "newest_period": "2025-06-28"
+    },
+    "10-K": {
+      "newest_filing_date": "2026-02-04",
+      "period_covered": "2025-12-27",
+      "local_path": "/home/sumith/ORACLE/filings/AMD/10-K/2026-02-04_10-K_FY2025.txt"
+    },
+    "DEF14A": {
+      "newest_filing_date": "2026-03-27",
+      "local_path": "/home/sumith/ORACLE/filings/AMD/DEF14A/2026-03-27_DEF14A.txt"
+    }
+  },
+  "sections": {
+    "newest_mda": "/home/sumith/ORACLE/filings/AMD/sections/2026-02-04_10-K_FY2025_item7_mda.txt",
+    "newest_riskfactors": "/home/sumith/ORACLE/filings/AMD/sections/2026-05-06_10-Q_Q3FY2026_item1A_riskfactors.txt",
+    "newest_financials": "/home/sumith/ORACLE/filings/AMD/sections/2026-02-04_10-K_FY2025_item8_financials.txt",
+    "newest_footnotes": null,
+    "newest_business": "/home/sumith/ORACLE/filings/AMD/sections/2026-05-06_10-Q_Q3FY2026_item1_business.txt",
+    "newest_earnings_8k": "/home/sumith/ORACLE/filings/AMD/8-K/2026-05-05_8-K_earnings_ex991.txt"
+  },
+  "failed_downloads": []
+}

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-15
+Transaction Date: 2026-01-14
+Person: Klauer James C — Executive Vice President
+Type: SELL
+Shares: 1500 at $939.00
+Shares After: 98.5
+=== TICKER: COST ===
+===

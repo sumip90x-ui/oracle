@@ -1,0 +1,183 @@
+=== FILING DATE: 2026-04-30 ===
+=== PERIOD COVERED: 2026-04-30 ===
+=== SOURCE: 8-K filed 2026-04-30 ===
+=== SECTION: 8-K Event — agreement ===
+=== TICKER: LXRX ===
+
+
+
+lxrx-20260430
+0001062822
+FALSE
+--12-31
+Nasdaq
+0001062822
+2026-04-30
+2026-04-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________
+FORM
+8-K
+__________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+April 30, 2026
+Lexicon Pharmaceuticals, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+000-30111
+76-0474169
+(State or other jurisdiction of
+incorporation or organization)
+(Commission File Number)
+(I.R.S. Employer
+Identification Number)
+2445 Technology Forest Blvd., 11th Floor
+The Woodlands
+,
+Texas
+
+77381
+(Address of principal executive offices and Zip Code)
+(
+281
+)
+863-3000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.001
+LXRX
+The
+Nasdaq
+ Global Select Market
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:
+☐
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 3.02    Unregistered Sale of Equity Securities
+On April 30, 2026, each outstanding share of our Series B Convertible Preferred Stock, par value $0.01 per share (the “Preferred Stock”), was converted (the “conversion”) into 50 shares of our common stock, par value $0.001 per share (the “Common Stock”).  408,434.7 shares of Preferred Stock were outstanding immediately prior to the conversion, and 20,421,735 shares of Common Stock were issued as a result of the conversion. The Preferred Stock was sold in a previously announced private placement pursuant to a Preferred Stock Purchase Agreement at a price of $65.00 per share. The shares of Common Stock issued upon the conversion were issued pursuant to the terms of the Certificate of Designations of Series B Convertible Preferred Stock, which, among other things, provided for the automatic conversion of the Preferred Stock upon the satisfaction of certain conditions without any investment decision required of the holder thereof, and thus did not constitute a “sale” within the meaning of the Securities Act of 1933, as amended (the “Securities Act”). The shares of Common Stock issued pursuant to the conversion were issued in reliance upon an exemption from registration set forth in Section 3(a)(9) of the Securities Act, as the securities were issued to only the holder of Preferred Stock and no commission or other remuneration was paid or given directly or indirectly for the solicitation of the conversion.
+Item 5.02    Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+On April 30, 2026, our stockholders approved (a) our 2026 Equity Incentive Plan, amended and restating our existing 2017 Equity Incentive Plan and increasing the total number of shares of our common stock that may be issued pursuant to stock awards granted under the plan from 75,000,000 to 90,000,000, all of which may be granted as stock options, and (b) our 2026 Non-Employee Directors’ Equity Incentive Plan, amending and restating our existing 2017 Non-Employee Directors’ Equity Incentive Plan and increasing the total number of shares of our common stock that may be issued pursuant to stock awards granted under the plan from 4,000,000 to 6,000,000.  The terms of each of the 2026 Equity Incentive Plan and 2026 Non-Employee Directors’ Equity Incentive Plan were extended until February 12, 2036, the tenth anniversary of the earlier of the date such amended and restated plans were adopted by our board of directors or approved by our stockholders.
+The foregoing summary does not purport to be complete and is qualified in its entirety by our 2026 Equity Incentive Plan and 2026 Non-Employee Directors’ Equity Incentive Plan, copies of which are attached to this report as Exhibits 10.1 and 10.2, respectively, and are incorporated herein by reference.
+Item 5.03    Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+On April 30, 2026, we filed a Seventh Amended and Restated Certificate of Incorporation with the Secretary of State of Delaware, which became effective on the filing date. The Seventh Amended and Restated Certificate of Incorporation increases the number of shares of our authorized Common Stock from 450,000,000 to 900,000,000.
+The foregoing summary does not purport to be complete and is qualified in its entirety by our Seventh Amended and Restated Certificate of Incorporation, a copy of which is attached to this report as Exhibit 3.1 and incorporated herein by reference.
+Item 5.07    Submission of Matters to a Vote of Security Holders
+Our annual meeting of stockholders was held on April 30, 2026 to consider and vote on the following proposals.  The voting results with respect to each matter are set forth below:
+(1)
+Election of Class II Directors
+Name of Director
+For
+Withheld
+Broker
+Non-Votes
+Samuel L. Barker, Ph.D.
+297,300,686
+5,122,476
+44,263,056
+Christopher J. Sobecki
+298,276,486
+4,146,676
+44,263,056
+Judith L. Swain, M.D.
+297,407,977
+5,015,185
+44,263,056
+For
+Against
+Abstain
+Broker
+Non-Votes
+(2)
+Ratification and approval of the Company’s Seventh Amended and Restated Certificate of Incorporation
+297,742,443
+4,445,276
+235,443
+44,263,056
+For
+Against
+Abstain
+Broker
+Non-Votes
+(3)
+Approval of the Company’s 2026 Equity Incentive Plan
+294,995,982
+7,116,668
+310,512
+44,263,056
+For
+Against
+Abstain
+Broker
+Non-Votes
+(4)
+Approval of the Company’s 2026 Non-Employee Directors’ Equity Incentive Plan
+294,908,842
+7,112,300
+402,020
+44,263,056
+For
+Against
+Abstain
+Broker
+Non-Votes
+(5)
+Advisory vote to approve the compensation paid to the Company’s named executive officers
+294,969,542
+6,947,006
+506,614
+44,263,056
+For
+Against
+Abstain
+Broker
+Non-Votes
+(6)
+Ratification and approval of the appointment of Ernst & Young LLP as Company's independent auditors for the fiscal year ending December 31, 2026
+344,266,630
+2,225,211
+194,377
+—
+Item 9.01    Financial Statements and Exhibits
+(d)    Exhibits
+Exhibit No.
+Description
+3.1
+—
+Seventh Amended and Restated Certificate of Incorporation
+10.1
+—
+2026 Equity Incentive Plan
+10.2
+—
+2026 Non-Employee Directors’ Equity Incentive Plan
+EX-104
+—
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Lexicon Pharmaceuticals, Inc.
+Date:   April 30, 2026
+By:
+/s/ Brian T. Crum
+Brian T. Crum
+Senior Vice
+
+President and General Counsel
+

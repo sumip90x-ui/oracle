@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-04-02
+Transaction Date: 2026-04-01
+Person: Raghunathan Vivek — SVP, Engineering
+Type: SELL
+Shares: 3876 at $152.80
+Shares After: 273323
+=== TICKER: SNOW ===
+===

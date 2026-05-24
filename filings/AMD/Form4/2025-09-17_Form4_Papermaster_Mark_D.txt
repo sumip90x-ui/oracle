@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-09-17
+Transaction Date: 2025-09-15
+Person: Papermaster Mark D — Chief Technology Officer & EVP
+Type: OTHER
+Shares: 50400 at $34.19
+Shares After: 33908
+=== TICKER: AMD ===
+===

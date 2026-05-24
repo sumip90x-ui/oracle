@@ -128,6 +128,43 @@ TEST_CASES = {
             "IFRS filer — cash/OCF XBRL tags differ from US GAAP; balance sheet checks skipped."
         ),
     },
+    "AG": {
+        "description": (
+            "First Majestic Silver Corp — Canadian silver miner, "
+            "foreign private issuer, 6-K filer, "
+            "four operating mines in Mexico, Jerritt Canyon Nevada development, "
+            "founder-led by Keith Neumeyer"
+        ),
+        "expected_verdict": ["BUY", "INVESTIGATE", "WATCH"],
+        "expected_conviction_max": 8,
+        "expected_preflight": "pass",
+        "expected_company_name": "First Majestic",
+        "filing_type": "6-K",
+        "foreign_private_issuer": True,
+        "commodity": "SILVER",
+        "sector": "silver_mining",
+        "revenue_mrq_min": 350_000_000,
+        "revenue_mrq_max": 700_000_000,
+        "ocf_ttm_min": 500_000_000,
+        "cash_min": 800_000_000,
+        "commodity_price_min": 20.0,
+        "expected_sector_metrics": [
+            "aisc_per_ageq_oz",
+            "realized_silver_price",
+            "silver_production_oz",
+        ],
+        "aisc_min": 15.0,
+        "aisc_max": 45.0,
+        "notes": (
+            "AG files 6-K not 8-K. AISC is in silver equivalent ounces (AgEq), "
+            "NOT straight silver oz. Q1 2026 AISC was $29.76/AgEq oz. "
+            "Silver price must be fetched (XAGUSD) — NOT assumed from training data. "
+            "Q1 2026 realized silver price was $86.35 — confirm press release fetched. "
+            "AgEq ratio fixed at 75:1 for 2026 per management guidance. "
+            "Founder-led: Keith Neumeyer. Complex jurisdiction: Mexico. "
+            "Jerritt Canyon (Nevada, 7.8M oz gold reserves) restart targeted H2 2027."
+        )
+    },
     "BTG": {
         "description": (
             "B2Gold Corp — Canadian gold miner, foreign private issuer, "
@@ -318,6 +355,33 @@ def run_preflight_tests(tickers=None) -> dict:
                         "error": f"Missing sector metrics: {missing}. Got: {list(sector_metrics.keys())}",
                     }
                     passed = False
+
+            # AISC sanity check for miners
+            if passed and "aisc_min" in tc and fs:
+                sector_metrics = fs.get("sector_metrics", {})
+                aisc_value = None
+                for field in ["aisc_per_oz", "aisc_per_ageq_oz", "aisc_per_lb"]:
+                    if field in sector_metrics:
+                        val = sector_metrics[field]
+                        if isinstance(val, dict):
+                            aisc_value = val.get("value")
+                        elif isinstance(val, (int, float)):
+                            aisc_value = val
+                        break
+
+                if aisc_value is not None:
+                    if aisc_value < tc["aisc_min"] or aisc_value > tc["aisc_max"]:
+                        results[ticker] = {
+                            "test": "aisc_sanity",
+                            "passed": False,
+                            "error": (
+                                f"AISC {aisc_value:.2f} outside expected range "
+                                f"[{tc['aisc_min']:.2f}, {tc['aisc_max']:.2f}]. "
+                                f"May be using wrong cost metric "
+                                f"(e.g., gold AISC vs silver AgEq AISC)"
+                            )
+                        }
+                        passed = False
 
             # 8-K earnings filter check (warning only, does not fail the test)
             if tc.get("must_find_earnings_8k"):

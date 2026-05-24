@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-05
+Transaction Date: 2025-12-31
+Person: Stoddart Richard S — Director, Chair of the Board
+Type: BUY
+Shares: 142 at $82
+Shares After: 16780
+=== TICKER: HAS ===
+===

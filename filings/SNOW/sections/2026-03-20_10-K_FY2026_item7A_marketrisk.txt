@@ -1,0 +1,49 @@
+=== FILING DATE: 2026-03-20 ===
+=== PERIOD COVERED: 2026-01-31 ===
+=== SOURCE: 10-K filed 2026-03-20 ===
+=== SECTION: Item 7A — Market Risk ===
+=== TICKER: SNOW ===
+
+ITEM 7A
+. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Interest Rate Risk
+As of January 31, 2026, we had approximately $4.8 billion of cash, cash equivalents, and short-term and long-term investments in a variety of securities, including money market funds, corporate notes and bonds, U.S. government and agency securities, time deposits, certificates of deposit, and commercial paper. Our cash, cash equivalents, and short-term and long-term investments are held for working capital, capital expenditure, and general corporate purposes, including repurchases of our common stock under our stock repurchase program as well as acquisitions and strategic investments we may make from time to time. We do not enter into investments for trading or speculative purposes. A hypothetical 100 basis point increase or decrease in interest rates would have resulted in a decrease of $11.7 million or increase of $11.4 million, respectively, in the market value of our cash equivalents, and short-term and long-term investments as of January 31, 2026.
+As of January 31, 2025, we had approximately $5.3 billion of cash, cash equivalents, and short-term and long-term investments, and a hypothetical 100 basis point increase or decrease in interest rates would have resulted in a decrease or increase of $15.3 million in the market value.
+In September 2024, we issued an aggregate principal amount of $2.3 billion of the Notes. Neither the 2027 Notes nor the 2029 Notes bear regular interest, and the principal amount of the Notes will not accrete. We may elect or be required to pay special interest on the Notes under certain circumstances in accordance with the terms of the applicable Indenture. Accordingly, we do not have economic interest rate exposure on the Notes. However, the fair value of each series of the Notes fluctuates when interest rates or market prices of our common stock change. We record the Notes at amortized cost on the consolidated balance sheets, and we present the fair value of each series of the Notes for disclosure purposes only. In connection with the Notes offering, we entered into the Capped Calls for a cost of $195.5 million. The Capped Calls are generally expected to reduce the potential dilution to our common stock upon any conversion of the relevant series of the Notes and/or offset any cash payments we are required to make in excess of the principal amount of converted Notes of such series, with such reduction and/or offset subject to a cap. See Note 10, “Convertible Senior Notes,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details.
+Foreign Currency Exchange Risk
+Our reporting currency is the U.S. dollar, and the functional currency of our foreign subsidiaries is primarily the U.S. dollar. The majority of our sales are currently denominated in U.S. dollars, although we also have sales in Euros and, to a lesser extent, in British pounds, Australian dollars, Canadian dollars, Brazilian reals, and Indian rupees. Therefore, our revenue is not currently subject to significant foreign currency risk, but that will likely change in the future as we increase sales in these international currencies and enable sales in additional currencies. Our operating expenses are denominated in the currencies of the countries in which our operations are located, including primarily the United States, and to a lesser extent, in Europe, the Asia-Pacific region, and Canada. Monetary assets and liabilities denominated in currencies other than the functional currency are remeasured to the functional currency at period-end exchange rates. Our consolidated results of operations and cash flows are, therefore, subject to fluctuations due to changes in foreign currency exchange rates and may be adversely affected in the future due to changes in foreign exchange rates.
+In order to manage our exposure to certain foreign currency exchange risks, we utilize foreign currency forward contracts to hedge primarily a portion of our net outstanding monetary assets and liabilities positions and certain intercompany balances denominated in currencies other than the U.S. dollar. We also utilize foreign currency forward contracts, which we designate as cash flow hedges, to manage (i) the volatility in cash flows associated with a portion of our forecasted operating expenses denominated in certain currencies other than the U.S. dollar and (ii) certain forecasted capital expenditures. All of our foreign currency forward contracts mature within 12 months. These forward contracts reduced, but did not entirely eliminate, the impact of adverse currency exchange rate movements. We did not enter into these forward contracts for trading or speculative purposes.
+A hypothetical 10% increase or decrease in foreign currency exchange rates would have resulted in a theoretical increase or decrease in operating loss of approximately $50 million, $39 million, and $25 million for the fiscal years ended January 31, 2026, 2025, and 2024, respectively. This sensitivity analysis assumes that all foreign currencies move in the same direction at the same time in the absence of hedging activities. In addition, a strengthening of the U.S. dollar makes our platform more expensive for international customers, which may slow down consumption.
+81
+Table
+ of Contents
+Other Market Risk
+Our strategic investments consist primarily of non-marketable equity securities recorded at cost minus impairment, if any, and adjusted for observable transactions for the same or similar investments of the same issuer (referred to as the Measurement Alternative). These strategic investments are subject to a wide variety of market-related risks, including volatility in the public and private markets, that could substantially reduce or increase the carrying value of our investments, causing our financial results to fluctuate. Strategic investments are subject to periodic impairment analyses, which involve an assessment of both qualitative and quantitative factors, including the investee’s financial metrics, market acceptance of the investee’s product or technology, and the rate at which the investee is using its cash.
+The following table presents our strategic investments by type (in thousands):
+January 31, 2026
+January 31, 2025
+Equity securities:
+Non-marketable equity securities under Measurement Alternative
+$
+359,114 
+$
+281,158 
+Non-marketable equity securities under equity method
+5,241 
+5,491 
+Marketable equity securities
+6,264 
+13,833 
+Debt securities:
+Non-marketable debt securities
+10,000 
+750 
+Total strategic investments—included in other assets
+$
+380,619 
+$
+301,232 
+See Note 4, “Cash Equivalents, Investments, and Strategic Investments,” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details.
+We plan to continue these types of strategic investments as part of our corporate development program. We anticipate additional volatility to our consolidated statements of operations as a result of changes in market prices, changes resulting from observable transactions for the same or similar investments of the same issuer, and impairments to our strategic investments.
+82
+Table of Contents

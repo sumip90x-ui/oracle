@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-06-05
+Transaction Date: 2025-06-03
+Person: Tessel Marianna — EVP, GBSG
+Type: OTHER
+Shares: 102987 at $281.60
+Shares After: 0
+=== TICKER: INTU ===
+===

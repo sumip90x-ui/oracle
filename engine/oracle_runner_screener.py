@@ -719,7 +719,7 @@ Pick the 5-6 that MOST closely match the pre-run pattern. Ignore composite score
             json={
                 "model": "anthropic/claude-3.5-haiku",
                 "messages": [
-                    {"role": "system", "content": system_msg},
+                    {"role": "system", "content": [{"type": "text", "text": system_msg, "cache_control": {"type": "ephemeral"}}]},
                     {"role": "user",   "content": user_msg}
                 ],
                 "max_tokens": 600
@@ -826,14 +826,14 @@ Include a Devil's Advocate agent who attacks each thesis hard."""
         json={
             "model": MODEL,
             "messages": [
-                {"role": "system", "content": """You are an expert ORACLE simulation seed builder.
+                {"role": "system", "content": [{"type": "text", "text": """You are an expert ORACLE simulation seed builder.
 Build concise, data-grounded seeds that produce specific agent personas and debates.
 Agents need only name, specialty, and blind spot — no backstory, no career history.
 Always include: hard numbers, failure scenarios with historical precedents, explicit conflicts.
 Write Parts I, II, V, and VII in compact format first to preserve token budget for Parts III, VI, and VIII which require full detail.
 Structure: PART I ACTORS, PART II ENVIRONMENT, PART III EVIDENCE, PART IV CANDIDATES,
 PART V RUNNER DNA, PART VI FAILURE SCENARIOS, PART VII KENJI MANDATE, PART VIII DEBATE FODDER.
-Start with: # ORACLE SIMULATION SEED — RUNNER SCREEN"""},
+Start with: # ORACLE SIMULATION SEED — RUNNER SCREEN""", "cache_control": {"type": "ephemeral"}}]},
                 {"role": "user", "content": user_msg}
             ],
             "max_tokens": 8000
@@ -859,7 +859,7 @@ Goal: Rank by 10x potential, find the best entry right now.
         json={
             "model": MODEL,
             "messages": [
-                {"role": "system", "content": "Write focused 2-4 sentence simulation requirements. End with 3 forced votes. No headers. Output only the prompt text."},
+                {"role": "system", "content": [{"type": "text", "text": "Write focused 2-4 sentence simulation requirements. End with 3 forced votes. No headers. Output only the prompt text.", "cache_control": {"type": "ephemeral"}}]},
                 {"role": "user", "content": prompt_msg}
             ],
             "max_tokens": 300

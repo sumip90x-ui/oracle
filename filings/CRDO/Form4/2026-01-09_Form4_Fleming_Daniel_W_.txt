@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-09
+Transaction Date: 2026-01-07
+Person: Fleming Daniel W. — Chief Financial Officer
+Type: SELL
+Shares: 8562 at $128.0977
+Shares After: 446178
+=== TICKER: CRDO ===
+===

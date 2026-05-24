@@ -266,7 +266,7 @@ def _call_api(system_prompt: str, user_prompt: str, api_key: str, max_tokens: in
                 "model":      "anthropic/claude-opus-4.7",
                 "max_tokens": max_tokens,
                 "messages": [
-                    {"role": "system", "content": system_prompt},
+                    {"role": "system", "content": [{"type": "text", "text": system_prompt, "cache_control": {"type": "ephemeral"}}]},
                     {"role": "user",   "content": user_prompt},
                 ],
             },
@@ -723,6 +723,101 @@ def signal_stability_note(ticker: str, prior_runs: list, current_signal: str) ->
     return "PROVISIONAL"
 
 
+# ── Pass/watch brief builder (Tier 3/4/5) ─────────────────────────────────────
+
+def _build_pass_brief(
+    ticker: str,
+    r: dict,
+    fd: dict,
+    l5: dict,
+    l6: dict,
+    top_posts: list,
+    api_key: str,
+) -> str:
+    """
+    Generate a 2-paragraph pass/watch brief for Tier 3/4/5 stocks.
+    Shorter than the full Einhorn memo but still substantive — explains
+    WHY it passed, what would need to change, and the key risk.
+    Used when tier_num >= 3 (WATCH, PASS, AVOID).
+    """
+    price    = fd.get("price", 0) or 0
+    high52   = fd.get("52wk_high", 0) or 0
+    dip      = round((high52 - price) / high52 * 100, 1) if high52 > 0 else 0
+    cap      = fd.get("market_cap_b", 0) or 0
+    rev      = fd.get("rev_growth_pct", 0) or 0
+
+    scout_line  = l5.get("scout", "")
+    skep_line   = l5.get("skeptic", "")
+    fund_line   = l5.get("fundamentals", "")
+    overall     = l5.get("overall", "")
+    catalyst    = l5.get("catalyst", "")
+    kill_cond   = l5.get("kill_condition", "")
+    bull_arg    = l6.get("top_bull_argument", "")
+    bear_arg    = l6.get("top_bear_argument", "")
+    munger_inv  = l6.get("munger_inversion", "")
+
+    posts_text = ""
+    for p in top_posts[:2]:
+        posts_text += f"\n[{p['agent']} R{p['round']} {int(p['conviction']*100)}%]: {p['post'][:250]}"
+
+    if api_key:
+        system = (
+            "You are a senior portfolio manager writing a brief investment pass memo. "
+            "Your style is direct, specific, and honest — like a Greenlight Capital pass note. "
+            "Write exactly 2 paragraphs of flowing prose. No bullet points. No headers. No hedging. "
+            "Paragraph 1: What this company actually is, what it does, why it matters, "
+            "and what the key metrics show — be specific with numbers. "
+            "Then explain clearly and specifically WHY the panel passed it: was it valuation, "
+            "a specific forensic flag, wrong stage of business cycle, or wrong framework applied? "
+            "Name the exact reason, not just 'Skeptic ELIMINATE'. "
+            "Paragraph 2: What would need to change for this to become a BUY. "
+            "What is the specific trigger — a price level, a catalyst, a metric improvement, "
+            "a resolved risk — that would move this from PASS to INVESTIGATE. "
+            "End with the key tail risk in one sentence. "
+            "Use first-person plural (we/our). Be direct. Every sentence must add information."
+        )
+        user = f"""Write a 2-paragraph pass brief for {ticker}.
+
+SNAPSHOT:
+- Price: ${price:.2f} | 52-week high: ${high52:.2f} | Off peak by {dip}%
+- Market cap: ${cap:.1f}B | Revenue growth: +{rev:.1f}% YoY
+
+THINK TANK VERDICTS:
+- Scout: {scout_line}
+- Skeptic: {skep_line}
+- Fundamentals: {fund_line}
+- Overall: {overall}
+
+BULL ARGUMENT (from synthesis layer): {bull_arg[:400]}
+
+BEAR ARGUMENT (from synthesis layer): {bear_arg[:400]}
+
+MUNGER INVERSION: {munger_inv[:200]}
+
+AGENT DEBATE HIGHLIGHTS:{posts_text}
+
+CATALYST: {catalyst}
+KILL CONDITION: {kill_cond}
+
+Write exactly 2 paragraphs. Be specific about WHY it passed and what changes the verdict."""
+
+        prose = _call_api(system, user, api_key, max_tokens=700)
+        if prose and len(prose) > 150:
+            return prose
+
+    # Fallback if API fails
+    why_passed = skep_line[:200] if skep_line else fund_line[:200]
+    return (
+        f"{ticker} is a ${cap:.1f}B company trading at ${price:.2f}, "
+        f"down {dip}% from its 52-week high of ${high52:.2f}, "
+        f"with revenue growing {rev:.1f}% year-over-year. "
+        f"The panel passed this name for the following reason: {why_passed}. "
+        f"\n\n"
+        f"To revisit: {catalyst or 'no specific catalyst identified'}. "
+        f"Key risk: {kill_cond or munger_inv or 'see full Think Tank report'}."
+    )
+
+
 # ── Thesis prose builder ───────────────────────────────────────────────────────
 
 def _build_thesis_prose(
@@ -734,7 +829,7 @@ def _build_thesis_prose(
     top_posts: list,
     api_key: str,
 ) -> str:
-    """Generate 4-paragraph thesis prose. Uses API if available, else extracts from Layer 6."""
+    """Generate 6-paragraph thesis prose. Uses API if available, else extracts from Layer 6."""
     price    = fd.get("price", 0) or 0
     high52   = fd.get("52wk_high", 0) or 0
     dip      = round((high52 - price) / high52 * 100, 1) if high52 > 0 else 0
@@ -771,14 +866,27 @@ def _build_thesis_prose(
             "Your style is modeled after David Einhorn (Greenlight Capital), Bill Ackman (Pershing Square), "
             "and Howard Marks (Oaktree) — precise, analytical, deeply researched, with specific numbers and "
             "genuine conviction. You do not hedge everything. You take a position and defend it. "
-            "Write exactly 4 paragraphs of flowing prose. No bullet points. No headers. No fluff. "
-            "Paragraph 1: The company, the current situation, what the stock has done and why — set the scene with the specific price action and fundamental context. "
-            "Paragraph 2: The bull case — build it with specific numbers, the key asymmetry, why the market is mispricing this, what the catalyst is and when. "
-            "Paragraph 3: What the multi-agent simulation debate revealed — name specific agents by their investor persona, describe the key tension, what the converted skeptics means, what it tells us about the opportunity. "
-            "Paragraph 4: The risks — write the bear case seriously and specifically. What would kill the thesis, what the kill condition is, and how to think about position sizing given the asymmetry. "
-            "Use first-person plural (we / our). Be direct. Every sentence must add information."
+            "Write exactly 6 paragraphs of flowing prose. No bullet points. No headers. No fluff. "
+            "Paragraph 1: What this company actually is and what it does — explain the business model clearly. "
+            "What problem does it solve, who pays for it, how does it make money, what is the moat. "
+            "Do not start with the stock price. Start with the business. "
+            "Paragraph 2: The current situation — price action, what the stock has done and why, "
+            "where it sits vs 52-week high, what the market's concern is. Be specific with numbers. "
+            "Paragraph 3: The bull case — build it with specific metrics from the data. "
+            "Why is the market mispricing this? What does the platform/NRR/RPO/ARPU/NAV data show "
+            "that the market is ignoring? What is the specific catalyst and when? "
+            "Paragraph 4: What the multi-agent simulation debate revealed — name specific agents "
+            "by their investor persona (e.g. growth_compounder, probabilist, saas_specialist). "
+            "Describe the key tension in the debate. What did the converted skeptics argue? "
+            "Paragraph 5: The competitive landscape and key risks — write the bear case seriously "
+            "and specifically. Name the specific competitors. Quantify the risk where possible. "
+            "Paragraph 6: Verdict and position sizing — conviction score, recommended position size "
+            "as a percentage of portfolio, the specific sell trigger, and one sentence on what "
+            "changes the verdict from BUY to PASS or vice versa. "
+            "Use first-person plural (we / our). Be direct. Every sentence must add information. "
+            "Do not repeat numbers already stated. Build the argument progressively."
         )
-        user = f"""Write a 4-paragraph investment memo for {ticker}.
+        user = f"""Write a 6-paragraph investment memo for {ticker}.
 
 SNAPSHOT:
 - Price: ${price:.2f} | 52-week high: ${high52:.2f} | Off peak by {dip}%
@@ -803,9 +911,9 @@ AGENT DEBATE HIGHLIGHTS:{posts_text}
 CATALYST: {catalyst}
 KILL CONDITION: {kill_cond}
 
-Write exactly 4 paragraphs of prose investment memo. No headers, no bullets."""
+Write exactly 6 paragraphs of prose investment memo. No headers, no bullets."""
 
-        prose = _call_api(system, user, api_key, max_tokens=1500)
+        prose = _call_api(system, user, api_key, max_tokens=2500)
         if prose and len(prose) > 200:
             return prose
 
@@ -1024,7 +1132,8 @@ def build_tier_section(
 
     lines = []
     a = lines.append
-    use_deep_dive = tier_num in (1, 2)
+    use_deep_dive = True  # All tickers get prose — tier controls depth not existence
+    is_deep_tier  = tier_num in (1, 2)   # True = full Einhorn-style memo, False = shorter pass/watch brief
 
     if why_text:
         a(why_text)
@@ -1068,7 +1177,7 @@ def build_tier_section(
         a(f"  Sim: {sim_signal} {prob_disp}  |  TT: {tt_disp}  |  EV: {ev_disp}  |  Panel: {panel_disp}")
         a(f"  Risk: {risk}  |  Stability: {stab}")
 
-        if use_deep_dive:
+        if is_deep_tier:
             snap_parts = []
             if price > 0:
                 snap_parts.append(f"${price:.2f}")
@@ -1107,13 +1216,22 @@ def build_tier_section(
                 a(f"  Note: {cs} converted skeptics.")
 
         else:
-            # Shorter format for Tier 3/4/5
+            # Tier 3/4/5 — generate shorter pass/watch brief prose
+            top_posts = get_top_posts(rounds_data, t, n=3)
+            if api_key:
+                print(f"  Generating pass brief for {t} (Tier {tier_num}) via API...",
+                      file=sys.stderr)
+            pass_prose = _build_pass_brief(t, r, fd, l5, l6, top_posts, api_key)
+            a("")
+            a(pass_prose)
+            a("")
+
             if catalyst != "—":
-                a(f"  Catalyst:  {catalyst[:120]}")
+                a(f"  Catalyst:  {catalyst[:150]}")
             if kill_cond != "—":
-                a(f"  Kill:      {kill_cond[:100]}")
+                a(f"  Kill:      {kill_cond[:120]}")
             if skeptic_str:
-                a(f"  Skeptic:   {skeptic_str[:120]}")
+                a(f"  Skeptic:   {skeptic_str[:150]}")
 
             if tier_num == 4:
                 prior_runs = prior_runs_map.get(t, [])

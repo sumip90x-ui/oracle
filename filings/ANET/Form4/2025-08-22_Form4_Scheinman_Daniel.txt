@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-08-22
+Transaction Date: 2025-08-20
+Person: Scheinman Daniel — Director
+Type: OTHER
+Shares: 1942 at $0.0
+Shares After: 2913
+=== TICKER: ANET ===
+===

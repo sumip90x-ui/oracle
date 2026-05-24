@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-12-05
+Transaction Date: 2025-12-04
+Person: PRITZKER PENNY S — Director
+Type: BUY
+Shares: 207 at $0
+Shares After: 13760.110
+=== TICKER: MSFT ===
+===

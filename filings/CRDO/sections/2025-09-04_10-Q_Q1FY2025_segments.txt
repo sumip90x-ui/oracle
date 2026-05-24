@@ -1,0 +1,128 @@
+=== FILING DATE: 2025-09-04 ===
+=== PERIOD COVERED: 2025-08-02 ===
+=== SOURCE: 10-Q filed 2025-09-04 ===
+=== SECTION: Segment Revenue Data ===
+=== TICKER: CRDO ===
+
+ately predicting its pre-tax income or loss and the mix of jurisdictions to which they relate, intercompany transactions, changes in tax laws, the applicability of special tax regimes, changes in how we do business, and discrete items.
+Provision for income taxes for the three months ended August 2, 2025 and August 3, 2024 was as follows (in thousands except percentages):
+Three Months Ended
+August 2, 2025
+August 3, 2024
+% Change
+Provision for income taxes
+$
+1,289
+ 
+$
+622
+ 
+207.2
+ 
+%
+Effective tax rate
+2
+ 
+%
+(
+7
+)
+%
+9
+ 
+%
+The Company’s effective tax rate for the three months ended August 2, 2025 differs from the same period in the prior fiscal year primarily due to the Company generating consolidated net income in the three months ended August 2, 2025 as compared to a consolidated net loss in the same period in fiscal year 2025.
+During the three months ended August 2, 2025, there were no material changes to the total amount of unrecognized tax benefits and the Company does not expect any significant changes in the next 12 months.
+17
+Credo Technology Group Holding Ltd
+Notes to Unaudited Condensed Consolidated Financial Statements
+On July 4, 2025, the United States enacted the One Big Beautiful Bill Act (“OBBBA”), which changes or makes permanent certain tax laws for corporations. Currently, the Company does not expect the provisions of the OBBBA to have a material impact on its effective tax rate or total provision for income taxes.
+11.
+Net Income (Loss) Per Share
+The Company reports both basic net income (loss) per share, which is based on the weighted-average number of ordinary shares outstanding during the period, and diluted net income (loss) per share, which is based on the weighted-average number of ordinary shares outstanding and potentially dilutive shares outstanding during the period.
+Net income (loss) per share for the three months ended
+August 2, 2025
+ and
+August 3, 2024
+, respectively, was determined as follows (in thousands, except per share amounts):
+Three Months Ended
+August 2, 2025
+August 3, 2024
+Numerator:
+Net income (loss)
+$
+63,399
+ 
+$
+(
+9,540
+)
+Denominator:
+Weighted-average shares outstanding used in basic calculation
+171,927
+ 
+165,140
+ 
+Effect of dilutive shares
+  Share-based compensation awards
+9,115
+ 
+—
+ 
+  Customer Warrant
+3,535
+ 
+—
+ 
+  Weighted-average shares outstanding attributable to ordinary shareholders
+184,577
+ 
+165,140
+ 
+Net income (loss) per share:
+Basic
+$
+0.37
+ 
+$
+(
+0.06
+)
+Diluted
+$
+0.34
+ 
+$
+(
+0.06
+)
+Potential dilutive securities include dilutive ordinary shares from share-based awards attributable to the assumed exercise of share options, restricted share units and employee stock purchase plan shares using the treasury stock method. Under the treasury stock method, potential ordinary shares outstanding are not included in the computation of diluted net income (loss) per share if their effect is anti-dilutive.
+The following potentially dilutive securities outstanding (in thousands) have been excluded from the computations of diluted weighted average shares outstanding for the
+three months ended August 2, 2025
+ and August 3, 2024:
+Three Months Ended
+August 2, 2025
+August 3, 2024
+Share-based compensation awards
+296
+ 
+15,227
+ 
+Customer Warrant
+—
+ 
+4,080
+ 
+296
+ 
+19,307
+ 
+18
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q and the audited consolidated financial statements and notes thereto and management’s discussion and analysis of financial condition and results of operations for the fiscal year ended May 3, 2025 included in the Company’s Annual Report on Form 10-K for the fiscal year ended May 3, 2025. Some of the information contained in this discussion and analysis includes forward-looking statements that involve risks and uncertainties as described under the heading “Special Note Regarding Forward-Looking Statements” of this Quarterly Report on Form 10-Q.
+Overview
+At Credo, our mission is to redefine high-speed connectivity by delivering breakthrough solutions that enable the next generation of AI-driven applications. We are committed to enabling faster, more reliable, more energy-efficient, and scalable solutions that support the ever-expanding demands of AI, cloud computing and hyperscale networks. Our connectivity solutions are optimized for optical and electrical Ethernet and PCIE applications, including the 100G (or Gigabits per second), 200G, 400G, 800G and emerging 1.6T (or Terabits per second) Ethernet markets and the 32G PCIe5 and upcoming 64G PCIe6 markets. Our products are based on our Serializer/Deserializer (SerDes) and Digital Signal Processor (DSP) technologies. Our product families include integrated circuits (ICs), Active Electrical Cables (AECs) and SerDes Chiplets. Our intellectual property (IP) solutions consist primarily of SerDes IP licensing.
+Data generation has increased dramatically over the past ten years, creating new and complicated challenges in both circuit and system design. Our proprietary SerDes and DSP technologies enable us to achieve similar performance to leading competitors’ products but at a lower cost and more highly available legacy node (n-1 advantage). Beyond power and performance, Credo continues to innovate to address customers’ system level requirements. We partner with Microsoft on our HiWire Switch AEC and open-source implementation that helps realize Microsoft’s vision for a highly reliable network-managed dual-Top-of-Rack (ToR) architecture (a network architecture design in which computing equipment located within the same or an adjacent rack are, for redundancy, connected to two in-rack network switches, which are, in turn, connected to aggregation switches via fiber optic cables), overcome complex and slow legacy enterprise approaches, simplify deployment and improve connection reliability in the data center.
+The multibillion-dollar data infrastructure market that we serve is driven largely by hyperscale data centers (hyperscalers), as well as general compute, AI/ML infrastructure, multi-service operators (MSOs) and mobile network operators (MNOs). The demands for increased bandwidth, improved power and cost efficiency and heightened security have simultaneously and dramatically expanded as work, education and entertainment have rapidly digitized across myriad endpoint users.
+We design, market and sell product, software and IP solutions. We help define industry conventions and standards within the markets we target by collaborating with technology leaders and standards bodies. We contract with a variety of manufacturing partners to build our products based on our proprietary SerDes and DSP technologies. We develop standard solutions we can sell broadly to our end markets and also develop tailored solutions designed to address specific customer needs. Once developed, these tailored solutions can generally be broadly leveraged across our portfolio and we are able to sell the part or license the IP to the broader market.
+During the three months ended August 2, 2025 and August 3, 2024, we generated $223.1 million and $59.7 million in total revenue, respectively. Product sales revenue comprised 97.3% and 96.0% of our total revenue in the three months ended August 2, 2025 and August 3, 2024, respectively, and IP license revenue represented 2.7% and 4.0% of our total revenue in the three months ended August 2, 2025 and August 3, 2024, respectively. Geographically, 37% and 18% of our total revenue in the three months ended August 2, 2025 and August 3, 2024, respectively, was generated from customers in North America, and 63% and 82% of our total revenue in the three months ended August 2, 2025 and August 3, 2024, respectively, was generated from customers in the rest of t

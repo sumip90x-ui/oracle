@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-17
+Transaction Date: 2026-03-13
+Person: Dabiri John — Director
+Type: SELL
+Shares: 3004 at $184.90
+Shares After: 14788
+=== TICKER: NVDA ===
+===

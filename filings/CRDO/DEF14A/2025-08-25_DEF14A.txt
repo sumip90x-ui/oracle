@@ -1,0 +1,2044 @@
+=== FILING DATE: 2025-08-25 ===
+=== PERIOD COVERED: 2025-10-13 ===
+=== SOURCE: DEF14A filed 2025-08-25 ===
+=== SECTION: Proxy Statement ===
+=== TICKER: CRDO ===
+
+
+
+crdo-20250825
+0001807794
+DEF 14A
+FALSE
+iso4217:USD
+0001807794
+2024-04-28
+2025-05-03
+0001807794
+2023-04-30
+2024-04-27
+0001807794
+2022-05-01
+2023-04-29
+0001807794
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember
+ecd:PeoMember
+2024-04-28
+2025-05-03
+0001807794
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember
+ecd:PeoMember
+2023-04-30
+2024-04-27
+0001807794
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember
+ecd:PeoMember
+2022-05-01
+2023-04-29
+0001807794
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember
+ecd:NonPeoNeoMember
+2024-04-28
+2025-05-03
+0001807794
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember
+ecd:NonPeoNeoMember
+2023-04-30
+2024-04-27
+0001807794
+ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMember
+ecd:NonPeoNeoMember
+2022-05-01
+2023-04-29
+0001807794
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember
+ecd:PeoMember
+2024-04-28
+2025-05-03
+0001807794
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember
+ecd:PeoMember
+2023-04-30
+2024-04-27
+0001807794
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember
+ecd:PeoMember
+2022-05-01
+2023-04-29
+0001807794
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember
+ecd:NonPeoNeoMember
+2024-04-28
+2025-05-03
+0001807794
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember
+ecd:NonPeoNeoMember
+2023-04-30
+2024-04-27
+0001807794
+ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember
+ecd:NonPeoNeoMember
+2022-05-01
+2023-04-29
+0001807794
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember
+ecd:PeoMember
+2024-04-28
+2025-05-03
+0001807794
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember
+ecd:PeoMember
+2023-04-30
+2024-04-27
+0001807794
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember
+ecd:PeoMember
+2022-05-01
+2023-04-29
+0001807794
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember
+ecd:NonPeoNeoMember
+2024-04-28
+2025-05-03
+0001807794
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember
+ecd:NonPeoNeoMember
+2023-04-30
+2024-04-27
+0001807794
+ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember
+ecd:NonPeoNeoMember
+2022-05-01
+2023-04-29
+0001807794
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember
+ecd:PeoMember
+2024-04-28
+2025-05-03
+0001807794
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember
+ecd:PeoMember
+2023-04-30
+2024-04-27
+0001807794
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember
+ecd:PeoMember
+2022-05-01
+2023-04-29
+0001807794
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember
+ecd:NonPeoNeoMember
+2024-04-28
+2025-05-03
+0001807794
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember
+ecd:NonPeoNeoMember
+2023-04-30
+2024-04-27
+0001807794
+ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember
+ecd:NonPeoNeoMember
+2022-05-01
+2023-04-29
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+ 
+SCHEDULE 14A
+(Rule 14a-101)
+INFORMATION REQUIRED IN PROXY STATEMENT
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+(Amendment No.     )
+ 
+ 
+Filed by the Registrant  
+☒
+                              Filed by a Party other than the Registrant  
+☐
+
+Check the appropriate box:
+ 
+☐
+Preliminary Proxy Statement
+☐
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+☒
+Definitive Proxy Statement
+☐
+Definitive Additional Materials
+☐
+Soliciting Material Pursuant to §240.14a-12
+Credo Technology Group Holding Ltd
+
+(Name of Registrant as Specified in Its Charter)
+N/A
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+    
+
+☒
+No fee required.
+☐
+Fee paid previously with preliminary materials.
+☐
+Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11
+    
+Table of Contents
+NOTICE OF ANNUAL GENERAL MEETING OF
+CREDO TECHNOLOGY GROUP HOLDING LTD
+To Be Held on October 13, 2025
+The 2025 Annual General Meeting (the “Annual Meeting”) of Credo Technology Group Holding Ltd, a Cayman Islands exempted company, is scheduled to be held on Monday, October 13, 2025, at 1:00 p.m. Pacific Time both virtually via the internet and in person at Credo Semiconductor Inc., 110 Rio Robles, San Jose, California 95134.
+The Annual Meeting will also be held virtually via live audio-only webcast at http://www.meetnow.global/MV4RRCK, but the physical location of the Annual Meeting will remain at the location specified above for the purposes of the Company’s amended and restated memorandum and articles of association (the “Articles”). If you attend the Annual Meeting virtually, you will be able to vote your ordinary shares electronically by Internet and submit questions online during the meeting by logging in to the website specified above using the control number provided directly by Computershare Trust Company, N.A. ("Computershare") if you are a shareholder of record as described in the “Questions and Answers About Our Annual Meeting” (the “Q & A”) section under “If  I am a shareholder of record, how do I vote my shares?” below, or if you hold shares through a broker, by following the instructions to obtain a legal proxy and submitting it to Computershare for a control number as outlined in the Q & A under “How do I register to attend the Annual Meeting virtually?”.
+The purposes of the Annual Meeting are:
+1.
+To elect the three (3) Class I director nominees to hold office until the earlier of the 2028 Annual General Meeting (the “2028 Annual Meeting”) or their resignation or removal;
+2.
+To approve, on a non-binding advisory basis the compensation of the Company’s named executive officers; and
+3.
+To ratify the selection of Ernst & Young LLP as the Company’s independent registered public accounting firm for its fiscal year ending May 2, 2026.
+In addition, shareholders may be asked to consider and vote upon such other business as may properly come before the meeting or any adjournment or postponement thereof. If any other matters properly come before the Annual Meeting or any adjournment or postponement thereof, the persons named in the proxy card will vote in their discretion the shares represented by all properly executed proxies.
+The foregoing items of business are more fully described in the proxy statement accompanying this notice of the Annual Meeting.
+We have established 6:00 p.m., Pacific Time on August 21, 2025 as the record date for determining those shareholders entitled to notice of and to vote at the Annual Meeting or any adjournment or postponement thereof. Only holders of ordinary shares as of the record date are entitled to notice of and to vote at the Annual Meeting and any adjournment or postponement thereof. Execution of a proxy will not in any way affect your right to attend and vote at the Annual Meeting, and any person giving a proxy has the right to revoke it at any time before it is exercised. Each shareholder may appoint only one proxy holder or representative to attend the meeting on their behalf.
+    
+Table of Contents
+Our Board unanimously recommends that you vote
+FOR
+ each of the proposals included in the proxy as set out below:
+Proposal No.
+Proposal
+Board Vote Recommendation
+1
+To elect the three (3) Class I director nominees to hold office until the earlier of the 2028 Annual Meeting or their resignation or removal.
+For each nominee
+2
+To approve, on a non-binding advisory basis the compensation of our named executive officers, as disclosed in this proxy statement.
+For
+3
+To ratify the selection of Ernst & Young LLP as the Company’s independent registered public accounting firm for its fiscal year ending May 2, 2026.
+For
+In the event of a technical malfunction or other situation that the meeting chair determines may affect the ability of the Annual Meeting to satisfy the requirements for a meeting of shareholders to be held by means of remote communication under the Articles or Cayman Islands law, or that otherwise makes it advisable to adjourn the Annual Meeting, the chair or secretary of the Annual Meeting will convene the meeting at 1:00 p.m. Pacific Time on the date specified above at Credo Semiconductor Inc., 110 Rio Robles, San Jose, California 95134 solely for the purpose of adjourning the meeting to reconvene at a date, time and physical and virtual locations announced by the meeting chair. Under either of the foregoing circumstances, we will post information regarding the announcement in the Investor Relations section of our website at https://investors.credosemi.com.
+Your attention is directed to the accompanying proxy statement. Whether or not you plan to attend the Annual Meeting, it is important that your shares be represented and voted at the Annual Meeting.
+For specific voting instructions, please refer to the information provided in the following proxy statement, together with your proxy card or the voting instructions you receive by mail or email or that are provided via the Internet or by your broker.
+BY ORDER OF THE BOARD OF DIRECTORS
+WILLIAM J. BRENNAN
+President, Chief Executive Officer and Director
+August 25, 2025
+Important notice regarding the availability of proxy materials for the Annual Meeting:
+The proxy statement and the financial and other information contained in our annual report are available on the Internet and may be viewed at www.edocumentview/CRDO.
+
+    
+Table of Contents
+TABLE OF CONTENTS
+ 
+ 
+Page
+Introduction
+1
+Information Regarding the Annual Meeting
+2
+Questions and Answers About Our Annual Meeting
+2
+Proposal No. 1: Election of Three Class I
+ Directors
+10
+Corporate Governance and Matters Related to Our Board of Directors
+17
+Proposal No. 2: Advisory Vote on Compensation of Named Executive Officers
+23
+Proposal No. 3: Ratification of Selection of Independent Registered Public Accounting Firm
+25
+Report of the Audit Committee
+27
+Executive Officers of the Company
+28
+Security Ownership of Certain Beneficial Owners and Management
+29
+Executive Compensation
+31
+Compensation Discussion and Analysis
+31
+Report of the Compensation Committee
+40
+Fiscal 202
+5
+ Summary Compensation Table
+41
+CEO Pay Ratio
+45
+Pay versus Performance
+45
+Certain Relationships and Related Party Transactions
+49
+Additional Information:
+52
+Future Shareholder Proposals and Nominations for the 202
+6
+ Annual Meeting
+52
+Householding — Shareholders Sharing the Same Last Name and Address
+53
+Delinquent Section 16(A) Reports
+53
+Annual Report on Form 10-K
+54
+
+    
+Table of Contents
+PROXY STATEMENT
+FOR
+ANNUAL GENERAL MEETING OF CREDO TECHNOLOGY GROUP HOLDING LTD
+INTRODUCTION
+This proxy statement and the accompanying proxy materials are being furnished in connection with the solicitation by the board of directors (the “Board”) of Credo Technology Group Holding Ltd, a Cayman Islands exempted company, of proxies for use at our 2025 Annual General Meeting (referred to herein as the “Annual Meeting” or the “meeting”) scheduled to be held at 1:00 p.m. Pacific Time, on Monday, October 13, 2025 at Credo Semiconductor Inc., 110 Rio Robles, San Jose, California 95134 and virtually via the Internet at http://www.meetnow.global/MV4RRCK. The physical location of the Annual Meeting will remain at the location specified above for the purposes of the Company’s amended and restated memorandum and articles of association (the “Articles”).
+2025 Proxy   |   1
+Table of Contents
+INFORMATION REGARDING THE ANNUAL MEETING
+General
+This proxy statement contains information about the meeting and was prepared by our management at the direction of our Board. Our Board supports each action for which your vote is solicited.
+Our Board asks you to appoint Daniel Fleming, our Chief Financial Officer, and James Laufman, our Chief Legal Officer and Secretary, or any of them, as your proxy holders to vote your shares at the meeting. You may make this appointment by properly completing the proxy as described below. If appointed by you, your shares represented by a properly completed proxy received by us will be voted at the meeting in the manner specified therein or, if no instructions are marked on the proxy, your shares will be voted as described below. Although management does not know of any other matter to be acted upon at the meeting, unless contrary instructions are given, shares represented by valid proxies will be voted by the persons named on the proxy card in the manner the proxy holders deem appropriate for any other matters that may properly come before the meeting.
+We maintain our registered office in the Cayman Islands at Credo Technology Group Holding Ltd, c/o Maples Corporate Services Limited, P.O. Box 309, Ugland House, Grand Cayman, KY1-1104, Cayman Islands. Our telephone number is (408) 664-9329.
+Record Date and Shares Outstanding
+The record date for the Annual Meeting has been set as 6:00 p.m. Pacific Time on August 21, 2025 (the “Record Date”). Only shareholders of record as of such date will be entitled to notice of and to vote at the meeting. On the Record Date, there were 172,973,500 ordinary shares, par value $0.00005 per share (each, an “ordinary share” or “share”), issued and outstanding. In accordance with our Articles, each ordinary share is entitled to one vote on each of the proposals to be voted on at the meeting. Shares held as of the Record Date include ordinary shares that are held directly in your name as the shareholder of record and those shares held for you as a beneficial owner through a broker, bank or other nominee.
+In this proxy statement, we refer to the fiscal year ending April 29, 2023 as fiscal 2023, the fiscal year ending April 27, 2024 as fiscal 2024, and the fiscal year ending May 3, 2025 as fiscal 2025.
+As used in this proxy statement, references to “Company,” “we,” “us” and “our” refer to Credo Technology Group Holding Ltd.
+QUESTIONS AND ANSWERS ABOUT OUR ANNUAL MEETING
+Q: Why am I receiving these proxy materials?
+A: We have made these materials available to you on the Internet or, upon your request, have delivered printed versions of these materials to you by mail, in connection with our solicitation of proxies for use at the Annual Meeting to be held at 1:00 p.m. Pacific Time on Monday, October 13, 2025. These materials were first sent or given to shareholders on or about September 3, 2025. You are invited to attend the Annual Meeting and are asked to vote on the proposals described in this proxy statement.
+Q: What is included in these proxy materials?
+2025 Proxy   |   2
+Table of Contents
+A: These proxy materials include:
+•
+The notice of the Annual Meeting;
+•
+Our proxy statement for the Annual Meeting; and
+•
+Our 2025 Annual Report, which includes our Annual Report on Form 10-K for the fiscal year ended May 3, 2025, as filed with the U.S. Securities and Exchange Commission (the “SEC”) on July 2, 2025.
+If you requested printed versions of these materials by mail, these materials also include the proxy card or voting instruction form for the Annual Meeting.
+Q: What proposals will be considered at the meeting?
+A: The specific proposals to be considered and acted upon at the Annual Meeting are summarized in the accompanying notice of the Annual Meeting and include:
+1.
+To elect the three (3) Class I director nominees to hold office until the earlier of the 2028 Annual Meeting or their resignation or removal;
+2.
+To approve, on a non-binding advisory basis the compensation of our named executive officers; and
+3.
+To ratify the selection of Ernst & Young LLP (“Ernst & Young”) as our independent registered public accounting firm for our fiscal year ending May 2, 2026.
+If any other matters properly come before the meeting or any adjournment or postponement thereof, the persons named in the proxy card will vote in their discretion the shares represented by all properly executed proxies.
+Q: How does our Board recommend that I vote on the proposals?
+A: At the Annual Meeting, our Board unanimously recommends our shareholders vote:
+1.
+FOR
+ the election of the three (3) Class I director nominees listed in Proposal No. 1 (see Proposal No. 1);
+2.
+FOR
+ the approval, on a non-binding advisory basis, of the compensation of our named executive officers (see Proposal No. 2); and
+3.
+FOR
+ the ratification of the selection of Ernst & Young as our independent registered public accounting firm for our fiscal year ending May 2, 2026 (see Proposal No. 3).
+Q: Why did I receive a one-page notice in the mail regarding the Internet availability of proxy materials instead of a paper copy of the proxy materials? How may I obtain a paper copy of the proxy materials?
+A: The SEC has adopted rules to allow companies to post proxy materials on the Internet and provide only a Notice of Internet Availability of Proxy Materials to shareholders. We have elected to provide access to our proxy materials primarily over the Internet. Accordingly, we are sending a Notice of Internet Availability of Proxy Materials (the “Notice”) to all of our shareholders of record. If your shares are held in “street name,” your bank or brokerage firm will provide the Notice. All shareholders receiving the Notice will have the ability to access the proxy materials over the Internet and request a paper copy of the proxy materials by mail. Instructions on how to access the proxy
+2025 Proxy   |   3
+Table of Contents
+materials over the Internet or to request a paper copy may be found in the Notice. In addition, the Notice contains instructions on how you may request access to proxy materials in printed form by mail or electronically on an ongoing basis. The Notice also instructs you how to submit your proxy electronically over the Internet or by mail.
+Q: How can I get electronic access to the proxy materials?
+A: The Notice will provide you with instructions regarding how to:
+•
+View the proxy materials for the Annual Meeting on the Internet, and
+•
+Instruct us to send future proxy materials to you by email.
+Our proxy materials are also available on the Investor Relations section of our website at https://investors.credosemi.com. None of the materials on or accessible through our website other than the proxy materials are part of this proxy statement or incorporated by reference herein.
+Choosing to receive future proxy materials by email will save us the cost of printing and mailing documents to you and will reduce the impact of our annual general meetings on the environment. If you choose to receive future proxy materials by email, you will receive an email message next year with instructions containing a link to those materials and a link to the proxy voting website. Your election to receive proxy materials by email will remain in effect until you terminate it.
+Q: Who can vote?
+A: The Record Date for the Annual Meeting has been set as 6:00 p.m. Pacific Time on August 21, 2025. Only shareholders of record as of such date will be entitled to notice of and to vote at the meeting. On the Record Date, there were 172,973,500 ordinary shares issued and outstanding. Each ordinary share is entitled to one vote on each director nominee and on each of the other proposals to be voted on at the meeting. Shares held as of the Record Date include shares that are held directly in your name as the shareholder of record and those shares held for you as a beneficial owner through a broker, bank or other nominee.
+Q: What should I do now to vote?
+A: You may vote your shares either by voting online or in person at the meeting or by submitting a completed proxy via the Internet, telephone or mail before the meeting. After carefully reading and considering the information contained in this proxy statement, please follow the instructions as summarized below, depending on whether you hold shares directly in your name as shareholder of record or you are the beneficial owner of shares held through a broker, bank or other nominee. Most of our shareholders hold their shares through a broker, bank or other nominee rather than directly in their own name. As summarized below, there are some distinctions between the procedures for voting shares held of record and those owned beneficially.
+Q: If my shares are held in “street name” by my broker, bank or other nominee, how do I vote my shares?
+A: If your shares are held in a stock brokerage account or by a bank or other nominee, you are considered the beneficial owner of the shares held in “street name,” and the Notice will, subject to the terms made between you and the shareholder of record, be forwarded to you by your bank, broker or other nominee who is considered, with
+2025 Proxy   |   4
+Table of Contents
+respect to those shares, the shareholder of record. Your bank, broker or other nominee, as the record holder of your shares, is required to vote your shares according to your instructions. To vote your shares, you will need to follow the directions your bank, broker or other nominee provides you. Many banks and brokerage firms also offer the option of submitting voting instructions over the Internet or by telephone, instructions for which would be provided by your bank or brokerage firm on a voting instruction form.
+If your shares are held in “street name,” your voting instruction form that you receive from your bank, broker or other nominee provides a link where you may vote those shares. Otherwise, you should contact your bank, broker or other nominee (preferably at least five days before the Annual Meeting) and obtain a “legal proxy” in order to be able to attend, participate in or vote at the Annual Meeting.
+Q: If I am a shareholder of record, how do I vote my shares?
+A: If your shares are registered directly in your name with our transfer agent, Computershare Trust Company, N.A. (our “Transfer Agent” or “Computershare”), you are considered the shareholder of record with respect to those shares, and the Notice was sent directly to you.
+There are four ways to vote:
+During the Annual Meeting
+
+•
+Virtually.
+ You may attend the Annual Meeting virtually and vote using the virtual meeting platform.
+In advance of the Annual Meeting
+
+•
+By Telephone
+. You may submit your proxy by calling the toll-free number provided in the proxy card (which must be submitted by the deadline in the proxy card).
+•
+Via the Internet
+. You may submit your proxy via the Internet by following the instructions provided in the Notice (which must be submitted by the deadline in the Notice).
+•
+By Mail
+. If you request printed copies of the proxy materials by mail, you may submit your proxy by filling out the proxy card and sending it back in the envelope provided (which must be received before votes are cast at the Annual Meeting).
+Please be aware that if you issue a proxy or give voting instructions by telephone or via the Internet, you may incur costs such as telephone or Internet access charges for which you will be responsible.
+Q: What happens if I do not cast a vote?
+A: Many of our shareholders hold their shares through a broker, bank or other nominee rather than directly in their own name. As summarized below, there are some distinctions between shares held of record and those owned beneficially.
+Beneficial owners
+— If you hold your shares in “street name,” it is critical that you instruct your broker, bank or other nominee to cast your votes if you want them to count in the election of three Class I directors (Proposal No. 1) and the advisory vote on the compensation of the named executive officers (Proposal No. 2). The term “broker non-vote” refers to shares held by a broker or other nominee (for the benefit of its client) that are
+2025 Proxy   |   5
+Table of Contents
+represented at the meeting but with respect to which such broker, bank or nominee is not instructed to vote on a particular proposal and does not have discretionary authority to vote on that proposal. Brokers, banks and nominees do not have discretionary voting authority on non-routine matters (including Proposals Nos. 1 and 2) and accordingly may not vote on such matters absent instructions from you as the beneficial holder. Thus, if you hold your shares in “street name,” and you do not instruct your broker, bank or other nominee on how to vote in the election of three Class I directors (Proposal No. 1) and the advisory vote on the compensation of our named executive officers (Proposal No. 2), no votes will be cast on your behalf on such matters.
+The proposal at the Annual Meeting to ratify the appointment of Ernst & Young as our independent registered public accounting firm for our fiscal year ending May 2, 2026 (Proposal No. 3) is considered a routine matter for which brokerage firms may vote uninstructed shares. It is important to us that you affirmatively instruct your bank, broker or other nominee how to vote on all matters, but particularly for the matters in Proposals Nos. 1 and 2 since they are expected to be non-routine matters as described above.
+Shareholders of record
+— If you are a shareholder of record and you do not cast your vote or submit a proxy, no votes will be cast on your behalf on any of the items of business at the Annual Meeting. However, if you sign and return the proxy card with no further instructions, the proxy holders will vote your shares in the manner recommended by our Board on all matters presented in this proxy statement and, as the proxy holders, may determine in their discretion with respect to any other matters properly presented for a vote at the Annual Meeting. A shareholder may also abstain from voting on any proposal. An “abstention” occurs when a shareholder sends in a proxy with explicit instructions to decline to vote regarding a particular matter. Pursuant to our Articles, abstentions have no effect on the outcome of the Proposals.
+Q: How are votes counted?
+A: Each share held by a shareholder as of the Record Date is entitled to one vote. There is no cumulative voting in the election of directors. All votes will be tabulated by the inspector of elections appointed for the meeting, who will count the votes, determine the existence of a quorum and the validity of proxies and ballots, and certify the results of the voting.
+Q: How can I change or revoke my proxy after I have submitted it?
+A: If you are a shareholder of record, you may change or revoke your proxy at any time before it is voted at the Annual Meeting by (1) Internet or telephone (only your latest Internet or telephone proxy submitted prior to the Annual Meeting will be counted), or by (2) signing and returning a new proxy card with a later date. Shareholders of record may also change or revoke their proxies by attending the Annual Meeting virtually and voting using the virtual platform.
+If you are a beneficial owner and submitted voting instructions to your broker, bank or other nominee, please refer to the instructions provided by your broker, bank or other nominee on how to change your vote.
+Q: What if other matters come up at the meeting?
+A: The matters described in this proxy statement are the only matters that we know of that will be voted on at the meeting. If any other matters properly come before the Annual Meeting or any adjournment or postponement thereof, the persons named in the proxy card will vote the shares represented by all properly executed proxies in their discretion.
+2025 Proxy   |   6
+Table of Contents
+Q: Can I attend the Annual Meeting?
+A: The Annual Meeting will be held virtually via live audio-only webcast. We have structured the Annual Meeting to provide substantially the same rights that shareholders would have at an in-person meeting. If you are a shareholder of record or a beneficial owner who has properly registered to attend the Annual Meeting pursuant to the instructions under “Q: How do I register to attend the Annual Meeting virtually?”, you will be able to vote your Credo ordinary shares electronically via the Internet and submit questions online during the meeting by logging in to http://www.meetnow.global/MV4RRCK using the unique control number included on your proxy card or voting instruction form.
+You may attend the Annual Meeting in person at 110 Rio Robles, San Jose, California 95134. If you choose to attend the meeting in person, please arrive at least a half hour prior to the start of the Annual Meeting. Please be prepared to show government identification upon arrival. A company employee will meet you in the front lobby and ask you to check in.
+You are entitled to participate in the Annual Meeting only if you were a shareholder at 6:00 p.m. Pacific Time on the Record Date.
+Q: How do I register to attend the Annual Meeting virtually?
+A: If you are a registered shareholder (i.e., you hold your shares through our Transfer Agent), you do not need to register to attend the Annual Meeting virtually on the Internet. Please follow the instructions on the Notice or proxy card that you received.
+If you hold your shares through an intermediary, such as a bank or broker or other nominee, you must register in advance to attend the Annual Meeting virtually on the Internet or in person by submitting proof of your proxy power (“legal proxy”) reflecting your Company holdings along with your name and email address to Computershare. Requests for registration must be labeled as “Legal Proxy” and be received no later than 5:00 p.m., Eastern Time, on October 8, 2025 (three business days in advance of the meeting). You will receive a confirmation of your registration by email after we receive your registration materials.
+Requests for registration should be directed to us at the following:
+By email
+Forward the email from your broker or other nominee, or attach an image of your legal proxy, to legalproxy@computershare.com
+By mail
+Computershare
+Credo Technology Group Holding Ltd Legal Proxy
+P.O. Box 43001
+Providence, RI 02940-3001
+Q: How can I submit a question at the Annual Meeting?
+2025 Proxy   |   7
+Table of Contents
+A: If you wish to submit a question during the Annual Meeting, you may visit http://www.meetnow.global/MV4RRCK and enter your question(s). We will answer questions and address comments relevant to meeting matters that comply with the meeting rules of conduct during the Annual Meeting, subject to time constraints. We will summarize multiple questions submitted on the same topic. We will try to respond to all appropriate questions during the meeting, as time permits.
+If there are matters of individual concern to a shareholder and not of general concern to all shareholders, or if a question posed was not otherwise answered, we provide an opportunity for shareholders to contact us separately after the Annual Meeting through the Investor Relations section of the Company’s website at https://investors.credosemi.com.
+Q: What if I have technical difficulties or trouble accessing the virtual Annual Meeting?
+A: The virtual meeting platform is fully supported across browsers (MS Edge, Firefox, Chrome and Safari) and devices (desktops, laptops, tablets and cell phones) running the most up-to-date version of applicable software and plugins.
+Note: Internet Explorer is not a supported browser. Participants should ensure that they have a strong WiFi connection wherever they intend to participate in the meeting. We encourage you to access the meeting prior to the start time. For further assistance should you need it you may call 1-888-724-2416.
+Q: What quorum is required for action at the meeting?
+A: The presence of a majority of the voting power of the ordinary shares outstanding and entitled to vote at the meeting, present or represented by proxy, shall constitute a quorum for the transaction of business. Abstentions and broker non-votes are counted for the purpose of determining the presence or absence of a quorum for the transaction of business. In the event there are not sufficient shares present for a quorum at the time of the Annual Meeting, the meeting will stand adjourned as may be determined by our Board in accordance with the Articles to permit the further solicitation of proxies.
+Q: What vote is required to approve each proposal?
+A: Each of Proposals Nos. 1, 2 and 3 requires the approval of an ordinary resolution, being the affirmative vote of the holders of a majority of the ordinary shares who, being present and entitled to vote at the Annual Meeting, vote at the Annual Meeting. Abstentions and broker non-votes will be entirely excluded from each of the votes and will have no effect on the outcome of the proposals.
+Q: What does it mean if I receive more than one Notice or email about the Internet availability of the proxy materials or more than one paper copy of the proxy materials?
+A: If you receive more than one Notice, more than one email or more than one paper copy of the proxy materials, it means that you have shares held in multiple accounts with your brokers or the Transfer Agent.
+Please vote all of these
+
+shares.
+ For all of your shares to be voted by proxy, you must complete, sign, date and return each proxy card and voting instruction card that you receive and do so for all shares represented by each Notice and email that you receive (unless you have requested and received a proxy card or voting instruction card for the shares represented by
+2025 Proxy   |   8
+Table of Contents
+one or more of those notices or emails). We encourage you to have all your shares registered in the same name and address. You may do this by contacting your broker or the Transfer Agent.
+Q: What is the contact information for our Transfer Agent?
+A:
+
+Contact information for our Transfer Agent is as follows:
+Computershare Shareholder Services Call Center
+Toll Free: (800) 736-3001, option 1
+150 Royall St, Suite 101
+Local & International: (781) 575-3100, option 1
+Canton, MA 02021
+Hours: 8 a.m. – 8 p.m. ET Monday to Friday
+Email: https://www.us.computershare.com/investor/Contact
+Q: Who is making and paying for this proxy solicitation?
+A: This proxy is solicited on behalf of our Board. We will pay the cost of distributing this proxy statement and related materials as well as the cost of soliciting proxies. We will also reimburse brokers, banks and other nominees for their reasonable out-of-pocket expenses for forwarding proxy materials to beneficial owners of shares or other persons for whom they hold shares. We have retained Georgeson LLC to assist us in the solicitation of proxies, and we have agreed to pay them a fee of approximately $11,000, plus reasonable expenses, for these services. In addition, to the extent necessary to ensure sufficient representation at the meeting, we may solicit the return of proxies by personal interview, mail, telephone, facsimile, Internet or other means of electronic transmission. The extent to which this will be necessary depends upon how promptly proxies are returned. We urge you to send in your proxy without delay.
+Q: How can I find out the results of the voting at the Annual Meeting?
+A: We plan to announce preliminary voting results at the meeting. Final voting results will be published in a Current Report on Form 8-K filed with the SEC within four business days of the meeting. If the final voting results are not available within four business days after the meeting, we will provide the preliminary results in the Form 8-K and the final results in an amendment to the Form 8-K within four business days after the final voting results are known to us.
+Q: Who should I call if I have questions about the Annual Meeting?
+A: You should contact the following:
+Dan O'Neil
+Vice President, Corporate Development & Investor Relations
+Credo Semiconductor Inc.
+110 Rio Robles
+San Jose, CA 95134
+Email: ir@credosemi.com
+2025 Proxy   |   9
+Table of Contents
+PROPOSAL NO. 1
+ELECTION OF THREE CLASS I DIRECTORS
+Class I Director Nominees (Term Expiring in 2028)
+Our Articles provide that our Board shall consist of such number of directors as fixed by the directors from time to time unless increased or decreased from time to time by the directors or the Company in general meeting. Our Board is currently comprised of nine directors, who are divided into three staggered classes, designated as Class I, Class II and Class III. At each annual general meeting of shareholders, a class of directors will be elected for a three-year term to succeed the class of directors whose terms are then expiring. Class I directors consist of William (Bill) Brennan, Chi Fung (Lawrence) Cheng and Yat Tung (Job) Lam; Class II directors consist of Sylvia Acevedo, Pantas Sutardja and Fariba Danesh; and Class III directors consist of Clyde Hosein, Manpreet Khaira and Lip-Bu Tan.
+After discussing with each director their interest in continuing to serve as directors of the Company, the Nominating and Corporate Governance Committee of our Board (the “NCG Committee”) has recommended, and our Board has nominated, Bill Brennan, Lawrence Cheng and Job Lam for election as Class I directors at the Annual Meeting to serve for three-year terms expiring at our 2028 Annual Meeting or until their earlier death, resignation or removal. All of our Class I director nominees are currently directors. In the event that any new nominees are appointed as Class I directors after this Annual Meeting, they will be required to stand for election at our 2028 Annual Meeting and every third annual general meeting thereafter, if nominated to do so.
+Biographical information for each of the Class I director nominees may be found immediately following this proposal. We have been advised that each of our Class I director nominees is willing to be named as such herein, and each of the Class I director nominees is willing to serve as a director if elected. However, if one or more of the Class I director nominees should be unable or, for good cause, unwilling to serve as a director, the proxy holders may vote for a substitute nominee recommended by the NCG Committee and approved by our Board or the Board may reduce its size.
+Board Recommendation and Required Vote
+Our Board unanimously recommends that you vote
+FOR
+ each Class I director nominee identified below.
+Unless authority to do so is withheld, the proxy holders named in the proxy card will vote the shares represented thereby
+FOR
+ the election of each such nominee. Assuming the presence of a quorum, our Articles require that, in an uncontested election (such as the Annual Meeting), a director nominee will be elected only if such director nominee receives the approval of an ordinary resolution, which requires the affirmative vote of the holders of a majority of the ordinary shares who, being present and entitled to vote at the Annual Meeting, vote at the Annual Meeting with respect to their election (that is, the number of votes cast “for” that nominee exceeds the number of votes withheld from that nominee) at the Annual Meeting. Abstentions and broker non-votes will have no effect on the outcome.
+2025 Proxy   |   10
+Table of Contents
+Name
+Age(1)
+Position(s)
+Class
+Director
+Since
+Director Nominees:
+William (Bill) Brennan
+61
+President, Chief Executive Officer and Director
+I
+2014
+Chi Fung (Lawrence) Cheng
+56
+Chief Technical Officer and Director
+I
+2014
+Yat Tung (Job) Lam
+59
+Chief Operating Officer and Director
+I
+2014
+Continuing Directors:
+Sylvia Acevedo
+67
+Independent Director
+II
+2021
+Pantas Sutardja
+62
+Independent Director
+II
+2015
+Fariba Danesh
+66
+Independent Director
+II
+2025
+Clyde Hosein
+65
+Independent Director
+III
+2024
+Manpreet Khaira
+59
+Independent Director
+III
+2021
+Lip-Bu Tan
+65
+Independent Director
+III
+2019
+(1) The age of each director nominee and continuing director is provided as of the Record Date.
+Board Skills and Experience
+In connection with nominating Class I directors for election at the Annual Meeting and periodically throughout the year, our NCG Committee considers the composition of the Board, including the diversity of backgrounds, skills, experience, viewpoints, and leadership styles to allow the Board to most effectively execute its oversight responsibilities.
+In the below table and biographies, we have included an assessment of the skills and experience of each such nominee or continuing director that led to the conclusion he or she should serve as a director, in light of the Company’s business, strategy and goals.
+Cybersecurity and Information Technology
+✔
+✔
+Expertise in information security and cybersecurity, including cyber risk management and implementation of new information technology systems.
+ESG
+✔
+✔
+✔
+✔
+✔
+Experience in environmental, sustainability and social responsibility.
+Executive Leadership
+✔
+✔
+✔
+✔
+✔
+✔
+CEO or executive officer reporting to the CEO of a publicly traded company.
+2025 Proxy   |   11
+Table of Contents
+Financial Expert
+✔
+✔
+✔
+✔
+Experience as an executive with oversight responsibility for financial reporting, accounting, financial management, or internal audit or as a partner at an independent audit firm.
+International
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+Experience overseeing operations of a global enterprise or working in international markets.
+Mergers & Acquisitions
+✔
+✔
+✔
+Experience in acquisitions, divestitures, and other corporate transactions, including the integration of acquired businesses.
+Public Boards
+✔
+✔
+✔
+✔
+✔
+Experience serving on boards of publicly traded companies other than Credo.
+Risk Management
+✔
+✔
+✔
+Experience overseeing enterprise compliance functions or risk management functions.
+Semiconductor Industry
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+Experience as an executive or board member with knowledge of semiconductor technology, products, manufacturing, end customers, supply chain, and market trends.
+Biographical Information Concerning the Class I Director Nominees
+William (Bill) Brennan
+ has served as our Chief Executive Officer and as a member of our Board since September 2014 and previously served as the Chief Executive Officer and a member of the board of directors of our predecessor entity from December 2013 to September 2014. Prior to joining Credo, Mr. Brennan served as Executive Vice President of Vital Connect, Inc., a biosensor technology company, where he was responsible for business strategy and partner development, from August 2011 to November 2013. Mr. Brennan also served as Vice President in the storage business unit of Marvell Technology, Inc. ("Marvell"), which develops and produces semiconductors and related technology, from May 2000 to August 2011. Prior to joining Marvell, Mr. Brennan served as Vice President with Exis, a partner of NEC Electronics, a semiconductor design and manufacturing company, from January 1993 to May 2000, and as an Account Manager with Texas Instruments Incorporated, a technology company that designs and manufactures semiconductors and various ICs, from June 1986 to January 1993. Mr. Brennan received his B.S. in Electrical Engineering and Computer Science from the University of Colorado.
+We believe Mr. Brennan’s knowledge of our business, products, technology, and customers as well as his career in the semiconductor industry qualify him to serve on our Board.
+2025 Proxy   |   12
+Table of Contents
+Chi Fung (Lawrence) Cheng
+ has served as our Chief Technology Officer and a member of our Board since September 2014 and previously served as the Chief Technology Officer and a member of the board of directors of our predecessor entity from September 2008 to September 2014. Prior to co-founding Credo, Mr. Cheng served as an Engineering Director of analog design for Marvell from November 1997 to August 2008. From 1994 to 1997, Mr. Cheng served as Staff Engineer at Actel Corporation, a manufacturer of integrated circuits. Mr. Cheng received an M.S. in Electrical Engineering from Purdue University.
+We believe Mr. Cheng’s technical expertise and his knowledge of our business, products, and technology, as well as his career in the semiconductor industry qualify him to serve on our Board.
+Yat Tung (Job) Lam
+has served as our Chief Operating Officer and a member of our Board since September 2014. Mr. Lam served as Chief Executive Officer, Chief Operating Officer and a member of the board of directors of our predecessor entity from August 2008 to November 2013, November 2013 to September 2014 and August 2008 to September 2014, respectively. Prior to founding Credo, Mr. Lam served in various roles for Marvell, from Senior Design Engineer when he started in June 1997 to Senior Design Engineering Director by the time he left in August 2008. Mr. Lam also served as a member of the technical staff at Amlogic, Inc., a fabless manufacturing company, from May 1996 to June 1997, and as a Senior Design Engineer at Integrated Device Technology, Inc., which designs, manufactures and markets semiconductor solutions, from May 1993 to June 1996. Mr. Lam holds a B.S. in Electrical Engineering from Oklahoma State University and an M.S. in Electrical Engineering from the University of Minnesota.
+We believe Mr. Lam’s technical expertise and his knowledge of our business, products, and technology as well as his experience in the semiconductor industry qualify him to serve on our Board.
+Class II Directors Continuing in Office Until the 2026 Annual General Meeting
+2025 Proxy   |   13
+Table of Contents
+Sylvia Acevedo
+has served as a member of our Board since December 2021 and was appointed lead independent director of the Board in April 2025. Ms. Acevedo has served as a member of the board of directors of Qualcomm Incorporated, a publicly traded semiconductor company, since November 2020 and has been a member of its governance committee since that time. Ms. Acevedo previously served as Chief Executive Officer of Girl Scouts of the United States of America (GSUSA) from June 2016 to August 2020 and as a member of the GSUSA board of directors from October 2008 to June 2016. From May 2011 to January 2016, she was appointed by President Obama to serve as a White House Commissioner on the White House Initiative for Educational Excellence for Hispanics. Earlier in her career, Ms. Acevedo held senior executive positions at several technology companies, including Dell Technologies Inc. from June 1997 to June 2001, Autodesk, Inc. from August 1992 to June 1996, Ungermann-Bass Inc. from March 1990 to July 1992, and Apple Inc. from 1988 to 1990.
+She was one of four founders of Reba Technologies, a software company, from 2001 to 2002, and subsequently served as Chief Executive Officer of CommuniCard LLC, a professional services firm, from October 2002 to March 2013. Ms. Acevedo holds a B.S. in Industrial Engineering from New Mexico State University and a M.S. in Engineering from Stanford University.
+We believe that Ms. Acevedo’s extensive experience as an executive in leading technology companies, her service on public company boards, and her leadership roles in government and nonprofit organizations qualify her to serve as a member of our Board.
+Fariba Danesh
+ joined as a member of our Board in March 2025. She currently serves as Chief Operating Officer at PsiQuantum, a quantum computing startup based in Palo Alto, California. Prior to joining PsiQuantum in January 2021, Ms. Danesh led Glo AB, a venture-funded photonics and compound semiconductor company, as CEO for nine years. Before this role, she was Senior Vice President and General Manager of the Fiber Optics Products Division at Avago Technologies (now Broadcom). Ms. Danesh received a B.S. in Biochemistry from Santa Clara University.
+We believe Ms. Danesh is qualified to serve on our Board because of her extensive experience as an executive and board member of technology companies.
+Pantas Sutardja
+has served as a member of our Board since August 2015. Mr. Sutardja is the founder and has served as Chief Executive Officer of LatticeWork Inc., a consumer electronics company, since 2013. Prior to Credo, Mr. Sutardja co-founded Marvell and served in various positions from January 1995 to February 2014, starting as VP of Engineering and finishing as Chief Technology Officer. He also served on the board of directors of Marvell from January 1995 to February 2013. He received his B.S., M.S. and PhD degrees in Electrical Engineering and Computer Science from the University of California, Berkeley.
+We believe Mr. Sutardja’s technical expertise and his knowledge of our business, products, and technology, his experience as the co-founder, executive officer, and board member of Marvell, as well as his experience as the founder and Chief Executive Officer of Latticework qualify him to serve on our Board.
+Class III Directors Continuing in Office Until the 2027 Annual General Meeting
+2025 Proxy   |   14
+Table of Contents
+Clyde Hosein
+ has served as a member of our Board and as chair of our audit committee since April 2024. Mr. Hosein has more than 25 years of experience as a chief financial officer responsible for the finance and accounting functions of publicly traded companies. He has served on the board of directors of Dentsply Sirona Inc. (Nasdaq: XRAY), one of the world’s largest manufacturers of professional dental products and technologies, since September 2020. He has been a member of the board of directors of Wolfspeed (NYSE: WOLF), the global leader in silicon carbide technology, from December 2005 to December 2024. Mr. Hosein is currently President and Chief Operating Officer of SambaNova Systems, a leader in next-generation AI infrastructure, since April 2025. Prior to this, he served as Chief Financial Officer of AliveCor Inc., a medical device and AI company producing ECG hardware and software for consumer mobile devices, from March 2021 to April 2023.  Mr. Hosein served as Chief Financial Officer of Automation Anywhere, Inc., an enterprise software
+provider of robotic process automation, from December 2017 to March 2021. From August 2013 to May 2017, he served as Executive Vice President and Chief Financial Officer of RingCentral, Inc. His other senior level financial positions have included the following: Chief Financial Officer and Chief Operating Officer of Marvell Technology Group Ltd., Vice President and Chief Financial Officer of Integrated Device Technology, Inc., and Chief Financial Officer at Candescent Technologies. Early in his career, he spent 14 years in financial and engineering roles at IBM Corporation. Mr. Hosein received his B.S. in Industrial Engineering from The Polytechnic Institute of New York University and his M.B.A. in Finance and International Business from the NYU Stern School of Business. Mr. Hosein also serves on the board of the Myasthenia Gravis Foundation of America, a nonprofit foundation leading patient advocacy organization solely dedicated to myasthenia gravis.
+We believe Mr. Hosein’s experience as Chief Financial Officer of publicly traded technology companies, his financial expertise, his experience serving as a director and chair of the audit committee of publicly traded companies, and his knowledge of the semiconductor industry qualify him to serve on our Board.
+Manpreet Khaira
+has served as a member of our Board since September 2021. Mr. Khaira has served as Vice President and General Manager of AI Solutions at Skyworks Solutions, Inc. ("Skyworks"), a publicly-traded company specializing in high-performance analog semiconductors. He joined Skyworks in 2018 following its acquisition of Avnera Corporation, a company he co-founded and led as Chairman, President, and Chief Executive Officer from November 2003 until its acquisition. Avnera was a provider of low-power analog system-on-chip solutions for applications in audio, voice, speech, and sensors. Prior to Avnera, Mr. Khaira co-founded and served as Chairman, President, and Chief Executive Officer of Mobilian Corporation, a wireless systems company, from February 1999 until its acquisition by Intel Corporation in November 2003. Mr. Khaira holds an M.S. in Computer Science from Carnegie Mellon University and a B.S. in Computer Science and Engineering from the Indian Institute of Technology, Kharagpur, India.
+We believe Mr. Khaira’s extensive experience as a founder and senior executive of technology companies, his leadership roles in the semiconductor industry, and his deep technical expertise qualify him to serve as a member of our Board.
+Lip-Bu Tan
+has served as a member of our Board since October 2019. Mr. Tan currently serves as Chief Executive Officer of Intel Corporation, an American multinational corporation and technology company,  and also serves on the company’s board of directors since March 2025. Mr. Tan served on the board of directors of Cadence Design Systems, Inc. ("Cadence"), a multinational computational software company, from 2004 to 2023, as Executive Chair of its board of directors from 2022 to 2023 and as Chief Executive Officer from 2009 to 2021. From January 2009 to November 2017, Mr. Tan also served as President of Cadence. In 1987, Mr. Tan founded Walden International, an international venture capital firm, and has served as its Chairman since its founding. Mr. Tan also serves as a director of Schneider Electric SE, a multinational energy company, and Intel Corporation, a multinational semiconductor chip manufacturer.  He previously served on the boards of directors of SoftBank Group Corp., a multinational holding company, from 2020 to 2022 and Hewlett Packard Enterprise Company, a technology company, from 2015 to 2021. Mr. Tan served as a director of Flextronics International Ltd. from 2003 to 2012, Inphi Corporation, a
+2025 Proxy   |   15
+Table of Contents
+semiconductor component company, from 2002 to 2012, SINA Corporation, a Chinese technology company, from 1999 to 2015, Ambarella, Inc., a fabless semiconductor design company, from 2004 to 2017, Quantenna Communications, Inc., a communication device company, from 2015 to 2018, Semiconductor Manufacturing International Corporation, a semiconductor manufacturing company, from 2001 to 2018, Aquantia Corp., a  manufacturer of high-speed transceivers, from 2015 to 2019 and Advanced Micro-Fabrication Equipment Inc. China, a China-based  global semiconductor microfabrication equipment company, from 2005 to 2020. Mr. Tan
+received his B.S. in Physics from the Nanyang Technological University of Singapore, his M.S. in Nuclear Engineering from the Massachusetts Institute of Technology, his M.B.A. from the University of San Francisco and his Honorary Doctorate Degree from the Humane Letters University of San Francisco.
+We believe Mr. Tan’s experience as CEO of Intel Corporation and previously as CEO of Cadence Design Systems, his deep knowledge of the semiconductor industry including market trends, technology, customers, operations, and growth strategies, and his extensive experience serving on public company boards of directors qualify him to serve on our Board.
+2025 Proxy   |   16
+Table of Contents
+CORPORATE GOVERNANCE AND
+MATTERS RELATED TO OUR BOARD OF DIRECTORS
+This section describes key corporate governance guidelines and practices that we have adopted. Complete copies of our Corporate Governance Guidelines, the charters of the committees of the Board and our Code of Business Conduct and Ethics, each described below, can be found in the Governance section of the Investor Relations section of our website at investors.credosemi.com. Alternatively, you can request a copy of any of these documents free of charge by writing to the Chief Legal Officer, c/o Credo Semiconductor Inc., 110 Rio Robles, San Jose, California 95134. Information on or accessible through our website is not incorporated by reference in this proxy statement.
+Director Independence
+The majority of our Board is “independent” as such term is defined by the rules and regulations of Nasdaq and the Securities and Exchange Commission (the “SEC”). Our current Board consists of nine directors, three of whom are currently employed by the Company (Messrs. Brennan, Cheng and Lam). The Board has determined that, among the non-employee directors, Mses. Acevedo and Danesh and Messrs. Hosein, Khaira and Sutardja are independent. In March 2025, Mr. Tan was appointed as the chief executive officer of Intel Corporation and is no longer independent as a result of his service as an executive officer for Intel, since the Company’s revenues from Intel were greater than 5% of fiscal 2024 revenue. As a result, Mr. Tan stepped down as chairman of the Board and each applicable committee thereof, but will remain a member of the Board. For a director to be considered independent, our Board must affirmatively determine that neither the director nor any member of their immediate family has had any direct or indirect material relationship with the Company within the previous three years. In evaluating the independence of our non-employee directors, other than Mr. Tan, the Board considered certain transactions, relationships and arrangements between the Company and various third parties with which certain of our independent directors are affiliated, and determined that such transactions, relationships and arrangements were not material and did not interfere with such directors’ exercise of independent judgment in carrying out their responsibilities as directors. There are no family relationships between any director and any of our executive officers.
+Board Leadership Structure
+Our Board is currently chaired by Mr. Brennan, our Chief Executive Officer, and Ms. Acevedo currently serves as lead independent director. Our Corporate Governance Guidelines do not require the Board to separate the roles of Chief Executive Officer and Chair of the Board. We believe that combining the positions of Chief Executive Officer and Chair of the Board helps to ensure that the Board and management act with a common purpose. We also believe that having a combined Chief Executive Officer and Chair of the Board enhances agility and preserves alignment with the interests of our shareholders.
+The Board appointed a lead independent director to help ensure effective independent functioning of the Board in its oversight responsibilities. The position of lead independent director has been structured to serve the need for independent leadership and perspective when we have a combined Chief Executive Officer/Chair of the Board. The lead independent director is empowered to, among other duties and responsibilities, preside over Board meetings in the absence of the Chair of the Board and in executive sessions of independent Board members, act as liaison between the Chair of the Board and the independent directors, consult with the Chief Executive Officer on Board meeting agendas, call meetings of the independent directors or meetings of the Board, preside over any portions of Board meetings at which the evaluation or compensation of the Chief Executive Officer is presented or discussed,
+2025 Proxy   |   17
+Table of Contents
+and, as appropriate upon request, act as a liaison to shareholders. This structure facilitates effective oversight and further strengthens our Board’s independent leadership and commitment to enhancing shareholder value and sound governance practices.
+Board’s Role in Risk Oversight
+Our Board, as a whole and through its committees, has oversight responsibility of our risk management processes and regularly discusses with management our major risk exposures, their potential impact on our business, and the steps we take to manage them. Our Board regularly reviews information from management regarding risks relating to our financial condition, operations, human capital matters, legal and compliance matters, cybersecurity, and other matters. Our Compensation Committee is responsible for reviewing with management the Company’s major compensation-related risk exposures. The Audit Committee reviews and discusses with management its programs to identify, assess, manage and monitor significant business risks of the Company, including financial, operational, business continuity, cybersecurity, legal and regulatory, compliance and reputational risks. The NCG Committee manages risks associated with the independence of our Board, management succession planning, and governance matters.  In fiscal 2025, the Board decided that the NCG Committee should have overall oversight responsibility for our cybersecurity program and that the Audit Committee should have oversight of disclosures relating to cybersecurity incidents and cybersecurity risks. While each committee is responsible for evaluating certain risks and overseeing the management of such risks, the entire Board is regularly informed through committee reports about any such risks.
+During fiscal 2025, our Board periodically received reports from committee members and members of management on the most important strategic issues and risks facing the Company, including through an enterprise risk assessment benchmarking analysis. In addition, our Board and its committees receive regular reports from our head of internal audit, our Chief Legal Officer and other senior management regarding enterprise risk management, litigation and legal matters, compliance programs and risks and other applicable risk-related policies, procedures and limits. We believe that our leadership structure supports our risk oversight function. As indicated above, certain important categories of risk are assigned to committees that review, evaluate and receive management reports on risk.
+Board Meeting Attendance
+The Board held a total of four meetings in fiscal 2025 that comply with standards required by Cayman Islands legal requirements. The number of meetings of each committee of the Board is set forth below under “Committees of our Board.” Each of our current directors attended at least 75% of the total number of meetings of the Board and the number of meetings of Board committees on which such director served that were held during fiscal 2025. The independent directors met regularly in executive session in fiscal 2025 without the presence of the non-independent directors or members of our management. In addition, in fiscal 2025, the Board acted by unanimous written consent in lieu of a meeting two times.
+Annual General Meeting Attendance
+Although directors are encouraged to attend our annual general meetings, we do not have a formal policy requiring such attendance. Four of our directors attended the 2024 annual general meeting.
+Committees of Our Board
+2025 Proxy   |   18
+Table of Contents
+Our Board has three standing committees: the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee. Committee membership as of the Record Date was as follows:
+ 
+Name
+Audit
+Compensation
+NCG
+Sylvia Acevedo
+—  
+Member
+Chair
+Fariba Danesh
+Member
+—
+Member
+Manpreet Khaira
+Member
+Chair
+—
+Pantas Sutardja
+—  
+—
+Member
+Clyde Hosein
+Chair
+Member
+Our Board has adopted written charters for each of these committees, and copies of the charters can be found in the Governance section of the Investor Relations section of our website at investors.credosemi.com. Each of the committee charters is reviewed annually by the respective committee, which may recommend appropriate changes for approval by our Board. None of the material on or accessible through our website is part of this proxy statement or is incorporated by reference herein. During fiscal 2025, our Audit Committee held a total of eight meetings and acted by unanimous written consent one time, our Compensation Committee held four meetings and acted by unanimous written consent eleven times and our NCG Committee held five meetings.
+Audit Committee
+The Board has a separately designated standing Audit Committee established in accordance with Section 3(a)(58)(A) of the Exchange Act. The Audit Committee’s purpose is to assist our Board in overseeing the quality and integrity of our accounting, auditing and reporting practices and our compliance with legal and regulatory requirements. The Audit Committee also, among other things, reviews financial reporting filings with the SEC prior to issuance, appoints and ensures the independence of our independent registered public accounting firm, oversees our internal audit function and the independent registered public accounting firm and reviews and discusses with management and our independent registered public accounting firm the adequacy and effectiveness of our internal controls over financial reporting as reported by management. The Audit Committee is also responsible for establishing procedures for employees to anonymously submit concerns about questionable accounting or audit matters and assisting the Board in its review of any related party transactions. The Audit Committee has historically met one to two times each quarter and at such additional times as are necessary or advisable.
+As of the Record Date, the members of our Audit Committee are Messrs. Hosein and Khaira and Ms. Danesh. Mr. Hosein is the chair of our Audit Committee. Our Board has determined that each member of the Audit Committee meets the applicable independence and financial literacy requirements of the current Nasdaq listing standards and SEC rules and regulations. Our Board has also determined that Messrs. Hosein and Khaira and Ms. Danesh are “audit committee financial experts” as defined in Item 407(d)(5)(ii) of Regulation S-K promulgated under the Securities Act of 1933, as amended (the “Securities Act”).
+Compensation Committee
+The Compensation Committee has the authority to determine, or recommend to the Board for determination, the compensation for our Chief Executive Officer, all other executive officers and our directors. In addition, the Compensation Committee is responsible for periodically reviewing and approving or recommending for approval by the Board, other compensation programs including incentive compensation and equity-based award programs. Under the Compensation Committee charter, the Compensation Committee may delegate the authority to make grants and
+2025 Proxy   |   19
+Table of Contents
+awards of share rights or options to non-Section 16 officers in accordance with the terms of such plans. The Compensation Committee may also delegate its authority to subcommittees or the Chair as it deems appropriate from time to time.
+The members of our Compensation Committee are Messrs. Hosein and Khaira and Ms. Acevedo. Mr. Khaira is the Chair of our Compensation Committee. Our Board has determined that each member of the Compensation Committee meets the applicable independence requirements of Nasdaq and the SEC. In addition, each member of the Compensation Committee is a “non-employee director” under Section 16 of the Exchange Act.
+Nominating and Corporate Governance Committee
+The NCG Committee is responsible for developing and reviewing policies and practices relating to corporate governance, including evaluating and monitoring implementation of our Corporate Governance Guidelines (the “Guidelines”), conducting a regular review of the Guidelines, committee charters, and key compliance policies and recommending any appropriate changes for approval by the Board, and recommending board and director education programs. The NCG Committee also reviews any changes to the Board, studies and reviews with the Board the size and composition of our Board and its committees, is responsible for leading the Board in its self-evaluation process, and screens and nominates candidates for election to our Board. The NCG Committee is also responsible for overseeing management succession planning, our programs relating to environmental, social, and governance matters, and the Company’s cybersecurity risk management program.
+The members of our NCG Committee are Mses. Acevedo and Danesh and Mr. Sutardja. Ms. Acevedo is the Chair of our NCG Committee. Our Board has determined that each member of the NCG Committee meets the general independence requirements of Nasdaq and the SEC.
+Compensation Committee Interlocks and Insider Participation
+None of the members of the Compensation Committee who served during fiscal 2025 is a current or former officer or employee of us or our subsidiaries or had any relationship with us not otherwise disclosed herein under applicable SEC rules. In addition, to our knowledge, there are no compensation committee interlocks between us and other entities involving our executive officers or directors who serve as executive officers or directors of such other entities.
+Identifying and Evaluating Nominees for Director
+In connection with nominating directors for election at annual general meetings and as needed throughout the year, the NCG Committee periodically reviews the composition of the Board in light of current challenges and needs of the Board and its committees and determines whether it may be appropriate to add or remove individuals after considering, among other things, issues of judgment, diversity, age, skills, background, experience and willingness and ability to devote the time necessary to serve as a director. Although the NCG Committee does not have a formal policy regarding diversity on the Board, the NCG Committee will actively seek out candidates with different skills, experiences, perspectives, backgrounds and of different ages, genders, ethnicities, races and other differences in order to enhance the deliberation and decision-making processes of the Board.
+Once the NCG Committee and the Board determine that it is appropriate to add a new director, either as a replacement or as a new position, the NCG Committee uses a flexible set of procedures in selecting individual director candidates. This flexibility allows the NCG Committee to adjust the process to best satisfy the objectives it is attempting to accomplish in any director search. The first step in the general process is to identify the type of
+2025 Proxy   |   20
+Table of Contents
+candidate the NCG Committee may desire for a particular opening, including establishing the specific target skills, experiences and backgrounds that are to be the focus of a director search. The NCG Committee may consider candidates recommended by management, members of the NCG Committee, the Board, shareholders or a third party it may engage to conduct a search for possible candidates.
+In order for a shareholder to have a candidate considered by the NCG Committee, a shareholder should submit the name of the recommended individual, together with appropriate biographical information and background materials as set forth in our Articles, to the NCG Committee in care of our Chief Legal Officer and Secretary, Credo Semiconductor Inc., 110 Rio Robles, San Jose, California 95134. Shareholders who wish to nominate a director for inclusion in our proxy statement, or directly at an annual general meeting in accordance with the procedures in our Articles, should see “Future Shareholder Proposals and Nominations for the 2026 Annual General Meeting—Director Nominations” in this proxy statement for further information.
+Once candidates are identified, the NCG Committee conducts an evaluation of qualified candidates. The evaluation generally includes interviews and background and reference checks. There is no difference in the evaluation process of a candidate recommended by a shareholder as compared to the evaluation process of a candidate identified by any of the other means described above. In identifying and evaluating potential nominees to serve as directors, the NCG Committee will examine each nominee on a case-by-case basis regardless of who recommended the nominee and take into account all factors it considers appropriate.
+If the NCG Committee determines that a candidate should be nominated as a candidate for election to the Board, the candidate’s nomination is then recommended to the Board, and the directors may in turn conduct their own review to the extent they deem appropriate. When the Board has agreed upon a candidate, such candidate is recommended to the shareholders for election at an annual general meeting of shareholders or appointed as a director by a vote of the Board as appropriate.
+Each of the current Class I directors has been recommended by the NCG Committee to the Board for reelection as our Class I directors at the Annual Meeting, and the Board has approved such recommendations.
+Shareholder Communications with Our Board
+Our Board has established a process for shareholders to send communications to our directors. If you wish to communicate with our Board or individual directors, you may send your communication in writing to our Secretary at Credo Semiconductor Inc., 110 Rio Robles, San Jose, California 95134. Each communication should include (i) the name and address of the shareholder, as it appears on the Company’s register of members, and if the Company’s ordinary shares are held by a nominee, the name and address of the beneficial owner of the Company’s ordinary shares, and (ii) the number of ordinary shares of the Company that are owned of record by the record holder and beneficially by the beneficial owner. The Secretary, in consultation with appropriate directors as necessary, will compile all such communications and forward appropriate communications to the relevant director or directors or, if none is specified, to the Chair of the Board.
+Code of Business Conduct and Ethics
+Our Board has adopted a Code of Business Conduct and Ethics that applies to all of our employees, officers and directors, including our Chief Executive Officer, Chief Financial Officer and other executive and senior financial officers. The full text of our Code of Business Conduct and Ethics is available in the Governance section of the Investor Relations section of our website at investors.credosemi.com. Information on or accessible through our
+2025 Proxy   |   21
+Table of Contents
+website is not incorporated by reference in this proxy statement. We intend to disclose future amendments to our Code of Business Conduct and Ethics, or any waivers of such code, on our website or in public filings.
+Role of Compensation Consultants and Absence of Conflict of Interest with Respect Thereto
+The Compensation Committee is authorized to engage compensation consulting firms to provide advice and market data relating to executive officer and director compensation. Any such compensation consulting firms serve at the discretion of the Compensation Committee and provide analysis, advice and guidance with respect to the determination and recommendation of the amount and form of executive and director compensation, as applicable. In fiscal 2025, Compensia Inc. (“Compensia”) was engaged by the Compensation Committee to provide advice and market data with respect to executive compensation.
+The Compensation Committee charter provides that the Compensation Committee shall be directly responsible for the appointment, compensation and oversight of the work of any committee adviser retained by it, and the Company shall provide for appropriate funding, as determined by the Compensation Committee, for payment of reasonable compensation to such committee adviser. The Compensation Committee may select a committee adviser, as applicable, and receive advice from a committee adviser, only after taking into consideration all factors relevant to that person’s independence from the Company’s management, specifically including the following:
+•
+The provision of other services to the Company by the committee adviser’s employer;
+•
+The amount of fees received from the Company by the committee adviser’s employer, as a percentage of the total revenue of the committee adviser’s employer;
+•
+The policies and procedures of the committee adviser’s employer that are designed to prevent conflicts of interest;
+•
+Any business or personal relationship of the committee adviser with a member of the applicable committee;
+•
+Any share capital of the Company owned by the committee adviser; and
+•
+Any business or personal relationship of the committee adviser or the committee adviser’s employer with an executive officer of the Company.
+Under SEC rules, the Compensation Committee must determine whether any work completed by a compensation consultant raises any conflict of interest, after considering the six independence-related factors listed above. For fiscal 2025, each of the Compensation Committee reviewed these six factors as they apply to Compensia and identified no conflicts of interest.
+Amendment to our Articles
+The special resolution threshold of at least two-thirds of the shareholder vote to amend our Articles is statutorily required for companies incorporated in the Cayman Islands.
+2025 Proxy   |   22
+Table of Contents
+PROPOSAL NO. 2
+ADVISORY VOTE TO APPROVE
+THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS
+Pursuant to Section 14A of the Exchange Act, we are asking our shareholders to approve, on an advisory, non-binding basis, the compensation of our named executive officers as described in this proxy statement. This proposal, commonly referred to as the “say-on-pay” proposal, gives our shareholders the opportunity to express their views on our named executive officers’ compensation as a whole. This vote is not intended to address any specific item of compensation or any specific named executive officer, but rather the overall compensation of all of our named executive officers and the philosophy, policies and practices of our Company described in this proxy statement.
+The say-on-pay vote is advisory, and therefore is not binding on us, our compensation committee or our board of directors. The say-on-pay vote will, however, provide information to us regarding investor sentiment about our executive compensation philosophy, policies and practices, which our compensation committee will be able to consider when determining executive compensation for the remainder of the current fiscal year and beyond. Our board of directors and our compensation committee value the opinions of our shareholders. To the extent there are concerns regarding our compensation programs resulting in a vote against the compensation of our named executive officers as disclosed in this proxy statement, we will endeavor to communicate with shareholders to better understand the concerns that influenced the vote and consider our shareholders’ concerns, and our compensation committee will evaluate whether any actions are necessary to address those concerns.
+At our annual meeting held for the 2023 fiscal year, shareholders had the opportunity to vote, on an advisory, non-binding basis, on the frequency of our “say-on-pay” votes. Shareholders supported a resolution that we hold a “say-on-pay” vote every year in accordance with the Board’s recommendation. Accordingly, we will be holding “say-on-pay” votes on an annual basis, with the next “say-on-pay” vote to occur at the annual meeting to be held for the 2026 fiscal year.
+You are encouraged to review the section titled “
+Executive Compensation
+” and, in particular, the section titled “
+Executive Compensation—Compensation Discussion and Analysis
+” in this proxy statement, which provides a comprehensive review of our executive compensation program and its elements, objectives and rationale, together with the compensation tables and related narrative discussion.
+We are asking our shareholders to approve the compensation of our named executive officers as described in this proxy statement by voting for the following non-binding resolution:
+“RESOLVED, that the compensation paid to the company’s named executive officers, as disclosed pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, compensation tables and narrative discussion is hereby APPROVED.”
+Board Recommendation and Required Vote
+Our Board unanimously recommends that you vote
+FOR
+ the approval, on an advisory basis, of the compensation of our named executive officers, as disclosed in this proxy statement.
+Unless authority to do so is withheld, the proxy holders named in the proxy card will vote the shares represented thereby, on an advisory basis,
+FOR
+ the approval, on an advisory basis, of the compensation of our named executive officers, as disclosed in this proxy statement. Assuming the presence of a quorum, the required vote to approve the proposal is an ordinary resolution, which requires the affirmative vote of the holders of a
+2025 Proxy   |   23
+Table of Contents
+majority of the ordinary shares who, being present and entitled to vote at the Annual Meeting, vote at the Annual Meeting. Abstentions and broker non-votes will have no effect on the outcome of the vote on this proposal.
+As an advisory vote, the result of this proposal is non-binding. Although the vote is non-binding, our board of directors and our compensation committee value the opinions of our shareholders and will consider the outcome of the vote when making future compensation decisions for our named executive officers.
+2025 Proxy   |   24
+Table of Contents
+PROPOSAL NO. 3
+RATIFICATION OF SELECTION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+The Audit Committee has appointed Ernst & Young as our independent registered public accounting firm for the fiscal year ending May 2, 2026. At the Annual Meeting, shareholders will be asked to ratify the Audit Committee’s appointment of Ernst & Young as our independent registered public accounting firm for the fiscal year ending May 2, 2026. Even if the appointment is ratified, the Audit Committee may, in its discretion, direct the appointment of a different independent registered public accounting firm at any time during the year if the Audit Committee determines that such a change would be in our shareholders’ best interests.
+Board Recommendation and Required Vote
+Our Board unanimously recommends that you vote
+FOR
+ the ratification of the selection of Ernst & Young LLP as the Company’s independent registered public accounting firm for its fiscal year ending May 2, 2026.
+Unless authority to do so is withheld, the proxy holders named in the proxy card will vote the shares represented thereby
+FOR
+ the appointment of Ernst & Young. Assuming the presence of a quorum, the required vote to approve the proposal is an ordinary resolution, which requires the affirmative vote of the holders of a majority of the ordinary shares who, being present and entitled to vote at the Annual Meeting, vote at the Annual Meeting. Abstentions and broker non-votes will have no effect on the outcome. In the event that the shareholders do not ratify the selection of Ernst & Young at the Annual Meeting, the Audit Committee will reconsider its selection. Even if the appointment is ratified, the Audit Committee may, in its discretion, direct the appointment of a different independent registered public accounting firm at any time during the year if the Audit Committee determines that such a change would be in our shareholders’ best interests.
+Information Concerning Independent Registered Public Accounting Firm
+Ernst & Young has been our auditor and independent registered public accounting firm for our financial statements since June 30, 2018. Representatives of Ernst & Young are expected to be present at the Annual Meeting, and they will be given an opportunity to make a statement, if they desire to do so, and will be available to respond to any appropriate questions from shareholders.
+Fees Paid to Ernst & Young for Fiscal 2025 and Fiscal 2024
+The following table sets forth the fees billed or to be billed by Ernst & Young for professional services rendered with respect to the fiscal years ended May 3, 2025 and April 27, 2024. All of these services were approved by the Audit Committee.
+Type of Fee
+Fiscal 2025 ($)
+Fiscal 2024 ($)
+Audit Fees
+(1)
+1,963,770 
+2,090,116 
+Audit-related Fees
+— 
+— 
+Tax Fees
+— 
+— 
+All Other Fees
+(2)
+3,600 
+3,600 
+Total Fees
+1,967,370
+ 
+2,093,716
+ 
+(1)
+Includes fees for audit services rendered for the audit of our annual financial statements included in our Annual Reports on Form 10-K, review of financial statements included in our Quarterly Reports on Form 10-Q and services that were provided in connection with regulatory filings or engagements.
+2025 Proxy   |   25
+Table of Contents
+(2)
+Includes fees for access to online accounting and tax research software licenses.
+Pre-Approval Policies and Procedures
+The engagement of Ernst & Young for non-audit accounting and tax services performed for us is limited to those circumstances where these services are considered integral to the audit services that Ernst & Young provides or in which there is another compelling rationale for using its services.
+Pursuant to the Sarbanes-Oxley Act of 2002, all audit and permitted non-audit services for which the Company engages Ernst & Young require pre-approval by the Audit Committee. Our Audit Committee has established a policy that allows the Audit Committee to pre-approve non-audit services to be provided by Ernst & Young without further approval of the full committee, on a case-by-case basis. The pre-approval of services may be delegated to the Chair or another member of the Audit Committee, but the decision must be reported to the full Audit Committee at its next scheduled meeting.
+2025 Proxy   |   26
+Table of Contents
+REPORT OF THE AUDIT COMMITTEE OF THE BOARD
+The following is the report of the Audit Committee with respect to our audited financial statements for the fiscal year ended May 3, 2025. The information contained in this report shall not be deemed to be “soliciting material” or to be “filed” with the SEC, nor shall such information be incorporated by reference into any future filing under the Securities Act or the Exchange Act, except to the extent that the Company specifically incorporates the information by reference in such filing.
+The Audit Committee has reviewed and discussed our audited financial statements with management. The Audit Committee has reviewed and discussed the audited financial statements with Ernst & Young LLP, including such items as are required to be discussed by the applicable standards of the Public Company Accounting Oversight Board and the SEC. The Audit Committee has received from the independent registered public accounting firm, Ernst & Young LLP, the written disclosures and the letter required by the Public Company Accounting Oversight Board, and the Audit Committee has discussed with Ernst & Young LLP the independence of the independent registered public accounting firm.
+After review of the discussions and written correspondence described above, as well as such other matters deemed relevant and appropriate by the Audit Committee, the Audit Committee recommended to our Board that the audited financial statements for the last fiscal year be included in our Annual Report on Form 10-K for the fiscal year ended May 3, 2025. The Audit Committee has appointed Ernst & Young LLP as our independent registered public accounting firm for the fiscal year ending May 2, 2026, subject to our shareholders approving the ratification of such appointment at the Annual Meeting.
+The Audit Committee of the Board
+Clyde Hosein, Chair
+Fariba Danesh
+Manpreet Khaira
+ 
+2025 Proxy   |   27
+Table of Contents
+EXECUTIVE OFFICERS OF THE COMPANY
+The following table shows information about our executive officers as of the Record Date:
+ 
+Name
+Title
+William (Bill) Brennan
+President, Chief Executive Officer and Director
+Daniel Fleming
+Chief Financial Officer
+Chi Fung (Lawrence) Cheng
+Chief Technology Officer and Director
+Yat Tung (Job) Lam
+Chief Operating Officer and Director
+James Laufman
+Chief Legal Officer and Secretary
+Biographical information for each of the above-named officers is set forth below.
+William (Bill) Brennan. Age 61.
+ Mr. Brennan’s biography is included with the biographies of other members of the Board above.
+Daniel Fleming. Age 59.
+ Mr. Fleming has served as our Chief Financial Officer since August 2015. Prior to joining Credo, Mr. Fleming served as Vice President of finance at Siva Power, Inc., a thin-film solar power company, where he was responsible for Siva Power’s finance, accounting and administration functions from January 2012 to July 2015. Prior to joining Siva Power, Mr. Fleming held various financial management positions at SunPower Corporation, a solar power company, Marvell, Prism Solutions, Inc. and Xilinx, Inc., a semiconductor manufacturing company. Mr. Fleming began his professional career as a circuit design engineer at AT&T. Mr. Fleming received a B.S. in Electrical Engineering from the Pennsylvania State University and an M.B.A in Finance from the Kelley School of Business at Indiana University.
+Chi Fung (Lawrence) Cheng. Age 56.
+ Mr. Cheng’s biography is included with the other members of the Board above.
+Yat Tung (Job) Lam. Age 59.
+ Mr. Lam’s biography is included with the other members of the Board above.
+
+James Laufman. Age 60.
+ Mr. Laufman has served as our Chief Legal Officer and Secretary since August 19, 2024. Prior to joining Credo, Mr. Laufman served as Chief Legal Officer and Corporate Secretary of Automation Anywhere, Inc., a private SAAS-based intelligent automation company, from 2018 to 2024. Prior to Automation Anywhere, Mr. Laufman served as Senior Vice President, General Counsel and Corporate Secretary for Infinera Corporation from 2014 to 2018, Vice President, General Counsel at Marvell Semiconductor from 2008 to 2014 and Vice President, General Counsel and Secretary at Integrated Device Technology, Inc. from 1999 to 2008. Prior to these roles, Mr. Laufman also served as General Counsel of the US operations of Rohm Corporation and as an associate attorney focused on business and commercial litigation at the Berliner Cohen and Popelka Allard law firms. Mr. Laufman received a B.S. in Business Administration from California State University, Chico and a J.D. from Santa Clara University School of Law.
+2025 Proxy   |   28
+Table of Contents
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth information regarding the beneficial ownership of our shares as of July 31, 2025, except as noted otherwise, for:
+•
+Each person or entity who is known by us to own beneficially more than 5% of our outstanding shares;
+•
+Each of our directors and nominees for director;
+•
+Each of our named executive officers in the Summary Compensation Table of this proxy statement; and
+•
+All persons who were directors or executive officers as of July 31, 2025 as a group.
+In accordance with the rules of the SEC, beneficial ownership includes voting or investment power with respect to securities and includes the shares issuable pursuant to awards that vest or options that are exercisable within 60 days of July 31, 2025. Such shares are deemed outstanding for computing the percentage of the person holding such awards or options but are not outstanding for computing the percentage of any other person. The percentage ownership of our ordinary shares in the “Shares Beneficially Owned” column in the table below is based on 172,914,100 of our ordinary shares outstanding as of July 31, 2025.
+Unless otherwise indicated, the address for each listed shareholder is: c/o Credo Technology Group Holding Ltd, 110 Rio Robles, San Jose, California 95134. To our knowledge, except as indicated in the footnotes to this table and pursuant to applicable community property laws, the persons named in the table have sole voting and investment power with respect to all of their ordinary shares.
+ 
+Shares Beneficially Owned
+Name of Beneficial Owner
+  Number  
+  Percent**  
+5% Shareholders:
+Entities affiliated with The Vanguard Group
+(1)
+16,355,363
+9.84%
+Entities affiliated with BlackRock, Inc.
+(2)
+11,365,226
+6.7%
+Entities affiliated with JPMorgan Chase & Co
+(3)
+5,494,410
+3.2%
+Directors and Named Executive Officers:
+Chi Fung (Lawrence) Cheng
+(4)
+7,241,651
+4.19%
+Clyde Hosein
+3,451
+*
+Daniel Fleming
+(5)
+482,428
+*
+Fariba Danesh
+0
+*
+James Laufman
+(6)
+24,663
+*
+Lip-Bu Tan
+(7)
+685,915
+*
+Manpreet Khaira
+(8)
+55,416
+*
+Pantas Sutardja
+(9)
+5,894,244
+3.41%
+Sylvia Acevedo
+(10)
+13,272
+*
+William (Bill) Brennan
+(11)
+2,401,760
+*
+Yat Tung (Job) Lam
+(12)
+3,686,577
+2.13%
+All directors and named executive officers as a group (11 persons)
+(13)
+20,485,926
+11.84%
+*    Less than one percent.
+**    The percentage of beneficial ownership for the following table is based on 172,914,100 shares issued and outstanding as of the date of this table.
+2025 Proxy   |   29
+Table of Contents
+(1)
+Based solely on a Schedule 13G/A filed with the SEC on November 12, 2024, consists of: 16,355,363 shares held of record by The Vanguard Group. The address for The Vanguard Group is 100 Vanguard Blvd., Malvern, Pennsylvania 19355. This shareholder has sole dispositive power with respect to 15,952,784 of such shares and shared dispositive power over 402,579 of such shares.
+(2)
+Based solely on a Schedule 13G/A filed with the SEC on April 23, 2025, consists of: 11,365,226 shares held of record by BlackRock, Inc. BlackRock, Inc. has sole dispositive power with respect to all of the shares. The address for BlackRock, Inc. is 50 Hudson Yards, New York, NY 10001.
+(3)
+Based solely on a Schedule 13G/A filed with the SEC on April 21, 2025, consists of: 5,494,410 shares held of record by JPMorgan Chase & Co. The address for JPMorgan Chase & Co is 383 Madison Avenue, New York, NY 10179. This shareholder has sole dispositive power with respect to 5,480,530 of such shares and shared dispositive power over 606 of such shares.
+(4)
+Consists of (i) 11,799 shares held directly by Mr. Cheng, (ii) 7,223,602 shares held by the Cheng Huang Family Trust U/T/A DTD 12/22/2003 (the "Cheng Huang Family Trust") and (iii) 6,250 shares issuable pursuant to RSUs held directly by Mr. Cheng that will vest within 60 days of July 31, 2025. Mr. Cheng is a joint trustee with shared voting and investment power over the shares held by the Cheng Huang Family Trust. Mr. Cheng disclaims beneficial ownership of these indirectly held shares except to the extent of any pecuniary interest therein.
+(5)
+Consists of (i) 476,178 outstanding shares and (ii) 6,250 shares issuable pursuant to RSUs that are vested or will vest within 60 days of July 31, 2025.
+(6)
+Consists of (i) 5,913 outstanding shares and (ii) 18,750 shares issuable pursuant to RSUs that are vested or will vest within 60 days of July 31, 2025.
+(7)
+Consists of (i) 43,541 shares held directly by Mr. Tan, (ii) 467,180 shares held by Walden Technology Ventures Investments II, L.P. (ii) 39,736 shares held by A&E Investment LLC, (iv) 133,583 shares held by the Lip-Bu Tan & Ysa Loo Trust UA 02/03/1992 (the "Lip-Bu Tan & Ysa Loo Trust") and (v) 1,875 shares issuable pursuant to RSUs held directly by Mr. Tan that are vested or will vest within 60 days of July 31, 2025. Mr. Tan, a member of our board of directors, is the Managing Director of China Walden Venture Investment II G.P., Ltd, which is the General Partner of Walden Technology Ventures Investments II, L.P.; is the Manager of A&E Investment LLC, an entity owned by Mr. Tan’s family trust for which Mr. Tan is a joint trustee; and is a joint trustee with shared voting and investment power over the shares held by the Lip-Bu Tan & Ysa Loo Trust. Mr. Tan disclaims beneficial ownership of these indirectly held shares except to the extent of any pecuniary interest therein..
+(8)
+Consists of (i) 53,541 outstanding shares and (ii) 1,875 shares issuable pursuant to RSUs that are vested or will vest within 60 days of July 31, 2025.
+(9)
+Consists of (i) 5,890,494 outstanding shares and (ii) 3,750 shares issuable pursuant to RSUs that are vested or will vest within 60 days of July 31, 2025.
+(10)
+Consists of (i) 11,397 outstanding shares and (ii) 1,875 shares issuable pursuant to RSUs that are vested or will vest within 60 days of July 31, 2025.
+(11)
+Consists of (i) 174,157 shares held directly by Mr. Brennan, (ii) 2,211,978 shares held by The Brennan Family Trust, DTD 09/06/2002 (the “Brennan Family Trust") and (iii) 15,625 shares issuable pursuant to RSUs that will vest within 60 days of July 31, 2025. Mr. Brennan is a joint trustee with shared voting and investment power over the shares held by the Brennan Family Trust.
+(12)
+Consists of (i) 2,525,327 shares held directly by Mr. Lam, (ii) 1,000,000 shares held by Zhan (BVI) Co Ltd., (iii) 30,000 shares held by the Evelyn and Job April Foundation, (v) 125,000 shares held by the Evelyn Zhan Trust UA 4/17/2025 EZ Trust (the "EZ Trust") and (vi) 6,250 shares issuable pursuant to RSUs held directly by Mr. Lam that are vested or will vest within 60 days of July 31, 2025. Mr. Lam, our Chief Operating Officer and a member of our board of directors, shares voting and investment power with his spouse over the shares held by Zhan (BVI) Co Ltd. Mr. Lam and his spouse share voting and investment power over the Evelyn Job and April Foundation which is a tax-exempt 501(c)(3) charitable institution for which Mr. Lam and his spouse share voting and investment power over the securities owned by the foundation. Mr. Lam's spouse is a trustee with voting and investment power over the shares held by the EZ Trust. Mr. Lam disclaims beneficial ownership of these indirectly held shares except to the extent of any pecuniary interest therein.
+(13)
+Consists of (i) an aggregate of 20,422,826 outstanding shares and (ii) an aggregate of 62,500 shares issuable pursuant to RSUs that vested or will vest within 60 days of July 31, 2025.
+2025 Proxy   |   30
+Table of Contents
+EXECUTIVE COMPENSATION,
+COMPENSATION DISCUSSION AND ANALYSIS
+This Compensation Discussion and Analysis (this “CD&A”) reviews the compensation of our named executive officers for the fiscal year ended May 3, 2025. It also provides an overview and analysis of our compensation program and policies, material compensation decisions with respect to fiscal 2025 compensation and the relationship between our business performance and compensation practices.
+Our named executive officers ("NEOs"), for fiscal 2025, which began on April 29, 2024 and ended on May 3, 2025, consist of:
+•
+William (Bill) Brennan, President, Chief Executive Officer, and Director;
+•
+Daniel Fleming, Chief Financial Officer;
+•
+Yat Tung (Job) Lam, Chief Operating Officer;
+•
+Chi Fung (Lawrence) Cheng, Chief Technology Officer; and
+•
+James Laufman, Chief Legal Officer and Secretary, who joined us on August 19, 2024.
+Fiscal 2025 Highlights
+•
+Our annual revenue grew 126.3% year-over-year to $436.8 million.
+•
+Our total product sales and product engineering services revenue grew 157% year-over-year to $424.3 million.
+•
+Our GAAP net income grew 284% year-over year to $52.2 million and non-GAAP net income grew 792% year-over year to $129.9 million.
+Our Compensation Objectives and Philosophy
+Our executive compensation program, as overseen by our Compensation Committee, is designed to support and incentivize our executive team to ensure the Company’s achievement of its primary business goals and allow the Company to attract and retain executives whose talents, expertise, leadership and contributions are expected to build and sustain growth in long-term shareholder value. As a result, the largest portion of our executives' compensation is delivered in the form of long-term equity incentive awards. The Compensation Committee reviews our compensation policies and overall program design to ensure that they promote close alignment of our executives' interests with the interests of our shareholders and our business goals, and that the total compensation paid to our executives is fair, reasonable and competitive for our size and stage of development.
+The key objectives of our compensation program include the following:
+•
+Attract, retain and motivate qualified and talented individuals with market competitive compensation
+. We have structured our compensation program to ensure we are able to attract and retain the talent necessary for us to achieve our business goals. Our Compensation Committee considers compensation data prepared by its independent compensation consultant, Compensia relating to the compensation of executives in similar positions at peer companies determined by the Compensation Committee. This includes review of data at the 25th, 50th and 75th percentiles of peer companies for each compensation component.
+•
+Pay for performance
+. Our executive compensation program is intended to motivate our executive officers by more closely linking the value of the compensation they receive to our overall business and financial goals over short and long-term periods. For fiscal 2025, base salaries represented the only fixed component
+2025 Proxy   |   31
+Table of Contents
+of compensation, and NEOs' annual and long-term incentive opportunities were primarily performance-based.
+•
+Align the interests of our executive officers and employees with those of our shareholders
+. Equity-based compensation constitutes the most significant portion of our executive officers’ overall compensation. The Compensation Committee believes long-term equity incentives foster a culture of ownership and promote strong alignment between the interests of our executive officers and the interests of our shareholders because it gives executive officers and shareholders a common interest in share or stock price performance.
+Compensation Program Governance
+The Compensation Committee assesses the effectiveness of our executive compensation program and reviews risk mitigation and governance matters, which includes maintaining the following practices:
+What We Do
+What We Don’t Do
+✔
+Equity-based compensation is the most significant element of overall NEO compensation
+✘
+No hedging or pledging of company securities
+✔
+Utilize multi-year and performance-based vesting for equity-based awards
+✘
+No excessive perks
+✔
+Engagement of an independent compensation consultant to provide information about pay levels and practices of our peers
+✘
+No supplemental executive retirement plans that provide pension or other benefits to our NEOs
+✔
+Regularly review and utilize peer data
+✘
+No acceleration of equity awards on a “single trigger” basis on a change in control
+✔
+Cash bonuses require a minimum level of financial performance for any payout
+✘
+No golden parachute excise tax gross-ups
+✔
+Annual risk assessment of compensation programs
+✔
+All of our executive officers are subject to “double trigger” conditions for the acceleration of vesting of equity awards and payment of any cash severance amounts following a change in control event
+Compensation Process
+Advisory Vote on Executive Compensation - "Say on Pay" Vote
+At our annual meeting held for the 2023 fiscal year, shareholders had the opportunity to vote, on an advisory, non-binding basis, on the frequency of our “say-on-pay” votes. Shareholders supported a resolution that we hold a “say-on-pay” vote every year. The say-on-pay vote is advisory and is not binding on us, the Compensation Committee, or the Board. Nonetheless, we value the opinion of our shareholders, and the Compensation Committee considers the outcome of the voting decisions and any shareholder concerns when considering future compensation decisions.
+At our annual meeting held for the 2024 fiscal year, we held a non-binding, advisory vote on the compensation of our NEOs (a “say-on-pay” vote) and over 88% of the votes cast approved our NEOs’ compensation for fiscal 2024. Notwithstanding the strong level of support for our executive compensation program demonstrated by the
+2025 Proxy   |   32
+Table of Contents
+result of last year’s say-on-pay vote, we reviewed our executive compensation programs and made adjustments to align with market best practices favorable to shareholder interests such as: (1) having some portion of executive equity compensation to be performance-based, and (2) the implementation of stock ownership guidelines for our executive officers and directors.  As a result, our Compensation Committee recommended and the Board approved: (1) 100% of our annual equity grants made to executives in fiscal 2025 were granted as performance-based restricted stock units, as further described under “Elements of Compensation – Long-Term Equity Compensation” below (not including any new hire grants made upon commencement of employment); and (2) stock ownership guidelines in our updated Corporate Governance Guidelines, as further described under “Other Compensation Plans and Policies – Stock Ownership Guidelines” below.
+The Board and the Compensation Committee value the opinions of our shareholders and will continue to consider the results of future say-on-pay votes, as well as feedback received throughout the year, when making compensation decisions for our executive officers.
+Role of the Compensation Committee and Management
+The Compensation Committee oversees the development and administration of our executive compensation program, including the underlying philosophy and related policies. The Compensation Committee members are independent members of the Board, as determined under the relevant rules of Nasdaq and the SEC. The Compensation Committee reviews and approves, or recommends to the Board for approval, the compensation of our Chief Executive Officer and all other named executive officers.
+The Board including the Compensation Committee obtains input from executive officers and senior management regarding the Company’s annual operating plan, expected financial results, and related risks. Annually, the Compensation Committee reviews the base salary, target cash incentive opportunities and equity awards for our named executive officers to verify alignment with our business strategy, determine whether any changes would be appropriate and approve their compensation packages and payouts. The Compensation Committee also approves offers of employment and compensation of new executive officers.
+Role of the Independent Compensation Consultant
+The Compensation Committee is authorized to engage compensation consulting advisors to provide advice and market data relating to executive and director compensation. Any such compensation consultants serve at the discretion of the committee by which they were engaged and provide analysis, advice and guidance with respect to the determination and recommendation of the amount and form of executive and director compensation. As previously discussed, Compensia was engaged by the Compensation Committee as an independent compensation consultant to provide advice and market data regarding executive compensation in fiscal 2025. Consistent with the Company’s compensation philosophy, the Compensation Committee considers compensation practices of peer companies including compensation levels, types of compensation, and compensation program designs. This data helps inform the Compensation Committee’s decision making, but the Committee may also consider other factors including the Company’s financial performance, succession planning considerations, the stage of growth of the Company and other retention and hiring goals.
+Peer Group
+In fiscal 2025, our Compensation Committee, with the assistance of Compensia and senior management, reviewed its compensation peer group of 18 comparable companies in the semiconductor and semiconductor and materials and equipment industries. The companies in this compensation peer group were selected on the basis of
+2025 Proxy   |   33
+Table of Contents
+revenue and market capitalization to best reflect a group of companies most similar to us. Relative to our fiscal 2024 peer group, Aehr Test Systems (AEHR) and CEVA, Inc. (CEVA) were removed, while Astera Labs (ALAB), Silicon Laboratories (SLAB) and Universal Display (OLED) were added, in each case based on fit with the revenue and market capitalization criteria described above. The Compensation Committee reviewed and considered compensation levels of our executive officers against the levels for executive officers in similar roles within the compensation peer group to ensure that our executive compensation program remained competitive in the market for continuing to recruit, retain, and incentivize our executive officers and to reward them appropriately for performance achieved. With regard to revenue, the 50th percentile of the peer group was $548 million and with respect to market capitalization, the 50th percentile of the peer group was $2.9 billion. Relative to the peer group, at the time of the Compensation Committee's approval of the peer group, we ranked at approximately the 25th percentile on a last four quarter revenue basis and at approximately the 95th percentile on a market capitalization basis. For fiscal 2025, the executive compensation peer group consisted of the following companies:
+Fiscal 2025 Peer Group
+ACM Research, Inc. (ACMR)
+Onto Innovation Inc. (ONTO)
+Ambarella, Inc. (AMBA)
+PDF Solutions, Inc. (PDFS)
+Astera Labs (ALAB)
+Power Integrations, Inc. (POWI)
+FormFactor (FORM)
+Rambus Inc. (RMBS)
+Impinj, Inc. (PI)
+Semtech Corporation (SMTC)
+indie Semiconductor, Inc. (INDI)
+Silicon Laboratories (SLAB)
+Lattice Semiconductor Corporation (LSCC)
+SiTime Corporation (SITM)
+MACOM Technology & Solutions Holdings, Inc. (MTSI)
+Universal Display (OLED)
+Navitas Semiconductor (NVTS)
+Veeco Instruments Inc. (VECO)
+Elements of Compensation
+Base Salary
+We set our executives’ base salaries at competitive levels necessary to attract and retain top-performing executives and to compensate executives for their job responsibilities and level of experience. The base salaries are intended to provide a fixed component of compensation that is commensurate with each executive’s experience, role and responsibilities. Effective as of January 1, 2025, the Compensation Committee undertook a review of the cash compensation levels of our NEOs, including a review of peer company compensation levels, and determined that the following adjustments to base salaries were appropriate to continue to provide market competitive cash compensation opportunities to our NEOs and given strong individual and company performance in recent years: for Mr. Brennan, a base salary increase from $500,000 to $650,000; for Mr. Fleming, a base salary increase from $400,000 to $430,000; for Mr. Lam, a base salary increase from $330,750 to $400,000; and for Mr. Cheng, a base salary increase from $385,875 to $400,000. The Compensation Committee approved a base salary of $400,000 for Mr. Laufman effective August 19, 2024, the start of his employment with the Company.
+Annual Bonuses
+In June 2024, our Compensation Committee adopted the FY 2025 Executive Incentive Compensation Plan (the “Bonus Plan”) to attract, motivate, and retain our NEOs and to align our NEOs’ performance with our corporate goals. Our Compensation Committee determines which executive officers are eligible to participate in the Bonus Plan, the performance period, the performance goals and the method for measuring such performance goals, the weights and associated target levels for each performance measure, and the potential payouts based on the various target levels for each performance measure. For fiscal 2025, the Bonus Plan was based on achievement of both
+2025 Proxy   |   34
+Table of Contents
+company-level performance goals (having a 75% weighting) and individual performance goals (having a 25% weighting) over two performance periods, one which measures performance over the first six months of the fiscal year and the second which measures performance over the full fiscal year, as described below. Our Compensation Committee approved target bonus opportunities under the Bonus Plan for fiscal 2025 for each of our NEOs set as a percentage of base salary as follows: Mr. Brennan: 100%; Mr. Fleming: 65%; Mr. Lam: 50%; Mr. Cheng: 50%; and Mr. Laufman: 50%.
+Company-Level Performance Goals
+For fiscal 2025, the company-level performance metrics were based on combined revenue growth and Non-GAAP net income growth percentages over the prior year's performance. Non-GAAP net income is calculated from GAAP net income which excludes the effect of share-based compensation expenses, asset impairment and related charges (if applicable), and the related tax effect adjustment to the provision for income taxes. For the first performance period, revenue and Non-GAAP net income growth as measured at the end of the first half of fiscal 2025 were compared to our revenue and Non-GAAP net income at the end of the first half of fiscal 2024. For the second performance period, revenue and Non-GAAP net income growth as measured at the end of fiscal 2025 were compared to our revenue and Non-GAAP net income at the end of fiscal 2024. The sum of such revenue growth and Non-GAAP net income growth, expressed as percentage of change from the same period from the prior year, measures the company-level performance for each performance period. For fiscal 2025, the threshold achievement of company performance was a 20.5% increase in revenue growth and Non-GAAP net income growth, the target achievement was 40% and the maximum achievement was 60%, with a corresponding payout of the company performance component at each performance level of 2.5%, 100% and 200% of annualized target bonus, respectively. Company-level metric results that are between the threshold and maximum levels are calculated on a ratable basis, such that every 0.5% increase in company-level metric yields a 2.5% increase in payout.
+The payout of the company performance component for the performance period that encompasses the first half of the year is capped at 50% of the annualized target bonus (i.e., even if actual performance for the period is achieved above target). The company performance component for the second half of the year is payable between 0% and 150% of the annualized target bonus based on actual achievement of performance.
+Individual Performance Goals
+Under the Bonus Plan, our Chief Executive Officer, in consultation with each executive officer, sets the individual business performance objectives that are aligned with strategic objectives of the Company. At the end of each performance period, each executive officer prepares a self-assessment of his or her level of achievement of each individual performance goal and our Chief Executive Officer then reviews with such executive officer his or her performance and determines his or her level of achievement for each individual performance goal. Our Chief Executive Officer then recommends to the Compensation Committee the level of achievement for each executive officer. After reviewing our Chief Executive Officer’s assessment and recommendation, our Compensation Committee finalizes and approves the achievement level and payout for each executive officer. For our Chief Executive Officer, our Compensation Committee, in consultation with him, determines each of his individual business performance objectives. After the end of the performance period, our Chief Executive Officer prepares a self-assessment of his level of achievement of each goal and submits this self-assessment to our Compensation Committee. After reviewing the self-assessment and making its own evaluation of our Chief Executive Officer’s performance, our Compensation Committee determines the final achievement level and payout.
+2025 Proxy   |   35
+Table of Contents
+For fiscal 2025, the individual performance objectives for our executive officers were generally related to our broader business and strategic goals within the following categories:
+•
+Operational excellence: this category consisted of goals related to operational efficiency and improving internal systems, tools, and processes.
+•
+Strategic initiatives and performance: this category consisted of goals related to merger and acquisition activity, strategic planning, and growth initiatives.
+The individual performance component for each performance period only has a target amount with no threshold or maximum amount such that our NEOs would either receive 0% of target bonus (if individual performance metrics are not achieved) or up to 100% of target bonus (if certain individual performance metrics are achieved).
+The following tables set forth the fiscal year 2025 performance goals at threshold, target, and maximum levels:
+Performance Metric
+Threshold
+Target
+Maximum
+Individual Performance (25% weighting)
+—%
+100%
+100%
+Company-Level Performance (sum of revenue growth and non-GAAP net income growth) (75% weighting)
+20.5%
+40%
+60%
+Aggregate Payout (% of target)
+1.875%
+100%
+175%
+Fiscal 2025 Bonus Payouts
+For the first performance period of fiscal 2025, the company-level performance metrics were achieved at 81% (based on revenue growth of 66% and non-GAAP net income growth of 15% as compared to the first half of fiscal 2024), resulting in 50% payout of the annualized target for the company-level performance component for the performance period. For the second performance period, the company-level performance metrics were achieved at 156% (based on revenue growth 126% and non-GAAP net income growth of 30% as compared to full year fiscal 2024), resulting in 150% payout of the annualized target for the company-level performance component for the performance period. In addition, given each executive officer’s strong leadership and execution during the year, the Compensation Committee determined that each executive officer achieved target performance with respect to their individual performance objectives. As a result, for fiscal 2025, the combined bonuses for our NEOs were paid out in the following amounts:
+Name
+25% Individual Performance * 100% Target
+75% Company Performance * 200% Maximum
+Total Achievement %
+Total Actual Payout
+William (Bill) Brennan
+25%
+150%
+175%
+$1,118,750
+Daniel Fleming
+25%
+150%
+175%
+$556,563
+Yat Tung (Job) Lam
+25%
+150%
+175%
+$325,359
+Chi Fung (Lawrence) Cheng
+25%
+150%
+175%
+$349,117
+James Laufman
+(1)
+25%
+150%
+175%
+$262,500
+______________
+(1)
+Amounts shown for Mr. Laufman’s fiscal 2025 bonus are prorated based on his tenure with the Company during fiscal 2025.
+2025 Proxy   |   36
+Table of Contents
+Fiscal 2025 Long-Term Equity Compensation
+Our fiscal year 2025 long-term equity incentive program was comprised of solely performance-based restricted stock units (“PSUs”) (not including the new hire grants described below). On March 7, 2025, our Compensation Committee approved grants to Messrs. Brennan, Fleming, Lam and Cheng in the form of PSUs (the “Refresh PSUs”) under our 2021 Long-Term Incentive Plan (the “2021 Plan”), reflecting the implementation of a change to the award mix under the Company’s long-term equity incentive compensation program, which was previously granted entirely in the form of time-based restricted stock units (the “RSUs”). Our Compensation Committee believes that the incorporation of a performance component into the Company’s executive compensation program will strengthen the Company’s commitment to its pay for performance philosophy and more closely align NEOs with shareholder value creation. Our Compensation Committee will revisit the appropriate mix of time-based RSUs and PSUs for refresh equity grants in future years, with the intention of ultimately granting a combination of time-based RSUs and PSUs for such grants.
+The Refresh PSUs will be eligible to become earned between 0% and 200% of target levels based on the Company’s achievement of specified revenue goals for the fiscal year ending May 2, 2026, subject to certain service-based vesting requirements over an additional three-year period, with 25% of the earned PSUs vesting on each of June 10, 2026, June 10, 2027, June 10, 2028 and June 10, 2029.
+In addition, in connection with Mr. Laufman’s commencement of employment, the Compensation Committee approved (1) a grant of 300,000 RSUs that are subject to quarterly vesting over four years commencing on August 19, 2024 and (2) a grant of 30,000 RSUs that fully vested one month after his start date on August 19, 2024.
+The following table sets forth the equity grants awarded to our NEOs in fiscal 2025:
+PSUs
+RSUs
+Name
+March 2025 PSUs
+William (Bill) Brennan
+100,000
+—
+Daniel Fleming
+60,000
+—
+Yat Tung (Job) Lam
+25,000
+—
+Chi Fung (Lawrence) Cheng
+25,000
+—
+James Laufman
+—
+330,000
+Fiscal 2026 Special PSUs
+On June 30, 2025, following a year of record-breaking financial results, and after evaluating the value of the unvested equity of certain key executive leaders, our Compensation Committee determined it was important to provide additional long-term incentives to certain key executive leaders including Messrs. Brennan and Fleming in the form of special, one-time performance-based equity award grants (the “Special PSUs”). Our Compensation Committee designed these awards to promote leadership continuity through a key growth period for the company, strengthen alignment with shareholder interests, and to reinforce long-term shareholder value creation. Specifically, it was important to our Compensation Committee to ensure that both sustained stock price performance and continued service through the duration of the three-year vesting and performance period would be required for the recipients to earn the awards in full. The Compensation Committee also included a one-year post-vesting holding period requirement to further its continuity, alignment and value-creation objectives. The Special PSUs will be earned over a three-year period if the 60-day trading average closing price of our ordinary shares equals or exceeds
+2025 Proxy   |   37
+Table of Contents
+$116 on each grant-date anniversary (“Stock Price Condition”), which represents an approximate 100% increase from the 60-day average trading price of our stock on the grant date. If the Stock Price Condition is met on the first anniversary date of the grant, 25% of the Special PSUs vest; if it is met on the second anniversary, vesting rises to 50% (inclusive of any Special PSUs that were earned on the first measurement date); and if it is met on the third anniversary, 100% of the Special PSUs vest (inclusive of any Special PSUs that were earned on the first and second measurement dates). Vesting of the Special PSUs is subject to the NEO’s continued service with the Company through the applicable measurement date. Mr. Brennan received a Special PSU grant with respect to 200,000 shares and Mr. Fleming received a Special PSU grant with respect to 100,000 shares.
+Other Compensation Plans and Policies
+Employment Agreements
+Each of Messrs. Brennan and Cheng has entered into a Confidential Information and Invention Assignment Agreement pursuant to which he agreed to be subject to restrictive covenants, including 24-month post-termination restrictions on solicitation of employees and consultants, and perpetual restrictions on using Company confidential information to attempt to negatively influence clients or customers from purchasing Company products or services or to solicit clients, customers or other persons to purchase of products and/or services from a competitor of the Company. Each of Messrs. Fleming, Lam and Laufman has entered into a Proprietary Information and Inventions Agreement pursuant to which the NEO agreed to be subject to restrictive covenants, including 12-month post-termination restrictions on solicitation of employees, customers, vendors, suppliers and distributors.
+We do not have employment agreements with any of our NEOs.
+Retirement Benefits
+We maintain a tax-qualified defined contribution 401(k) plan for our employees (including our NEOs), who satisfy certain eligibility requirements. Our NEOs are eligible to participate in the 401(k) plan on the same terms as other full-time employees.
+All of our full-time employees are eligible to participate in customary health and welfare plans. Our NEOs are eligible to participate in these plans on the same terms as other full-time employees.
+Stock Ownership Guidelines
+Effective March 20, 2025, the Board established stock ownership guidelines in our Corporate Governance Guidelines for our executive officers and non-employee directors to better align our executive officers’ and directors’ interests with our shareholders’ interests by promoting share ownership. The ownership guidelines are based on a multiple of annual base salary for our executive officers and the annual cash retainer for our non-employee directors. Our Chief Executive Officer is required to hold shares of our common stock with a value equal to at least three times his annual base salary. Each other executive officer is required to hold shares of our common stock with a value equal to at least one times his or her annual base salary. Non-employee directors are required to hold shares of our common stock with a value equal to at least four times his or her annual cash retainer for service on the Board. Each executive officer and non-employee director is required to achieve the applicable level of ownership within four years from his or her appointment as a director or executive officer of the Company. Unvested equity awards and unearned performance-based equity awards do not count towards satisfaction of the stock ownership guidelines. A copy of our Corporate Governance Guidelines can be found under "Governance Documents" at investors.credosemi.com.
+2025 Proxy   |   38
+Table of Contents
+Executive Change in Control Severance Plan
+Effective December 3, 2024, we adopted an Executive Change in Control Severance Plan (the “CIC Severance Plan”). The terms and conditions of the CIC Severance Plan are described in the “Executive Compensation—Potential Payouts upon Termination or Change in Control” section below.
+Clawback Policy
+In November 2023, our Compensation Committee adopted a compensation recovery policy (the “Clawback Policy”) providing for the recovery of certain incentive-based compensation received by our covered executives, which includes our Named Executive Officers as well as certain current and former executive officers of the company who are subject to Section 16 of the U.S. Securities Exchange Act of 1934 (the “Exchange Act”). Our Clawback Policy is intended to comply with, and will be interpreted in a manner consistent with, the U.S. Securities Exchange Act of 1934 and the Nasdaq listing standards. Under the terms of the Clawback Policy, in the event of a restatement of our financial statements due to material non-compliance with any financial reporting requirement under applicable securities laws, the Compensation Committee shall take reasonably prompt action to recover from any covered executive the incentive-based compensation received by any covered executive during the prior three fiscal years that exceeds the amount the executive otherwise would have received had the incentive-based compensation been determined based on the restated financial statement. The Clawback Policy was filed as an exhibit to our Form 10-K for the year ended April 27, 2024.
+Insider Trading Policy and Anti-Hedging/Pledging Policy
+Our Board has
+adopted an Insider Trading Policy
+ that applies to our employees, officers, directors, consultants and contractors which we believe is reasonably designed to promote compliance with insider trading laws, rules and regulations and the applicable exchange listing standards. The policy also prohibits our employees, officers, directors, consultants and contractors from engaging in any hedging transactions (including transactions involving options, puts, calls, prepaid variable forward contracts, equity swaps, collars and exchange funds or other derivatives) that are designed to hedge or speculate on any change in the market value of the Company's equity securities, or pledging Company securities in any circumstance, including by purchasing Company securities on margin on holding Company securities in a margin account. In addition, it is our policy to comply with applicable securities and state laws, including insider trading laws, when engaging in transactions in the Company’s securities. Our Insider Trading Policy was filed as exhibit 19.1 to our Annual Report on Form 10-K for our fiscal year ended May 3, 2025.
+Timing of Equity Awards
+It is not our practice to
+time
+ the release of material nonpublic information for the purpose of affecting the value of executive compensation or to take
+material nonpublic information into account
+ when determining the timing and terms of such awards.
+ Although we do not have a formal policy with respect to the timing of our equity award grants, our board of directors or compensation committee has historically granted such awards on an
+annual schedule
+. Equity grants may also be made on other dates in connection with new hires, promotions or similar events.
+Tax and Accounting Considerations
+When reviewing compensation matters, the Company may consider the anticipated tax and accounting consequences to us (and, when relevant, to our executive officers) of the various payments under our compensation programs, although tax consequences are only one of many factors in determining compensation program design and
+2025 Proxy   |   39
+Table of Contents
+levels and may or may not be taken into account by the Compensation Committee. In some cases, other important considerations may outweigh tax or accounting considerations and the Compensation Committee maintains the flexibility to compensate our officers in accordance with the Company's compensation philosophy. Section 162(m) of the Code generally disallows a tax deduction for any publicly held corporation for individual compensation of more than $1 million in any taxable year to certain executive officers. The Compensation Committee, after considering the potential impact of the application of Section 162(m) of the Code, may provide compensation to executive officers that may not be tax deductible if it believes that providing that compensation is in the best interests of the Company and its shareholders.
+Risk Assessment
+Our Compensation Committee is responsible for overseeing the management of risks relating to our executive compensation plans and arrangements, as well as our compensation plans that generally apply to all employees. In connection with such oversight, the Compensation Committee worked with Compensia, the Compensation Committee’s compensation consultant, to perform a risk assessment of our executive and equity compensation programs and governance practices. The purpose of this review was to determine whether such programs might encourage excessive or inappropriate risk-taking that could result in a material adverse effect on the Company. During fiscal 2025, Compensia, with the assistance of our management, reviewed these programs, taking into consideration many factors, including but not limited to:
+ 
+•
+Compensation philosophy;
+•
+Pay mix;
+•
+Performance measures;
+•
+Goal setting and funding mechanisms;
+•
+Payment and timing;
+•
+Incentives structure and policies;
+•
+Ownership and trading guidelines;
+•
+Leadership and succession; and
+•
+Program governance.
+The annual risk assessment concluded that the Company’s compensation programs do not contain incentives to take risks that could have a material adverse effect on the Company.
+Report of the Compensation Committee of the Board
+The Compensation Committee of the Board of Directors has reviewed and discussed with Company management the Compensation Discussion and Analysis section of this Annual Proxy Statement. Based on such review and discussion, the Compensation Committee has recommended to the Board of Directors that the Compensation Discussion and Analysis be included in this Annual Proxy Statement.
+Respectfully submitted by the members of the Compensation Committee of the Board of Directors:
+Manpreet Khaira, Chair
+2025 Proxy   |   40
+Table of Contents
+Sylvia Acevedo
+         Clyde Hosein
+EXECUTIVE COMPENSATION TABLES
+Summary Compensation Table
+The following table shows the compensation paid to or earned by our named executive officers for the fiscal years noted.
+Name and Principal Position
+(1)
+Fiscal Year
+Salary ($)
+Stock Awards ($)
+(2)
+Non-Equity Incentive Plan Compensation
+(3)
+All Other Compensation ($)
+Total ($)
+William (Bill) Brennan
+2025
+570,000
+4,370,000
+1,118,750
+—
+6,058,750
+President, Chief Executive Officer and Director
+2024
+460,667
+5,410,000
+250,000
+—
+6,120,667
+2023
+427,000
+3,022,500
+430,500
+—
+3,880,000
+Daniel Fleming
+2025
+425,539
+2,622,000
+556,563
+—
+3,604,102
+Chief Financial Officer
+2024
+378,333
+2,164,000
+130,000
+—
+2,672,333
+2023
+ 
+355,833
+1,209,000
+233,188
+—
+1,798,021
+Yat Tung (Job) Lam
+2025
+465,832
+1,092,500
+349,117
+—
+1,907,449
+Chief Operating Officer
+2024
+320,250
+2,164,000
+82,688
+—
+2,566,938
+2023
+305,000
+1,209,000
+153,750
+—
+1,667,750
+Chi Fung (Lawrence) Cheng
+2025
+358,448
+1,092,500
+325,359
+—
+1,776,307
+Chief Technology Officer
+2024
+373,625
+—
+96,469
+—
+470,094
+2023
+355,833
+1,209,000
+179,375
+—
+1,744,208
+James Laufman
+2025
+284,615
+11,520,300
+262,500
+—
+12,067,415
+Chief Legal Officer and Secretary
+______________
+(1)
+Compensation information for fiscal 2023 and fiscal 2024 with respect to  Mr. Laufman is not shown because he was not an employee (or named executive officer) of the Company for those years.
+(2)
+The amounts reported in this column represent the aggregate grant date fair value of the restricted stock units and performance-based stock units granted during fiscal 2025, fiscal 2024 and fiscal 2023, as calculated in accordance with FASB Accounting Standards Codification Topic 718 (“Topic 718”). The assumptions used in calculating the grant date fair value reported in this column are described in Note 9 to our consolidated financial statements included in our Annual Report on Form 10-K for fiscal 2025. The amounts reported in this column reflect the accounting cost for these restricted stock units and performance-based stock units and do not correspond to the actual economic value that may be received by the named executive officer upon the vesting or settlement of the restricted stock unit and performance-based stock unit awards or any sale of the underlying ordinary shares. The amounts reported in this column for Refresh PSUs granted in fiscal 2025 is based upon the probable outcome of the performance-based vesting conditions, which is assumed to be the target level of achievement of revenue goals (100%).
+(3)
+The amounts reported reflect payout of bonuses earned under our annual bonus program, as described under “Executive Compensation, Compensation Discussion and Analysis—Elements of Compensation—Annual Bonuses” above.
+Grants of Plan-Based Awards for Fiscal Year Ended May 3, 2025
+The following table shows information regarding the grants of plan-based awards to our NEOs during the fiscal year ended May 3, 2025.
+2025 Proxy   |   41
+Table of Contents
+Name
+Estimated Future Payouts Under Non-Equity Incentive Plan Awards
+Estimated Future Payouts Under Equity Incentive Plan Awards
+All Other Stock Awards
+Award Type
+Grant Date
+Threshold ($)
+Target ($)(1)
+Maximum ($)
+Threshold (#)
+Target (#)(2)
+Maximum (#)
+Number of Shares of Stock or Units (#) (3)
+Grant Date Fair Value of Stock and Option Awards (4)
+William (Bill) Brennan
+Cash Bonus
+—
+12,188
+650,000
+1,118,750
+—
+—
+—
+—
+—
+PSU
+3/7/2025
+—
+—
+—
+50,000
+100,000
+200,000
+—
+$4,370,000
+Daniel Fleming
+Cash Bonus
+—
+6,047
+322,500
+556,563
+—
+—
+—
+—
+—
+PSU
+3/7/2025
+—
+—
+—
+30,000
+60,000
+120,000
+—
+$2,622,000
+Yat Tung (Job) Lam
+Cash Bonus
+—
+3,516
+187,500
+325,359
+—
+—
+—
+—
+—
+PSU
+3/7/2025
+—
+—
+—
+12,500
+25,000
+50,000
+—
+$1,092,500
+Chi Fung (Lawrence) Cheng
+Cash Bonus
+—
+3,750
+200,000
+349,117
+—
+—
+—
+—
+—
+PSU
+3/7/2025
+—
+—
+—
+12,500
+25,000
+50,000
+—
+$1,092,500
+James Laufman
+Cash Bonus
+—
+3,750
+200,000
+262,500
+—
+—
+—
+—
+—
+RSU
+8/30/2024
+—
+—
+—
+—
+—
+—
+330,000
+$11,520,300
+______________
+(1) These amounts represent the combined individual performance and company-level performance bonus opportunities under our fiscal 2025 annual bonus program. The individual performance metric does not have threshold or maximum attainment levels. Actual amounts paid under the fiscal 2025 annual bonus program are included in the column entitled “Non-Equity Incentive Plan Compensation” of the Summary Compensation Table above. See “—Elements of Compensation—Annual Bonuses” above for a further description of the fiscal 2025 annual bonus program.
+(2) These amounts represent the number of approved performance-based stock units calculated at the threshold, target, and maximum payment levels of PSU awards granted under the 2021 Plan, using the grant date fair value of performance-based stock units awarded, calculated in accordance with FASB Accounting Standards Codification Topic 718 (“FASB ASC Topic 718”). These PSU awards will be earned between 0% and 200% of target levels based on the Company’s achievement of specified revenue goals for the fiscal year ending May 2, 2026, subject to certain service-based vesting requirements over an additional three-year period. See”—Elements of Compensation—Long-Term Equity Compensation” above for a further description of the Refresh PSU awards.
+(3) Consists of RSU awards granted under the 2021 Plan. In connection with his commencement of employment, Mr. Laufman was awarded 300,000 RSUs that are subject to quarterly vesting over four years commencing on August 19, 2024 and 30,000 RSUs that fully vested one month after his start date on August 19, 2024.
+(4) The amounts reported in this column represent the aggregate grant date fair value of the restricted stock units and performance-based stock units granted during fiscal 2025 as calculated in accordance with FASB ASC Topic 718. The assumptions used in calculating the grant date fair value reported in this column are described in Note 9 to our consolidated financial statements included in our Annual Report on Form 10-K for fiscal 2025. The amounts reported in this column reflect the accounting cost for these restricted stock units and performance-based stock units and do not correspond to the actual economic value that may be received by the named executive officer upon the vesting or settlement of the restricted stock unit and performance-based stock unit awards or any sale of the underlying ordinary shares. The amounts reported in this column for Refresh PSUs granted in fiscal 2025 are based upon the probable outcome of the performance-based vesting conditions, which is assumed to be the target level of achievement of revenue goals (100%).
+Narrative to Summary Compensation Table and the Grant of Plan-Based Awards Table
+See “Executive Compensation, Compensation Discussion and Analysis” for further information relating to each NEO regarding the terms of awards reported in the Summary Compensation Table and the Grants of Plan-Based Awards Table, the components of executive compensation and other material factors regarding our executive compensation program.
+Outstanding Equity Awards at 2025 Fiscal Year End
+The following table sets forth information concerning shares that have not vested and equity incentive plan awards for our named executive officers as of May 3, 2025.
+2025 Proxy   |   42
+Table of Contents
+Share Awards
+Name
+Grant Date
+Number of Shares or Units That Have Not Vested (#)
+Market Value of Shares or Units That Have Not Vested ($)(1)
+Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)
+Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(1)
+William (Bill) Brennan
+3/7/2025
+(5)
+100,000
+4,826,000
+4/4/2024
+(4)
+171,875
+8,294,688
+1/5/2023
+(2)
+109,375
+5,278,438
+1/26/2022
+(3)
+31,250
+1,508,125
+Daniel Fleming
+3/7/2025
+(5)
+60,000
+2,895,600
+4/4/2024
+(4)
+68,750
+3,317,875
+1/5/2023
+(2)
+43,750
+2,111,375
+1/26/2022
+(3)
+12,500
+603,250
+Yat Tung (Job) Lam
+3/7/2025
+(5)
+25,000
+1,206,500
+4/4/2024
+(4)
+68,750
+3,317,875
+1/5/2023
+(2)
+43,750
+2,111,375
+1/26/2022
+(3)
+12,500
+603,250
+Chi Fung (Lawrence) Cheng
+3/7/2025
+(5)
+25,000
+1,206,500
+1/5/2023
+(2)
+43,750
+2,111,375
+1/26/2022
+(3)
+12,500
+603,250
+James Laufman
+8/30/2024
+(6)
+262,500
+12,668,250
+______________
+(1)
+The market value calculations reported in this column are computed by multiplying $48.26, the closing price per ordinary share on May 2, 2025, by the number of shares underlying the award.
+(2)
+Reflects a grant of RSUs, 25% of which vested one year from January 5, 2023, with the balance vesting in equal quarterly installments over the following three years, subject to the NEO’s continued employment through each vesting date.
+(3)
+Reflects a grant of RSUs, 25% of which vested one year from September 1, 2022, with the balance vesting in equal quarterly installments over the following three years, subject to the NEO’s continued employment through each vesting date.
+(4)
+Reflects a grant of RSUs, 25% of which will vest one year from January 2, 2024, with the balance vesting in equal quarterly installments over the following three years, subject to the NEO's continued employment through each vesting date.
+(5)
+Reflects a grant of PSUs, which will be eligible to become earned between 0% and 200% of target levels based on the Company’s achievement of specified revenue goals for the fiscal year ending May 2, 2026, subject to certain service-based vesting requirements over an additional three-year period, with 25% of the earned PSUs vesting every year starting June 10, 2026,. See “—Elements of Compensation—Long-Term Equity Compensation” above for a further description of the PSU awards.
+(6)
+Reflects a grant of RSUs, 30,000 of which vested 30 days from the NEO's hire date, with the remaining balance vesting in equal quarterly installments over the following four years, subject to the NEO's continued employment through each vesting date.
+Potential Payouts upon Termination or Change in Control
+Effective December 3, 2024, we adopted an Executive Change in Control Severance Plan (the “CIC Severance Plan”). Each of our NEOs participates in the CIC Severance Plan, which provides that in the event of a termination of employment by the Company for any reason other than “cause”, death or “disability”, or by the executive with “good reason” (each as defined in the CIC Severance Plan), in each case during the period beginning three months prior to and ending 12 months following a “change in control” (as defined in the CIC Severance Plan), the executive will be eligible to receive the following severance payments and benefits: (i) a lump sum cash severance payment in an amount equal to (x) the executive’s severance multiplier designated in their individual participation agreement multiplied by (y) the sum of the executive’s then-current (A) base salary plus (B) target annual bonus; (ii) accelerated vesting of all equity awards that are outstanding and unvested as of the termination date (with any awards subject to performance-based vesting conditions deemed achieved at target levels); (iii) if the executive timely elects healthcare continuation coverage under COBRA, a lump sum payment in an amount equal to (x) the executive’s COBRA period designated in their individual participation agreement multiplied by (y) the monthly Company cost of the executive’s COBRA premiums; and (iv) payment of any earned but unpaid bonus in respect of the most recent bonus performance period ending prior to the termination date. The severance multipliers and
+2025 Proxy   |   43
+Table of Contents
+COBRA periods for our NEOs in the CIC Severance Plan are as follows: (i) William (Bill) Brennan: 1.5 times, 18 months; (ii) Daniel Fleming: 1.0 times, 12 months; (iii) Yat Tung (Job) Lam: 1.0 times, 12 months; (iv) Chi Fung (Lawrence) Cheng: 1.0 times, 12 months; and (v) James Laufman: 1.0 times, 12 months. In the event of a change in control of the Company, to the extent Section 280G or 4999 of the Internal Revenue Code of 1986 (the “Code”) is applicable to an NEO, such individual is entitled to receive either payment of the full amounts to which he or she is entitled or payment of such lesser amount that does not trigger the excise tax imposed by Section 4999 of the Code, whichever results in him or her receiving the greatest after-tax amount. We do not pay excise tax payments (or “gross-ups”) relating to a change in control of the Company and have no such obligations in place with respect to any of our NEOs.
+A summary of the potential payouts that each of our NEOs would have received upon the occurrence of these events, assuming that each triggering event occurred on the last day of fiscal 2025, May 3, 2025, is set forth below.
+Name
+Basis of Payment
+Severance ($)
+Continuation of Health Insurance ($)
+Vesting of Equity Awards ($)
+Total ($)
+Bill Brennan
+Termination without “cause”/for “good reason” in connection with
+a “change in control”
+$1,950,000
+$80,149
+$19,907,250
+$21,937,399
+Daniel Fleming
+Termination without “cause”/for “good reason” in connection with
+a “change in control”
+$752,500
+$38,414
+$8,928,100
+$9,719,014
+Job Lam
+Termination without “cause”/for “good reason” in connection with
+a “change in control”
+$562,500
+$54,596
+$7,239,000
+$7,856,096
+Lawrence Cheng
+Termination without “cause”/for “good reason” in connection with
+a “change in control”
+$600,000
+$54,596
+$3,921,125
+$4,575,721
+James Laufman
+Termination without “cause”/for “good reason” in connection with
+a “change in control”
+$550,000
+$32,026
+$12,668,250
+$13,250,276
+Option Exercises and Shares Vested for Fiscal Year Ended May 3, 2025
+The following table shows the information regarding the value of options that were exercised and share awards that vested during the fiscal year ended May 3, 2025:
+Option Awards
+Stock Awards
+Name
+Number of Shares Acquired on Exercise (#) (1)
+Value Realized on Exercise ($) (2)
+Number of Shares Acquired on Vesting (#) (3)
+Value Realized on Vesting ($) (2)
+William (Bill) Brennan
+—
+—
+203,125
+10,340,156
+Daniel Fleming
+125,882
+3,754,279
+81,250
+4,136,063
+Yat Tung (Job) Lam
+—
+—
+81,250
+4,136,063
+Chi Fung (Lawrence) Cheng
+—
+—
+50,000
+2,093,813
+James Laufman
+—
+—
+67,500
+3,038,775
+______________
+(1)    This column includes the gross number of any options that were exercised during fiscal 2025.
+(2)    The value represents the gross number of any options, shares or units that vested, multiplied by the closing price of our ordinary shares on the applicable vesting or exercise date (less the exercise price, as applicable), and includes any amounts that were withheld for applicable taxes.
+2025 Proxy   |   44
+Table of Contents
+(3)    This column includes the gross number of any RSUs that vested during fiscal 2025 and includes any amounts that were withheld for applicable taxes.
+CEO Pay Ratio
+Item 402(u) of Regulation S-K requires us to disclose the ratio of the annual total compensation of our principal executive officer to the annual total compensation of our median employee. During fiscal 2024, the principal executive officer of the Company was our President and Chief Executive Officer, William (Bill) Brennan. For fiscal 2025, Mr. Brennan's annual total compensation, as disclosed in the Summary Compensation Table, was $6,058,750 and our median employee’s annual total compensation was $233,488, resulting in a pay ratio of approximately 25:1.
+We identified the median employee as of May 3, 2025 by aggregating for each applicable employee their fiscal 2024 (A) annual base salary for salaried employees (or hourly rate multiplied by the estimated annual work schedule, for hourly employees), (B) paid incentive compensation, and (C) the estimated grant date fair value for employee equity awards granted in the fiscal year. Amounts paid in foreign currencies were converted into U.S. Dollars using the exchange rates in effect on May 2, 2025, and we annualized the compensation of permanent employees that worked for less than the full year.
+This calculation was performed for all employees of the Company as of May 3, 2025, excluding Mr. Brennan. The pay ratio reported above is a reasonable estimate calculated in a manner consistent with SEC rules based on our internal records and the methodology described above. The SEC rules for identifying the median employee and calculating the pay ratio based on that employee’s annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populations and compensation practices. Therefore, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies have different employee populations and compensation practices and may utilize different methodologies, exclusions, estimates, and assumptions in calculating their own pay ratios.
+Pay versus Performance
+The following table sets forth the compensation for our Principal Executive Officer (“PEO”) and the average compensation for our other named executive officers, both as reported in the Summary Compensation Table and with certain adjustments to reflect the “compensation actually paid” to such individuals, as defined under SEC rules, for each of fiscal 2025, 2024 and 2023. The table also provides information on our cumulative total shareholder return (“TSR”), the cumulative TSR of our peer group, Net Income (Loss) and Revenue over such years in accordance with the SEC rules.
+2025 Proxy   |   45
+Table of Contents
+ 
+Pay Versus Performance
+ 
+ 
+ 
+ 
+Value of Initial Fixed $100 Investment Based On:
+ 
+ 
+ 
+Year (a)
+ 
+Summary Compensation Table Total for PEO
+(1)
+ ($) (b)
+Compensation Actually Paid to PEO
+(2)
+ ($) (c)
+Average Summary Compensation Table Total for Non-PEO Named Executive Officers
+(1)
+ ($) (d)
+Average Compensation Actually Paid to Non-PEO Named Executive Officers
+(2)
+ ($) (e)
+Total Shareholder Return
+(3)
+ ($) (f)
+ 
+Peer Group Total Shareholder Return
+(3)
+ ($) (g)
+Net Income (Loss) (in Thousands)
+(4)
+ ($) (h)
+Total Revenue (in Thousands)
+(4)
+ ($) (i)
+ 
+2025
+$
+6,058,750
+$
+13,939,751
+$
+3,898,747
+$
+8,911,887
+$
+414.25
+$
+135.54
+$
+52,183
+$
+436,775
+2024
+$
+6,120,667
+$
+7,963,167
+$
+2,653,479
+$
+2,933,163
+$
+159.31
+$
+145.97
+$(
+28,369
+)
+$
+192,970
+2023
+$
+3,880,000
+$
+2,326,874
+$
+1,561,682
+$
+1,112,042
+$
+69.61
+$
+92.32
+$(
+16,547
+)
+$
+184,194
+(1)
+Compensation for our PEO,
+William (Bill) Brennan
+, reflects the amounts reported in the “Summary Compensation Table” for the respective years. Average compensation for non-PEOs includes the following named executive officers: (i) in fiscal 2025, Daniel Fleming, Yat Tung (Job) Lam, Chi Fung (Lawrence) Cheng, and James Laufman; (ii) in fiscal 2024, Daniel Fleming, Yat Tung (Job) Lam, Chi Fung (Lawrence) Cheng, Katherine Schuelke (former Chief Legal Officer), and Adam Thorngate-Gottlund (former General Counsel and Secretary); and (iii) in fiscal 2023, Daniel Fleming, Yat Tung (Job) Lam, Chi Fung (Lawrence) Cheng, and Adam Thorngate-Gottlund.
+(2)
+Compensation “actually paid” for the PEO and average compensation “actually paid” for our non-PEOs in fiscal 2025, fiscal 2024 and fiscal 2023 reflects the respective amounts set forth in columns (b) and (d), adjusted as follows in the table below, as determined in accordance with SEC rules. These dollar amounts do not reflect the actual amount of compensation earned by or paid to the PEO and our other NEOs during the applicable year. For information regarding the decisions made by our Compensation Committee pertaining to the PEO’s and our other NEOs’ compensation for fiscal year 2025, see Executive Compensation, CD&A section.
+PEO
+2025
+PEO
+2024
+PEO
+2023
+Non-PEOs 2025
+Non-PEOs 2024
+Non-PEOs 2023
+Summary Compensation Table Total
+$
+6,058,750
+$
+6,120,667
+$
+3,880,000
+$
+3,898,747
+$
+2,653,479
+$
+1,561,682
+Less
+ Stock Award Value Reported in Summary Compensation Table for the Covered Year
+$(
+4,370,000
+)
+$(
+5,410,000
+)
+$(
+3,022,500
+)
+$(
+3,265,460
+)
+$(
+2,303,680
+)
+$(
+1,057,875
+)
+Plus
+ Year-end Fair Value for Awards Granted in the Covered Year
+$
+4,826,000
+$
+4,640,000
+$
+2,027,500
+$
+5,308,600
+$
+1,930,240
+$
+709,625
+Change
+ in Fair Value of Outstanding Unvested Awards from Prior Years
+$
+5,104,688
+$
+1,796,094
+$(
+457,813
+)
+$
+2,041,875
+$
+431,062
+$(
+160,234
+)
+Change
+ in Fair Value of Awards from Prior Years that Vested in the Covered Year
+$
+2,320,313
+$
+816,406
+$(
+100,313
+)
+$
+928,125
+$
+222,062
+$
+58,844
+Compensation Actually Paid
+$
+13,939,751
+$
+7,963,167
+$
+2,326,874
+$
+8,911,887
+$
+2,933,163
+$
+1,112,042
+Fair values set forth in the table above are computed in accordance with
+ASC 718
+ as of the end of the respective fiscal year, other than fair values of awards that vest in the covered year, which are valued as of the applicable vesting date.
+The aggregate change in actuarial present value of accumulated benefit under pension plans reflects the amount reported for the applicable year in the Summary Compensation Table. Service costs is calculated as the actuarial present value of benefits under all pension plans attributable to services rendered during the applicable fiscal year. Prior service costs is calculated as the entire cost of benefits granted (or credit for benefits reduced) in a plan amendment (or initiation) during the covered fiscal year that are attributable by the benefit formula to services rendered in periods prior to the applicable amendment.
+(3)
+TSR is cumulative for the measurement periods beginning on January 27, 2022 and ending on May 3, 2025, April 27, 2024 and April 29, 2023, respectively, calculated in accordance with Item 201(e) of Regulation S-K. The peer group for purposes of this table is the PHLX Semiconductor Index, same as our Peer Group as set forth in the performance graph included in our annual report.
+(4)
+Reflect “Net Income (Loss)” and "
+Total Revenue
+" in the Company’s Consolidated Statements of Operation included in the Company’s Annual Reports on Form 10-K for each of the fiscal years ended May 3, 2025, April 27, 2024 and April 29, 2023.
+Relationship between PEO and Non-PEO NEOs Compensation Actually Paid and Total Shareholder Return ("TSR")
+2025 Proxy   |   46
+Table of Contents
+The following chart sets forth the relationship between compensation actually paid or (CAP) to our PEO, the average CAP to our Non-PEO NEOs, and the Company's cumulative TSR as well as the PHLX Semiconductor Sector Index cumulative TSR for the fiscal years indicated.
+Relationship between PEO and Non-PEO NEOs Compensation Actually Paid and Net Income (Loss)
+The following chart sets forth the relationship between compensation actually paid or (CAP) to our PEO, the average CAP to our Non-PEO NEOs, and the Company's net income (loss) for the fiscal years indicated.
+Relationship
+ between PEO and Non-PEO NEOs Compensation Actually Paid and Revenue
+The following chart sets forth the relationship between compensation actually paid or (CAP) to our PEO, the average CAP to our Non-PEO NEOs, and the Company's revenue for the fiscal years indicated.
+2025 Proxy   |   47
+Table of Contents
+Equity Compensation Plan Information
+The following table summarizes our equity compensation plan information as of May 3, 2025:
+Plan Category
+Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights
+(1)
+Weighted-Average Exercise Price of Outstanding Options, Warrants and Rights
+Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans
+Equity compensation plans approved by shareholders
+2021 Long-Term Incentive Plan
+9,703,143 
+$
+34.09 
+18,868,861 
+2021 Employee Stock Purchase Plan
+— 
+$
+— 
+6,011,953 
+2015 Stock Plan
+3,574,451 
+$
+2.23 
+— 
+Amazon Warrant
+4,080,000 
+$
+10.74 
+— 
+Total
+17,357,594 
+24,880,814 
+______________
+(1)
+Includes ordinary shares issuable under the applicable plan upon the exercise of outstanding share options and/or the settlement of outstanding RSUs, as applicable.
+(2)
+Represents the weighted-average exercise price of outstanding share options and does not take into account outstanding RSUs.
+DIRECTOR COMPENSATION
+The Compensation Committee, which is composed solely of independent directors, has the primary responsibility for reviewing and making changes to our non-employee director compensation. For fiscal year 2025, non-employee director fees were: (1) $50,000 annual retainer for board service; $20,000 annual retainer for service as chair of the audit committee; (2) $15,000 annual retainer for service as chair of the compensation committee; (3) $10,000 annual retainer for service as chair of the nominating and corporate governance committee; (4) $10,000 annual retainer for service as a member of the audit committee; (5) $7,500 annual retainer for service as a member of the compensation committee, and (6) $5,000 annual retainer for service as a member of the nominating and corporate governance committee. Director fees are paid quarterly in arrears.
+For our non-employee directors who will continue to serve on the Board after the Annual General Meeting, such directors will receive annual equity compensation in the form of RSUs with a grant value of $175,000 as of the first business day following the Annual General Meeting. At the first regularly scheduled meeting of the
+2025 Proxy   |   48
+Table of Contents
+Compensation Committee held after the Company's 2024 Annual General Meeting (held on December 18, 2024), the Compensation Committee approved a grant of RSUs to each of the non-employee directors then serving with a value of $175,000, which was divided by $39.70 the closing share price on the business day following our 2024 Annual General Meeting. The RSUs are scheduled to vest upon the earlier of (a) the one (1) year anniversary of the vesting commencement date or (b) the date of the Company’s 2025 Annual General Meeting, in each case subject to the non-employee director continuing to serve as a member of the Board and provide services to the Company through such date.
+The following table reflects certain information with respect to the compensation of all non-employee directors of the Company for the fiscal year ended May 3, 2025.
+Name
+Fees Earned or Paid in Cash ($)(1)
+Stock Awards ($)(2)
+Total Compensation ($)
+Pantas Sutardja
+$
+50,417
+$
+292,956
+$
+343,372
+Lip-Bu Tan
+$
+116,330
+$
+292,956
+$
+409,286
+David Zinsner
+$
+46,998
+$
+292,956
+$
+339,954
+Manpreet Khaira
+$
+68,367
+$
+292,956
+$
+361,323
+Sylvia Acevedo
+$
+60,867
+$
+292,956
+$
+353,823
+Clyde Hosein
+(3)
+$
+83,796
+$
+292,956
+$
+376,752
+Fariba Danesh
+(4)
+$
+7,513
+$
+—
+$—
+$
+7,513
+(1)    The amounts reported in this column represent the aggregate dollar amount of all fees earned or paid in cash to each non-employee director in fiscal 2025 for their service as a director, including any annual retainer fees, committee and/or chair fees.
+(2)    The amounts reported in this column represent the aggregate grant date fair value of RSUs granted to the directors during fiscal 2025, as calculated in accordance with Topic 718. As of the end of fiscal 2025, non-employee directors held outstanding restricted stock units as follows: (i) Pantas Sutardja — 4,408; (ii) Lip-Bu Tan — 4,408; (iii) David Zinsner — 4,408; (iv) Manpreet Khaira — 4,408; (v) Sylvia Acevedo — 4,408; (vi) Clyde Hosein — 4,408; and (vii) Fariba Danesh — 0.
+(3)    Upon election to our board on April 3, 2024, Mr. Hosein received an initial award of RSUs with a target value of $350,000.  The number of RSUs subject to the grant was calculated by dividing $350,000 by the trailing 30-day average share price from the date of grant.  This initial grant will vest in equal annual installments over three years beginning on the one-year anniversary of his appointment to the board.
+(4)   In early fiscal 2026, Ms. Danesh received an initial award of RSUs with a target value of $350,000.
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+We describe below transactions and series of similar transactions, since the beginning of our last fiscal year or currently proposed, to which we were a party or will be a party, in which:
+•
+the amounts involved exceeded or will exceed $120,000; and
+•
+any of our directors, nominees for director, executive officers or beneficial holders of more than 5% of any class of our voting securities, or any immediate family member of, or person sharing the household with, any of the forgoing, had or will have a direct or indirect material interest.
+Other than as described below, there have not been, nor are there any currently proposed, transactions or series of similar transactions meeting this criteria to which we have been or will be a party other than compensation arrangements, which are described where required under “Executive Compensation.”
+Registration Rights
+2025 Proxy   |   49
+Table of Contents
+Pursuant to our amended and restated members agreement, certain holders of our voting securities have the right to demand that we file a registration statement or request that their shares be covered by a registration statement that we are otherwise filing.
+Director and Officer Indemnification
+We have also entered into indemnification agreements with our directors and executive officers under which we have agreed to indemnify each such person and hold them harmless against expenses, judgments, fines and amounts payable under settlement agreements in connection with any threatened, pending or completed action, suit or proceeding to which they have been made a party or in which they became involved by reason of the fact that they are or were our director or officer. Except with respect to expenses to be reimbursed by us in the event that the indemnified person has been successful on the merits or otherwise in defense of the action, suit or proceeding, our obligations under the indemnification agreements are subject to certain customary restrictions and exceptions. The indemnification agreements are governed under Cayman Islands law or New York law.
+Other Transactions with Related Persons
+A family member of Bill Brennan, our Chief Executive Officer, has accepted an offer of employment to be our ESG Manager commencing on September 30, 2025. The compensation of this employee, which will exceed $120,000 annually, was determined in accordance with our compensation policies applicable to other employees of similar title and responsibility, and this employee is also eligible to participate in our benefit plans that are available to other employees in similar positions and locations. Previously, this employee provided consulting services in support of our environmental, social and governance initiatives, which were not required to be reported under Regulation S-K Item 404.
+Policies and Procedures for Related Person Transactions
+In December 2021, we adopted a written Related Person Transaction Policy, which provides that our executive officers, directors, nominees for election as directors, persons known to us to be beneficial owners of more than 5% of our voting securities and any member of the immediate family of any of the foregoing persons (each a “Related Person”), are not permitted to enter into a related person transaction with us without the consent or ratification of the independent members of our Board or a designated committee thereof consisting solely of independent members (the “RPT Committee”), subject to the exceptions described below. A “Related Person Transaction” means any financial transaction, arrangement or relationship or any series of similar transactions, arrangements or relationships (including indebtedness and guarantees of indebtedness and transactions involving employment and similar relationships) involving the Company in which a Related Person has or will have a direct or indirect material interest, as determined by the Committee.
+Subject to certain exceptions, our Secretary and legal department present any new Related Person Transactions, and proposed transactions involving Related Persons, to the independent members of our Board or the RPT Committee, as applicable, at its next occurring regular meeting. In approving or rejecting any such proposal, the RPT Committee is to consider the relevant facts and circumstances, including the commercial reasonableness of the transaction's terms, the benefit and perceived benefit, or lack thereof, to the Company, the opportunity costs of alternative transactions, the materiality and character of the Related Person's interest and the Related Person's actual or apparent conflict of interest. Certain transactions do not require approval, including certain compensation arrangements of executive officers and directors, transactions involving the purchase or sale of products or services in the ordinary course of business not exceeding $120,000, transactions in which the Related Person's interest
+2025 Proxy   |   50
+Table of Contents
+derives solely from their service as a director of another corporation that is party to the transaction, transactions in which the Related Person's interest derives solely from their ownership of less than 10% of the equity interest in another person which is a party to the transaction, and transactions where a Related Person's interest arises solely from the ownership of our equity securities and all holders of that class of our equity securities received the same benefit on a pro rata basis.
+All related party transactions that were entered into since the adoption of this policy were reviewed and approved pursuant to this policy. Certain other related party transactions described in this section occurred prior to adoption of this policy and prior to our initial public offering, and as such, these transactions were not subject to the approval and review procedures set forth in the policy; however, these transactions were reviewed and approved by independent members of our Board.
+2025 Proxy   |   51
+Table of Contents
+ADDITIONAL INFORMATION
+Future Shareholder Proposals and Nominations for the 2026 Annual General Meeting
+Proposals for Inclusion in Proxy Statement Pursuant to Rule 14a-8
+We expect to hold our 2026 Annual General Meeting (the “2026 Annual Meeting”) on or about October 13, 2026. Under Rule 14a-8 of the Exchange Act, for a shareholder proposal to be considered for inclusion in the proxy statement for the 2026 Annual Meeting, we must have received the written proposal by such shareholder at the mailing address of our business offices set forth below by no later than the close of business (6:00 p.m. Pacific Time) on July 15, 2026. Such proposals must comply with the other provisions of Rule 14a-8 and additional applicable SEC rules regarding the inclusion of shareholder proposals in company-sponsored proxy materials.
+Proposals Submitted Outside the Process of Rule 14a-8
+A shareholder proposal not included in our proxy statement for the 2026 Annual Meeting will be ineligible for presentation at the 2026 Annual Meeting unless the shareholder gives timely notice of the proposal accompanied by certain information in accordance with our Articles as detailed below.
+Non-Nomination Proposals
+For matters other than the nomination for election of directors, timely notice must be delivered to, or mailed and received at, the principal executive officers of the Company not less than 90 nor more than 120 days prior to the one-year anniversary of the date of our 2025 Annual General Meeting, which anniversary date is October 13, 2026. To comply with our Articles, a shareholder must therefore provide appropriate notice to us no earlier than June 15, 2026 and no later than close of business (6:00 pm Pacific Time) on May 9, 2026. If, however, the 2026 Annual Meeting occurs more than 30 days earlier or later than the one-year anniversary of the 2025 Annual General Meeting, then our directors shall determine a date a reasonable period prior to the 2026 Annual Meeting by which a shareholder's notice must be delivered. This date will be publicized in a filing pursuant to the Exchange Act or via press release and shall occur at least 10 days prior to the date set by the Board.
+The notice must contain (i) a brief description of the business desired to be brought before the 2026 Annual Meeting and the reasons for conducting such business at the 2026 Annual Meeting, (ii) the name and address of the shareholder, (iii) the class or series and number of shares of record the shareholder holds, (iv) whether and the extent to which hedging has been entered into by or on behalf of such shareholder and a description of any other agreement that affects the voting power of such shareholder, (v) any material interest the shareholder may have in the business proposed and (vi) whether such shareholder will deliver a proxy to at least the percentage of the Company's voting shares required to carry the proposal.
+Director Nominations
+For nominations for election of directors, timely notice must be delivered to, or mailed and received at, the principal executive offices of the Company not less than 90 nor more than 120 days prior to the 2026 Annual Meeting; provided, however, that if less than 130 days’ notice or prior public disclosure of the date of the 2026 Annual Meeting is given to shareholders, notice by the shareholder must be so received not later than the close of business on the tenth day following the earlier of the day on which such notice of the date of the 2026 Annual Meeting was mailed or such public disclosure was made.
+2025 Proxy   |   52
+Table of Contents
+The notice must contain: (i) for each shareholder (a) the information required for non-nomination proposals and (b) any other information required to be disclosed pursuant to the Nasdaq and SEC; and (ii) for each nominee (a) the information required for non-nomination proposals, (b) their business and residential address, (c) their principal occupation, (d) all information relating to the nominee that is required to be disclosed in solicitations of proxies pursuant to Regulation 14A under the Exchange Act, (e) a description of all direct and indirect compensation and any other material relationships between or among the shareholder and the nominee, and (f) a written consent of the proposed nominee(s) to being named as nominee and to serve as director if nominated.
+In addition to the notice and information requirements contained in our Articles, to comply with the universal proxy rules, shareholders who, in connection with the 2026 Annual Meeting, intend to solicit proxies in support of director nominees other than our nominees, must provide notice that sets forth the information required by Rule 14a-19 no later than August 14, 2026.
+We will not entertain any proposals or nominations at the 2026 Annual Meeting that do not meet the requirements set forth in Rule 14a-8 or our Articles, as applicable. We encourage shareholders to seek advice from knowledgeable counsel before submitting a proposal or a nomination. All shareholder proposals or nominations pursuant to this section may be sent to our principal executive offices at: Chief Legal Officer and Secretary, Credo Semiconductor Inc., 110 Rio Robles, San Jose, California 95134.
+Householding — Shareholders Sharing the Same Last Name and Address
+The SEC has adopted rules that permit companies and intermediaries (such as brokers) to implement a delivery procedure called “householding.” Under this procedure, multiple shareholders who reside at the same address may receive a single copy of our Notice or other proxy materials, unless the affected shareholder has provided contrary instructions. This procedure reduces printing costs and postage fees and also helps protect the environment.
+We expect that a number of brokers with account holders who are our shareholders will be “householding” our proxy materials. A single Notice and, if applicable, a single set of other proxy materials will be delivered to multiple shareholders sharing an address unless contrary instructions have been received from the affected shareholders. Once you have received notice from your broker that it will be “householding” communications to your address, “householding” will continue until you are notified otherwise or until you revoke your consent.
+Upon written or oral request, we will promptly deliver a separate copy of the Notice and, if applicable, other proxy materials to any shareholder at a shared address to which a single copy of any of those documents was delivered. To receive a separate copy of the Notice and, if applicable, other proxy materials, you may write or email our Investor Relations department at 110 Rio Robles, San Jose, California, 95134, email: ir@credosemi.com, or call our Transfer Agent at 1-866-641-4276.
+Any shareholders who share the same address and currently receive multiple copies of our Notice or other proxy materials who wish to receive only one copy in the future can contact their bank, broker or other holder of record to request information about householding.
+DELINQUENT SECTION 16(A) REPORTS
+Section 16(a) of the Exchange Act requires the Company’s directors and executive officers, and persons who own more than ten percent of a registered class of the Company’s equity securities, to file with the SEC initial reports of ownership and reports of changes in ownership of ordinary shares and other equity securities of the
+2025 Proxy   |   53
+Table of Contents
+Company. Officers, directors and greater than ten percent shareholders are required by SEC regulation to furnish the Company with copies of all Section 16(a) forms they file.
+To the Company’s knowledge, based solely on a review of the copies of such reports furnished to the Company and written representations that no other reports were required, during the fiscal year ended May 3, 2025, all Section 16(a) filing requirements applicable to its officers, directors and greater than ten percent beneficial owners were complied with, except for the following: one Form 4 for Yat Tung (Job) Lam for reporting a gift transaction on January 31, 2023 and filed on September 16, 2024, one Form 4 for Daniel Fleming for reporting shares being withheld by the Company to satisfy tax withholding obligations in connection with the vesting and settlement of RSUs on December 1, 2022 and filed on February 20, 2025; and one Form 4 for Fariba Danesh for reporting a grant of time-vesting restricted stock units on June 19, 2025 and filed on July 9, 2025.
+ANNUAL REPORT ON FORM 10-K
+YOU MAY OBTAIN, WITHOUT CHARGE, A COPY OF OUR ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED MAY 3, 2025, BY SENDING A WRITTEN REQUEST TO THE FOLLOWING ADDRESS: CREDO SEMICONDUCTOR INC., 110 RIO ROBLES, SAN JOSE, CALIFORNIA, 95134, ATTN: INVESTOR RELATIONS DEPARTMENT. THE ANNUAL REPORT ON FORM 10-K IS ALSO AVAILABLE AT
+WWW.CREDOSEMI.COM
+.
+BY ORDER OF THE BOARD OF DIRECTORS,
+ 
+ 
+WILLIAM J. BRENNAN
+President, Chief Executive Officer
+   and Director
+August 25, 2025
+2025 Proxy   |   54
+Table of Contents
+Table of Contents
+

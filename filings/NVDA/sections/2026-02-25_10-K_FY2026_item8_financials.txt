@@ -1,0 +1,9 @@
+=== FILING DATE: 2026-02-25 ===
+=== PERIOD COVERED: 2026-01-25 ===
+=== SOURCE: 10-K filed 2026-02-25 ===
+=== SECTION: Item 8 — Financial Statements ===
+=== TICKER: NVDA ===
+
+Item 8
+. Financial Statements and Supplementary Data
+The information required by this Item is set forth in our Consolidated Financial Statements and Notes thereto included in this Annual Report on Form 10-K.

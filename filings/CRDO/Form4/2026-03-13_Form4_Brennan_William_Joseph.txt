@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-13
+Transaction Date: 2026-03-11
+Person: Brennan William Joseph — Pres & Chief Executive Officer
+Type: SELL
+Shares: 68016 at $113.8783
+Shares After: 1782502
+=== TICKER: CRDO ===
+===

@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-20
+Transaction Date: 2026-03-18
+Person: Kress Colette — EVP & Chief Financial Officer
+Type: OTHER
+Shares: 139185 at $181.93
+Shares After: 271592
+=== TICKER: NVDA ===
+===

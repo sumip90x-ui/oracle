@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-01-12
+Transaction Date: 2026-01-09
+Person: Miller Russell D — Sr. Executive Vice President
+Type: SELL
+Shares: 1500 at $916.32
+Shares After: 0.925
+=== TICKER: COST ===
+===

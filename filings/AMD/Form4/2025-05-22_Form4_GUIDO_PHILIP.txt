@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-05-22
+Transaction Date: 2025-05-20
+Person: GUIDO PHILIP — EVP & Chief Commercial Officer
+Type: BUY
+Shares: 8800 at $113.56
+Shares After: 42322
+=== TICKER: AMD ===
+===

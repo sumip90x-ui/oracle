@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-05-11
+Transaction Date: 2026-05-08
+Person: Burton Eve B — Director
+Type: BUY
+Shares: 70 at $396.31
+Shares After: 70
+=== TICKER: INTU ===
+===

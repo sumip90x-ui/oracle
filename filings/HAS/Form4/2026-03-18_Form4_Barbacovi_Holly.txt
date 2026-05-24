@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2026-03-18
+Transaction Date: 2026-03-16
+Person: Barbacovi Holly — Chief People Officer
+Type: BUY
+Shares: 6918 at $0
+Shares After: 48372
+=== TICKER: HAS ===
+===

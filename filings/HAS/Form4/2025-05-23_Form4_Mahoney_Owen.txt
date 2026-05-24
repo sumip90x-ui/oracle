@@ -1,0 +1,9 @@
+=== FORM 4 INSIDER TRANSACTION ===
+Filing Date: 2025-05-23
+Transaction Date: 2025-05-21
+Person: Mahoney Owen — Director
+Type: BUY
+Shares: 2611 at $0
+Shares After: 6021
+=== TICKER: HAS ===
+===
