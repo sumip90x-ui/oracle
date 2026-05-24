@@ -1335,6 +1335,37 @@ def run_composite(stocks: list, fundamentals: str, model: str,
         f"{RUNNER_DNA}"
     )
 
+    # Item 6: Build valuation mode block — inject pre-classified mode into every agent
+    # Prevents Magic Formula framing on compounders and EPV on growth names
+    _val_mode_lines = ["VALUATION MODE ENFORCEMENT (mandatory — use the correct lens per stock):"]
+    for _s in stocks:
+        _fd_s = _load_fund_cache(date).get(_s, {}) if date else {}
+        _rev_growth = None
+        try:
+            _yoy_list = [v for v in (_fd_s.get("revenue_yoy") or []) if v.get("yoy") is not None]
+            if _yoy_list:
+                _rev_growth = _yoy_list[-1]["yoy"]
+        except Exception:
+            pass
+        _eps_ttm = _fd_s.get("eps_ttm") or _fd_s.get("net_income_ttm")
+        _is_saas = any(w in (_fd_s.get("sector") or "").lower() for w in ["software", "saas", "cloud", "fintech", "platform"])
+        if _rev_growth is not None and _rev_growth >= 0.40:
+            _mode_str = "HYPERGROWTH — use EV/Revenue + FCF yield. DCF is a floor only. Do NOT use Magic Formula."
+        elif _rev_growth is not None and _rev_growth >= 0.20:
+            _mode_str = "GROWTH COMPOUNDER — use 3-stage DCF + EV/Revenue. EPV negative margin is NOT bearish."
+        elif _is_saas or (_rev_growth is not None and _rev_growth >= 0.08):
+            _mode_str = "PLATFORM/MODERATE — 2-stage DCF + Rule of 40. EPV alone is insufficient."
+        elif _eps_ttm is not None and float(_eps_ttm or 0) < 0:
+            _mode_str = "INFLECTION STAGE — forward EPS + PEG ratio. Do NOT use EPV (will always show negative)."
+        else:
+            _mode_str = "MATURE STALWART — EPV + earnings yield (Klarman/Greenblatt) valid here."
+        _val_mode_lines.append(f"  {_s}: {_mode_str}")
+    _val_mode_lines.append("RULE: Every valuation agent MUST use the assigned mode above. Magic Formula framing on GROWTH/HYPERGROWTH = wrong tool.")
+    _valuation_mode_block = "\n".join(_val_mode_lines) + "\n\n"
+
+    # Add valuation mode block to context
+    context = context + _valuation_mode_block
+
     # Split stocks into batches of 2 — dynamic, handles any stock count
     batches     = make_batches(stocks)
     n_batches   = len(batches)

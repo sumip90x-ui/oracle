@@ -1795,6 +1795,301 @@ def generate_report(sim_path: str, report_path: str) -> str:
           f"T{tier_r:<5}  {stab_r:<12}  {act_r}")
     a("")
 
+    # ── XIII. PRICE RECONCILIATION GATE (Item 1+2) ───────────────────────
+    # Force all price targets to reconcile against current live price.
+    # Catches ghost prices from prior rounds bleeding into the verdict.
+    a("XIII. PRICE RECONCILIATION GATE")
+    a("")
+    a("Canonical price table — all targets reconciled against current live price.")
+    a("")
+    _rec_header = f"  {'Ticker':<6}  {'Live $':>7}  {'Bear $':>7}  {'Base $':>7}  {'Bull $':>7}  {'Bear%':>6}  {'Base%':>6}  {'Bull%':>6}  {'Verdict at Live Price'}"
+    a(_rec_header)
+    a("  " + "─" * 100)
+    _any_ghost = False
+    for r in ranked:
+        t    = r["ticker"]
+        fd   = cache.get(t, {})
+        l5   = layer5.get(t, {})
+        live = fd.get("price") or 0
+        try:
+            live = float(live)
+        except (ValueError, TypeError):
+            live = 0.0
+
+        # Extract bear/base/bull from layer5 valuation text
+        import re as _re_rec
+        val_text = (l5.get("valuation") or l5.get("fundamental") or l5.get("summary") or "")
+        bear_m = _re_rec.search(r'bear[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_rec.IGNORECASE)
+        base_m = _re_rec.search(r'base[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_rec.IGNORECASE)
+        bull_m = _re_rec.search(r'bull[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_rec.IGNORECASE)
+        bear_p = float(bear_m.group(1)) if bear_m else 0.0
+        base_p = float(base_m.group(1)) if base_m else 0.0
+        bull_p = float(bull_m.group(1)) if bull_m else 0.0
+
+        if live > 0 and base_p > 0:
+            bear_pct = f"{(bear_p - live) / live * 100:+.0f}%" if bear_p else "N/A"
+            base_pct = f"{(base_p - live) / live * 100:+.0f}%" if base_p else "N/A"
+            bull_pct = f"{(bull_p - live) / live * 100:+.0f}%" if bull_p else "N/A"
+            # Verdict at current price
+            sig = r.get("signal", "PASS")
+            if base_p > 0 and live > base_p * 1.10:
+                verdict = "⚠ ABOVE BASE — reassess entry"
+                _any_ghost = True
+            elif base_p > 0 and live < base_p * 0.90:
+                verdict = "✅ BELOW BASE — favourable entry"
+            else:
+                verdict = f"{sig} at current price"
+            # Ghost price flag: any target > 20% above current = stale price
+            if bull_p > live * 1.5 or (bear_p > 0 and bear_p > live * 1.2):
+                verdict += " ⚠ GHOST PRICE DETECTED"
+                _any_ghost = True
+            a(f"  {t:<6}  ${live:>6.2f}  ${bear_p:>6.2f}  ${base_p:>6.2f}  ${bull_p:>6.2f}  {bear_pct:>6}  {base_pct:>6}  {bull_pct:>6}  {verdict}")
+        else:
+            a(f"  {t:<6}  ${live:>6.2f}  {'N/A':>7}  {'N/A':>7}  {'N/A':>7}  {'N/A':>6}  {'N/A':>6}  {'N/A':>6}  No price targets parsed")
+
+    if _any_ghost:
+        a("")
+        a("  ⚠ GHOST PRICE WARNING: One or more price targets appear inconsistent with the current")
+        a("    live price. Agents may have cited prices from prior rounds or hypothetical scenarios.")
+        a("    Use only the 'Verdict at Live Price' column for actionable decisions.")
+    a("")
+    a(DIVIDER)
+    a("")
+
+    # ── XIV. INTERNAL CONTRADICTION CHECK (Item 3) ───────────────────────
+    a("XIV. INTERNAL CONSISTENCY CHECK")
+    a("")
+    _contradictions = []
+    for r in ranked:
+        t    = r["ticker"]
+        fd   = cache.get(t, {})
+        l5   = layer5.get(t, {})
+        live = float(fd.get("price") or 0)
+        sig  = r.get("signal", "PASS")
+
+        import re as _re_con
+        val_text = (l5.get("valuation") or l5.get("fundamental") or l5.get("summary") or "")
+
+        # Check 1: BUY signal but negative EV
+        ev_raw = (l5.get("valuation") or "")
+        ev_m = _re_con.search(r'EV:\s*([+-]?\d+\.?\d*)%', ev_raw)
+        ev_val = float(ev_m.group(1)) if ev_m else None
+        if sig in ("BUY", "STRONG_BUY") and ev_val is not None and ev_val < -20:
+            _contradictions.append(f"  {t}: BUY signal but EV = {ev_val:.0f}% — fundamentals and sim are diverging")
+
+        # Check 2: Bear floor > current price (impossible scenario)
+        bear_m2 = _re_con.search(r'bear[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_con.IGNORECASE)
+        bear_p2 = float(bear_m2.group(1)) if bear_m2 else 0.0
+        if bear_p2 > 0 and live > 0 and bear_p2 > live * 1.15:
+            _contradictions.append(f"  {t}: Bear floor ${bear_p2:.0f} is ABOVE live price ${live:.0f} — scenario is impossible at current levels")
+
+        # Check 3: Bull target < live price
+        bull_m2 = _re_con.search(r'bull[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_con.IGNORECASE)
+        bull_p2 = float(bull_m2.group(1)) if bull_m2 else 0.0
+        if bull_p2 > 0 and live > 0 and bull_p2 < live * 0.90:
+            _contradictions.append(f"  {t}: Bull target ${bull_p2:.0f} is BELOW live price ${live:.0f} — bull case has no upside")
+
+        # Check 4: Valuation mode conflict — Magic Formula framing on compounder
+        tt_score_v = parse_tt_score((l5 or {}).get("overall", ""))
+        if tt_score_v and tt_score_v >= 7:
+            mf_keywords = ["earnings yield", "magic formula", "low p/e", "low earnings multiple"]
+            val_lower = val_text.lower()
+            if any(kw in val_lower for kw in mf_keywords):
+                _contradictions.append(f"  {t}: High-conviction compounder (TT score {tt_score_v}) but Magic Formula framing detected in valuation — wrong lens")
+
+    if _contradictions:
+        a("  ⚠ CONTRADICTIONS FOUND — resolve before acting:")
+        a("")
+        for c in _contradictions:
+            a(c)
+    else:
+        a("  ✅ No internal contradictions detected.")
+    a("")
+    a(DIVIDER)
+    a("")
+
+    # ── XV. UPSIDE/DOWNSIDE MATH SANITY CHECK (Item 5) ───────────────────
+    a("XV. UPSIDE/DOWNSIDE SANITY CHECK")
+    a("")
+    a("  Any target requiring >50% move in under 6 months is flagged.")
+    a("")
+    a(f"  {'Ticker':<6}  {'Live $':>7}  {'Base $':>7}  {'Implied Return':>14}  {'6-mo Ann.':>10}  {'Flag'}")
+    a("  " + "─" * 75)
+    for r in ranked:
+        t    = r["ticker"]
+        fd   = cache.get(t, {})
+        l5   = layer5.get(t, {})
+        live = float(fd.get("price") or 0)
+        if live <= 0:
+            continue
+        import re as _re_updn
+        val_text = (l5.get("valuation") or l5.get("fundamental") or l5.get("summary") or "")
+        base_m3 = _re_updn.search(r'base[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_updn.IGNORECASE)
+        base_p3 = float(base_m3.group(1)) if base_m3 else 0.0
+        if base_p3 > 0:
+            implied = (base_p3 - live) / live * 100
+            ann_6mo = implied * 2  # annualized from 6-month horizon
+            flag = "⚠ REQUIRES JUSTIFICATION" if abs(implied) > 50 else "✅ Reasonable"
+            a(f"  {t:<6}  ${live:>6.2f}  ${base_p3:>6.2f}  {implied:>+13.1f}%  {ann_6mo:>+9.1f}%  {flag}")
+    a("")
+    a(DIVIDER)
+    a("")
+
+    # ── XVI. CURRENT EVENTS FRESHNESS CHECK (Item 4) ─────────────────────
+    a("XVI. CURRENT EVENTS FRESHNESS CHECK")
+    a("")
+    a("  Risk factors are flagged if they reference political/regulatory framing")
+    a("  that may be >90 days stale. Verify currency before acting.")
+    a("")
+    import datetime as _dt
+    _today = _dt.date.today()
+    _stale_keywords = [
+        "irs direct file", "tax reform", "cfpb", "dodd-frank", "sec lawsuit",
+        "antitrust", "congress", "senate bill", "house bill", "fda approval",
+        "fdic", "tariff", "export control", "lobbying", "election",
+    ]
+    for r in ranked:
+        t  = r["ticker"]
+        l5 = layer5.get(t, {})
+        risk_text = " ".join([
+            l5.get("skeptic") or "",
+            l5.get("tech_macro") or "",
+            l5.get("summary") or "",
+        ]).lower()
+        found = [kw for kw in _stale_keywords if kw in risk_text]
+        if found:
+            a(f"  {t}: ⚠ Contains time-sensitive risk framing: {', '.join(found[:3])}")
+            a(f"       Verify these factors are current as of {_today}.")
+            a(f"       If sim cannot confirm currency, treat risk assessment as provisional.")
+    a("")
+    a("  NOTE: Run a fresh sim or web-fetch to verify any flagged risk factors.")
+    a("")
+    a(DIVIDER)
+    a("")
+
+    # ── XVII. GOLD-OZ INTEGRATION (Item 7) ───────────────────────────────
+    a("XVII. GOLD-OZ VALUATION FRAMEWORK")
+    a("")
+    a("  Gold-oz value = Stock Price / XAUUSD Spot. Measures real purchasing power.")
+    a("  Useful for entry/exit decisions independent of fiat currency effects.")
+    a("")
+    _gold_price = 0.0
+    try:
+        import yfinance as _yf_gold
+        _gold_data = _yf_gold.Ticker("GC=F").history(period="1d")
+        if not _gold_data.empty:
+            _gold_price = float(_gold_data["Close"].iloc[-1])
+    except Exception:
+        pass
+    if _gold_price <= 0:
+        a("  ⚠ Gold price unavailable — skipping gold-oz calculations.")
+    else:
+        a(f"  Current XAUUSD: ${_gold_price:,.2f}/oz")
+        a("")
+        a(f"  {'Ticker':<6}  {'Live $':>8}  {'Gold-Oz':>8}  {'Bear oz':>8}  {'Base oz':>8}  {'Bull oz':>8}  {'Assessment'}")
+        a("  " + "─" * 85)
+        for r in ranked:
+            t    = r["ticker"]
+            fd   = cache.get(t, {})
+            l5   = layer5.get(t, {})
+            live = float(fd.get("price") or 0)
+            if live <= 0 or _gold_price <= 0:
+                continue
+            gold_oz = live / _gold_price
+            import re as _re_gold
+            val_text = (l5.get("valuation") or l5.get("fundamental") or l5.get("summary") or "")
+            bear_mg = _re_gold.search(r'bear[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_gold.IGNORECASE)
+            base_mg = _re_gold.search(r'base[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_gold.IGNORECASE)
+            bull_mg = _re_gold.search(r'bull[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_gold.IGNORECASE)
+            bear_oz = float(bear_mg.group(1)) / _gold_price if bear_mg else 0.0
+            base_oz = float(base_mg.group(1)) / _gold_price if base_mg else 0.0
+            bull_oz = float(bull_mg.group(1)) / _gold_price if bull_mg else 0.0
+            # Get 52-week range for gold-oz context
+            lo52 = float(fd.get("fifty_two_week_low") or fd.get("52wk_low") or 0)
+            hi52 = float(fd.get("fifty_two_week_high") or fd.get("52wk_high") or 0)
+            lo_oz = lo52 / _gold_price if lo52 > 0 else 0.0
+            hi_oz = hi52 / _gold_price if hi52 > 0 else 0.0
+            # Assessment
+            if lo_oz > 0 and hi_oz > lo_oz:
+                pct_of_range = (gold_oz - lo_oz) / (hi_oz - lo_oz) * 100
+                if pct_of_range < 25:
+                    oz_assess = f"GOLD-OZ LOW ({pct_of_range:.0f}% of 52wk range) — accumulation zone"
+                elif pct_of_range > 75:
+                    oz_assess = f"GOLD-OZ HIGH ({pct_of_range:.0f}% of 52wk range) — extended"
+                else:
+                    oz_assess = f"Mid-range ({pct_of_range:.0f}% of 52wk gold-oz range)"
+            else:
+                oz_assess = "52wk range unavailable"
+            bear_str = f"{bear_oz:.4f}" if bear_oz > 0 else "N/A"
+            base_str = f"{base_oz:.4f}" if base_oz > 0 else "N/A"
+            bull_str = f"{bull_oz:.4f}" if bull_oz > 0 else "N/A"
+            a(f"  {t:<6}  ${live:>7.2f}  {gold_oz:>8.4f}  {bear_str:>8}  {base_str:>8}  {bull_str:>8}  {oz_assess}")
+        a("")
+        a("  Integration points for decision-making:")
+        a("  — Entry: prefer buying when gold-oz is in bottom 25% of 3-year range")
+        a("  — Bear case: state bear target in oz — tells you real cost of being wrong")
+        a("  — Verdict: compare gold-oz to prior accumulation zones before sizing")
+    a("")
+    a(DIVIDER)
+    a("")
+
+    # ── XVIII. FALSIFIABLE PREDICTION SCORECARD (Item 8) ─────────────────
+    a("XVIII. FALSIFIABLE PREDICTION SCORECARD")
+    a("")
+    a("  Dated, falsifiable predictions. Check these on the NEXT sim run.")
+    a("  Format: [ ] = open  [✓] = confirmed  [✗] = falsified")
+    a("")
+    _score_date = (_dt.date.today() + _dt.timedelta(days=90)).isoformat()
+    _top_picks = [r for r in ranked if tier_map.get(r["ticker"], 5) <= 2][:3]
+    if not _top_picks:
+        _top_picks = ranked[:3]
+    for r in _top_picks:
+        t    = r["ticker"]
+        fd   = cache.get(t, {})
+        l5   = layer5.get(t, {})
+        live = float(fd.get("price") or 0)
+        sig  = r.get("signal", "PASS")
+        prob = r.get("probability", 0.5)
+        tier = tier_map.get(t, 5)
+        import re as _re_fp
+        val_text = (l5.get("valuation") or l5.get("fundamental") or l5.get("summary") or "")
+        base_mfp = _re_fp.search(r'base[^\d$]*\$?\s*(\d+(?:\.\d+)?)', val_text, _re_fp.IGNORECASE)
+        base_pfp = float(base_mfp.group(1)) if base_mfp else 0.0
+        cat_text = (l5.get("catalyst") or "catalyst not specified")[:80]
+        a(f"  {t} — Tier {tier} | {sig} | Live: ${live:.2f} | Check by: {_score_date}")
+        a(f"  [ ] 1. {t} trades above ${base_pfp:.2f} (base target) within 90 days")
+        if live > 0 and base_pfp > live:
+            upside = (base_pfp - live) / live * 100
+            a(f"          Implied move: +{upside:.1f}% from current price")
+        a(f"  [ ] 2. Primary catalyst materializes: {cat_text}")
+        a(f"  [ ] 3. Sim conviction holds at {prob*100:.0f}%+ on next rerun")
+        if _gold_price > 0 and live > 0:
+            oz_now = live / _gold_price
+            a(f"  [ ] 4. Gold-oz value improves from current {oz_now:.4f} oz (appreciation vs gold)")
+        a("")
+
+    # Check prior predictions from run history and grade them
+    _graded_any = False
+    for t in stocks:
+        prior = prior_runs_map.get(t, [])
+        if len(prior) >= 2:
+            prev = prior[-2]
+            curr_r = next((r for r in rankings if r["ticker"] == t), None)
+            if curr_r and not _graded_any:
+                a("  PRIOR PREDICTION GRADES (from previous runs):")
+                _graded_any = True
+            if curr_r:
+                prev_sig = prev.get("signal", "?")
+                curr_sig = curr_r.get("signal", "?")
+                prev_prob = prev.get("probability", 0)
+                curr_prob = curr_r.get("probability", 0)
+                match = "✓" if prev_sig == curr_sig else "✗"
+                a(f"  [{match}] {t}: Predicted {prev_sig} ({prev_prob*100:.0f}%) → Current {curr_sig} ({curr_prob*100:.0f}%)")
+    if _graded_any:
+        a("")
+    a(DIVIDER)
+    a("")
+
     # ── Write to history DB ───────────────────────────────────────────────
     for r in rankings:
         t  = r["ticker"]
