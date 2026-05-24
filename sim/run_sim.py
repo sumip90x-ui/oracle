@@ -30,8 +30,8 @@ from scorer        import score_simulation, format_rankings
 from graph_builder import get_driver
 from oracle_history import record_run as _record_run
 
-HAIKU  = "anthropic/claude-3.5-haiku"
-SONNET = "anthropic/claude-sonnet-4.5"
+HAIKU  = "deepseek-chat"    # DeepSeek Flash — primary sim model
+SONNET = "anthropic/claude-sonnet-4.5"  # OpenRouter — kept for reference
 
 SIMS_DIR      = Path(os.path.expanduser("~/ORACLE/sims"))
 ORACLE_DIR    = Path(os.path.expanduser("~/Documents/Trading Vault/03_Stock_Analysis/ORACLE"))

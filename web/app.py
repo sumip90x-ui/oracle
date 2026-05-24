@@ -304,8 +304,8 @@ def _run_sim_thread(run_id, stocks, rounds, fast, report_path):
         from scorer import score_simulation
         from graph_builder import get_driver
 
-        HAIKU = "anthropic/claude-3.5-haiku"
-        model = HAIKU  # fast flag ignored at model level — Haiku is already default
+        HAIKU = "deepseek-chat"
+        model = HAIKU  # DeepSeek Flash for sim agents
 
         api_key = _load_api_key()
 
@@ -945,15 +945,13 @@ Be specific with numbers. No hedging. Take a position."""
 
     try:
         resp = _req.post(
-            "https://openrouter.ai/api/v1/chat/completions",
+            "https://api.deepseek.com/chat/completions",
             headers={
-                "Authorization": f"Bearer {api_key}",
+                "Authorization": f"Bearer {os.environ.get('DEEPSEEK_API_KEY', '')}",
                 "Content-Type": "application/json",
-                "HTTP-Referer": "https://oracle.local",
-                "X-Title": "ORACLE V2 Analysis",
             },
             json={
-                "model": "anthropic/claude-sonnet-4-6",
+                "model": "deepseek-chat",
                 "messages": [
                     {"role": "system", "content": system_prompt},
                     {"role": "user",   "content": user_prompt},

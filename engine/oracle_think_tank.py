@@ -65,11 +65,14 @@ except ImportError:
     HAS_PREFLIGHT = False
     def run_preflight(t, verbose=True): return {}       # noqa: E301
     def build_preflight_header(t): return ""            # noqa: E301
-    def load_preflight_cache(t): return {}              # noqa: E301
+OR_KEY  = os.environ.get("OPENROUTER_API_KEY", "")
+DS_KEY  = os.environ.get("DEEPSEEK_API_KEY", "")   # DeepSeek direct API (cheaper)
 
-SONNET  = "anthropic/claude-sonnet-4.5"
-HAIKU   = "anthropic/claude-3.5-haiku"
-SEARCH  = "anthropic/claude-3.5-haiku:online"
+# Model routing — DeepSeek for agents/screener, Sonnet only for final verdict
+SONNET  = "anthropic/claude-sonnet-4.5"   # OpenRouter — verdict only
+HAIKU   = "anthropic/claude-3.5-haiku"    # OpenRouter — fallback only
+SEARCH  = "anthropic/claude-3.5-haiku:online"  # OpenRouter — web search
+DS_CHAT = "deepseek-chat"                 # DeepSeek Flash — agents, screener, triage
 OUT_DIR              = os.path.expanduser("~/Documents/Trading Vault/03_Stock_Analysis/ORACLE")
 OBSIDIAN_RUNS_DIR    = os.path.join(OUT_DIR, "runs")
 OBSIDIAN_TICKERS_DIR = os.path.join(OUT_DIR, "tickers")
@@ -576,7 +579,31 @@ def call_claude(system: str, user: str, model: str = None, max_tokens: int = 350
             else:
                 user = user[:budget_chars] + "\n[CONTEXT TRUNCATED FOR TOKEN BUDGET]"
 
-    m = model or SONNET
+    m = model or DS_CHAT   # default to DeepSeek Flash
+
+    # Route to correct API based on model
+    is_deepseek = m.startswith("deepseek")
+    api_url = "https://api.deepseek.com/chat/completions" if is_deepseek else "https://openrouter.ai/api/v1/chat/completions"
+    api_key = DS_KEY if is_deepseek else OR_KEY
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    if not is_deepseek:
+        headers["HTTP-Referer"] = "https://oracle.local"
+        headers["X-Title"] = "ORACLE Think Tank"
+
+    # Build messages — DeepSeek doesn't support cache_control
+    if is_deepseek:
+        messages = [
+            {"role": "system", "content": system},
+            {"role": "user",   "content": user}
+        ]
+    else:
+        messages = [
+            {"role": "system", "content": [{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}]},
+            {"role": "user",   "content": user}
+        ]
 
     # Network retry — up to 3 attempts with backoff for connection errors / 5xx
     import time as _time
@@ -584,19 +611,11 @@ def call_claude(system: str, user: str, model: str = None, max_tokens: int = 350
     for _attempt in range(3):
         try:
             resp = requests.post(
-                "https://openrouter.ai/api/v1/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {OR_KEY}",
-                    "Content-Type": "application/json",
-                    "HTTP-Referer": "https://oracle.local",
-                    "X-Title": "ORACLE Think Tank"
-                },
+                api_url,
+                headers=headers,
                 json={
                     "model": m,
-                    "messages": [
-                        {"role": "system", "content": [{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}]},
-                        {"role": "user",   "content": user}
-                    ],
+                    "messages": messages,
                     "temperature": 0.3,
                     "max_tokens": max_tokens
                 },
@@ -1924,7 +1943,7 @@ Use the structured output format specified."""
         "Every stock in the summary must get a verdict. "
         "Discovery pool, final watchlist ranked by conviction, what the panel missed."
     )
-    results["verdict"] = call_claude(VERDICT_SYSTEM, verdict_user, model=model, max_tokens=6000)
+    results["verdict"] = call_claude(VERDICT_SYSTEM, verdict_user, model=SONNET, max_tokens=6000)  # keep Sonnet for verdict
     if is_truncated(results["verdict"]):
         print(f"\n  WARNING: Synthesis output may be truncated", flush=True)
     write_layer_note(stocks, "layer6_synthesis", results["verdict"], date)
@@ -2188,15 +2207,16 @@ def main():
                         help="Skip fact sheet validation (not recommended)")
     args = parser.parse_args()
 
-    if not OR_KEY:
-        print("ERROR: OPENROUTER_API_KEY not found in ~/.hermes/.env")
+    if not OR_KEY and not DS_KEY:
+        print("ERROR: Neither OPENROUTER_API_KEY nor DEEPSEEK_API_KEY found in ~/.hermes/.env")
         sys.exit(1)
 
     stocks = [s.upper() for s in args.stocks]
-    model  = HAIKU if args.fast else SONNET
+    # DeepSeek Flash for agents, Sonnet only for final verdict (handled in run_think_tank)
+    model  = DS_CHAT if not args.fast else DS_CHAT   # all agent calls use DeepSeek
     mode   = "deep" if args.deep else ("fast" if args.fast else "composite")
     date   = datetime.date.today().strftime("%Y%m%d")
-    cost   = "~$0.35" if args.fast else ("~$3-6" if args.deep else "~$2.20")
+    cost   = "~$0.02" if args.fast else (("~$0.15" if args.deep else "~$0.08"))
     screener_context = args.screener_context
 
     print(f"\n{'='*58}")

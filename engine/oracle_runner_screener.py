@@ -37,8 +37,10 @@ try:
     _HAS_DATA_LAYER = True
 except Exception:
     _HAS_DATA_LAYER = False
-OR_KEY = os.environ.get("OPENROUTER_API_KEY", "")
-MODEL  = "anthropic/claude-sonnet-4.5"
+OR_KEY  = os.environ.get("OPENROUTER_API_KEY", "")
+DS_KEY  = os.environ.get("DEEPSEEK_API_KEY", "")
+MODEL   = "deepseek-chat"          # DeepSeek Flash — screener main model
+HAIKU_OR = "anthropic/claude-3.5-haiku"  # OpenRouter haiku — fallback only
 
 CSV_PATH    = os.path.expanduser("~/portfolio.csv")
 CSV_FOLDER  = os.path.expanduser("~/ORACLE/portfolio_csv")
@@ -714,12 +716,12 @@ Pick the 5-6 that MOST closely match the pre-run pattern. Ignore composite score
 
     try:
         resp = requests.post(
-            "https://openrouter.ai/api/v1/chat/completions",
-            headers={"Authorization": f"Bearer {OR_KEY}", "Content-Type": "application/json"},
+            "https://api.deepseek.com/chat/completions",
+            headers={"Authorization": f"Bearer {DS_KEY}", "Content-Type": "application/json"},
             json={
-                "model": "anthropic/claude-3.5-haiku",
+                "model": "deepseek-chat",
                 "messages": [
-                    {"role": "system", "content": [{"type": "text", "text": system_msg, "cache_control": {"type": "ephemeral"}}]},
+                    {"role": "system", "content": system_msg},
                     {"role": "user",   "content": user_msg}
                 ],
                 "max_tokens": 600
@@ -821,19 +823,19 @@ Include a Devil's Advocate agent who attacks each thesis hard."""
     print(f"  Generating seed for top {top_n} candidates (30-45s)...")
 
     seed_resp = requests.post(
-        "https://openrouter.ai/api/v1/chat/completions",
-        headers={"Authorization": f"Bearer {OR_KEY}", "Content-Type": "application/json"},
+        "https://api.deepseek.com/chat/completions",
+        headers={"Authorization": f"Bearer {DS_KEY}", "Content-Type": "application/json"},
         json={
             "model": MODEL,
             "messages": [
-                {"role": "system", "content": [{"type": "text", "text": """You are an expert ORACLE simulation seed builder.
+                {"role": "system", "content": """You are an expert ORACLE simulation seed builder.
 Build concise, data-grounded seeds that produce specific agent personas and debates.
 Agents need only name, specialty, and blind spot — no backstory, no career history.
 Always include: hard numbers, failure scenarios with historical precedents, explicit conflicts.
 Write Parts I, II, V, and VII in compact format first to preserve token budget for Parts III, VI, and VIII which require full detail.
 Structure: PART I ACTORS, PART II ENVIRONMENT, PART III EVIDENCE, PART IV CANDIDATES,
 PART V RUNNER DNA, PART VI FAILURE SCENARIOS, PART VII KENJI MANDATE, PART VIII DEBATE FODDER.
-Start with: # ORACLE SIMULATION SEED — RUNNER SCREEN""", "cache_control": {"type": "ephemeral"}}]},
+Start with: # ORACLE SIMULATION SEED — RUNNER SCREEN"""},
                 {"role": "user", "content": user_msg}
             ],
             "max_tokens": 8000
@@ -854,12 +856,12 @@ Goal: Rank by 10x potential, find the best entry right now.
 3) which is most likely to be a 10x in 5 years"""
 
     prompt_resp = requests.post(
-        "https://openrouter.ai/api/v1/chat/completions",
-        headers={"Authorization": f"Bearer {OR_KEY}", "Content-Type": "application/json"},
+        "https://api.deepseek.com/chat/completions",
+        headers={"Authorization": f"Bearer {DS_KEY}", "Content-Type": "application/json"},
         json={
             "model": MODEL,
             "messages": [
-                {"role": "system", "content": [{"type": "text", "text": "Write focused 2-4 sentence simulation requirements. End with 3 forced votes. No headers. Output only the prompt text.", "cache_control": {"type": "ephemeral"}}]},
+                {"role": "system", "content": "Write focused 2-4 sentence simulation requirements. End with 3 forced votes. No headers. Output only the prompt text."},
                 {"role": "user", "content": prompt_msg}
             ],
             "max_tokens": 300

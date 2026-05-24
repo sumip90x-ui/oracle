@@ -9,9 +9,12 @@ import os
 import sys
 import requests
 
-HAIKU  = "anthropic/claude-3.5-haiku"
-SONNET = "anthropic/claude-sonnet-4.5"
+DS_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+HAIKU  = "anthropic/claude-3.5-haiku"   # OpenRouter fallback
+SONNET = "anthropic/claude-sonnet-4.5"  # OpenRouter fallback
+DS_CHAT = "deepseek-chat"               # DeepSeek Flash — primary sim model
 OR_URL = "https://openrouter.ai/api/v1/chat/completions"
+DS_URL = "https://api.deepseek.com/chat/completions"
 
 PERSONA_HARD_REQUIREMENTS = {
     "growth_compounder":           "Include PEG ratio comparison between 2 stocks",
@@ -418,9 +421,11 @@ class Agent:
     def __init__(self, name, spec, api_key=None, model=None, base_url=None):
         self.name           = name
         self.spec           = spec
-        self.api_key        = api_key or os.environ.get("OPENROUTER_API_KEY", "")
-        self.model          = model or HAIKU
-        self.base_url       = (base_url or OR_URL).rstrip("/")
+        # Default to DeepSeek for sim agents — much cheaper than OpenRouter haiku
+        _use_deepseek = not base_url and not model
+        self.api_key        = api_key or (DS_KEY if _use_deepseek else os.environ.get("OPENROUTER_API_KEY", ""))
+        self.model          = model or DS_CHAT
+        self.base_url       = (base_url or (DS_URL if _use_deepseek else OR_URL)).rstrip("/")
         if not self.base_url.endswith("completions"):
             self.base_url = self.base_url.rstrip("/") + "/chat/completions"
         self.followed_stocks = []  # set by build_agent_roster
